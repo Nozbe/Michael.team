@@ -88,7 +88,7 @@ kramdown:
 titles_from_headings:
   enabled:     true
   strip_title: true
-  collections: false
+  collections: true
 
 # Set the Sass partials directory, as we're using @imports
 sass:
