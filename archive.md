@@ -3,7 +3,7 @@
 ## Latest entry:
 
 <div class="posts">
-{% for post in site.posts limit:1 %}
+{% for post in site.categories.en limit:1 %}
 <div class="post">
 	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 	<div class="date">
@@ -21,7 +21,7 @@
 ## All the rest of blog entries:
 
 <div class="posts">
-{% for post in site.posts offset:1 %}
+{% for post in site.categories.en offset:1 %}
 <div class="post">
 	<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 	<div class="date">
