@@ -2,6 +2,10 @@
 
 My name is Michael Sliwinski and this is my new blog. [Read more about me](/about/)
 
+## Find something
+
+{% include search.html %}
+
 ## Latest updates:
 
 <div class="posts">

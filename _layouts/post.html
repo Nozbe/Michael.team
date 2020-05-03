@@ -14,7 +14,7 @@ layout: default
 Written on {{ page.date | date: "%B %e, %Y" }}
 ({% for tag in page.tags %}{{ comma }}<a href="/tag/{{ tag }}">{{ tag }}</a>{% assign comma = "," %}{% endfor %})
 
-{% if page.tags == nil %}NO TAGS IN THE HOUSE{% endif %}
+{% if page.tags %}TAGS IN THE HOUSE{% endif %}
 </div>
 
 </article>
