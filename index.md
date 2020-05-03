@@ -6,6 +6,8 @@ My name is Michael Sliwinski and this is my new blog. [Read more about me](/abou
 
 {% include search.html %}
 
+<br>
+
 ## Latest updates:
 
 <div class="posts">
