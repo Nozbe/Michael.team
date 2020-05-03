@@ -23,6 +23,8 @@ layout: null
      {% endif %}
    } {% unless forloop.last %},{% endunless %}
   {% endfor %}
+  {% comment %}
+  - This needs to be enabled when the book is there, because now it isn't
   ,
   {% for page in site.passion %}
    {
@@ -34,4 +36,5 @@ layout: null
      {% endif %}
    } {% unless forloop.last %},{% endunless %}
   {% endfor %}
+  {% endcomment %}
 ]
