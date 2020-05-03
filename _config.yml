@@ -1,0 +1,103 @@
+#
+# This file contains configuration flags to customize your site
+#
+
+# Name of your site (displayed in the header)
+name: Michael.team
+
+# Short bio or description (displayed in the header)
+description: "Michael Sliwinski. Founder of Nozbe. Helps small teams do great things. Writes about team productivity, managing all-remote team #NoOffice style and getting work done #iPadOnly."
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://michael.team/icon.png
+
+#
+# Flags below are optional
+#
+
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics:
+
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url: "https://Michael.team"
+
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+baseurl: ""
+
+#
+# !! You don't need to change any of the configuration flags below !!
+#
+
+permalink: /:title/
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+    values:
+      excerpt_separator: "<!--More-->"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "passion"
+    values:
+      layout: "book"
+      book: "passion"
+  -
+    scope:
+      path: "tag"
+    values:
+      layout: "tag"
+
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+# Book collection (optional)
+collections:
+  passion:
+    output: true
+    permalink: /passion/:path/
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate # Enable pagination
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CNAME

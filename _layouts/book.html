@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% include book.html %}
+
+<article class="page">
+<h1>{{ page_chname }} - {{ page.title }}</h1>
+
+<h2>{{ page.subtitle }}</h2>
+
+<div class="entry">
+{{ content }}
+</div>
+</article>
+
+{% include book_next.html %}

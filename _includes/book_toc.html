@@ -1,0 +1,27 @@
+<div class="toc">
+{% for item in site.data.[thisbook].toc %}
+{% for slug in slugs %}
+  {% if item.url == slug %}
+  {% assign chapter_title = titles[forloop.index0] %}
+  {% assign chapter_subtitle = subtitles[forloop.index0] %}
+  {% assign chapter_part = slug %}
+  {% endif %}
+{% endfor %}
+
+<h2>{% if item.status == "none" %}{{ item.chname }}{% else %}<a href="{{ site.baseurl }}/{{ site.data.[thisbook].url }}/{{ item.url }}">{{ item.chname }} - {{ chapter_title }}{% if item.status == "draft" %} {{ site.data.[thisbook].draft }}{% endif %}</a>{% endif %}</h2>
+<p>{% if item.status == "none" %}{{ site.data.[thisbook].none }}{% else %}{{ chapter_subtitle }}{% endif %}</p>
+<ul>
+{% for entry in item.chapters %}
+{% for slug in slugs %}
+  {% if entry.url == slug %}
+  {% assign chapter_title = titles[forloop.index0] %}
+  {% assign chapter_subtitle = subtitles[forloop.index0] %}
+  {% endif %}
+{% endfor %}
+
+<li><strong>{% if entry.status == "none" %}{{ entry.chname }}{% else %}<a href="{{ site.baseurl }}/{{ site.data.[thisbook].url }}/{{ entry.url }}">{{ entry.chname }} - {{ chapter_title }}{% if entry.status == "draft" %} {{ site.data.[thisbook].draft }}{% endif %}</a>{% endif %}</strong><br />
+    {% if entry.status == "none" %}{{ site.data.[thisbook].none }}{% else %}{{ chapter_subtitle }}{% endif %}</li>
+{% endfor %}
+</ul>
+{% endfor %}
+</div>
