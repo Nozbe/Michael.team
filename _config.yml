@@ -53,6 +53,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      category: "en"
   -
     scope:
       path: ""
