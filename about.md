@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # About Michael Sliwinski
 
 * TOC

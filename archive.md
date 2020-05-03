@@ -1,7 +1,4 @@
----
-layout: page
-title: Blog of Michael Sliwinski
----
+# Blog of Michael Sliwinski
 
 ## Latest entry:
 

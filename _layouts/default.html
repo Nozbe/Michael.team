@@ -1,56 +1,84 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+<html><head>
+<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    {% include meta.html %}
+<meta charset="utf-8" />
+<meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+{% if page.excerpt %}
+<meta name="description" content="{{ page.excerpt| strip_html }}" />
+<meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+{% else %}
+<meta name="description" content="{{ site.description }}">
+<meta property="og:description" content="{{ site.description }}" />
+{% endif %}
+<meta name="author" content="{{ site.name }}" />
 
-    <link rel="stylesheet" type="text/css" href="{{ site.url }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.url }}/feed.xml" />
-    <link rel="icon" type="image/png" href="{{ site.avatar }}">
+{% if page.title %}
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="twitter:title" content="{{ page.title }}" />
+{% endif %}
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-    <!-- Expanded by Michael Sliwinski - https://NoOffice.org -->
-  </head>
+<!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
 
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.url }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/style.css" />
+<link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.url }}/feed.xml" />
+<link rel="icon" type="image/png" href="{{ site.avatar }}">
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.url }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
+<!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+<!-- Expanded by Michael Sliwinski - https://Michael.team -->
+</head>
 
-          <nav>
-          {% for item in site.data.main.nav %}
-          <a href="{{ site.url }}{{ item.url }}"{% if item.url == page.url %} class="bold"{% else %}{% if item.url contains '/blog/' %}{% if page.layout == 'post' %} class="bold"{% elsif page.layout == 'tag' %} class="bold"{% endif %}{% endif %}{% endif %}>{{ item.title }}</a>
-          {% endfor %}
-          </nav>
-          
-          {% include search.html %}
-          
-        </header>
-      </div>
-    </div>
+<body>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
+<div class="wrapper-masthead"><div class="container"><header class="masthead clearfix">
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          &copy; {{ site.time | date: '%Y' }} <a href="{{ site.url }}/">{{ site.name }}</a>
-          {{ site.data.main.nav_footer }}
-        </footer>
-      </div>
-    </div>
-  </body>
-</html>
+<a href="{{ site.url }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+
+<div class="site-info">
+	<h1 class="site-name"><a href="{{ site.url }}/">{{ site.name }}</a></h1>
+	<p class="site-description">{{ site.description }}</p>
+</div>
+
+<nav>
+{% for item in site.data.main.nav %}
+<a href="{{ site.url }}{{ item.url }}"{% if item.url == page.url %} class="bold"{% else %}{% if item.url contains '/blog/' %}{% if page.layout == 'post' %} class="bold"{% elsif page.layout == 'tag' %} class="bold"{% endif %}{% endif %}{% endif %}>{{ item.title }}</a>
+{% endfor %}
+</nav>
+
+<div id="search-container"><input type="text" id="search-input" placeholder="{{ site.data.main.searchbox }}">
+	<ul id="search-results"></ul>
+</div>
+
+<script src="{{ site.url }}/js/search.js" type="text/javascript"></script>
+
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('search-results'),
+  json: '/js/search.json',
+  noResultsText: '{{ site.data.main.searchbox_no }}'
+})
+</script>
+  
+</header></div></div>
+
+
+<div id="main" role="main" class="container">
+{{ content }}
+</div>
+
+
+<div class="wrapper-footer"><div class="container">
+
+<footer class="footer">
+&copy; {{ site.time | date: '%Y' }} <a href="{{ site.url }}/">{{ site.name }}</a>
+{{ site.data.main.nav_footer }}
+</footer>
+
+</div></div>
+</body></html>
