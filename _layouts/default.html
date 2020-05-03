@@ -30,23 +30,7 @@
 
           <nav>
           {% for item in site.data.main.nav %}
-          <a href="{{ site.url }}{{ item.url }}"
-          {% if item.url == page.url %}
-            class="bold"
-          {% else %}
-            {% if item.url contains '/book/' %}
-              {% if page.url contains '/book/' %}
-                class="bold"
-              {% endif %}
-            {% elsif item.url contains '/blog/' %}
-              {% if page.layout == 'post' %}
-                class="bold"
-              {% elsif page.layout == 'tag' %}
-                class="bold"
-              {% endif %}
-            {% endif %}
-          {% endif %}
-          >{{ item.title }}</a>
+          <a href="{{ site.url }}{{ item.url }}"{% if item.url == page.url %} class="bold"{% else %}{% if item.url contains '/blog/' %}{% if page.layout == 'post' %} class="bold"{% elsif page.layout == 'tag' %} class="bold"{% endif %}{% endif %}{% endif %}>{{ item.title }}</a>
           {% endfor %}
           </nav>
           
