@@ -2,10 +2,10 @@
 layout: page
 ---
 
+# About Michael Sliwinski
+
 * TOC
 {:toc}
-
-# About Michael Sliwinski
 
 ## Your host - Michael Sliwinski
 
