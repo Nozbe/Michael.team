@@ -21,6 +21,16 @@ Michael has fallen in love with Jekyll and now he's migrating all his stuff ther
 
 ## To-do
 
-- do the initial commit and configure the domain and SSL
-- make sure that works and then create /pl zone
-- move search.js out of the main folder and create a list of files that can't be used (like about, now, etc.)
+- create a list of files that can't be used (like about, now, etc.)
+- split PL/EN with blog posts, categories, indexes, tags and RSS
+- no blog in ES so far... not needed yet.
+- import all the iMagazine blog posts
+- get images of these blog posts ready
+- adjust styling based on this stuff
+
+## Issues
+
+- Paginate doesn't support categories, so I've decided to do this:
+- main page (until I do infinite scrolling) will load the first 10 articles and then a link to the archives (which will be done correctly, sorted by year and month) - EN by y+m, PL + ES by y
+- tag pages will load first 10 nice (image, description, etc) and more just with titles
+- need to standardize query for posts, as include with lang as param
