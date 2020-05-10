@@ -1,9 +1,4 @@
----
-lang: pl
-category: pl
----
-
-# Witam na Polskiej stronie Michała Śliwińskiego!
+# Witam na Polskiej stronie Michała Śliwińskiego
 
 Super strona! Sprawdzam, czy kategoria działa...
 
