@@ -1,7 +1,3 @@
----
-category: pl
----
-
 # Witam na Polskiej stronie Michała Śliwińskiego
 
 Super strona!

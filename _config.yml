@@ -66,9 +66,12 @@ defaults:
       path: "tag"
     values:
       layout: "tag"
-
-paginate: 10
-paginate_path: "/blog/page:num/"
+  -
+    scope:
+      path: "pl"
+      type: ""
+    values:
+      category: "pl"
 
 # Book collection (optional)
 collections:
@@ -99,7 +102,6 @@ sass:
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-paginate # Enable pagination
   - jekyll-titles-from-headings # Enable H1 to convert to page.title
 
 # Exclude these files from your production _site
