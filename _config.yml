@@ -58,7 +58,12 @@ defaults:
       path: "pl"
     values:
       lang: "pl"
-      permalink: /pl/:title
+  -
+    scope:
+      path: "pl"
+      type: "posts"
+    values:
+      permalink: /pl/:title/
   -
     scope:
       path: ""
