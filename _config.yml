@@ -55,7 +55,7 @@ defaults:
       layout: "post"
   -
     scope:
-      path: "pl"
+      path: "/pl"
       type: ""
     values:
       lang: "pl"
