@@ -53,22 +53,20 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      lang: en
   -
     scope:
       path: "global"
       type: ""
     values:
       category: "en"
-      permalink: /:path/
+      lang: "en"
   -
     scope:
       path: "pl"
       type: ""
     values:
       category: "pl"
-      permalink: /pl/:path/
-      lang: pl
+      lang: "pl"
   -
     scope:
       path: ""

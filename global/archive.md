@@ -1,3 +1,7 @@
+---
+permalink: /archive/
+---
+
 # Blog of Michael Sliwinski
 
 ## Latest entry:
