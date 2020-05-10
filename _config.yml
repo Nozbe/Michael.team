@@ -53,7 +53,20 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      path: "global"
+      type: ""
+    values:
       category: "en"
+      permalink: /:path/
+  -
+    scope:
+      path: "pl"
+      type: ""
+    values:
+      category: "pl"
+      permalink: /pl/:path/
   -
     scope:
       path: ""
@@ -66,12 +79,6 @@ defaults:
       path: "tag"
     values:
       layout: "tag"
-  -
-    scope:
-      path: "pl"
-      type: ""
-    values:
-      category: "pl"
 
 # Book collection (optional)
 collections:
