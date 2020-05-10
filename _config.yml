@@ -55,6 +55,12 @@ defaults:
       layout: "post"
   -
     scope:
+      path: "pl"
+      type: ""
+    values:
+      lang: "pl"
+  -
+    scope:
       path: ""
       type: "passion"
     values:
