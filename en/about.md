@@ -1,8 +1,4 @@
----
-permalink: /about/
----
-
-# About Michael Sliwinski
+# About Michael Sliwinski - the productivity guy
 
 * TOC
 {:toc}

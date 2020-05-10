@@ -55,6 +55,13 @@ defaults:
       layout: "post"
   -
     scope:
+      path: "en"
+      type: "pages"
+    values:
+      lang: "en"
+      permalink: /:title/
+  -
+    scope:
       path: "pl"
     values:
       lang: "pl"
