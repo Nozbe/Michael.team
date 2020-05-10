@@ -55,20 +55,6 @@ defaults:
       layout: "post"
   -
     scope:
-      path: "global"
-      type: ""
-    values:
-      category: "en"
-      lang: "en"
-  -
-    scope:
-      path: "pl"
-      type: ""
-    values:
-      category: "pl"
-      lang: "pl"
-  -
-    scope:
       path: ""
       type: "passion"
     values:
