@@ -1,4 +1,8 @@
-# Michael's in the house!
+---
+permalink: /
+---
+
+# Michael's in tha house!
 
 My name is Michael Sliwinski and this is my new blog. [Read more about me](/about/)
 
