@@ -81,6 +81,7 @@ defaults:
       path: "tag"
     values:
       layout: "tag"
+      lang: "en"
   -
     scope:
       path: "pl/tag"
