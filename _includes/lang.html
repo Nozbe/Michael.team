@@ -1,0 +1,7 @@
+{% if page.lang=='en' %}
+  {% assign langpath = '' %}
+  {% assign langvar = '' %}
+{% else %}
+  {% capture langpath %}/{{ page.lang }}{% endcapture %}
+  {% capture langvar %}_{{ page.lang }}{% endcapture %}
+{% endif %}

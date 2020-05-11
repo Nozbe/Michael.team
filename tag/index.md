@@ -1,6 +1,6 @@
 ---
 layout: default
-title: {{ site.data.main.tag }}
+title: site.data.main.tag
 ---
 
 {% include tags.html %}

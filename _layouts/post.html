@@ -12,8 +12,7 @@ layout: default
 
 <div class="date">
 Written on {{ page.date | date: "%B %e, %Y" }}
-{% if page.lang=='en' %}{% assign tagpath = '' %}{% else %}{% capture tagpath %}/{{ page.lang }}{% endcapture %}{% endif %}
-{% if page.tags.size>0 %}({% for tag in page.tags %}{{ comma }}<a href="{{ tagpath }}/tag/{{ tag }}">{{ tag }}</a>{% assign comma = "," %}{% endfor %}){% endif %}
+{% if page.tags.size>0 %}({% for tag in page.tags %}{{ comma }}<a href="{{ langpath }}/tag/{{ tag }}">{{ tag }}</a>{% assign comma = "," %}{% endfor %}){% endif %}
 </div>
 
 </article>

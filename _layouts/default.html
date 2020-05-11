@@ -2,6 +2,8 @@
 <html><head>
 <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
+{% include lang.html %}
+
 <meta charset="utf-8" />
 <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
@@ -26,11 +28,9 @@
 <![endif]-->
 
 <link rel="stylesheet" type="text/css" href="{{ site.url }}/style.css" />
-<link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.url }}/feed.xml" />
+<link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.url }}{{ langpath }}/feed.xml" />
 <link rel="icon" type="image/png" href="{{ site.avatar }}">
 
-<!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-<!-- Expanded by Michael Sliwinski - https://Michael.team -->
 </head>
 
 <body>
