@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Tagi na blogu Michała Śliwińskiego"
+title: {{ site.data.main.tag_pl }}
 ---
 
 {% include tags.html %}

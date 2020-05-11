@@ -16,6 +16,7 @@ nav:
 - title: "🇪🇸 Español"
   url: "/es/"
 
+tag: "Tags on Michael Sliwinski's blog"
 tags:
 
 - name: video
@@ -23,6 +24,7 @@ tags:
   title: "Video presentations"
   subtitle: "Videos and keynote presentations around remote working and promoting #NoOffice communication and lifestlye"
 
+tag_pl: "Tagi na blogu Michała Śliwińskiego"
 tags_pl:
 
 - name: imag
