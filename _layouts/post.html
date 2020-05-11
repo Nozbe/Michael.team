@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% include lang.html %}
+
 <article class="post">
 
 <h1>{{ page.title }}</h1>
@@ -11,7 +13,7 @@ layout: default
 </div>
 
 <div class="date">
-Written ({{ langpath }}{{ testvar }}) on {{ page.date | date: "%B %e, %Y" }}
+Written on {{ page.date | date: "%B %e, %Y" }}
 {% if page.tags.size>0 %}({% for tag in page.tags %}{{ comma }}<a href="{{ langpath }}/tag/{{ tag }}">{{ tag }}</a>{% assign comma = "," %}{% endfor %}){% endif %}
 </div>
 
