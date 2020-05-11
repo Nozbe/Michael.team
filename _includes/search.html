@@ -3,16 +3,12 @@
 </div>
 
 <script src="{{ site.url }}/js/search.js" type="text/javascript"></script>
-
+{% include lang.html %}
 <script>
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('search-results'),
-  json: '/js/search.json',
+  json: '{{ langpath }}/search.json',
   noResultsText: '{{ site.data.main.searchbox_no }}'
 })
 </script>
-
-{% comment %}
-We can later add "include.id" to distinguish between English/Polish/Spanish search
-{% endcomment %}
