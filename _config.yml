@@ -78,7 +78,7 @@ defaults:
       book: "passion"
   -
     scope:
-      path: "tag"
+      path: "tag", "pl/tag"
     values:
       layout: "tag"
 
