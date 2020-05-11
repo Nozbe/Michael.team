@@ -1,5 +1,5 @@
 <nav>
-{% if page.lang==en %}
+{% if page.lang=='en' %}
   {% assign thistag = 'tags' %}
 {% else %}
   {% capture thistag %}tags_{{ page.lang }}{% endcapture %}
@@ -10,3 +10,4 @@
   {% endfor %}
 </nav>
 <br>
+{{ thistag }}
