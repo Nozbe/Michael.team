@@ -2,6 +2,14 @@
 
 Super strona! Sprawdzam, czy kategoria działa...
 
+## Znajdź coś fajnego:
+
+{% include search.html %}
+
+<br>
+
+## Ostatnie wpisy
+
 {% for post in site.categories.pl %}
 <div class="post">
 	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
