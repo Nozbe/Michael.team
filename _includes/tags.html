@@ -1,4 +1,5 @@
 {% capture thistag %}tags{{ langvar }}{% endcapture %}
+{{ thistag }}
 <nav>
 {% for item in site.data.main.[thistag] %}
 <a href="{{ site.url }}{{ item.url }}" title="{{ item.subtitle }}" {% if item.url == page.url %}class="bold"{% assign tag_name = item.name %}{% assign tag_title = item.title %}{% assign tag_subtitle = item.subtitle %}{% endif %}>{{ item.title }}</a>
