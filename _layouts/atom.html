@@ -1,10 +1,7 @@
 ---
 layout: nil
 ---
-{% include lang.html %}
-{% capture atomtitle %}title{{ langvar }}{% endcapture %}
-{% capture atomname %}name{{ langvar }}{% endcapture %}
-<?xml version="1.0" encoding="utf-8"?>
+{% include lang.html %}{% capture atomtitle %}title{{ langvar }}{% endcapture %}{% capture atomname %}name{{ langvar }}{% endcapture %}<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title type="text" xml:lang="en">{{ site.data.main.[atomtitle] }}</title>
     <link type="application/atom+xml" href="{{ site.url }}{{ langpath }}/atom.xml" rel="self"/>
@@ -16,7 +13,7 @@ layout: nil
     </author>
     <rights>Copyright (c) 2008-{{ site.time | date: '%Y' }} {{ site.data.main.[atomname] }}</rights>
     {% for post in site.categories.[page.lang] limit:20 %}
-    <entry>
+    <entry xml:lang="{{ page.lang }}">
         <title>{{ post.title }}</title>
         <link href="{{ site.url }}{{ post.url }}"/>
         <updated>{{ post.date | date_to_xmlschema }}</updated>

@@ -1,7 +1,6 @@
 ---
 layout: default
+title: "Tags on Michael Sliwinski's blog"
 ---
-
-# {{ site.data.main.tag }}
 
 {% include tags.html %}
