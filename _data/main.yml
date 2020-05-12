@@ -37,21 +37,4 @@ tags_pl:
   title: "iMagazine"
   subtitle: "Felietony jakie piszę do [iMagazine](https://iMagazine.pl) od początku powstawania tego magazynu"
 
-
-months_pl:
-- January: Styczeń
-- February: Luty
-- March: Marzec
-- April: Kwiecień
-- May: Maj
-- June: Czerwiec
-- July: Lipiec
-- August: Sierpień
-- September: Wrzesień
-- October: Październik
-- November: Listopad
-- December: Grudzień
-
-months_pll: [Styczeń, Luty, Marzec, Kwiecień, Maj, Czerwiec]
-
-month_pl: "Styczeń, Luty, Marzec, Kwiecień, Maj, Czerwiec, Lipiec"
+month_pl: "Miesiąc, Styczeń, Luty, Marzec, Kwiecień, Maj, Czerwiec, Lipiec, Sierpień, Wrzesień, Październik, Listopad, Grudzień"
