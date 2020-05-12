@@ -27,7 +27,7 @@ Zobaczmy: {{ site.data.main.months_pl.January }}
 <h2>{{ year.name }}</h2>
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%m'" %}
   {% for month in postsByMonth %}
-  <h2>{{ site.data.main.months_pll[month.name] }}{% if year.name!=currentYear %} {{ year.name }}{% endif %}</h2>
+  <h2>{{ site.data.main.months_pll.[month.name] }}|{% if year.name!=currentYear %} {{ year.name }}{% endif %}</h2>
     {% for post in month.items %}
     <div class="post">
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
