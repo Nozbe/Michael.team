@@ -27,7 +27,7 @@ permalink: /archive/
 <div class="posts">
 {% for post in site.categories.en offset:1 %}
 <div class="post">
-	<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 	<div class="date">
 	{{ post.date | date: "%B %e, %Y" }}
 	</div>

@@ -6,14 +6,17 @@ No pewnie, że tak, na pewno!
 {% assign postsByYear = site.categories.pl | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 
+<div class="posts">
 <h2>{{ year.name }}</h2>
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
   {% for month in postsByMonth %}
-  <h3>{{ month.name }}{% if year.name!=currentYear %} {{ year.name }}{% endif %}</h3>
-  <ul>
+  <h2>{{ month.name }}{% if year.name!=currentYear %} {{ year.name }}{% endif %}</h2>
     {% for post in month.items %}
-    <li><a href="{{ post.url }}">{{ post.title }}-{{ post.date }}</a></li>
+    <div class="post">
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <div class="date">{{ post.date | date: "%B %e, %Y" }}</div>
+    </div>
     {% endfor %}
-  </ul>
   {% endfor %}
+</div>
 {% endfor %}
