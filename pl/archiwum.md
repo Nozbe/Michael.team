@@ -3,6 +3,12 @@
 {{ assign currentYear = site.time | date: '%Y' }}
 No pewnie, że tak, na pewno! {{ currentYear }}
 
+No musi być: {{ site.time | date: '%Y' }}
+
+Złap to: {% capture nowYear %}{{ site.time | date: '%Y' }}{% endcapture %}
+
+Złapane: {{ nowYear }}
+
 
 {% assign postsByYear = site.categories.pl | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
