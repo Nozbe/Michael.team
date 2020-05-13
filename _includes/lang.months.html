@@ -1,3 +1,4 @@
+{% if langvar==nil %}{% include lang.html %}{% endif %}
 {% capture langmth %}week{{ langvar }}{% endcapture %}
 {% assign langweeks = site.data.main.[langmth] | split: ", " %}
 {% capture langmth %}month{{ langvar }}{% endcapture %}

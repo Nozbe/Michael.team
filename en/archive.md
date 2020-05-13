@@ -4,6 +4,16 @@ permalink: /archive/
 
 # Blog of Michael Sliwinski
 
+{% if langvar==nil %}nolangvar{% else %}langvardefined{% endif %}
+
+{% assign currentYear = site.time | date: '%Y' %}
+{% include lang.html %}
+{% include lang.months.html %}
+
+Let's do this!
+{% if langvar==nil %}nolangvar{% else %}langvardefined{% endif %}
+
+
 ## Latest entry:
 
 <div class="posts">
