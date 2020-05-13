@@ -1,1 +1,7 @@
-{% if langlang=='en' %}EN:{{ include.date | date: "%B %e, %Y" }}{% elseif langlang=='pl' %}PL:{{ include.date | date: "%-m %e, %Y" }{% endif %}
+{% if langlang=='en' %}
+  EN:{{ include.date | date: "%B %e, %Y" }}
+{% elsif langlang=='pl' %}
+  PL:{{ include.date | date: "%-m %e, %Y" }
+{% else %}
+  XX:{{ include.date | date: "%B %e, %Y" }}
+{% endif %}
