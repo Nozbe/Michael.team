@@ -14,7 +14,7 @@ layout: default
 
 <div class="date">
 {% include lang.date.html date=page.date %}
-{% if page.tags.size>0 %}({% for tag in page.tags %}{{ comma }}<a href="{{ langpath }}/tag/{{ tag }}">{{ tag }}</a>{% assign comma = "," %}{% endfor %}){% endif %}
+{% include lang.tags.html tags=page.tags %}
 </div>
 
 </article>

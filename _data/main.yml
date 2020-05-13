@@ -26,6 +26,7 @@ nav:
 tags:
 
 - name: video
+  emoji: "🎥"
   url: "/tag/video/"
   title: "Video presentations"
   subtitle: "Videos and keynote presentations around remote working and promoting #NoOffice communication and lifestlye"
@@ -33,6 +34,7 @@ tags:
 tags_pl:
 
 - name: imag
+  emoji: "👨🏼‍💻"
   url: "/pl/tag/imag/"
   title: "iMagazine"
   subtitle: "Felietony jakie piszę do [iMagazine](https://iMagazine.pl) od początku powstawania tego magazynu"

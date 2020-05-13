@@ -1,0 +1,1 @@
+{% if page.tags.size>0 %}({% for tag in include.tags %}{{ comma }}<a href="{{ langpath }}/tag/{{ tag }}">{{ tag }}</a>{% assign comma = "," %}{% endfor %}){% endif %}
