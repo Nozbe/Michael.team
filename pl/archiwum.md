@@ -1,35 +1,6 @@
-# Tu będzie archiwum postów moich
+---
+title: "Archiwum wpisów Michała Śliwińskiego po polsku"
+layout: archive
+---
 
-No pewnie, że tak, na pewno!
-
-
-{% assign currentYear = site.time | date: '%Y' %}
-{% include lang.months.html %}
-
-{% assign postsByYear = site.categories.[langlang] | group_by_exp:"post", "post.date | date: '%Y'" %}
-{% for year in postsByYear %}
-
-<div class="posts">
-<h2>{{ year.name }}</h2>
-  {% if langlang == 'en' %}
-    {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
-  {% else %}
-    {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%-m'" %}
-  {% endif %}
-  {% for month in postsByMonth %}
-    {% if langlang == 'en' %}
-      {% assign monthname = month.name %}
-    {% else %}
-      {% assign monthindex = month.name | plus:0 %}
-      {% assign monthname = langmonth[monthindex] %}
-    {% endif %}
-    <h2>{{ monthname }}{% if year.name!=currentYear %} {{ year.name }}{% endif %}</h2>
-    {% for post in month.items %}
-      <div class="post">
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        <div class="date">{% include lang.date.html date=post.date %}</div>
-      </div>
-    {% endfor %}
-  {% endfor %}
-</div>
-{% endfor %}
+Moje autorskie wpisy po polsku, szczególnie wywiady udzielone w prasie, blogach czy podcastach, oraz większość felietonów napisanych do [iMagazine](/pl/tag/imag). Jako że firma, którą prowadzę - Nozbe - ma zasięg globalny, więcej piszę [po angielsku](/), co widać w [tamtym archiwum](/archive).
