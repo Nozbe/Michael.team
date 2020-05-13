@@ -1,1 +1,10 @@
-||{{ langvar }}||{{ page.lang }}||{{ langmonth[2] }}||{{ langmonths[2] }}||{{ include.date | date: "%B %e, %Y" }}
+{% if langlang=='en' %}
+  {% assign langdateshow = include.date | date: "%B %e, %Y" %}
+{% else %}
+  {% assign langdateday = include.date | date: "%-d" %}
+  {% assign langdatemth = include.date | date: "%-m" %}
+  {% assign langdatemth = langdatemth | plus:0 %}
+  {% assign langdateyer = include.date | date: "%Y" %}
+  {% capture langdateshow %}{{ langdateday }} {{ langmonths[langdatemth] }} {{ langdateyer }}{% endcapture %}
+{% endif %}
+{{ langdateshow }}
