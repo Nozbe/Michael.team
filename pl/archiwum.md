@@ -15,11 +15,11 @@ Jan: {{ langmth[1] }}, {{ langmth[2] }}, {{ langmth[3] }}, {{ langmth[4] }}
 <h2>{{ year.name }}</h2>
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%-m'" %}
   {% for month in postsByMonth %}
-  <h2>- {{ langmth[month.name] }}{% if year.name!=currentYear %} {{ year.name }}{% endif %}</h2>
+  <h2>{{ langmth[month.name] }}{% if year.name!=currentYear %} {{ year.name }}{% endif %}</h2>
     {% for post in month.items %}
     <div class="post">
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <div class="date">{{ post.date | date: "%B %e, %Y" }} - {% include date.html date=post.date %}</div>
+      <div class="date">{{ post.date | date: "%B %e, %Y" }}</div>
     </div>
     {% endfor %}
   {% endfor %}
