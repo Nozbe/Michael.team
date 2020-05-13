@@ -2,14 +2,14 @@
 
 No pewnie, że tak, na pewno!
 
-{% if langvar %}langvardefined{% else %}nolangvar{% endif %}
+{% if langvar==nil %}nolangvar{% else %}langvardefined{% endif %}
 
 {% assign currentYear = site.time | date: '%Y' %}
 {% include lang.html %}
 {% include lang.months.html %}
 
 Let's do this!
-{% if langvar %}langvardefined{% else %}nolangvar{% endif %}
+{% if langvar==nil %}nolangvar{% else %}langvardefined{% endif %}
 
 
 {% assign postsByYear = site.categories.pl | group_by_exp:"post", "post.date | date: '%Y'" %}
