@@ -6,6 +6,10 @@ No pewnie, że tak, na pewno!
 {% include lang.html %}
 {% assign langmth = site.data.main.month[langvar] | split: ", " %}
 
+One: {{ langvar }}
+
+Two: {{ site.data.main.month[langvar] }}
+
 Jan: {{ langmth[1] }}, {{ langmth[2] }}, {{ langmth[3] }}, {{ langmth[4] }}
 
 {% assign postsByYear = site.categories.pl | group_by_exp:"post", "post.date | date: '%Y'" %}
