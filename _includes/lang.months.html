@@ -1,0 +1,4 @@
+{% capture langmth %}month{{ langvar }}{% endcapture %}
+{% assign langmonth = site.data.main.[langmth] | split: ", " %}
+{% capture langmth %}months{{ langvar }}{% endcapture %}
+{% assign langmonths = site.data.main.[langmth] | split: ", " %}
