@@ -4,13 +4,12 @@ No pewnie, że tak, na pewno!
 
 {% assign currentYear = site.time | date: '%Y' %}
 {% include lang.html %}
-{% assign langmth = site.data.main.month[langvar] | split: ", " %}
+{% capture langmth %}month{{ langvar }}{% endcapture %}
+{% assign langmths = site.data.main.[langmth] | split: ", " %}
 
-One: {{ langvar }}
+Before: {{ site.data.main.[langmth] }}
 
-Two: {{ site.data.main.month[langvar] }}
-
-Jan: {{ langmth[1] }}, {{ langmth[2] }}, {{ langmth[3] }}, {{ langmth[4] }}
+Jan: {{ langmths[1] }}, {{ langmths[2] }}, {{ langmths[3] }}, {{ langmths[4] }}
 
 {% assign postsByYear = site.categories.pl | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
@@ -19,7 +18,7 @@ Jan: {{ langmth[1] }}, {{ langmth[2] }}, {{ langmth[3] }}, {{ langmth[4] }}
 <h2>{{ year.name }}</h2>
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%-m'" %}
   {% for month in postsByMonth %}
-  <h2>{{ langmth[month.name] }}{% if year.name!=currentYear %} {{ year.name }}{% endif %}</h2>
+  <h2>{{ langmths[month.name] }}{% if year.name!=currentYear %} {{ year.name }}{% endif %}</h2>
     {% for post in month.items %}
     <div class="post">
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
