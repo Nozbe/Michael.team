@@ -13,7 +13,6 @@ nav_prev: Previous
 nav_footer: "(brought to you by <a href='https://sliwinski.com'>Michael Sliwinski</a> - the founder of <a href='https://nozbe.com'>Nozbe</a>)"
 
 nav:
-
 - title: Home
   url: "/"
 - title: About
@@ -24,20 +23,23 @@ nav:
   url: "/es/"
 
 tags:
-
 - name: video
-  emoji: "🎥"
-  url: "/tag/video/"
-  title: "Video presentations"
-  subtitle: "Videos and keynote presentations around remote working and promoting #NoOffice communication and lifestlye"
+  emoj: "🎬"
+  link: "/tag/video/"
+  titl: "Video presentations"
+  tit2: "Videos and keynote presentations around remote working and promoting #NoOffice communication and lifestlye"
 
 tags_pl:
-
 - name: imag
-  emoji: "👨🏼‍💻"
-  url: "/pl/tag/imag/"
-  title: "iMagazine"
-  subtitle: "Felietony jakie piszę do [iMagazine](https://iMagazine.pl) od początku powstawania tego magazynu"
+  emoj: "👨🏼‍💻"
+  link: "/pl/tag/imag/"
+  titl: "iMagazine"
+  tit2: "Felietony jakie piszę do [iMagazine](https://iMagazine.pl) od początku powstawania tego magazynu"
+- name: gosc
+  emoj: "😎"
+  link: "/pl/tag/gosc/"
+  titl: "Gościnnie"
+  tit2: "Miejsca gdzie występowałem gościnnie: prasa, wywiady, podcasty, konferencje, webinary..."
 
 week_pl: "Tydzień, Poniedziałek, Wtorek, Środa, Czwartek, Piątek, Sobota, Niedziela"
 month_pl: "Miesiąc, Styczeń, Luty, Marzec, Kwiecień, Maj, Czerwiec, Lipiec, Sierpień, Wrzesień, Październik, Listopad, Grudzień"
