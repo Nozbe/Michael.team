@@ -2,30 +2,33 @@
 
 No pewnie, że tak, na pewno!
 
-{% if langvar==nil %}nolangvar{% else %}langvardefined{% endif %}
 
 {% assign currentYear = site.time | date: '%Y' %}
-{% include lang.html %}
 {% include lang.months.html %}
 
-Let's do this!
-{% if langvar==nil %}nolangvar{% else %}langvardefined{% endif %}
-
-
-{% assign postsByYear = site.categories.pl | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign postsByYear = site.categories.[langlang] | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 
 <div class="posts">
 <h2>{{ year.name }}</h2>
-  {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%-m'" %}
+  {% if langlang == 'en' %}
+    {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+  {% else %}
+    {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%-m'" %}
+  {% endif %}
   {% for month in postsByMonth %}
-  {% assign monthindex = month.name | plus:0 %}
-  <h2>{{ langmonth[monthindex] }}{% if year.name!=currentYear %} {{ year.name }}{% endif %}</h2>
+    {% if langlang == 'en' %}
+      {% assign monthname = month.name %}
+    {% else %}
+      {% assign monthindex = month.name | plus:0 %}
+      {% assign monthname = langmonth[monthindex] %}
+    {% endif %}
+    <h2>{{ monthname }}{% if year.name!=currentYear %} {{ year.name }}{% endif %}</h2>
     {% for post in month.items %}
-    <div class="post">
-      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <div class="date">{{ post.date | date: "%B %e, %Y" }} - {% include lang.date.html date=post.date %}</div>
-    </div>
+      <div class="post">
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <div class="date">{% include lang.date.html date=post.date %}</div>
+      </div>
     {% endfor %}
   {% endfor %}
 </div>
