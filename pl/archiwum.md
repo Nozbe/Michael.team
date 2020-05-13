@@ -7,8 +7,6 @@ No pewnie, że tak, na pewno!
 {% capture langmth %}month{{ langvar }}{% endcapture %}
 {% assign langmths = site.data.main.[langmth] | split: ", " %}
 
-Jan: {{ langmths[1] }}, {{ langmths[2] }}, {{ langmths[3] }}, {{ langmths[4] }}
-
 {% assign postsByYear = site.categories.pl | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 
@@ -21,7 +19,7 @@ Jan: {{ langmths[1] }}, {{ langmths[2] }}, {{ langmths[3] }}, {{ langmths[4] }}
     {% for post in month.items %}
     <div class="post">
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <div class="date">{{ post.date | date: "%B %e, %Y" }}</div>
+      <div class="date">{{ post.date | date: "%B %e, %Y" }} - {% include date.html date=post.date %}</div>
     </div>
     {% endfor %}
   {% endfor %}
