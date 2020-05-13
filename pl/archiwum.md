@@ -3,7 +3,8 @@
 No pewnie, że tak, na pewno!
 
 {% assign currentYear = site.time | date: '%Y' %}
-{% assign langMonths = site.data.main.month_pl | split: ", " %}
+{% include lang.html %}
+{% assign langmonth = site.data.main.month[langvar] | split: ", " %}
 
 Jan: {{ langMonths[1] }}, {{ langMonths[2] }}, {{ langMonths[3] }}, {{ langMonths[4] }}
 
@@ -14,11 +15,11 @@ Jan: {{ langMonths[1] }}, {{ langMonths[2] }}, {{ langMonths[3] }}, {{ langMonth
 <h2>{{ year.name }}</h2>
   {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%-m'" %}
   {% for month in postsByMonth %}
-  <h2>||{{ month.name }}||{{ {{ langMonths[month.name] }}||{% if year.name!=currentYear %} {{ year.name }}{% endif %}</h2>
+  <h2>- {{ langmonth[month.name] }}{% if year.name!=currentYear %} {{ year.name }}{% endif %}</h2>
     {% for post in month.items %}
     <div class="post">
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <div class="date">{{ post.date | date: "%B %e, %Y" }}</div>
+      <div class="date">{{ post.date | date: "%B %e, %Y" }} - {% include date.html date=post.date %}</div>
     </div>
     {% endfor %}
   {% endfor %}
