@@ -12,7 +12,7 @@ layout: nil
         <name>{{ site.data.main.[pagename] }}</name>
     </author>
     <icon>{{ site.avatar }}</icon>
-    <subtitle>{{ pagedescr }}</subtitle>
+    <subtitle>{{ site.data.main.[pagedescr] }}</subtitle>
     <rights>Copyright (c) 2008-{{ site.time | date: '%Y' }} {{ site.data.main.[pagename] }}</rights>
     {% for post in site.categories.[page.lang] limit:20 %}
     <entry xml:lang="{{ page.lang }}">
