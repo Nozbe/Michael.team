@@ -12,14 +12,6 @@ My name is Michael Sliwinski and this is my new blog. [Read more about me](/abou
 
 <br>
 
-## Descriptions
-
-{{ site.data.main.descrm }}
-
-{{ site.data.main.descrm | strip_html }}
-
-{{ site.data.main.descrm | markdownify | strip_html }}
-
 ## Latest updates:
 
 {% include posts.html posts=site.categories.en limit=10 %}
@@ -28,11 +20,3 @@ My name is Michael Sliwinski and this is my new blog. [Read more about me](/abou
 
 * [**Archive** - check out all the blog archives](/archive/)
 * [**Tags** - read my posts by tags](/tag/)
-
-## Test 1
-
-{% include posts.html posts=site.categories.en limit=1 %}
-
-## Test 2
-
-{% include posts.html posts=site.categories.en offset=1 limit=2 %}
