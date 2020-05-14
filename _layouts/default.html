@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html><head>
-<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+{% include lang.html %}{% capture pagetitle %}title{{ langvar }}{% endcapture %}{% capture pagedescr %}descr{{ langvar }}{% endcapture %}{% capture pagename %}name{{ langvar }}{% endcapture %}
+
+<title>{% if page.title %}{{ page.title }} – {% endif %}{{ pagetitle }}</title>
 
 <meta charset="utf-8" />
 <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -11,10 +13,10 @@
 <meta name="description" content="{{ page.excerpt| strip_html }}" />
 <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
 {% else %}
-<meta name="description" content="{{ site.description }}">
-<meta property="og:description" content="{{ site.description }}" />
+<meta name="description" content="{{ pagedescr }}">
+<meta property="og:description" content="{{ pagedescr }}" />
 {% endif %}
-<meta name="author" content="{{ site.name }}" />
+<meta name="author" content="{{ pagename }}" />
 
 {% if page.title %}
 <meta property="og:title" content="{{ page.title }}" />
@@ -26,7 +28,7 @@
 <![endif]-->
 
 <link rel="stylesheet" type="text/css" href="{{ site.url }}/style.css" />
-<link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.url }}{{ langpath }}/feed.xml" />
+<link rel="alternate" type="application/rss+xml" title="{{ pagetitle }}" href="{{ site.url }}{{ langpath }}/atom.xml" />
 <link rel="icon" type="image/png" href="{{ site.avatar }}">
 
 </head>
@@ -44,7 +46,7 @@
 
 <nav>
 {% for item in site.data.main.nav %}
-<a href="{{ site.url }}{{ item.url }}"{% if item.url == page.url %} class="bold"{% else %}{% if item.url contains '/blog/' %}{% if page.layout == 'post' %} class="bold"{% elsif page.layout == 'tag' %} class="bold"{% endif %}{% endif %}{% endif %}>{{ item.title }}</a>
+<a href="{{ site.url }}{{ item.url }}"{% if item.url == page.url %} class="bold"{% else %}{% capture navlang %}/{{ page.lang }}/{% endcapture %}{% if item.url contains navlang %} class="bold"{% endif %}{% endif %}>{{ item.title }}</a>
 {% endfor %}
 </nav>
 
@@ -61,8 +63,7 @@ C{{ page.categories }}CL{{ page.lang }}LP{{ langpath }}PV{{ langvar }}VT{{ testv
 <div class="wrapper-footer"><div class="container">
 
 <footer class="footer">
-&copy; {{ site.time | date: '%Y' }} <a href="{{ site.url }}/">{{ site.name }}</a>
-{{ site.data.main.nav_footer }}
+&copy; {{ site.time | date: '%Y' }} <a href="{{ site.url }}/">{{ pagename }}</a>
 </footer>
 
 </div></div>
