@@ -29,4 +29,42 @@ My name is Michael Sliwinski and this is my new blog. [Read more about me](/abou
 {% endfor %}
 </div>
 
-Want to browse the past? [Check out all the blog](/blog/)
+Want to browse the past? [Check out all the blog](/archive/)
+
+## Testing 1 blog
+
+{% assign onepost = site.categories.en | limit: 1 %}
+
+<div class="posts">
+{% for post in onepost %}
+<div class="post">
+	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+	<div class="date">
+	{{ post.date | date: "%B %e, %Y" }}
+	</div>
+	<div class="entry">
+	{{ post.excerpt }}
+	</div>
+	<a href="{{ post.url }}">Read more...</a>
+</div>
+{% endfor %}
+</div>
+
+## Testing 1 blog post more
+
+{% assign onepost = site.categories.en | offset: 1 | limit: 1 %}
+
+<div class="posts">
+{% for post in onepost %}
+<div class="post">
+	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+	<div class="date">
+	{{ post.date | date: "%B %e, %Y" }}
+	</div>
+	<div class="entry">
+	{{ post.excerpt }}
+	</div>
+	<a href="{{ post.url }}">Read more...</a>
+</div>
+{% endfor %}
+</div>

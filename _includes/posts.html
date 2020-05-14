@@ -1,0 +1,14 @@
+{% if langlang==nil %}{% include lang.html %}{% endif %}
+<div class="posts">
+{% for post in include.posts %}
+<div class="post">
+	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+	<div class="date">
+	{{ post.date | date: "%B %e, %Y" }}
+	</div>
+	<div class="entry">
+	{{ post.excerpt }}
+	</div>
+</div>
+{% endfor %}
+</div>
