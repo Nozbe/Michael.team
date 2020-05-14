@@ -8,4 +8,6 @@ layout: default
 
 {{ tag_subtitle | markdownify }}
 
+{% assign tag_posts = site.tags[tag_name] %}
 
+{% include posts.html posts=tag_posts %}

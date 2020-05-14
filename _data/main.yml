@@ -43,19 +43,19 @@ tags:
   tit2: "Videos and keynote presentations around remote working and promoting #NoOffice communication and lifestlye"
 - name: webinar
   emoj: "💻"
-  link: "tag/webinar/"
+  link: "/tag/webinar/"
   titl: "Webinars"
   tit2: "Webinars I've given as founder of [Nozbe](https://nozbe.com/) and as a personal and team productivity guy. Each one is packed with lots of time and project management tips and tricks I've learned over the years. Make sure to check them out and learn for free!"
 - name: imagazine
   emoj: "👨🏼‍💻"
-  link: "/pl/tag/imag/"
+  link: "/tag/imagazine/"
   titl: "iMagazine"
   tit2: "I write a monthly column to the leading Polish lifestyle magazine [iMagazine](https://iMagazine.pl) - if you speak Polish, I keep an [archive of most of these articles](/pl/tag/imagazine)"
 
 tags_pl:
 - name: imagazine
   emoj: "👨🏼‍💻"
-  link: "/pl/tag/imag/"
+  link: "/pl/tag/imagazine/"
   titl: "iMagazine"
   tit2: "Felietony jakie piszę do [iMagazine](https://iMagazine.pl) od początku powstawania tego magazynu"
 - name: gosc
