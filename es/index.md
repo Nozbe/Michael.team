@@ -8,6 +8,11 @@
 
 <br>
 
-## De momento es todo...
+## Mis últimas entradas
 
-Escribo mucho más [en íngles](/) o [polaco](/pl).
+{% include posts.html posts=site.categories.es limit=10 %}
+
+## Leer más
+
+* [**Todo** - todas mis entradas en español](/es/todo/)
+* [¿Sabes inglés? Lee mi blog en inglés, donde escribo desde ya 2008](/archive)

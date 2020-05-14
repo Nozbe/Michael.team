@@ -10,14 +10,10 @@ Super strona! Sprawdzam, czy kategoria działa...
 
 ## Ostatnie wpisy
 
-{% for post in site.categories.pl %}
-<div class="post">
-	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-	<div class="date">
-	{{ post.date | date: "%B %e, %Y" }}
-	</div>
-	<div class="entry">
-	{{ post.excerpt }}
-	</div>
-</div>
-{% endfor %}
+{% include posts.html posts=site.categories.pl limit=10 %}
+
+## Czytaj więcej
+
+* [**Archiwum** - wszystkie moje wpisy po polsku](/pl/archiwum/)
+* [**Tag** - czytaj moje wpisy według tagów/tematów](/pl/tag/)
+* [Znasz angielski? Zobacz mój blog po angielsku, gdzie piszę od 2008 roku!](/archive)
