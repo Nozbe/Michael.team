@@ -4,36 +4,12 @@ layout: default
 
 {% include tags.html %}
 
+<h1>{{ tag_title }}</h1>
 
-{% if langvar==nil %}{% include lang.html %}{% endif %}
-{% capture langtags %}tags{{ langvar }}{% endcapture %}
-{% for item in site.data.main.[langtags] %}
-  {% assign tag_name = tag_name | append: item.name | append:'||' %}
-  {% assign tag_emoj = tag_emoj | append: item.emoj | append:'||' %}
-  {% assign tag_link = tag_link | append: item.link | append:'||' %}
-  {% assign tag_titl = tag_titl | append: item.titl | append:'||' %}
-{% endfor %}
-{% assign tag_name = tag_name | split: '||' %}
-{% assign tag_emoj = tag_emoj | split: '||' %}
-{% assign tag_link = tag_link | split: '||' %}
-{% assign tag_titl = tag_titl | split: '||' %}
-
-
-<nav>
-{% for item in tag_name %}
-<a href="{{ site.url }}{{ tag_link[forloop.index0] }}" title="{{ tag_tit2[forloop.index0] }}" {% if tag_link[forloop.index0] == page.url %}class="bold"{% assign ttag_name = item %}{% assign ttag_title = tag_titl[forloop.index0] %}{% assign ttag_subtitle = tag_tit2[forloop.index0] %}{% endif %}>{{ tag_emoj[forloop.index0] }}{{ tag_titl[forloop.index0] }}</a>
-{% endfor %}
-</nav>
-<br>
-
-
-
-<h1>{{ ttag_title }}</h1>
-
-{{ ttag_subtitle | markdownify }}
+{{ tag_subtitle | markdownify }}
 
 <div class="posts">
-{% for post in site.tags[ttag_name] limit:1 %}
+{% for post in site.tags[tag_name] limit:1 %}
 <div class="post">
 	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 	<div class="date">
@@ -49,7 +25,7 @@ layout: default
 <h3>{{ site.data.main.past }}</h3>
 
 <div class="posts">
-{% for post in site.tags[ttag_name] offset:1 %}
+{% for post in site.tags[tag_name] offset:1 %}
 <div class="post">
 	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 	<div class="date">

@@ -1,1 +1,11 @@
-{% if page.tags.size>0 %}({% for tag in include.tags %}{{ comma }}<a href="{{ langpath }}/tag/{{ tag }}">{{ tag }}</a>{% assign comma = "," %}{% endfor %}){% endif %}
+{% if include.tags.size>0 %}
+  {% if langvar==nil %}{% include lang.html %}{% endif %}
+  {% capture taglist %}tags{{ langvar }}{% endcapture %}
+  {% for tag in include.tags %}{{ comma }}
+    {% for item in site.data.main.[taglist] %}
+      {% if tag==item.name %}
+        {{ comma }}<a href="{{ item.link }}">{{ item.emoj }}{{ item.titl }}</a>{% assign comma = "," %}
+      {% endif $}
+    {% endfor %}  
+  {% endfor %}
+{% endif %}
