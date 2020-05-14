@@ -14,11 +14,11 @@ My name is Michael Sliwinski and this is my new blog. [Read more about me](/abou
 
 ## Descriptions
 
-{{ site.data.main.descr }}
+{{ site.data.main.descrm }}
 
-{{ site.data.main.descr | strip_html }}
+{{ site.data.main.descrm | strip_html }}
 
-{{ site.data.main.descr | markdownify | strip_html }}
+{{ site.data.main.descrm | markdownify | strip_html }}
 
 ## Latest updates:
 
