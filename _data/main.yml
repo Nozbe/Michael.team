@@ -22,13 +22,16 @@ searchbox_pl_no: "Nic nie znaleziono!"
 searchbox_es: "buscar..."
 searchbox_es_no: "¡No has encontrado nada!"
 
+locale: en_EN
+locale_pl: pl_PL
+locale_es: es_ES
 
 nav_next: Next
 nav_prev: Previous
 
 
 nav:
-- title: "🌎 Home/English"
+- title: "🌎 English"
   url: "/"
 - title: "🇵🇱 Polski"
   url: "/pl/"

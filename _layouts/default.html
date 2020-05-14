@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html><head>
-{% include lang.html %}{% capture pagetitle %}title{{ langvar }}{% endcapture %}{% capture pagedescr %}descr{{ langvar }}{% endcapture %}{% capture pagename %}name{{ langvar }}{% endcapture %}
+{% include lang.html %}{% capture pagetitle %}title{{ langvar }}{% endcapture %}{% capture pagedescr %}descr{{ langvar }}{% endcapture %}{% capture pagename %}name{{ langvar }}{% endcapture %}{% capture pagelocale %}locale{{ langvar }}{% endcapture %}
 
 <title>{% if page.title %}{{ page.title }} – {% endif %}{{ pagetitle }}</title>
 
@@ -9,19 +9,39 @@
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
-{% if page.excerpt %}
-<meta name="description" content="{{ page.excerpt| strip_html }}" />
-<meta property="og:description" content="{{ page.excerpt| strip_html }}" />
-{% else %}
-<meta name="description" content="{{ pagedescr }}">
-<meta property="og:description" content="{{ pagedescr }}" />
-{% endif %}
-<meta name="author" content="{{ pagename }}" />
-
+<meta name="twitter:card" content="summary_large_image" />
 {% if page.title %}
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="twitter:title" content="{{ page.title }}" />
 {% endif %}
+{% if page.excerpt %}
+<meta name="description" content="{{ page.excerpt | strip_html }}" />
+<meta property="og:description" content="{{ page.excerpt | strip_html }}" />
+<meta property="twitter:description" content="{{ page.excerpt | strip_html }}" />
+{% else %}
+<meta name="description" content="{{ pagedescr }}">
+<meta property="og:description" content="{{ pagedescr }}" />
+<meta property="twitter:description" content="{{ pagedescr }}" />
+{% endif %}
+{% if page.img %}
+<meta name="twitter:image" content="{{ site.url }}/img/{{ page.img }}" />
+<meta property="og:image" content="{{ site.url }}/img/{{ page.img }}" />
+{% elsif page.vid %}
+<meta name="twitter:player" content="https://www.youtube.com/embed/{{ page.vid }}"/>
+<meta name="twitter:player:width" content="1280" />
+<meta name="twitter:player:height" content="720" />
+<meta name="twitter:image" content="https://i.ytimg.com/vi/{{ page.vid }}/maxresdefault.jpg" />
+<meta property="og:image" content="https://i.ytimg.com/vi/{{ page.vid }}/maxresdefault.jpg" />
+{% else %}
+<meta name="twitter:image" content="{{ site.url }}/img/michael.team.jpg" />
+<meta property="og:image" content="{{ site.url }}/img/michael.team.jpg" />
+{% endif %}
+<meta name="author" content="{{ pagename }}" />
+<meta property="og:url" content="{{ site.url }}{{ page.url }}/" />
+<meta property="og:locale" content="{{ pagelocale }}" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="{{ site.name }}" />
+<meta name="twitter:site" content="@MSliwinski"/>
 
 <!--[if lt IE 9]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
