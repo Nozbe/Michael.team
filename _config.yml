@@ -93,6 +93,11 @@ defaults:
       permalink: /es/:title/
   -
     scope:
+      path: "es/tag"
+    values:
+      layout: "tag"
+  -
+    scope:
       path: ""
       type: "passion"
     values:

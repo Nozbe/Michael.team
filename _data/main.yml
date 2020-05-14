@@ -41,6 +41,11 @@ tags:
   link: "/tag/video/"
   titl: "Video presentations"
   tit2: "Videos and keynote presentations around remote working and promoting #NoOffice communication and lifestlye"
+- name: webinar
+  emoj: "💻"
+  link: "tag/webinar/"
+  titl: "Webinars"
+  tit2: "Webinars I've given as founder of [Nozbe](https://nozbe.com/) and as a personal and team productivity guy. Each one is packed with lots of time and project management tips and tricks I've learned over the years. Make sure to check them out and learn for free!"
 
 tags_pl:
 - name: imag
@@ -52,7 +57,20 @@ tags_pl:
   emoj: "😎"
   link: "/pl/tag/gosc/"
   titl: "Gościnnie"
-  tit2: "Miejsca gdzie występowałem gościnnie: prasa, wywiady, podcasty, konferencje, webinary..."
+  tit2: "Miejsca gdzie występowałem gościnnie: prasa, wywiady, podcasty, konferencje..."
+- name: webinar
+  emoj: "💻"
+  link: "/pl/tag/webinar/"
+  titl: "Webinary"
+  tit2: "Webinary, które organizowałem jako założyciel [Nozbe](https://nozbe.com/pl/) oraz ekspert z dziedziny produktywności osobistej i zespołowej czy zarządzania sobą w czasie. Każdy Webinar to solidna dawka wiedzy, więc zapraszam do słuchania, oglądania i nauki zupełnie za darmo!"
+
+tags_es:
+- name: webinar
+  emoj: "💻"
+  link: "/es/tag/webinar/"
+  titl: "Webinars"
+  tit2: "Webinars que preparé como fundador de [Nozbe](https://nozbe.com/es/) y como experto de productividad personal y gestión de los equipos. Cada webinar contiene muchos trucos y consejos, así que disfruta y ¡aprende gratis!"
+
 
 week_pl: "Tydzień, Poniedziałek, Wtorek, Środa, Czwartek, Piątek, Sobota, Niedziela"
 month_pl: "Miesiąc, Styczeń, Luty, Marzec, Kwiecień, Maj, Czerwiec, Lipiec, Sierpień, Wrzesień, Październik, Listopad, Grudzień"
