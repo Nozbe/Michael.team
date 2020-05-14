@@ -1,4 +1,5 @@
-{% comment %}This can be used without limit, or with limit, or with offset:
+{% comment %}
+This can be used without limit, or with limit, or with offset:
 {% include posts.html posts=site.categories.en limit=1 %}
 {% include posts.html posts=site.categories.en offset=1 limit=2 %}
 In here we create our own index (and not rely on the forloop.index, because we have to rule out the blog posts which are in each language and the same category - like webinars in en/es/pl - they belong to the same category
