@@ -4,7 +4,11 @@
   {% for tag in include.tags %}
     {% for item in site.data.main.[taglist] %}
       {% if tag==item.name %}
-        {{ comma }}<a href="{{ item.link }}">{{ item.emoj }}{{ item.titl }}</a>{% assign comma = "," %}
+        {% if include.short!=nil %}
+          {{ item.emoj }}
+        {% else %}
+          {{ comma }}<a href="{{ item.link }}">{{ item.emoj }}{{ item.titl }}</a>{% assign comma = "," %}
+        {% endif %}
       {% endif %}
     {% endfor %}
   {% endfor %}
