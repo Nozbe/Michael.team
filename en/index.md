@@ -31,40 +31,10 @@ My name is Michael Sliwinski and this is my new blog. [Read more about me](/abou
 
 Want to browse the past? [Check out all the blog](/archive/)
 
-## Testing 1 blog
+## Testing new approach - first blog post
 
-{% assign onepost = site.categories.en limit: 1 %}
+{% include posts.html posts=site.categories.en limit=1 %}
 
-<div class="posts">
-{% for post in onepost %}
-<div class="post">
-	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-	<div class="date">
-	{{ post.date | date: "%B %e, %Y" }}
-	</div>
-	<div class="entry">
-	{{ post.excerpt }}
-	</div>
-	<a href="{{ post.url }}">Read more...</a>
-</div>
-{% endfor %}
-</div>
+## Testing new - second and next 2 blog posts
 
-## Testing 1 blog post more
-
-{% assign onepost = site.categories.en offset: 1 limit: 1 %}
-
-<div class="posts">
-{% for post in onepost %}
-<div class="post">
-	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-	<div class="date">
-	{{ post.date | date: "%B %e, %Y" }}
-	</div>
-	<div class="entry">
-	{{ post.excerpt }}
-	</div>
-	<a href="{{ post.url }}">Read more...</a>
-</div>
-{% endfor %}
-</div>
+{% include posts.html posts=site.categories.en offset=1 limit=2 %}

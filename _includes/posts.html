@@ -1,14 +1,21 @@
 {% if langlang==nil %}{% include lang.html %}{% endif %}
+{% if include.offset!=nil %}
+  {% assign include_limit = include.limit | plus: include.offset %}
+{% else %}
+  {% assign include_limit = include.limit %}
+{% endif %}
 <div class="posts">
 {% for post in include.posts %}
-<div class="post">
-	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-	<div class="date">
-	{{ post.date | date: "%B %e, %Y" }}
-	</div>
-	<div class="entry">
-	{{ post.excerpt }}
-	</div>
-</div>
+  {% if include.offset!=nil %}
+    {% if forloop.index0 < include.offset %}{% continue %}{% endif %}
+  {% endif %}
+  <div class="post">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <div class="date">{% include lang.date.html date=post.date %}</div>
+    <div class="entry">
+    {{ post.excerpt }}
+    </div>
+  </div>
+  {% if forloop.index==include_limit %}{% break %}{% endif %}
 {% endfor %}
 </div>
