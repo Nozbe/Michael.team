@@ -33,7 +33,7 @@ Want to browse the past? [Check out all the blog](/archive/)
 
 ## Testing 1 blog
 
-{% assign onepost = site.categories.en | limit: 1 %}
+{% assign onepost = site.categories.en limit: 1 %}
 
 <div class="posts">
 {% for post in onepost %}
@@ -52,7 +52,7 @@ Want to browse the past? [Check out all the blog](/archive/)
 
 ## Testing 1 blog post more
 
-{% assign onepost = site.categories.en | offset: 1 | limit: 1 %}
+{% assign onepost = site.categories.en offset: 1 limit: 1 %}
 
 <div class="posts">
 {% for post in onepost %}
