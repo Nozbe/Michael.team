@@ -1,6 +1,6 @@
 # Blog de Michael Sliwinski
 
-[Todas entradas de mi blog](/es/todo) y [página sobre mí](/sobremi)
+[Todas entradas de mi blog](/es/todo) y [página sobre mí](/es/sobremi)
 
 ## Busca algo interesante
 
