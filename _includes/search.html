@@ -1,14 +1,16 @@
-<div id="search-container"><input type="text" id="search-input" placeholder="{{ site.data.main.searchbox }}">
+{% include lang.html %}
+{% capture searchbox %}searchbox{{ langvar }}{% endcapture %}
+{% capture searchbox_no %}searchbox{{ langvar }}_no{% endcapture %}
+<div id="search-container"><input type="text" id="search-input" placeholder="{{ site.data.main.[searchbox] }}">
 	<ul id="search-results"></ul>
 </div>
 
 <script src="{{ site.url }}/js/search.js" type="text/javascript"></script>
-{% include lang.html %}
 <script>
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('search-results'),
   json: '{{ langpath }}/search.json',
-  noResultsText: '{{ site.data.main.searchbox_no }}'
+  noResultsText: '{{ site.data.main.[searchbox_no] }}'
 })
 </script>

@@ -12,7 +12,7 @@ layout: default
 {% assign postsByYear = site.categories.[langlang] | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 
-<div class="posts">
+<div class="archive">
 <h2>{{ year.name }}</h2>
   {% if langlang == 'en' %}
     {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
@@ -28,10 +28,8 @@ layout: default
     {% endif %}
     <h2>{{ monthname }}{% if year.name!=currentYear %} {{ year.name }}{% endif %}</h2>
     {% for post in month.items %}
-      <div class="post">
-        <h3><a href="{{ post.url }}">{% include lang.tags.html tags=post.tags short="true" %}{{ post.title }}</a></h3>
-        <div class="date">{% include lang.date.html date=post.date %}</div>
-      </div>
+      <h3><a href="{{ post.url }}">{% include lang.tags.html tags=post.tags short="true" %}{{ post.title }}</a></h3>
+      <div class="date">{% include lang.date.html date=post.date %}</div>
     {% endfor %}
   {% endfor %}
 </div>

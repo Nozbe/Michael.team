@@ -6,7 +6,7 @@
 name: Michael.team
 
 # Short bio or description (displayed in the header)
-description: "Michael Sliwinski. Founder of Nozbe. Helps small teams do great things. Writes about team productivity, managing all-remote team #NoOffice style and getting work done #iPadOnly."
+description: "Hello, I am Michael Sliwinski, founder of Nozbe - a to-do app that helps small teams do great things. I write about team productivity, modern work from home #NoOffice and #iPadOnly. I believe that work is not a place you go to, it's a thing you do."
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://michael.team/icon.png
@@ -60,6 +60,12 @@ defaults:
       lang: "en"
   -
     scope:
+      path: "tag"
+    values:
+      layout: "tag"
+      lang: "en"
+  -
+    scope:
       path: "pl"
     values:
       lang: "pl"
@@ -71,22 +77,27 @@ defaults:
       permalink: /pl/:title/
   -
     scope:
+      path: "pl/tag"
+    values:
+      layout: "tag"
+  -
+    scope:
+      path: "es"
+    values:
+      lang: "es"
+  -
+    scope:
+      path: "es"
+      type: "posts"
+    values:
+      permalink: /es/:title/
+  -
+    scope:
       path: ""
       type: "passion"
     values:
       layout: "book"
       book: "passion"
-  -
-    scope:
-      path: "tag"
-    values:
-      layout: "tag"
-      lang: "en"
-  -
-    scope:
-      path: "pl/tag"
-    values:
-      layout: "tag"
 
 # Book collection (optional)
 collections:

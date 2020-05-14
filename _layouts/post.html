@@ -5,16 +5,10 @@ layout: default
 {% include lang.html %}
 
 <article class="post">
-
 <h1>{{ page.title }}</h1>
-
+<div class="tag">{% include lang.tags.html tags=page.tags %}</div>
 <div class="entry">
 {{ content }}
 </div>
-
-<div class="date">
-{% include lang.date.html date=page.date %}
-{% include lang.tags.html tags=page.tags %}
-</div>
-
+<div class="date">{% include lang.date.html date=page.date %}</div>
 </article>
