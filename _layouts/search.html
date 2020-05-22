@@ -2,28 +2,32 @@
 layout: null
 ---
 {% include lang.html %}[
+  {% assign comma = "" %}
   {% for post in site.categories.[langlang] %}
+    {{ comma }}
     {
       "title"    : "{{ post.title | escape }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.url }}{{ post.url }}",
       "date"     : "{{ post.date }}",
       "desc"     : ""
-    } {% unless forloop.last %},{% endunless %}
+    }
+    {% assign comma = "," %}
   {% endfor %}
-  ,
+  {{ comma }}
+  {% assign comma = "" %}
   {% for page in site.pages %}
-   {
     {% if page.lang == langlang %}
-     {% if page.title != nil %}
-        "title"    : "{{ page.title | escape }}",
-        "tags"     : "{{ page.tags | join: ', ' }}",
-        "url"      : "{{ site.url }}{{ page.url }}",
-        "date"     : "{{ page.date }}",
-        "desc"     : ""
-     {% endif %}
+      {% if page.title != nil %}
+    {{ comma }}
+    {
+      "title"    : "{{ page.title | escape }}",
+      "url"      : "{{ site.url }}{{ page.url }}",
+      "desc"     : ""
+    }
+    {% assign comma = "," %}
+      {% endif %}
     {% endif %}
-   } {% unless forloop.last %},{% endunless %}
   {% endfor %}
   {% comment %}
   - This needs to be enabled when the book is there, because now it isn't - and I assume we'll add different books depending on the language, right?
