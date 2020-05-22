@@ -1,13 +1,4 @@
 ---
 layout: null
 ---
-{% include lang.html %}[
-  {% for post in site.categories.[langlang] %}
-    {
-      "title"    : "{{ post.title | escape }}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
-      "url"      : "{{ site.url }}{{ post.url }}",
-      "date"     : "{{ post.date }}"
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
-]
+{% include lang.html %}
