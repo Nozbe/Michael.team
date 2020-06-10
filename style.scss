@@ -123,6 +123,16 @@ strong, b {
   font-weight: bold;
 }
 
+blockquote {
+  margin: 1em;
+  border: 2px solid $gray;
+  padding: 0.1em 1em;
+  color: $gray;
+  font-family: $fontserif;
+  font-style: italic;
+  transform: rotate(-2deg);
+}
+
 img {
   max-width: 100%;
   @include dark-mode {
@@ -389,15 +399,6 @@ nav {
 }
 
 .post {
-  blockquote {
-    margin: 1em;
-    border: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-family: $fontserif;
-    font-style: italic;
-    transform: rotate(-2deg);
-  }
 
   .read-more {
     text-transform: uppercase;
