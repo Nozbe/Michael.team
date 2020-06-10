@@ -17,7 +17,7 @@
 }
 
 code {
-  font-family: 'Lucida Console', 'Bitstream Vera Sans Mono','Courier', Monaco, monospace;
+  font-family: $fontmono;
 }
 
 .highlight .c { color: #586E75 } /* Comment */
