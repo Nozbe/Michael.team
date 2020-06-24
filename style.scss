@@ -51,6 +51,7 @@ body {
   }
   a {
     color: $blue;
+    text-decoration: underline;
   }
 }
 .avatar {
@@ -64,7 +65,9 @@ body {
 }
 .topright {
   float: right;
-  margin: 0px 5px;
+  a {
+    text-decoration: none;
+  }
 }
 
 
