@@ -1,6 +1,4 @@
 ---
-layout: default
+layout: tagpage
 title: "Tags en blog de Michael Sliwinski"
 ---
-
-{% include tags.html %}
