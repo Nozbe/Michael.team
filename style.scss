@@ -147,7 +147,7 @@ header {
 }
 
 .entry {
-	padding: 0 5px;
+	padding: 0 5px 10px;
 	a {
 		color: $blue;
 		text-decoration: none;
@@ -159,6 +159,9 @@ header {
 		@include dark-mode {
 			background-color: $topb;
 		}
+	}
+	p {
+		padding: 0.8em 0 0.2em;
 	}
 	img + em {
 		color: $newgray;

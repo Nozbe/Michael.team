@@ -7,14 +7,14 @@ vid: "w2L41TRhc-0"
 
 I'm in [my home office](/tag/office) grounded by the “coronavirus”:
 
-## 1. Working on [Nozbe][]
+## Working on [Nozbe][]
 
 * Just lead my first webinars in a long time - had so much fun! (watch it below!)
 * Writing "product and company vision" for Nozbe
 * Spreading the good word about "Nozbe Teams"
 * Onboarding first customers to "Nozbe Teams"
 
-## 2. Additional [productivity](/tag/productivity)-related projects
+## … and running [productivity](/tag/productivity) projects
 
 * Finally launched my new site (this one!) at [Michael.team](/)
 * I’m back to writing [NoOffice](https://NoOffice.org) book. Every day I'm trying to write at least 500 words.
@@ -30,7 +30,7 @@ This [“now”][n] page is inspired by [Derek Sievers][s]
 
 **Last update:** June 24, 2020.
 
-{% include play.html id="page.vid" %}
+{% include play.html id="{{ page.vid }}" %}
 
 [Nozbe]: https://Nozbe.com/
 [n]: https://nownownow.com/p/Wwy1
