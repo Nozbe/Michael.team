@@ -13,6 +13,9 @@
 {% if page.title %}
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="twitter:title" content="{{ page.title }}" />
+{% else %}
+<meta property="og:title" content="{{ site.data.main.[pagetitle] }}" />
+<meta property="twitter:title" content="{{ site.data.main.[pagetitle] }}" />
 {% endif %}
 {% if page.excerpt %}
 <meta name="description" content="{{ page.excerpt | strip_html }}" />
@@ -58,40 +61,20 @@
 
 <body>
 
-<div class="begend"><div class="begender"><a href="/" class="avatar"><img src="/icon.dark.png"></a><div class="topright">{% for item in site.data.main.nav %}&nbsp;<a href="{{ site.url }}{{ item.url }}"{% if item.url == '/' %}{% if page.lang=='en' %} class="bold"{% endif %}{% else %}{% capture navlang %}/{{ page.lang }}/{% endcapture %}{% if item.url contains navlang %} class="bold"{% endif %}{% endif %}>{{ item.title }}</a>{% endfor %}</div>{{ site.data.main.[pagedescr] | markdownify }}</div></div>
-
-<div class="wrapper-masthead"><div class="container"><header class="masthead clearfix">
-
-<a href="{{ site.url }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
-<div class="site-info">
-	<h1 class="site-name"><a href="{{ site.url }}/">{{ site.name }}</a></h1>
-	<p class="site-description">{{ site.data.main.[pagedescr] | markdownify }}</p>
+<div class="begend">
+	<div class="begender">
+		<a href="/" class="avatar" title="{{ site.data.main.[pagetitle] }}"><img src="/icon.dark.png" alt="MS"></a>
+		<div class="topright">{% for item in site.data.main.nav %}&nbsp;<a href="{{ site.url }}{{ item.url }}"{% if item.url == '/' %}{% if page.lang=='en' %} class="bold"{% endif %}{% else %}{% capture navlang %}/{{ page.lang }}/{% endcapture %}{% if item.url contains navlang %} class="bold"{% endif %}{% endif %}>{{ item.title }}</a>{% endfor %}
+		</div>
+		{{ site.data.main.[pagedescr] | markdownify }}
+	</div>
 </div>
 
-<nav>
-{% for item in site.data.main.nav %}
-<a href="{{ site.url }}{{ item.url }}"
-{% if item.url == '/' %}{% if page.lang=='en' %} class="bold"{% endif %}
-{% else %}{% capture navlang %}/{{ page.lang }}/{% endcapture %}
-{% if item.url contains navlang %} class="bold"{% endif %}{% endif %}>{{ item.title }}</a>
-{% endfor %}
-</nav>
-
-  
-</header></div></div>
-
-
-<div id="main" role="main" class="container">
 {{ content }}
+
+<div class="begend">
+	<div class="begender center"><p>&copy; {{ site.time | date: '%Y' }} <a href="{{ site.url }}/">{{ site.data.main.[pagename] }}</a></p>
+	</div>
 </div>
 
-
-<div class="wrapper-footer"><div class="container">
-
-<footer class="footer">
-&copy; {{ site.time | date: '%Y' }} <a href="{{ site.url }}/">{{ site.data.main.[pagename] }}</a>
-</footer>
-
-</div></div>
 </body></html>

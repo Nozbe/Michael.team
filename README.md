@@ -23,7 +23,9 @@ I've fallen in love with Jekyll and now I'm migrating all of my stuff there. It 
 - cover - the image name of the cover image going behind the H1 (optional)
 - img - main image name of the site/post but NOT the one behind H1
 - title - can be also done using the first H1 in the file
-- subtitle - for the blog posts (optional)
+- subtitle - for the blog posts where we really want to use it...
+- vid - YouTube ID of the video
+- vim - Vimeo ID of the video (not yet implemented)
 - tags (which are defined in data/main.yml) - I'm planning on using only defined tags
 
 ### 2. The structure of the site will be very simple:

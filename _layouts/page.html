@@ -3,11 +3,11 @@ layout: default
 ---
 
 <article class="page">
-
-<h1>{{ page.title }}</h1>
-
+{% if page.cover %}<header style="background: url('{{ site.url }}/img/{{ page.cover }}') center no-repeat;min-height: 300px;"><div class="header">{% else %}<header><div class="header headerblack">{% endif %}
+	<h1>{{ page.title }}</h1>
+	{% if page.subtitle %}<h2>{{ page.subtitle }}</h2>{% endif %}
+</div></header>
 <div class="entry">
-{{ content }}
+	{{ content }}
 </div>
-
 </article>
