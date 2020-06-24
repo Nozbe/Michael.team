@@ -134,6 +134,12 @@ h4 {
 			color: $white;
 		}
 	}
+	h1, h2, h3 {
+		text-shadow: 1px 1px 2px $black;
+		@include dark-mode {
+			text-shadow: 1px 1px 2px $white;
+		}
+	}
 }
 
 header {
@@ -143,9 +149,10 @@ header {
 .entry {
 	
 	a {
-		color: $blue;
+		color: $blueLight;
 		text-decoration: none;
 		cursor: pointer;
+		background-color: $topw;
 		&:hover, &:active {
 			color: $blueLight;
 			@include dark-mode {
@@ -153,11 +160,9 @@ header {
 			}
 		}
 		@include dark-mode {
-			color: $blueLight;
+			color: $blue;
+			background-color: $topb;
 		}
-		background-image: linear-gradient(transparent 70%, rgb(255, 245, 196) 0px);
-		background-position: 4px bottom;
-		background-repeat: no-repeat;
 	}
 	
 	img + em {
