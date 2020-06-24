@@ -147,24 +147,19 @@ header {
 }
 
 .entry {
-	
+	padding: 0 5px;
 	a {
-		color: $blueLight;
+		color: $blue;
 		text-decoration: none;
 		cursor: pointer;
 		background-color: $topw;
 		&:hover, &:active {
 			color: $blueLight;
-			@include dark-mode {
-				color: $blue;
-			}
 		}
 		@include dark-mode {
-			color: $blue;
 			background-color: $topb;
 		}
 	}
-	
 	img + em {
 		color: $newgray;
 		display: block;
