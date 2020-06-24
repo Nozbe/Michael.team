@@ -23,7 +23,10 @@
 <meta property="og:description" content="{{ site.data.main.[pagedescr] | markdownify | strip_html }}" />
 <meta property="twitter:description" content="{{ site.data.main.[pagedescr] | markdownify | strip_html }}" />
 {% endif %}
-{% if page.img %}
+{% if page.cover %}
+<meta name="twitter:image" content="{{ site.url }}/img/{{ page.cover }}" />
+<meta property="og:image" content="{{ site.url }}/img/{{ page.cover }}" />
+{% elsif page.img %}
 <meta name="twitter:image" content="{{ site.url }}/img/{{ page.img }}" />
 <meta property="og:image" content="{{ site.url }}/img/{{ page.img }}" />
 {% elsif page.vid %}
@@ -55,6 +58,8 @@
 
 <body>
 
+<div class="begend"><div class="begender"><a href="/" class="avatar"><img src="/icon.dark.png"></a><div class="topright">{% for item in site.data.main.nav %}<a href="{{ site.url }}{{ item.url }}"{% if item.url == '/' %}{% if page.lang=='en' %} class="bold"{% endif %}{% else %}{% capture navlang %}/{{ page.lang }}/{% endcapture %}{% if item.url contains navlang %} class="bold"{% endif %}{% endif %}>{{ item.title }}</a>{% endfor %}</div>{{ site.data.main.[pagedescr] | markdownify }}</div></div>
+
 <div class="wrapper-masthead"><div class="container"><header class="masthead clearfix">
 
 <a href="{{ site.url }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
@@ -79,7 +84,6 @@
 
 <div id="main" role="main" class="container">
 {{ content }}
-C{{ page.categories }}CL{{ page.lang }}LP{{ langpath }}PV{{ langvar }}VT{{ testvar }}T
 </div>
 
 

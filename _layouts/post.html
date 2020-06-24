@@ -5,10 +5,15 @@ layout: default
 {% include lang.html %}
 
 <article class="post">
-<h1>{{ page.title }}</h1>
-<div class="tag">{% include lang.tags.html tags=page.tags %}</div>
+{% if page.cover %}<header style="background: url('{{ site.url }}/img/{{ page.cover }}') center no-repeat;min-height: 300px;"><div class="header">{% elsif %}<header><div class="header headerblack">{% endif %}
+	<h1>{{ page.title }}</h1>
+	{% if page.subtitle %}<h2>{{ page.subtitle }}</h2>{% endif %}
+	<h3>{% include lang.tags.html tags=page.tags %}</h3>
+</div></header>
 <div class="entry">
-{{ content }}
+	{{ content }}
 </div>
-<div class="date">{% include lang.date.html date=page.date %}</div>
+<footer>
+	<div class="date">{% include lang.date.html date=page.date %}</div>
+</footer>
 </article>

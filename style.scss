@@ -28,6 +28,45 @@ body {
   }
 }
 
+.begender, .header, .entry, article > nav, article > footer {
+  max-width: 700px;
+  margin: auto;
+}
+
+.begend {
+  background-color: $topw;
+  border-top: 1px solid $blue;
+  border-bottom: 1px solid $blue;
+
+  @include dark-mode {
+    background-color: $topb;
+  }
+}
+
+.begender {
+  p {
+    font-size: 0.8em;
+    line-height: 1.2em;
+    color: $blue;
+  }
+  a {
+    color: $blue;
+  }
+}
+.avatar {
+  float: left;
+  width: 70px;
+  height: 70px;
+  margin: 5px 5px 0px 0px;
+}
+.topright {
+  float: right;
+  margin: 0px 5px;
+}
+
+
+
+
 .container {
   margin: 0 auto;
   max-width: 740px;
@@ -73,7 +112,7 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
     color: $blue;
   }
@@ -115,7 +154,13 @@ strong, b {
 .bold {
   font-weight: bold;
 }
-
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+.footnotes {
+  border-top: 1px solid $gray;
+}
 blockquote {
   margin: 1em;
   border: 2px solid $gray;
