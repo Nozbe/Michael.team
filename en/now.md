@@ -30,7 +30,7 @@ This [“now”][n] page is inspired by [Derek Sievers][s]
 
 **Last update:** June 24, 2020.
 
-{% include play.html id="{{ page.vid }}" %}
+{% include play.html id=page.vid %}
 
 [Nozbe]: https://Nozbe.com/
 [n]: https://nownownow.com/p/Wwy1
