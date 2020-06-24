@@ -2,18 +2,18 @@
 layout: default
 ---
 
-{% include book.html %}
-
 <article class="page">
-
-<h1>{{ page_chname }} - {{ page.title }}</h1>
-
-<h2>{{ page.subtitle }}</h2>
-
 <div class="entry">
-{{ content }}
+	{% include book.html %}
 </div>
-
+<header><div class="header headerblack">
+	<h1>{{ page_chname }} - {{ page.title }}</h1>
+	<h2>{{ page.subtitle }}</h2>
+</div></header>
+<div class="entry">
+	{{ content }}
+</div>
+<footer>
+	{% include book_next.html %}
+</footer>
 </article>
-
-{% include book_next.html %}

@@ -2,12 +2,16 @@
 layout: default
 ---
 
-{% include tags.html %}
-
-<h1>{{ tag_title }}</h1>
-
-{{ tag_subtitle | markdownify }}
-
-{% assign tag_posts = site.tags[tag_name] %}
-
-{% include posts.html posts=tag_posts %}
+<article class="page">
+<div class="entry">
+	{% include tags.html %}
+</div>
+<header><div class="header headerblack">
+	<h1>{{ tag_title }}</h1>
+</div></header>
+<div class="entry">
+	{{ tag_subtitle | markdownify }}
+	{% assign tag_posts = site.tags[tag_name] %}
+	{% include posts.html posts=tag_posts %}
+</div>
+</article>

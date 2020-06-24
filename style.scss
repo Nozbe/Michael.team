@@ -92,21 +92,24 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
 	font-size: 2.5em;
+	margin: 1em 0 0.5em;
 }
 
 h2 {
 	font-size: 1.8em;
+	margin: 0.8em 0 0.2em;
 }
 
 h3 {
 	font-size: 1.4em;
+	margin: 0.5em 0 0.1em;
 }
 
 h4 {
 	font-size: 1.2em;
 	color: $gray;
+	margin: 0.3em 0 0.1em;
 }
-
 
 .header {
 	text-align: center;
@@ -256,11 +259,7 @@ img {
 }
 
 #search-container {
-	clear: left;
-	float: left;
 	padding: 5px 0px;
-	position: relative;
-	width: 300px;
 }
 
 #search-input {
@@ -293,15 +292,7 @@ img {
 	@include dark-mode {
 		background: $darkerGray;
 	}
-}
-
-@media screen and (max-width: 640px) {
-	#search-container {
-		clear: none;
-		float: none;
-		margin : 0 auto;
-	}
-	#search-results li {
+	@include mobile {
 		text-align: left;
 	}
 }
