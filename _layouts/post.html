@@ -13,7 +13,7 @@ layout: default
 </div>
 <footer>
 	<div class="date">{% include lang.date.html date=page.date %}</div>
-	{% capture share %}{{ site.data.main.[share] }}{{ langvar }}{% endcapture %}
-	<h2>{{ share }}: <a href="{{ site.url }}{{ page.url }}">{{ site.data.main.[domain] }}{{ page.url }}</a></h2>
+	{% capture share %}share{{ langvar }}{% endcapture %}
+	<h2>{{ site.data.main.[share] }}: <a href="{{ site.url }}{{ page.url }}">{{ site.data.main.domain }}{{ page.url }}</a></h2>
 </footer>
 </article>

@@ -28,6 +28,12 @@ body {
 	}
 }
 
+a {
+	&:hover, &:active {
+		color: $blueLight;
+	}
+}
+
 .begender, .header, .entry, article > nav, article > footer {
 	max-width: 700px;
 	margin: auto;
@@ -53,9 +59,6 @@ body {
 	a {
 		color: $blue;
 		text-decoration: underline;
-		&:hover, &:active {
-			color: $blueLight;
-		}
 	}
 }
 
@@ -146,8 +149,12 @@ header {
 	padding: 1em 0;
 }
 
-.tags {
-	nav {
+article > nav {
+	padding: 0.5em;
+	a {
+		text-decoration: none;
+	}
+	.tags {
 		text-align: center;
 	}
 }
@@ -159,9 +166,6 @@ header {
 		text-decoration: none;
 		cursor: pointer;
 		background-color: $topw;
-		&:hover, &:active {
-			color: $blueLight;
-		}
 		@include dark-mode {
 			background-color: $topb;
 		}

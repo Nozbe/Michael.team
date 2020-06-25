@@ -1,3 +1,5 @@
+domain: "michael.team"
+
 name: "Michael Sliwinski"
 name_pl: "Michał Śliwiński"
 name_es: "Michael Sliwinski"
@@ -6,7 +8,13 @@ title: "Michael.team by Michael Sliwinski"
 title_pl: "Michael.team/PL - autor: Michał Śliwiński"
 title_es: "Michael.team/ES de Michael Sliwinski"
 
-domain: "michael.team"
+locale: en_EN
+locale_pl: pl_PL
+locale_es: es_ES
+
+share: "Copy & share"
+share_pl: "Prześlij dalej"
+share_es: "Comparte"
 
 descr: "[Hello](/now), I am [Michael Sliwinski](/about), founder of [Nozbe](https://nozbe.com/) - a to-do app for modern teams. I [write](/archive) about [productivity](/productivity), [#NoOffice](/tag/nooffice), [#iPadOnly](/tag/ipadonly) and I believe that *work is not a place you go to, it's a thing you do.*"
 descr_pl: "Hej, tu [Michał Śliwiński](/pl/omnie), założyciel [Nozbe](https://nozbe.com/pl/) - aplikacji do zadań dla nowoczesnych zespołów. [Po polsku](/pl/archiwum) piszę [o produktywności](/pl/tag/imagazine). Wierzę, że *praca to nie jest miejsce do którego idziesz, ale to co robisz.*"
@@ -21,16 +29,10 @@ searchbox_pl_no: "Nic nie znaleziono!"
 searchbox_es: "buscar..."
 searchbox_es_no: "¡No has encontrado nada!"
 
-locale: en_EN
-locale_pl: pl_PL
-locale_es: es_ES
 
 nav_next: Next
 nav_prev: Previous
 
-share: "Copy & share"
-share_pl: "Prześlij dalej"
-share_es: "Comparte"
 
 nav:
 - title: "🌎 Global"
