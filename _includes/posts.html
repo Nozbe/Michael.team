@@ -5,6 +5,7 @@ This can be used without limit, or with limit, or with offset:
 In here we create our own index (and not rely on the forloop.index, because we have to rule out the blog posts which are in each language and the same category - like webinars in en/es/pl - they belong to the same category
 {% endcomment %}
 
+
 {% if langlang==nil %}{% include lang.html %}{% endif %}
 {% if include.offset!=nil %}
   {% assign include_limit = include.limit | plus: include.offset %}
@@ -12,6 +13,30 @@ In here we create our own index (and not rely on the forloop.index, because we h
   {% assign include_limit = include.limit %}
 {% endif %}
 {% assign langindex = 0 %}
+{% capture read %}read{{ langvar }}{% endcapture %}
+
+
+{% for post in include.posts %}
+  {% if post.lang!=langlang %}{% continue %}{% endif %}
+  {% assign langindex = langindex | plus:1 %}
+  {% if include.offset!=nil %}
+    {% if langindex <= include.offset %}{% continue %}{% endif %}
+  {% endif %}
+  
+  <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+  <div class="date">{% include lang.date.html date=post.date %}</div>
+  {% if post.cover %}{% assign postimage = post.cover %}{% elsif post.img %}{% assign postimage = post.img %}{% else %}{% assign postimage = nil %}{% endif %}
+  {% if postimage %}
+  <p><a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/img/{{ postimage }}" alt="{{ post.title }}" /></a></p>
+  {% endif %}
+  {{ post.excerpt }}
+  <p><a href="{{ post.url }}" title="{{ post.title }}">{{ site.data.main.[read] }}…</a></p>
+  {% if langindex==include_limit %}{% break %}{% endif %}
+{% endfor %}
+
+
+{% comment %}
+Old implementation based on "posts", for now I'm simplifying this just like the archive.
 <div class="posts">
 {% for post in include.posts %}
   {% if post.lang!=langlang %}{% continue %}{% endif %}
@@ -29,3 +54,4 @@ In here we create our own index (and not rely on the forloop.index, because we h
   {% if langindex==include_limit %}{% break %}{% endif %}
 {% endfor %}
 </div>
+{% endcomment %}

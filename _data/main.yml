@@ -20,6 +20,10 @@ sharet: "Share on Twitter"
 sharet_pl: "Wrzuć na Twittera"
 sharet_es: "Comparte en Twitter"
 
+read: "Read more"
+read_pl: "Czytaj dalej"
+read_es: "Sigue leyendo"
+
 twitter: "@MSliwinski"
 
 descr: "[Hello](/now), I am [Michael Sliwinski](/about), founder of [Nozbe](https://nozbe.com/) - a to-do app for modern teams. I [write](/archive) about [productivity](/productivity), [#NoOffice](/tag/nooffice), [#iPadOnly](/tag/ipadonly) and I believe that *work is not a place you go to, it's a thing you do.*"

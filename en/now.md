@@ -28,9 +28,9 @@ I'm in [my home office](/tag/office) grounded by the “coronavirus”:
 
 This [“now”][n] page is inspired by [Derek Sievers][s]
 
-**Last update:** June 24, 2020.
+**Last update:** June 26, 2020.
 
-{% include play.html id=page.vid %}
+{% include video.html id=page.vid %}
 
 [Nozbe]: https://Nozbe.com/
 [n]: https://nownownow.com/p/Wwy1
