@@ -1,8 +1,7 @@
 {% if langvar==nil %}{% include lang.html %}{% endif %}
 {% capture taglist %}tags{{ langvar }}{% endcapture %}
-<nav>
+<nav class="tags">
 {% for item in site.data.main.[taglist] %}
-<a href="{{ site.url }}{{ item.link }}" title="{{ item.tit2 }}" {% if item.link == page.url %}class="bold"{% assign tag_name = item.name %}{% assign tag_title = item.titl %}{% assign tag_subtitle = item.tit2 %}{% endif %}>{{ item.emoj }}{{ item.titl }}</a>
+<a href="{{ site.url }}{{ item.link }}" title="{{ item.tit2 }}" {% if item.link == page.url %}class="bold"{% assign tag_name = item.name %}{% assign tag_title = item.titl %}{% assign tag_subtitle = item.tit2 %}{% assign tag_emoji = item.emoj %}{% endif %}>{{ item.emoj }}{{ item.titl }}</a>
 {% endfor %}
 </nav>
-<br>
