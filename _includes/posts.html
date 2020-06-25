@@ -2,7 +2,9 @@
 This can be used without limit, or with limit, or with offset:
 {% include posts.html posts=site.categories.en limit=1 %}
 {% include posts.html posts=site.categories.en offset=1 limit=2 %}
+{% include posts.html posts=site.categories.en offset=1 limit=2 more=1 %}
 In here we create our own index (and not rely on the forloop.index, because we have to rule out the blog posts which are in each language and the same category - like webinars in en/es/pl - they belong to the same category
+The "more" parameter is to make sure we want to display the images and the summary. Otherwise it's just title and date.
 {% endcomment %}
 
 
@@ -25,12 +27,14 @@ In here we create our own index (and not rely on the forloop.index, because we h
   
   <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
   <div class="date">{% include lang.date.html date=post.date %}</div>
+ {% if include.more %}
   {% if post.cover %}{% assign postimage = post.cover %}{% elsif post.img %}{% assign postimage = post.img %}{% else %}{% assign postimage = nil %}{% endif %}
   {% if postimage %}
   <p><a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/img/{{ postimage }}" alt="{{ post.title }}" /></a></p>
   {% endif %}
   {{ post.excerpt }}
   <p><a href="{{ post.url }}" title="{{ post.title }}">{{ site.data.main.[read] }}…</a></p>
+ {% endif %}
   {% if langindex==include_limit %}{% break %}{% endif %}
 {% endfor %}
 
