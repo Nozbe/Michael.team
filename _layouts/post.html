@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article class="post">
-{% if page.cover %}<header style="background: url('{{ site.url }}/img/{{ page.cover }}') center no-repeat;min-height: 300px;"><div class="header">{% else %}<header><div class="header headerblack">{% endif %}
+{% if page.cover %}<header style="background: url('{{ site.url }}/img/{{ page.cover }}') center top no-repeat; min-height: 400px;"><div class="header">{% else %}<header><div class="header headerblack">{% endif %}
 	<h1>{{ page.title }}</h1>
 	{% if page.subtitle %}<h2>{{ page.subtitle }}</h2>{% endif %}
 	<h3>{% include lang.tags.html tags=page.tags %}</h3>
