@@ -14,7 +14,7 @@ My name is Michael Sliwinski and this is my new blog. [Read more about me](/abou
 
 ## Latest updates:
 
-{% include posts.html posts=site.categories.en limit=10 %}
+{% include posts.html posts=site.categories.en limit=5 more=1 %}
 
 ## Read more
 
