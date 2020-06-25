@@ -29,6 +29,7 @@ body {
 }
 
 a {
+	color: $blue;
 	&:hover, &:active {
 		color: $blueLight;
 	}
@@ -57,7 +58,6 @@ a {
 		margin: 5px;
 	}
 	a {
-		color: $blue;
 		text-decoration: underline;
 	}
 }
@@ -154,17 +154,16 @@ article > nav {
 	a {
 		text-decoration: none;
 	}
-	.tags {
-		text-align: center;
-	}
+}
+
+article > nav .tags {
+	text-align: center;
 }
 
 .entry {
 	padding: 0 5px 10px;
 	a {
-		color: $blue;
 		text-decoration: none;
-		cursor: pointer;
 		background-color: $topw;
 		@include dark-mode {
 			background-color: $topb;
