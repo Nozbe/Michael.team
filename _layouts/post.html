@@ -16,6 +16,6 @@ layout: default
 	{% capture share %}share{{ langvar }}{% endcapture %}
 	{% capture tweet %}sharet{{ langvar }}{% endcapture %}
 	<h3>{{ site.data.main.[share] }}: <a href="{{ site.url }}{{ page.url }}">{{ site.data.main.domain }}{{ page.url }}</a></h3>
-	<h4><a href="https://twitter.com/intent/tweet?text={{ page.title }}&via={{ site.data.main.twitter }}&url={{ site.data.main.domain }}{{ page.url }}&hashtags={{ tagcommas }}">{{ site.data.main.[tweet] }}</a></h4>
+	<h4><a href="https://twitter.com/intent/tweet?text={{ page.title }}&via={{ site.data.main.twitter }}&url={{ site.url }}{{ page.url }}&hashtags={{ tagcommas }}">{{ site.data.main.[tweet] }}</a></h4>
 </footer>
 </article>

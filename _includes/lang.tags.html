@@ -8,7 +8,7 @@
           {{ item.emoj }}
         {% else %}
           {{ comma }}<a href="{{ item.link }}">{{ item.emoj }}{{ item.titl }}</a>{% assign comma = "," %}
-          {% capture tagcommas %}{{ tagcommas }}{{ comma2 }}{{ item.titl }}{% endcapture %}{% assign comma2 = "," %}
+          {% capture tagcommas %}{{ tagcommas }}{{ comma2 }}{{ item.name }}{% endcapture %}{% assign comma2 = "," %}
         {% endif %}
       {% endif %}
     {% endfor %}
