@@ -14,6 +14,8 @@ layout: default
 <footer>
 	<div class="date">{% include lang.date.html date=page.date %}</div>
 	{% capture share %}share{{ langvar }}{% endcapture %}
-	<h2>{{ site.data.main.[share] }}: <a href="{{ site.url }}{{ page.url }}">{{ site.data.main.domain }}{{ page.url }}</a></h2>
+	{% capture tweet %}sharet{{ langvar }}{% endcapture %}
+	<h3>{{ site.data.main.[share] }}: <a href="{{ site.url }}{{ page.url }}">{{ site.data.main.domain }}{{ page.url }}</a></h3>
+	<h4><a href="https://twitter.com/intent/tweet?text={{ page.title }}&via={{ site.data.main.twitter }}&url={{ site.data.main.domain }}{{ page.url }}&hashtags={{ tagcommas }}">{{ site.data.main.[tweet] }}</a></h4>
 </footer>
 </article>
