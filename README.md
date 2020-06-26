@@ -35,3 +35,15 @@ I've fallen in love with Jekyll and now I'm migrating all of my stuff there. It 
 - pages of stuff I care about
 - redirection from michael.gratis
 - /books/ - with books to read online
+
+
+Tips and tricks:
+
+{% highlight markdown %}
+![](path_to_image)
+*image_caption*
+
+[link](url){:target="_blank"}
+{% endhighlight %}
+
+[Kramdown reference](https://kramdown.gettalong.org/quickref.html){:target="_blank"}
