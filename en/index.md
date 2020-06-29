@@ -1,5 +1,6 @@
 ---
 permalink: /
+cover: michael.team.home.jpg
 ---
 
 # Michael's in tha house!

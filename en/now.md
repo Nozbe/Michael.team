@@ -3,6 +3,7 @@ permalink: /now/
 title: "Michael Sliwinski's NOW page"
 subtitle: "What am I doing now?"
 vid: "w2L41TRhc-0"
+cover: michael.team.now.jpg
 ---
 
 I'm in [my home office](/tag/office) grounded by the “coronavirus”:
