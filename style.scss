@@ -85,12 +85,8 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	color: $darkerGray;
 	font-weight: 400;
 	line-height: 1.2em;
-	@include dark-mode {
-		color: $lighterGray;
-	}
 }
 
 h1 {
@@ -176,6 +172,12 @@ article > nav {
 		color: $newgray;
 		display: block;
 		text-align: center;
+	}
+	h1, h2, h3, h4, h5, h6 {
+		color: $darkerGray;
+		@include dark-mode {
+			color: $lighterGray;
+		}
 	}
 }
 
