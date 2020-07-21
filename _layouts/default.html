@@ -57,10 +57,12 @@
 <link rel="alternate" type="application/rss+xml" title="{{ site.data.main.[pagetitle] }}" href="{{ site.url }}{{ langpath }}/atom.xml" />
 <link rel="icon" type="image/png" href="{{ site.avatar }}">
 
-</head>
-
-<body>
-
+{% if page.js %}
+<script type="text/javascript" src="{{ site.url }}/js/scripts.js"></script>
+</head><body onload="{{ page.js }}();">
+{% else %}
+</head><body>
+{% endif %}
 <div class="begend" id="top">
 	<div class="begender">
 		<a href="/" class="avatar" title="{{ site.data.main.[pagetitle] }}"><img src="/icon.dark.png" alt="MS"></a>

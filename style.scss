@@ -244,6 +244,34 @@ img {
 	}
 }
 
+// CSS Spinner
+
+@keyframes spinner {
+	to {transform: rotate(360deg);}
+}
+ 
+#spinner {
+	width: 200px;
+	position: absolute;
+	margin: 0 auto;
+}
+ 
+.spinner:before {
+	content: '';
+	box-sizing: border-box;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 20px;
+	height: 20px;
+	margin-top: -10px;
+	margin-left: -10px;
+	border-radius: 50%;
+	border-top: 2px solid $blue;
+	border-right: 2px solid transparent;
+	animation: spinner .6s linear infinite;
+}
+
 // Specify the color of the selection
 ::-moz-selection {
 	color: $black;
