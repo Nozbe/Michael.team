@@ -7,6 +7,7 @@ const URL = "https://michael.team/";
 function getNow () {
 	let intro = document.querySelector("#intro");
 	intro.after(createSpinner());
+	alert (URL);
 	let now = document.createElement('article');
 	now.innerHTML = getArticle('now200626');
 	createSpinner(true);
