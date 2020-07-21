@@ -3,11 +3,15 @@
 // published under CC license: michael.team/license
 
 const URL = "https://michael.team/";
+const POSTS = "searchposts.json"; //json with all the posts
 
+//getting the latest "now" post from "now" tag
 function getNow () {
-  getArticle('now200626','#intro');
+	let latestNow = getPostTag('now');
+	getArticle(latestNow,'#intro');
 }
 
+//fetching an article from the system
 function getArticle (url,where) {
 	let place = document.querySelector(where); //get place after which we'll put stuff
 	place.after(createSpinner()); //show spinner
@@ -26,6 +30,35 @@ function getArticle (url,where) {
 	})
 }
 
+//getting the url of the latest post in the specified tag
+function getPostTag(tag) {
+	let mytag = false;
+	let counter = 0; //counter is not used yet, it's here just in case
+	let limit = 4; //4 items in json per one blog post
+	fetch(URL + POSTS)
+	.then((response) => response.text())
+	.then((responseText) => {
+		let posts = JSON.parse(responseText, function(key, value) {
+			if (counter < limit) {
+				if (key == 'tags') {
+					if (value == tag) mytag = true;
+				}
+				if (mytag) {
+					if (key == 'url') {
+						return value; //getting the first url of the tag
+						//mytag = false;
+					}
+				}
+				counter++;
+			}
+		});
+	})
+	.catch((error) => {
+		console.error(error)
+	})
+}
+
+//shows a CSS spinner or removes it
 function createSpinner (destroy=false) {
 	let spinner = document.createElement('div');
 	spinner.setAttribute('id','spinner');
