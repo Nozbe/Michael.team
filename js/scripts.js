@@ -2,12 +2,12 @@
 // written by Michael Sliwinski
 // published under CC license: michael.team/license
 
-const URL = "https://michael.team/";
-const POSTS = "searchposts.json"; //json with all the posts
+const URL = "https://michael.team"; //my main domain
+const POSTS = "/searchposts.json"; //json with all the posts
 
 //getting the latest "now" post from "now" tag
 function getNow () {
-	let latestNow = getPostTag('now');
+	let latestNow = getPostTag('now','#intro');
 }
 
 //fetching an article from the system
