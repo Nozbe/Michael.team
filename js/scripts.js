@@ -8,11 +8,10 @@ const POSTS = "searchposts.json"; //json with all the posts
 //getting the latest "now" post from "now" tag
 function getNow () {
 	let latestNow = getPostTag('now');
-	getArticle(latestNow,'#intro');
 }
 
 //fetching an article from the system
-function getArticle (url,where) {
+function getArticle (url, where) {
 	let place = document.querySelector(where); //get place after which we'll put stuff
 	place.after(createSpinner()); //show spinner
 	let element = document.createElement('article'); //create article
@@ -31,7 +30,7 @@ function getArticle (url,where) {
 }
 
 //getting the url of the latest post in the specified tag
-function getPostTag(tag) {
+function getPostTag(tag, where) {
 	let mytag = false;
 	let counter = 0; //counter is not used yet, it's here just in case
 	let limit = 4; //4 items in json per one blog post
@@ -45,6 +44,7 @@ function getPostTag(tag) {
 				}
 				if (mytag) {
 					if (key == 'url') {
+						getArticle (value,where);
 						return value; //getting the first url of the tag
 						//mytag = false;
 					}
