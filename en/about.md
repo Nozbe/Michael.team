@@ -12,19 +12,19 @@ cover: michael.team.about.jpg
 
 Hi, I'm [Michael Sliwinski](https://sliwinski.com/){:target='_blank'} and I'm the [founder and CEO](https://nozbe.com/michael){:target='_blank'} of [Nozbe](https://nozbe.com/){:target='_blank'} - a to-do app for teams. We're a team of [25 people who work completely remotely from their 25 "home offices"](https://nozbe.com/about){:target='_blank'} and we've been doing this for the last 13+ years now. Nozbe and Nozbe Teams have more than 700K users from all over the world.
 
-## My mission: help small teams do great things!
+## I'm on a mission to help small teams do great things!
 
 I'm all about "team productivity" and what it means for me is helping teams work better, in a calmer way, with flexible work hours, from anywhere (remote for life!) and with the modern tools of 2020.
 
-## My bio - a team productivity guy
+## Short bio - a team productivity guy
 
 Michael Sliwinski is a team productivity enthusiast who’s passionate about working remotely (#NoOffice) and in a mobile way (#iPadOnly). He's the founder of [Nozbe and Nozbe Teams](https://nozbe.com/){:target='_blank'}, apps that help people and teams get more done in a better way on any platform (web-based with native apps for the Mac, Windows, Android, iPad and the iPhone + Apple Watch).
 
-Full bio and more details below.
+[Here's my full story](https://michael.team/about/#my-story-if-youre-really-that-interested)
 
-## My photos
+## Selfies
 
-Just right click and "save as" to download them in full res:
+If you need my photos, just right click and "save as" to download them in full res:
 
 ![Michael Black](/img/michael.black.jpg){: style="height: 200px;"} ![Michael Team](/img/michael.team.jpg){: style="height: 200px;"} ![Michael London](/img/michael.london.jpg){: style="height: 200px;"}
 
@@ -53,7 +53,7 @@ Right after my graduation in 2003 I set up my own company "apivision.com" to pur
 
 Initially I started Nozbe because I wanted to better manage my time and I was inspired by David Allen's book "Getting Things Done". Back in 2005 I couldn't find a tool that'd work for me so I built my own. I basically rewrote it twice before I launched it in 2007. Nozbe was my side project for an entire year before I decided to focus on running it full time in 2008. Now we're a 20+ fully-remote people in the Nozbe team. [Here's a short history of Nozbe written for our 10th anniversary](https://nozbe.com/blog/10-years/)
 
-[I love what I do](https://sliwinski.com/5-loves/) so it doesn't feel like work. But apart from that I try to remain fit, especially as [I lost weight](https://sliwinski.com/fitness2014/) thanks to ["slow carb diet"](https://sliwinski.com/slow-carb-diet/) and started running [triathlons](https://sliwinski.com/triathlon) (I do 3-4 [olympic distance](https://sliwinski.com/triathlon-list/) a year: 1500m swim, 40km bike and 10km run).
+[I love what I do](https://sliwinski.com/5-loves/) so it doesn't feel like work. But apart from that I try to remain fit, especially as [I lost weight](https://sliwinski.com/fitness2014/) thanks to ["slow carb diet"](https://sliwinski.com/slow-carb-diet/) and started running [triathlons](https://sliwinski.com/triathlon) (I do 3-4 [olympic distance](https://sliwinski.com/triathlon-list/) a year: 1500m swim, 40km bike and 10km run). And recently [I picked up tennis](https://sliwinski.com/tennis).
 
 I also [read about 30 books](https://sliwinski.com/reading) per year (actually [I’m listening to them](https://sliwinski.com/reading-audiobooks-and-absorbing-content)). I am a geek who likes technology gadgets (I'm an Apple fanboy) and cars. I am a [Christian](https://sliwinski.com/catholic) (Roman Catholic) and believe Jesus Christ to be my savior.
 
