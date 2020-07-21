@@ -61,7 +61,7 @@
 
 <body>
 
-<div class="begend">
+<div class="begend" id="top">
 	<div class="begender">
 		<a href="/" class="avatar" title="{{ site.data.main.[pagetitle] }}"><img src="/icon.dark.png" alt="MS"></a>
 		<div class="topright">{% for item in site.data.main.nav %}&nbsp;<a href="{{ site.url }}{{ item.url }}"{% if item.url == '/' %}{% if page.lang=='en' %} class="bold"{% endif %}{% else %}{% capture navlang %}/{{ page.lang }}/{% endcapture %}{% if item.url contains navlang %} class="bold"{% endif %}{% endif %}>{{ item.title }}</a>{% endfor %}
@@ -72,7 +72,7 @@
 
 {{ content }}
 
-<div class="begend">
+<div class="begend" id="footer">
 	<div class="begender center"><p>&copy; {{ site.time | date: '%Y' }} <a href="{{ site.url }}/">{{ site.data.main.[pagename] }}</a></p>
 	</div>
 </div>
