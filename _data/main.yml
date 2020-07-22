@@ -59,7 +59,7 @@ tags:
   emoj: "⌨️"
   link: "/tag/blogging/"
   titl: "Blogging w/Jekyll"
-  tit2: "I've had a personal blog since 2008. You can browse my full archives at [sliwinski.com](https://sliwinski.com/archive){:target='_blank'}. I've set up this blog using [Jekyll](https://jekyllrb.com){:target='_blank'} and I'll be migrating my old blog posts to here in the future. I really enjoy posting directly from my iPad, writing posts in [iA Writer](https://ia.net/writer){:target='_blank'}, coding in [Textastic](https://www.textasticapp.com){:target='_blank'}, publishing it on [GitHub Pages](https://pages.github.com){:target='_blank'} using [WorkingCopy](https://workingcopyapp.com){:target='_blank'}."
+  tit2: "I've had a personal blog since 2008. You can browse my full archives at [sliwinski.com](https://sliwinski.com/archive){:target='_blank'}. I've set up this blog [very recently](/new) and I'll be migrating my old blog posts to here in the future."
 - name: now
   emoj: "📝"
   link: "/tag/now/"

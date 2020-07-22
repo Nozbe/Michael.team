@@ -22,7 +22,7 @@ Now witht the launch of [Nozbe Teams](https://nozbe.com/){:target='_blank'} I'm 
 
 I post stuff mostly here in English, but I do sometimes [write or do interviews in Polish](/pl) or do webinars or public speaking in [Spanish](/es). I also speak German, for the record.
 
-P.S. This is my new site, which [I just launched](/team). My previous site [is here: Sliwinski.com](https://sliwinski.com){:target='_blank'}.
+P.S. This is my new site, which [I just launched](/new). My previous site is here: [Sliwinski.com](https://sliwinski.com){:target='_blank'}.
 
 ## Find something on this site
 

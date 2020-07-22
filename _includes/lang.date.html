@@ -1,6 +1,10 @@
 {% if langlang==nil %}{% include lang.html %}{% endif %}
 {% if langlang=='en' %}
-  {% assign langdateshow = include.date | date: "%A, %B %e, %Y" %}
+  {% if include.month %}
+    {% assign langdateshow = include.date | date: "%B %Y" %}
+  {% else %}
+    {% assign langdateshow = include.date | date: "%A, %B %e, %Y" %}
+  {% endif %}
 {% else %}
   {% if langweeks==nil %}{% include lang.months.html %}{% endif %}
   {% assign langdatewek = include.date | date: "%u" %}
@@ -9,6 +13,10 @@
   {% assign langdatemth = include.date | date: "%-m" %}
   {% assign langdatemth = langdatemth | plus:0 %}
   {% assign langdateyer = include.date | date: "%Y" %}
-  {% capture langdateshow %}{{ langweeks[langdatewek] }}, {{ langdateday }} {{ langmonths[langdatemth] }} {{ langdateyer }}{% endcapture %}
+  {% if include.month %}
+    {% capture langdateshow %}{{ langmonths[langdatemth] }} {{ langdateyer }}{% endcapture %}
+  {% else %}
+    {% capture langdateshow %}{{ langweeks[langdatewek] }}, {{ langdateday }} {{ langmonths[langdatemth] }} {{ langdateyer }}{% endcapture %}
+  {% endif %}
 {% endif %}
 {{ langdateshow }}
