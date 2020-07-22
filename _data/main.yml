@@ -74,14 +74,14 @@ tags:
   emoj: "💻"
   link: "/tag/webinar/"
   titl: "Webinars"
-  tit2: "Webinars I've given as founder of [Nozbe](https://nozbe.com/) and as a personal and team productivity guy. Each one is packed with lots of time and project management tips and tricks I've learned over the years. Make sure to check them out and learn for free!"
+  tit2: "Webinars I've given as founder of [Nozbe](https://nozbe.com/){:target='_blank'} and as a personal and team productivity guy. Each one is packed with lots of time and project management tips and tricks I've learned over the years. Make sure to check them out and learn for free!"
 
 tags_pl:
 - name: imagazine
   emoj: "👨🏼‍💻"
   link: "/pl/tag/imagazine/"
   titl: "iMagazine"
-  tit2: "Felietony jakie piszę do [iMagazine](https://iMagazine.pl) od początku powstawania tego magazynu"
+  tit2: "Felietony jakie piszę do [iMagazine](https://iMagazine.pl){:target='_blank'} od początku powstawania tego magazynu"
 - name: gosc
   emoj: "😎"
   link: "/pl/tag/gosc/"
@@ -91,14 +91,14 @@ tags_pl:
   emoj: "💻"
   link: "/pl/tag/webinar/"
   titl: "Webinary"
-  tit2: "Webinary, które organizowałem jako założyciel [Nozbe](https://nozbe.com/pl/) oraz ekspert z dziedziny produktywności osobistej i zespołowej czy zarządzania sobą w czasie. Każdy Webinar to solidna dawka wiedzy, więc zapraszam do słuchania, oglądania i nauki zupełnie za darmo!"
+  tit2: "Webinary, które organizowałem jako założyciel [Nozbe](https://nozbe.com/pl/){:target='_blank'} oraz ekspert z dziedziny produktywności osobistej i zespołowej czy zarządzania sobą w czasie. Każdy Webinar to solidna dawka wiedzy, więc zapraszam do słuchania, oglądania i nauki zupełnie za darmo!"
 
 tags_es:
 - name: webinar
   emoj: "💻"
   link: "/es/tag/webinar/"
   titl: "Webinars"
-  tit2: "Webinars que preparé como fundador de [Nozbe](https://nozbe.com/es/) y como experto de productividad personal y gestión de los equipos. Cada webinar contiene muchos trucos y consejos, así que disfruta y ¡aprende gratis!"
+  tit2: "Webinars que preparé como fundador de [Nozbe](https://nozbe.com/es/){:target='_blank'} y como experto de productividad personal y gestión de los equipos. Cada webinar contiene muchos trucos y consejos, así que disfruta y ¡aprende gratis!"
 
 other_tags:
 - name: video
@@ -110,7 +110,7 @@ other_tags:
   emoj: "👨🏼‍💻"
   link: "/tag/imagazine/"
   titl: "iMagazine"
-  tit2: "I write a monthly column to the leading Polish lifestyle magazine [iMagazine](https://iMagazine.pl) - if you speak Polish, I keep an [archive of most of these articles](/pl/tag/imagazine)"
+  tit2: "I write a monthly column to the leading Polish lifestyle magazine [iMagazine](https://iMagazine.pl){:target='_blank'} - if you speak Polish, I keep an [archive of most of these articles](/pl/tag/imagazine)"
 
 
 week_pl: "Tydzień, Poniedziałek, Wtorek, Środa, Czwartek, Piątek, Sobota, Niedziela"

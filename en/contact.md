@@ -36,7 +36,7 @@ If you want to learn productivity the fastest way possible:
 
 [Email me][email] if you want to:
 
-* book me for a speaking gig
+* book me for a [speaking gig](/about/#speaking)
 * do an [interview with me](/guest) - you'll find [my bio](/about/#short-bio) and [pictures](/about/#selfies) on my [about page](/about)
 * ask me anything else - I will try to help if I can
 

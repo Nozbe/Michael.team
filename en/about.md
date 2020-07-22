@@ -10,17 +10,17 @@ cover: michael.team.about.jpg
 
 ## Your host - founder and CEO of Nozbe
 
-Hi, I'm [Michael Sliwinski](https://sliwinski.com/){:target='_blank'} and I'm the [founder and CEO](https://nozbe.com/michael){:target='_blank'} of [Nozbe](https://nozbe.com/){:target='_blank'} - a to-do app for teams. We're a team of [25 people who work completely remotely from their 25 "home offices"](https://nozbe.com/about){:target='_blank'} and we've been doing this for the last 13+ years now. Nozbe and Nozbe Teams have more than 700K users from all over the world.
+Hi, I'm [Michael Sliwinski](https://sliwinski.com/){:target='_blank'} and I'm the [founder and CEO](https://nozbe.com/michael){:target='_blank'} of [Nozbe and Nozbe Teams](https://nozbe.com/){:target='_blank'} - to-do apps for busy professionals and teams. I'm <leading></leading> a team of [25 people who work completely remotely from their 25 "home offices"](https://nozbe.com/about){:target='_blank'} and we've been doing this for the last 13+ years now. Nozbe and Nozbe Teams have more than 700K users from all over the world.
 
 ## I'm on a mission to help small teams do great things!
 
-I'm all about "team productivity" and what it means for me is helping teams work better, in a calmer way, with flexible work hours, from anywhere (remote for life!) and with the modern tools of 2020.
+I'm all about "team productivity" and what it means for me is helping teams work better, in a calmer way, leveraging trust, flexible hours and work from anywhere (remote for life!) and all that with the modern tools and technology of 2020.
 
 ## Short bio
 
 Here's my short bio:
 
-> Michael Sliwinski is a team productivity enthusiast who’s passionate about working remotely (#NoOffice) and in a mobile way (#iPadOnly). He's the founder of [Nozbe and Nozbe Teams](https://nozbe.com/){:target='_blank'}, apps that help people and teams get more done in a better way on any platform (web-based with native apps for the Mac, Windows, Android, iPad and the iPhone + Apple Watch).
+> Michael Sliwinski is a team productivity enthusiast who’s passionate about working remotely (#NoOffice) and in a mobile way (#iPadOnly). He's the founder of [Nozbe and Nozbe Teams](https://nozbe.com/){:target='_blank'}, apps that help people and teams get more done in a better way on any platform (web-based with native apps for the Mac, Windows, Android, iPad and the iPhone + Apple Watch). Privately Michael is a husband and a father of 3 girls.
 
 [Here's my full story](https://michael.team/about/#my-story)
 
@@ -29,6 +29,10 @@ Here's my short bio:
 If you need my photos for an interview, just right click and "save as" to download them in full res:
 
 ![Michael Black](/img/michael.black.jpg){: style="height: 200px;"} ![Michael Team](/img/michael.team.jpg){: style="height: 200px;"} ![Michael London](/img/michael.london.jpg){: style="height: 200px;"}
+
+## This site is open source
+
+You can copy and share any part of this site, but just give back credits to me. It's published using [Creative Commons Attribution-ShareAlike 4.0 license](/license). Everything - the content, the code, anything - feel free to share it, use it, re-use it. Just remember to give me credit. I'll also soon publish the code for this site completely open on GitHub.
 
 ## My additional projects:
 
@@ -42,6 +46,22 @@ If you need my photos for an interview, just right click and "save as" to downlo
 * Between 2008-2017 I used to run the [Productive! Magazine](http://productivemag.com/issues) where together with other productivity experts we shared our best tips and tricks. All the issues are available for free on the web in **[English](http://productivemag.com)**, [Polish](http://productivemag.pl), [Spanish](http://productivemag.es), [Dutch](http://productivemag.nl) and [Japanese](http://productivemag.jp)
 * Before Nozbe (i.e. before 2007) as [apivision.com](http://apivision.com) I was a one-man web marketing department/consultant for [BuySculpture.com](https://buysculpture.com)
 * Before that in the early 2000s I failed at launching several startups: [RSS publishing with HitRSS.com](http://hitrss.com), [Email auto-responders with Wyslij.info](http://wyslij.info) and banner-agency "ELLO". I also wrote a Windows launcher [called QTbar](http://qtbar.com) when I was in collage.
+
+## Speaking
+
+You can hire me to speak at your event!
+
+> I'm Passionate about Productivity, Entrepreneurship and Technology that help us get things done.
+
+These are the three topics I'm being asked to speak at events all over the world. I've been a keynote speaker at various conferences and events (including TEDx) in the USA, Germany and Poland. As a productivity expert I've been featured on BBC and other media channels. These days I'm extremely busy running Nozbe, so I only accept a limited number of offers to speak per year. One of my recent ones was the one at InfoShare 2018:
+
+{% include video.html id="FyAHtCTJWsU" %}
+
+Here's what people say about me speaking:
+
+> "Michael spoke to my team about productivity, time management and the tools that help him achieve his goals. His presentation left us motivated and excited to get more organized and achieve more in less time and with less stress. Michael speaks with authenticity and humor and delivers his productivity message with authority born of experience and passion. We could not have been more satisfied with what Michael provided us at Polidea's Non-Tech Talk." - **CEO at Polidea**
+
+[Contact me if you want me to speak at your event](/contact)
 
 ## My story
 
@@ -72,6 +92,10 @@ I also [read about 30 books](https://sliwinski.com/reading) per year (actually [
 ### I work in "No Office"
 
 [I work from home](https://sliwinski.com/tag/office) and everyone on [my team works remotely](https://sliwinski.com/teleworking). I believe that *"job is not a place to go but a thing you do"*. I live in a very beautiful place in Europe with my wife Ewelina (who is a lawyer and you can see her on the photo above) and my three amazing daughters: Milena, Emilia and Liliana.
+
+Here's a video that I recorded a while back that illustrates what I'm about:
+
+{% include video.html id="yN4WeGwGcqg" %}
 
 My name in Polish is: **Michał Śliwiński**.
 
