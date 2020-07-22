@@ -25,7 +25,8 @@ layout: page
     <h3>{{ monthname }}{% if year.name!=currentYear %} {{ year.name }}{% endif %}</h3>
     {% for post in month.items %}
       <h3><a href="{{ post.url }}">{% include lang.tags.html tags=post.tags short="true" %}{{ post.title }}</a></h3>
-      <div class="date">{% include lang.date.html date=post.date %}</div>
+      {% include lang.date.html date=post.date %}
+      <div class="date">{{ langdate }}</div>
     {% endfor %}
   {% endfor %}
 {% endfor %}

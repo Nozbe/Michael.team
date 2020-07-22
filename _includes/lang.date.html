@@ -1,8 +1,18 @@
-{% if langlang==nil %}{% include lang.html %}{% endif %}{% if langlang=='en' %}
+{% comment %}
+Getting the date based on the language of the post - English, Spanish or Polish
+Output is "langdate" variable. You first call:
+{% include lang.date.html date=page.date %}
+and later below you put:
+{{ langdate }}
+The default output is: "Wednesday, January 1, 2020"
+Additional optional parameter is "month". If true, the date will display "January 2020".
+{% endcomment %}
+{% if langlang==nil %}{% include lang.html %}{% endif %}
+{% if langlang=='en' %}
   {% if include.month %}
-    {% assign langdateshow = include.date | date: "%B %Y" %}
+    {% assign langdate = include.date | date: "%B %Y" %}
   {% else %}
-    {% assign langdateshow = include.date | date: "%A, %B %e, %Y" %}
+    {% assign langdate = include.date | date: "%A, %B %e, %Y" %}
   {% endif %}
 {% else %}
   {% if langweeks==nil %}{% include lang.months.html %}{% endif %}
@@ -13,8 +23,8 @@
   {% assign langdatemth = langdatemth | plus:0 %}
   {% assign langdateyer = include.date | date: "%Y" %}
   {% if include.month %}
-    {% capture langdateshow %}{{ langmonths[langdatemth] }} {{ langdateyer }}{% endcapture %}
+    {% capture langdate %}{{ langmonths[langdatemth] }} {{ langdateyer }}{% endcapture %}
   {% else %}
-    {% capture langdateshow %}{{ langweeks[langdatewek] }}, {{ langdateday }} {{ langmonths[langdatemth] }} {{ langdateyer }}{% endcapture %}
+    {% capture langdate %}{{ langweeks[langdatewek] }}, {{ langdateday }} {{ langmonths[langdatemth] }} {{ langdateyer }}{% endcapture %}
   {% endif %}
-{% endif %}{{ langdateshow }}
+{% endif %}

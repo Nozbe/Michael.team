@@ -7,7 +7,6 @@ In here we create our own index (and not rely on the forloop.index, because we h
 The "more" parameter is to make sure we want to display the images and the summary. Otherwise it's just title and date.
 {% endcomment %}
 
-
 {% if langlang==nil %}{% include lang.html %}{% endif %}
 {% if include.offset!=nil %}
   {% assign include_limit = include.limit | plus: include.offset %}
@@ -17,7 +16,6 @@ The "more" parameter is to make sure we want to display the images and the summa
 {% assign langindex = 0 %}
 {% capture read %}read{{ langvar }}{% endcapture %}
 
-
 {% for post in include.posts %}
   {% if post.lang!=langlang %}{% continue %}{% endif %}
   {% assign langindex = langindex | plus:1 %}
@@ -26,7 +24,8 @@ The "more" parameter is to make sure we want to display the images and the summa
   {% endif %}
   
   <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-  <div class="date">{% include lang.date.html date=post.date %}</div>
+  {% include lang.date.html date=post.date %}
+  <div class="date">{{ langdate }}</div>
  {% if include.more %}
   {% if post.cover %}{% assign postimage = post.cover %}{% elsif post.img %}{% assign postimage = post.img %}{% else %}{% assign postimage = nil %}{% endif %}
   {% if postimage %}
@@ -37,25 +36,3 @@ The "more" parameter is to make sure we want to display the images and the summa
  {% endif %}
   {% if langindex==include_limit %}{% break %}{% endif %}
 {% endfor %}
-
-
-{% comment %}
-Old implementation based on "posts", for now I'm simplifying this just like the archive.
-<div class="posts">
-{% for post in include.posts %}
-  {% if post.lang!=langlang %}{% continue %}{% endif %}
-  {% assign langindex = langindex | plus:1 %}
-  {% if include.offset!=nil %}
-    {% if langindex <= include.offset %}{% continue %}{% endif %}
-  {% endif %}
-  <div class="post">
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <div class="date">{% include lang.date.html date=post.date %}</div>
-    <div class="entry">
-    {{ post.excerpt }}
-    </div>
-  </div>
-  {% if langindex==include_limit %}{% break %}{% endif %}
-{% endfor %}
-</div>
-{% endcomment %}
