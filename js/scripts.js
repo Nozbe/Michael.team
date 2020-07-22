@@ -32,24 +32,22 @@ function getArticle (url, where) {
 //getting the url of the latest post in the specified tag
 function getPostTag(tag, where) {
 	let mytag = false;
-	let counter = 0; //counter is not used yet, it's here just in case
-	let limit = 4; //4 items in json per one blog post
+	let counter = 0; //to catch it only once
 	fetch(URL + POSTS)
 	.then((response) => response.text())
 	.then((responseText) => {
 		let posts = JSON.parse(responseText, function(key, value) {
-			if (counter < limit) {
-				if (key == 'tags') {
-					if (value == tag) mytag = true;
+			if (key == 'tags') {
+				if (value == tag){
+					if (!counter) mytag = true;
 				}
-				if (mytag) {
-					if (key == 'url') {
-						getArticle (value,where);
-						return value; //getting the first url of the tag
-						//mytag = false;
-					}
+			}
+			if (mytag) {
+				if (key == 'url') {
+					getArticle (value,where);
+					counter++;
+					mytag = false;
 				}
-				counter++;
 			}
 		});
 	})
