@@ -1,5 +1,4 @@
-{% if langlang==nil %}{% include lang.html %}{% endif %}
-{% if langlang=='en' %}
+{% if langlang==nil %}{% include lang.html %}{% endif %}{% if langlang=='en' %}
   {% if include.month %}
     {% assign langdateshow = include.date | date: "%B %Y" %}
   {% else %}
@@ -18,5 +17,4 @@
   {% else %}
     {% capture langdateshow %}{{ langweeks[langdatewek] }}, {{ langdateday }} {{ langmonths[langdatemth] }} {{ langdateyer }}{% endcapture %}
   {% endif %}
-{% endif %}
-{{ langdateshow }}
+{% endif %}{{ langdateshow }}
