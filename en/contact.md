@@ -1,6 +1,6 @@
 ---
 permalink: /contact
-cover: thepodcast-208.jpg
+cover: michael.team.home.jpg
 title: Connect with Michael Sliwinski
 subtitle: How to find me on social media or get in touch!
 ---

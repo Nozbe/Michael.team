@@ -1,10 +1,10 @@
 ---
 permalink: /
-cover: michael.team.home.jpg
+cover: michael.team.podcast.jpg
 title: Michael Sliwinski
 ---
 
-## Hello there! Here's me in 10 seconds:
+## Hello there! Let's talk about team productivity!
 
 I'm the founder of [Nozbe and Nozbe Teams](https://nozbe.com/){:target='_blank'} - to-do apps for busy professionals and teams which I've been running for the last 13 years. I'm also a writer ([#iPadOnly](https://iPadOnly.com){:target='_blank'} and [#NoOffice](https://NoOffice.org){:target='_blank'}) and [podcaster](https://thepodcast.fm){:target='_blank'}.
 

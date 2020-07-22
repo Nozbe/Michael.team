@@ -30,6 +30,16 @@ Si necesitas fotos de Michael, "guarda como" cualquiera de estas fotos:
 
 ![Michael Black](/img/michael.black.jpg){: style="height: 200px;"} ![Michael Team](/img/michael.team.jpg){: style="height: 200px;"} ![Michael London](/img/michael.london.jpg){: style="height: 200px;"}
 
+## Contacto
+
+En las redes sociales me puedes buscar en [Twitter](https://twitter.com/MSliwinski) o [LinkedIn](https://www.linkedin.com/in/michaelsliwinski).
+
+Si tienes preguntas sobre [Nozbe, ponte en contacto con nuestro soporte de cliente](https://nozbe.com/contact){:target='_blank'}
+
+También me puedes enviar un [correo electrónico][email] pero ya te digo que leo cada email, pero puedo tardar en contestar.
+
+[email]: mailto:michaels@hey.com
+
 ## Mis últimas entradas
 
 {% include posts.html posts=site.categories.es limit=5 more=1 %}
