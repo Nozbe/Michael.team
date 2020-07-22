@@ -1,4 +1,4 @@
-# Witam na Polskiej stronie Michała Śliwińskiego
+# Michał Śliwiński
 
 Super strona! Sprawdzam, czy kategoria działa...
 

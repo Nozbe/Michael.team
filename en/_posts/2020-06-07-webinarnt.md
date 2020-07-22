@@ -7,9 +7,9 @@ tags: [webinar]
 
 Here's a recording of a webinar I did to show off the early version of [Nozbe Teams](https://nozbe.com/).
 
-<!--More--> 
-
 {% include video.html id=page.vid %}
+
+<!--More--> 
 
 Watch it and see how your team can do great things by ditching email & meetings. 
 

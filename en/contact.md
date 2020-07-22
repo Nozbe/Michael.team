@@ -37,10 +37,10 @@ If you want to learn productivity the fastest way possible:
 [Email me][email] if you want to:
 
 * book me for a speaking gig
-* do an [interview with me](/guest) - you'll find [my bio](/about/#short-bio---a-team-productivity-guy) and [pictures](/about/#selfies) on my [about page](/about)
+* do an [interview with me](/guest) - you'll find [my bio](/about/#short-bio) and [pictures](/about/#selfies) on my [about page](/about)
 * ask me anything else - I will try to help if I can
 
-I do read all the email but I sometimes can take time to respond and when I do,= I'm "emailing like texting" - meaning I just reply to an email like a text - quick and to the point, so don't get offended.
+I do read all the email but I sometimes can take time to respond and when I do, I'm **"emailing like texting"** - meaning I just reply to an email like a text - quick and to the point. That's how I roll.
 
 [Nozbe]: https://nozbe.com
 [n]: https://nozbe.com/contact
