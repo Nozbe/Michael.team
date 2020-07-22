@@ -4,8 +4,6 @@ cover: michael.team.home.jpg
 title: Connect with Michael Sliwinski
 ---
 
-## Let's connect!
-
 * TOC
 {:toc}
 

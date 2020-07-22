@@ -1,7 +1,6 @@
 ---
 cover: michael.team.pl.podcast.jpg
 title: Kontakt z Michałem Śliwińskim
-subtitle: Znajdź mnie w mediach społecznościowych lub napisz!
 ---
 
 * TOC
