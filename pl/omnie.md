@@ -23,6 +23,8 @@ Krótka biografia od wykorzystania:
 
 [Zobacz wywiady ze mną](/pl/tag/gosc)
 
+*Na zdjęciu powyżej to ja z moją żoną Eweliną*
+
 ## Fotki
 
 Jeśli potrzebujesz moje zdjęcia, wystarczy "zapisać jako" poniższe zdjęcia a ściągną się w wysokiej rozdzielczości:
