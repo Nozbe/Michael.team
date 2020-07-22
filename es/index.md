@@ -1,18 +1,35 @@
-# Blog de Michael Sliwinski
+---
+cover: michael.team.es.jpg
+---
 
-[Todas entradas de mi blog](/es/todo) y [página sobre mí](/es/sobremi)
+# Michael Sliwinski
 
-## Busca algo interesante
+## ¡Bienvenid@s!
+
+¿Te interesa productividad personal y empresarial? Pues, estoy aquí para ayudarte. Soy fundador de [Nozbe y Nozbe Teams](https://nozbe.com/){:target='_blank'} - aplicaciones para profesionales y equipos que ayudan a organizarlo todo con eficacia. Lo llevo haciendo ya más que 13 años. También soy el escritor de libros, como ([#iPadOnly](https://iPadOnly.com){:target='_blank'} y [#NoOffice - Sin Oficina](https://NoOffice.org/es/){:target='_blank'}).
+
+## Mi blog
+
+Aquí tienes [todas entradas de mi blog](/es/todo), también organizadas por [tags/categorías](/es/tag/).
 
 {% include search.html %}
 
 <br>
 
+[¿Sabes inglés? Lee mi blog en inglés, donde escribo mucho más a menudo](/archive)
+
+## Biografía
+
+Mi biografía corta para usar en prensa:
+
+> Michael Sliwinski es un experto en productividad personal y empresarial. Es el fundador de [Nozbe y Nozbe Teams](https://nozbe.com/){:target='_blank'}, aplicaciones que ayudan a los profesionales y equipos de trabajo, organizarse con mayor eficacia, disponibles en todas las plataformas (web con apps para Mac, Windows, Android, iPad y iPhone + Apple Watch). Michael está trabajando de la forma remota (#NoOffice) y con dispositivos móviles (#iPadOnly). Michael está casado con tres hijas.
+
+## Fotos
+
+Si necesitas fotos de Michael, "guarda como" cualquiera de estas fotos:
+
+![Michael Black](/img/michael.black.jpg){: style="height: 200px;"} ![Michael Team](/img/michael.team.jpg){: style="height: 200px;"} ![Michael London](/img/michael.london.jpg){: style="height: 200px;"}
+
 ## Mis últimas entradas
 
-{% include posts.html posts=site.categories.es limit=10 %}
-
-## Leer más
-
-* [**Todo** - todas mis entradas en español](/es/todo/)
-* [¿Sabes inglés? Lee mi blog en inglés, donde escribo desde ya 2008](/archive)
+{% include posts.html posts=site.categories.es limit=5 more=1 %}

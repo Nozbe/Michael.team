@@ -20,7 +20,7 @@ I'm all about "team productivity" and what it means for me is helping teams work
 
 Here's my short bio:
 
-> Michael Sliwinski is a team productivity enthusiast who’s passionate about working remotely (#NoOffice) and in a mobile way (#iPadOnly). He's the founder of [Nozbe and Nozbe Teams](https://nozbe.com/){:target='_blank'}, apps that help people and teams get more done in a better way on any platform (web-based with native apps for the Mac, Windows, Android, iPad and the iPhone + Apple Watch). Privately Michael is a husband and a father of 3 girls.
+> Michael Sliwinski is a team productivity enthusiast. He's the founder of [Nozbe and Nozbe Teams](https://nozbe.com/){:target='_blank'}, apps that help people and teams get more done in a better way on any platform (web-based with native apps for the Mac, Windows, Android, iPad and the iPhone + Apple Watch). Michael is passionate about working remotely (#NoOffice) and in a mobile way (#iPadOnly). Privately he is a husband and a father of 3 girls.
 
 [Here's my full story](https://michael.team/about/#my-story)
 
