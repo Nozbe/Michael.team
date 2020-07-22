@@ -1,13 +1,13 @@
 // scripts for michael.team
-// written by Michael Sliwinski
-// published under CC license: michael.team/license
+// written by Michael Sliwinski: https://michael.team
+// feel free to copy and give credit: https://michael.team/license
 
 const URL = "https://michael.team"; //my main domain
 const POSTS = "/searchposts.json"; //json with all the posts
 
 //getting the latest "now" post from "now" tag
 function getNow () {
-	let latestNow = getPostTag('now','#intro');
+	let latestNow = getPostTag('now','#page');
 }
 
 //fetching an article from the system

@@ -2,8 +2,9 @@
 permalink: /contact
 cover: michael.team.home.jpg
 title: Connect with Michael Sliwinski
-subtitle: How to find me on social media or get in touch!
 ---
+
+## Let's connect!
 
 * TOC
 {:toc}
