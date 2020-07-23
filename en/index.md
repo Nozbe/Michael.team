@@ -4,11 +4,13 @@ cover: michael.team.index.jpg
 title: Michael Sliwinski
 ---
 
-## Hello there! Let's talk about team productivity!
+## Hi! Let's talk about your team's productivity!
 
-I'm the founder of [Nozbe and Nozbe Teams](https://nozbe.com/){:target='_blank'} - to-do apps for busy professionals and teams which I've been running for the last 13 years. I'm also a writer ([#iPadOnly](https://iPadOnly.com){:target='_blank'} and [#NoOffice](https://NoOffice.org){:target='_blank'}) and [podcaster](https://thepodcast.fm){:target='_blank'}.
+I'm the founder of [Nozbe and Nozbe Teams](https://nozbe.com/){:target='_blank'} - to-do apps for busy professionals and teams, which I've been running for the last 13 years. I'm also a writer ([#iPadOnly](https://iPadOnly.com){:target='_blank'} and [#NoOffice](https://NoOffice.org){:target='_blank'}) and [podcaster](https://thepodcast.fm){:target='_blank'}.
 
-With the launch of [Nozbe Teams](https://nozbe.com/){:target='_blank'} I'm all about "team productivity". Basically, **I help small teams do great things by working better.**
+With the launch of [Nozbe Teams](https://nozbe.com/){:target='_blank'} I'm all about "team productivity". Basically:
+
+> **I help small teams do great things by working in a truly modern way.**
 
 My team is all-remote and we all work from our "home offices" (just like the one pictured above) while delivering two global apps with more than 700,000 users worldwide.
 
