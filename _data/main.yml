@@ -5,8 +5,12 @@ name_pl: "Michał Śliwiński"
 name_es: "Michael Sliwinski"
 
 title: "Michael.team by Michael Sliwinski"
-title_pl: "Michael.team/PL Michała Śliwińskiego"
-title_es: "Michael.team/ES de Michael Sliwinski"
+title_pl: "Michael.team/pl Michała Śliwińskiego"
+title_es: "Michael.team/es de Michael Sliwinski"
+
+titleshort: "by Michael Sliwinski"
+titleshort_pl: "wpis Michała Śliwińskiego"
+titleshort_es: "de Michael Sliwinski"
 
 locale: en_EN
 locale_pl: pl_PL

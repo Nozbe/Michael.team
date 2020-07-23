@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html><head>
-{% include lang.html %}{% capture pagetitle %}title{{ langvar }}{% endcapture %}{% capture pagedescr %}descr{{ langvar }}{% endcapture %}{% capture pagename %}name{{ langvar }}{% endcapture %}{% capture pagelocale %}locale{{ langvar }}{% endcapture %}
+{% include lang.html %}{% capture pagetitle %}title{{ langvar }}{% endcapture %}{% capture pagetitleshort %}titleshort{{ langvar }}{% endcapture %}{% capture pagedescr %}descr{{ langvar }}{% endcapture %}{% capture pagename %}name{{ langvar }}{% endcapture %}{% capture pagelocale %}locale{{ langvar }}{% endcapture %}
 
-<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.data.main.[pagetitle] }}</title>
+<title>{% if page.title %}{{ page.title }} – {{ site.data.main.[pagetitleshort] }}{% else %}{{ site.data.main.[pagetitle] }}{% endif %}</title>
 
 <meta charset="utf-8" />
 <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
