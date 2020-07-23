@@ -7,13 +7,14 @@ const POSTS = "/searchposts.json"; //json with all the posts
 
 //getting the latest "now" post from "now" tag
 function getNow () {
-	let latestNow = getPostTag('now','#page');
+	let where = '#page';
+	document.querySelector(where).after(createSpinner()); //show spinner
+	document.querySelector('#nojs').remove(); //remove the non-JS thing since JS works
+	let latestNow = getPostTag('now',where);
 }
 
 //fetching an article from the system
 function getArticle (url, where) {
-	let place = document.querySelector(where); //get place after which we'll put stuff
-	place.after(createSpinner()); //show spinner
 	let element = document.createElement('article'); //create article
 	fetch(URL+url)
 	.then((response) => response.text())
@@ -22,7 +23,7 @@ function getArticle (url, where) {
 		let fullHTML = parser.parseFromString (responseText, 'text/html');
 		element.innerHTML = fullHTML.querySelector('article').innerHTML; //get article
 		createSpinner(true); //remove spinner
-		place.after(element); //put the article where it belongs
+		document.querySelector(where).after(element); //put the article where it belongs
 	})
 	.catch((error) => {
 		console.error(error)
