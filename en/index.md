@@ -4,7 +4,7 @@ cover: michael.team.index.jpg
 title: Michael Sliwinski
 ---
 
-## Hi! Let's talk about your team's productivity!
+## Let's talk about your team's productivity!
 
 I'm the founder of [Nozbe and Nozbe Teams](https://nozbe.com/){:target='_blank'} - to-do apps for busy professionals and teams, which I've been running for the last 13 years. I'm also a writer ([#iPadOnly](https://iPadOnly.com){:target='_blank'} and [#NoOffice](https://NoOffice.org){:target='_blank'}) and [podcaster](https://thepodcast.fm){:target='_blank'}.
 
