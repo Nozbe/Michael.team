@@ -62,12 +62,12 @@ tags:
 - name: blogging
   emoj: "⌨️"
   link: "/tag/blogging/"
-  titl: "Blogging w/Jekyll"
+  titl: "Blogging"
   tit2: "I've had a personal blog since 2008. You can browse my full archives at [sliwinski.com](https://sliwinski.com/archive){:target='_blank'}. I've set up this blog [very recently](/new) and I'll be migrating my old blog posts to here in the future."
 - name: now
   emoj: "📝"
   link: "/tag/now/"
-  titl: "Now updates"
+  titl: "Updates"
   tit2: "Every Friday I try to post a new update to my [NOW page](/now). Here are all my past entries."
 - name: guest
   emoj: "😎"
