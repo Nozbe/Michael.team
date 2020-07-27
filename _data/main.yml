@@ -79,6 +79,16 @@ tags:
   link: "/tag/webinar/"
   titl: "Webinars"
   tit2: "Webinars I've given as founder of [Nozbe](https://nozbe.com/){:target='_blank'} and as a personal and team productivity guy. Each one is packed with lots of time and project management tips and tricks I've learned over the years. Make sure to check them out and learn for free!"
+- name: video
+  emoj: "🎬"
+  link: "/tag/video/"
+  titl: "Videos"
+  tit2: "Most of the video content on my blog. Some videos are mine, some are just embedded to express what I wanted to write... just better."
+- name: vlog
+  emoj: "🎥"
+  link: "/tag/vlog/"
+  titl: "Vlog"
+  tit2: "My 'Team Productivity Show' video blog where I share my best team productivity tips and tricks. It's also hosted on [Nozbe blog](https://nozbe.com/tags/michaelsteam)."
 
 tags_pl:
 - name: imagazine
