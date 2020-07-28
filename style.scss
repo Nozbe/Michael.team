@@ -42,12 +42,16 @@ a {
 
 .begend {
 	background-color: $topw;
-	border-top: 1px solid $blue;
 	border-bottom: 1px solid $blue;
-	
+
 	@include dark-mode {
 		background-color: $topb;
 	}
+}
+
+.begend#footer {
+	border-top: 1px solid $blue;
+	border-bottom: 0px;
 }
 
 .begender {
