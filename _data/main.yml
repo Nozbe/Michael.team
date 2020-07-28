@@ -59,6 +59,12 @@ nav:
   url: "/es/"
 
 tags:
+- name: nozbe
+  emoj: "✅"
+  link: "/tag/nozbe/"
+  titl: "Nozbe"
+  tit2: "Posts about running my [Nozbe](https://nozbe.com/){:target='_blank'} business and both Nozbe Personal and Nozbe Teams apps. Successes, failures, mistakes and lessons learned... it's all in there."
+  
 - name: blogging
   emoj: "⌨️"
   link: "/tag/blogging/"
@@ -70,7 +76,7 @@ tags:
   titl: "Updates"
   tit2: "Every Friday I try to post a new update to my [NOW page](/now). Here are all my past entries."
 - name: guest
-  emoj: "😎"
+  emoj: "🤩"
   link: "/tag/guest/"
   titl: "Guest appearances"
   tit2: "Places where I was invited as a guest: press, interviews, podcasts, conferences..."
@@ -89,7 +95,12 @@ tags:
   link: "/tag/vlog/"
   titl: "Vlog"
   tit2: "My 'Team Productivity Show' video blog where I share my best team productivity tips and tricks. It's also hosted on [Nozbe blog](https://nozbe.com/tags/michaelsteam)."
-
+- name: lifestyle
+  emoj: "😎"
+  link: "/tag/lifestyle/"
+  titl: "Lifestyle"
+  tit2: "How my life influences my business and the other way round. How I design my lifestyle and how I succeed or fail in the process."
+  
 tags_pl:
 - name: imagazine
   emoj: "👨🏼‍💻"
@@ -97,7 +108,7 @@ tags_pl:
   titl: "iMagazine"
   tit2: "Felietony jakie piszę do [iMagazine](https://iMagazine.pl){:target='_blank'} od początku powstawania tego magazynu"
 - name: gosc
-  emoj: "😎"
+  emoj: "🤩"
   link: "/pl/tag/gosc/"
   titl: "Gościnnie"
   tit2: "Miejsca gdzie występowałem gościnnie: prasa, wywiady, podcasty, konferencje..."
@@ -106,7 +117,12 @@ tags_pl:
   link: "/pl/tag/webinar/"
   titl: "Webinary"
   tit2: "Webinary, które organizowałem jako założyciel [Nozbe](https://nozbe.com/pl/){:target='_blank'} oraz ekspert z dziedziny produktywności osobistej i zespołowej czy zarządzania sobą w czasie. Każdy Webinar to solidna dawka wiedzy, więc zapraszam do słuchania, oglądania i nauki zupełnie za darmo!"
-
+- name: zycie
+  emoj: "😎"
+  link: "/pl/tag/zycie/"
+  titl: "Styl życia"
+  tit2: "Jak życie wpływa na mój biznes i odwrotnie. Jak projektuję swój 'styl życia' i na ile mi to wychodzi lub nie."
+  
 tags_es:
 - name: webinar
   emoj: "💻"
