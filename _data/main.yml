@@ -59,12 +59,16 @@ nav:
   url: "/es/"
 
 tags:
+- name: productivity
+  emoj: "☑️"
+  link: "/tag/productivity/"
+  titl: "Productivity"
+  tit2: "Productivity-related topics. How I hack my life, do things better, faster and most of all, create long-lasting habits. I'm a constant productivity student. Now focused mostly on team productivity with the recent launch of [Nozbe Teams](https://nozbe.com/){:target='_blank'}."
 - name: nozbe
   emoj: "✅"
   link: "/tag/nozbe/"
   titl: "Nozbe"
   tit2: "Posts about running my [Nozbe](https://nozbe.com/){:target='_blank'} business and both Nozbe Personal and Nozbe Teams apps. Successes, failures, mistakes and lessons learned... it's all in there."
-  
 - name: blogging
   emoj: "⌨️"
   link: "/tag/blogging/"
