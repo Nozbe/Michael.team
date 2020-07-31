@@ -232,9 +232,13 @@ sup {
 
 blockquote {
 	margin: 1em;
-	border: 2px solid $gray;
+	//border: 2px solid $gray;
+	border-radius: 10px;
+	background-color: $bqb;
+	
 	padding: 0.1em 1em;
-	color: $gray;
+	//color: $gray;
+	color: $bqt;
 	font-family: $fontserif;
 	font-style: italic;
 	transform: rotate(-2deg);
