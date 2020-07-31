@@ -242,6 +242,9 @@ blockquote {
 	font-family: $fontserif;
 	font-style: italic;
 	transform: rotate(-2deg);
+	a {
+		background-color: transparent;
+	}
 }
 
 img {
