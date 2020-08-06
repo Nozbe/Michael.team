@@ -104,6 +104,16 @@ tags:
   link: "/tag/lifestyle/"
   titl: "Lifestyle"
   tit2: "How my life influences my business and the other way round. How I design my lifestyle and how I succeed or fail in the process."
+- name: books
+  emoj: "📖"
+  link: "/tag/books/"
+  titl: "Books"
+  tit2: "Books I'm reading and recommending as well as books I'm writing. Featuring the behind-the-scenes process of writng the [#NoOffice book](https://NoOffice.org/){:target='_blank'}."
+- name: nooffice
+  emoj: "🏝"
+  link: "/tag/nooffice/"
+  titl: "NoOffice"
+  tit2: "Stories from running an all-remote [Nozbe](https://nozbe.com/){:target='_blank'} team and resulting lifestyle of working from my home office or from anywhere really. Now described in detailed also in my new [#NoOffice book](https://NoOffice.org/){:target='_blank'}."
   
 tags_pl:
 - name: imagazine
