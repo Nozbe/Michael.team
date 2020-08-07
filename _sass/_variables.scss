@@ -4,20 +4,24 @@
 
 // Colors
 
-$blue: #8599f8;//#3c64ff;
-$blueLight: #8599f899;//#3c64ff99;
-$black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$lighterGray: #f6f6f6;
-$newgray: #7f8b99;
-$white: #fff;
-$topb: #080c1e;//#070c1f;
-$topw: #f9faff;
-$bqb: #353535;
-$bqt: #b5b5b5;
+//Main color - blue in my case
+$main: #073cd6;
+$mainDim: #073cd699;
+$mainBack: #f9faff;
+$mainD: #6c9efd; 
+$mainDDim: #6c9efd99;
+$mainDBack: #080c1e;
+$back: #fff;
+$backD: #000;
+$text: #333;
+$textD: #eee;
+$textG: #666;
+$textW: #fff;
+$textB: #000;
+$block: #545454;
+$blockBack: #dcdcdc;
+$blockD: #b5b5b5;
+$blockDBack: #353535;
 
 // Font stacks
 @font-face {

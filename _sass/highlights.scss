@@ -1,23 +1,23 @@
 
 .highlight {
-  background-color: $lightGray;
-  padding: 7px 7px 7px 10px;
-  border: 1px solid #ddd;
-  -moz-box-shadow: 3px 3px rgba(0,0,0,0.1);
-  -webkit-box-shadow: 3px 3px rgba(0,0,0,0.1);
-  box-shadow: 3px 3px rgba(0,0,0,0.1);
-  margin: 20px 0 20px 0;
-  overflow: scroll;
+	background-color: $blockBack;
+	color: $block;
+	padding: 7px 7px 7px 10px;
+	border: 1px solid #ddd;
+	-moz-box-shadow: 3px 3px rgba(0,0,0,0.1);
+	-webkit-box-shadow: 3px 3px rgba(0,0,0,0.1);
+	box-shadow: 3px 3px rgba(0,0,0,0.1);
+	margin: 20px 0 20px 0;
+	overflow: scroll;
   
-  @include dark-mode {
-    background: $darkGray;
-    color: $lightGray;
-  }
-
+	@include dark-mode {
+		background-color: $blockDBack;
+		color: $blockD;
+	}
 }
 
 code {
-  font-family: $fontmono;
+	font-family: $fontmono;
 }
 
 .highlight .c { color: #586E75 } /* Comment */

@@ -19,19 +19,26 @@ html {
 
 body {
 	font-family: $font;
-	background: $white;
-	color: $darkGray;
+	background: $back;
+	color: $text;
 	
 	@include dark-mode {
-		background: $black;
-		color: $lightGray;
+		background: $backD;
+		color: $textD;
 	}
 }
 
 a {
-	color: $blue;
+	color: $main;
 	&:hover, &:active {
-		color: $blueLight;
+		color: $mainDim;
+	}
+	
+	@include dark-mode {
+		color: $mainD;
+		&:hover, &:active {
+			color: $mainDDim;
+		}
 	}
 }
 
@@ -41,24 +48,32 @@ a {
 }
 
 .begend {
-	background-color: $topw;
-	border-bottom: 1px solid $blue;
+	background-color: $mainBack;
+	border-bottom: 1px solid $main;
 
 	@include dark-mode {
-		background-color: $topb;
+		background-color: $mainDBack;
+		border-bottom: 1px solid $mainD;
 	}
 }
 
 .begend#footer {
-	border-top: 1px solid $blue;
+	border-top: 1px solid $main;
 	border-bottom: 0px;
+	@include dark-mode {
+		border-top: 1px solid $mainD;
+	}
 }
 
 .begender {
 	p {
 		line-height: 1.2em;
-		color: $blue;
+		color: $main;
 		margin: 5px;
+		
+		@include dark-mode {
+			color: $mainD;
+		}
 	}
 	a {
 		text-decoration: underline;
@@ -108,37 +123,37 @@ h3 {
 
 h4 {
 	font-size: 1.3em;
-	color: $gray;
+	color: $textG;
 	margin: 0.3em 0 0.1em;
 }
 
 .header {
 	text-align: center;
-	color: $white;
+	color: $textW;
 	a {
 		text-decoration: none;
-		color: $white;
+		color: $textW;
 	}
 	h1, h2, h3 {
-		text-shadow: 2px 2px 4px $black;
+		text-shadow: 2px 2px 4px $textB;
 	}
 }
 
 .headerblack {
-	color: $black;
+	color: $textB;
 	@include dark-mode {
-		color: $white;
+		color: $textW;
 	}
 	a {
-		color: $black;
+		color: $textB;
 		@include dark-mode {
-			color: $white;
+			color: $textW;
 		}
 	}
 	h1, h2, h3 {
-		text-shadow: 1px 1px 2px $black;
+		text-shadow: 1px 1px 2px $textB;
 		@include dark-mode {
-			text-shadow: 1px 1px 2px $white;
+			text-shadow: 1px 1px 2px $textW;
 		}
 	}
 }
@@ -162,9 +177,9 @@ article > nav {
 	padding: 0 5px 10px;
 	a {
 		text-decoration: none;
-		background-color: $topw;
+		background-color: $mainBack;
 		@include dark-mode {
-			background-color: $topb;
+			background-color: $mainDBack;
 		}
 	}
 	p {
@@ -175,20 +190,14 @@ article > nav {
 		font-size: 1.2rem;
 	}
 	img + em {
-		color: $newgray;
+		color: $textG;
 		display: block;
 		text-align: center;
-	}
-	h1, h2, h3, h4, h5, h6 {
-		color: $darkerGray;
-		@include dark-mode {
-			color: $lighterGray;
-		}
 	}
 }
 
 .date {
-	color: $newgray;
+	color: $textG;
 	font-style: italic;
 }
 
@@ -227,23 +236,29 @@ sup {
 }
 
 .footnotes {
-	border-top: 1px solid $gray;
+	border-top: 1px solid $textG;
 }
 
 blockquote {
-	margin: 1em;
-	//border: 2px solid $gray;
-	border-radius: 10px;
-	background-color: $bqb;
-	
 	padding: 0.1em 1em;
-	//color: $gray;
-	color: $bqt;
+	margin: 1em;
+	border-radius: 10px;
+	color: $block;
+	background-color: $blockBack;
 	font-family: $fontserif;
 	font-style: italic;
 	transform: rotate(-2deg);
+
+	@include dark-mode {
+		color: $blockD;
+		background-color: $blockDBack;
+	}
+
 	a {
-		background-color: transparent;
+		background-color: $blockBack;
+		@include dark-mode {
+			background-color: $blockDBack;
+		}
 	}
 }
 
@@ -280,19 +295,19 @@ img {
 	margin-top: -10px;
 	margin-left: -10px;
 	border-radius: 50%;
-	border-top: 2px solid $blue;
+	border-top: 2px solid $main;
 	border-right: 2px solid transparent;
 	animation: spinner .6s linear infinite;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-	color: $black;
-	background: $lightGray;
+	color: $textB;
+	background: $textD;
 }
 ::selection {
-	color: $black;
-	background: $lightGray;
+	color: $textB;
+	background: $textD;
 }
 
 //Fixes for responsive video embed
@@ -318,17 +333,17 @@ img {
 }
 
 #search-input {
-	background-color: $lighterGray;
-	border: 1px solid $lightGray;
-	color: $darkGray;
+	background-color: $blockBack;
+	border: 1px solid $block;
+	color: $block;
 	padding: 2px;
 	font-size: 1.2em;
 	margin: 0;
 	width: inherit;
 	@include dark-mode {
-		background-color: $darkerGray;
-		border: 1px solid $darkGray;
-		color: $lightGray;
+		background-color: $blockDBack;
+		border: 1px solid $blockD;
+		color: $blockD;
 	}
 }
 
@@ -343,9 +358,9 @@ img {
 
 #search-results li {
 	padding: 5px;
-	background: $lighterGray;
+	background: $blockBack;
 	@include dark-mode {
-		background: $darkerGray;
+		background: $blockDBack;
 	}
 	@include mobile {
 		text-align: left;
@@ -353,26 +368,16 @@ img {
 }
 
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
-  color: $gray;
+  color: $textG;
   opacity: 1; /* Firefox */
 }
 
 :-ms-input-placeholder { /* Internet Explorer 10-11 */
-  color: $gray;
+  color: $textG;
 }
 
 ::-ms-input-placeholder { /* Microsoft Edge */
-  color: $gray;
-}
-
-.posts > .post {
-	padding-bottom: 2em;
-	border-bottom: 1px solid $lightGray;
-}
-
-.posts > .post:last-child {
-	padding-bottom: 1em;
-	border-bottom: none;
+  color: $textG;
 }
 
 @import "highlights";
