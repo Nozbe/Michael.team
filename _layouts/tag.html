@@ -10,7 +10,7 @@ layout: default
 <div class="entry">
 	{{ tag_subtitle | markdownify }}
 	{% assign tag_posts = site.tags[tag_name] %}
-	{% include posts.html posts=tag_posts limit=1 more=1 %}
-	{% include posts.html posts=tag_posts offset=1 %}
+	{% include posts.html posts=tag_posts limit=10 more=1 %}
+	{% include posts.html posts=tag_posts offset=10 %}
 </div>
 </article>

@@ -8,15 +8,14 @@ cover: zostajewdomu.jpg
 
 Rok 2020 przyniósł nam nie lada niespodziankę w postaci konkretnego wirusa. Świetnie by było ten rok zrestartować, ale się nie da. Musimy kompletnie zmienić sposób pracy. Większość z tych, którzy zazwyczaj chodzili do biura, została zmuszona do pracy z domu. Coś, co dla mnie było naturalne od lat, dla większości osób jest nowością. Jak przystosować się do tej nowej rzeczywistości?
 
+<!--More-->
+
 {% include lang.date.html date="2020-04-01" month=true %}
 
 > Ten felieton jest z wydania z {{ langdate }} [iMagazine](https://imagazine.pl){:target='_blank'}
 
-<!--More-->
-
 * TOC
 {:toc}
-
 
 ## Nagle praca z domu stała się koniecznością
 
