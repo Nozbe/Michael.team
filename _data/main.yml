@@ -136,7 +136,12 @@ tags_pl:
   link: "/pl/tag/zycie/"
   titl: "Styl życia"
   tit2: "Jak życie wpływa na mój biznes i odwrotnie. Jak projektuję swój 'styl życia' i na ile mi to wychodzi lub nie."
-  
+- name: niemabiura
+  emoj: "🎙"
+  link: "/pl/tag/niemabiura/"
+  titl: "Nie Ma Biura"
+  tit2: "Wszystkie odcinki podacastu o pracy zdalnej, który nagrywam co dwa tygodnie z Rafałem, szefem produktu [Nozbe](https://nozbe.com/pl/){:target='_blank'}. Oficjalna strona podcastu to [NieMaBiura.pl](https://niemabiura.pl/){:target='_blank'}"
+
 tags_es:
 - name: webinar
   emoj: "💻"
