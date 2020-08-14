@@ -23,7 +23,7 @@ W pierwszym odcinku z Rafałem rozmawiamy o:
 
 🎙 powodach rozpoczęcia tego projektu\\
 📕 książce [No Office](https://NoOffice.org/)\\
-📆 piątkach w Nozbe\\
+📆 piątkach w Nozbe
 
 [Dokładne notatki do odcinka na stronie podcastu](https://nozbe.com/pl/blog/niemabiura-1-podcast-praca-zdalna/)
 
@@ -35,6 +35,6 @@ Można subskrybować podcast [Nie Ma Biura](https://niemabiura.pl) wszędzie, gd
 🔵 [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL25pZW1hYml1cmE)\\
 🟡 [RSS](https://nozbe.com/niemabiura.rss)\\
 🟠 [Overcast](https://overcast.fm/+giccA5mJE#)\\
-🔴 [YouTube na kanale Nozbe Poland](https://youtube.com/NozbePoland)\\
+🔴 [YouTube na kanale Nozbe Poland](https://youtube.com/NozbePoland)
 
 [n]: https://nozbe.com/
