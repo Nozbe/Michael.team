@@ -59,36 +59,51 @@ nav:
   url: "/es/"
 
 tags:
-- name: productivity
-  emoj: "☑️"
-  link: "/tag/productivity/"
-  titl: "Productivity"
-  tit2: "Productivity-related topics. How I hack my life, do things better, faster and most of all, create long-lasting habits. I'm a constant productivity student. Now focused mostly on team productivity with the recent launch of [Nozbe Teams](https://nozbe.com/){:target='_blank'}."
-- name: nozbe
-  emoj: "✅"
-  link: "/tag/nozbe/"
-  titl: "Nozbe"
-  tit2: "Posts about running my [Nozbe](https://nozbe.com/){:target='_blank'} business and both Nozbe Personal and Nozbe Teams apps. Successes, failures, mistakes and lessons learned... it's all in there."
 - name: blogging
   emoj: "⌨️"
   link: "/tag/blogging/"
   titl: "Blogging"
   tit2: "I've had a personal blog since 2008. You can browse my full archives at [sliwinski.com](https://sliwinski.com/archive){:target='_blank'}. I've set up this blog [very recently](/new) and I'll be migrating my old blog posts to here in the future."
-- name: now
-  emoj: "📝"
-  link: "/tag/now/"
-  titl: "Updates"
-  tit2: "Every Friday I try to post a new update to my [NOW page](/now). Here are all my past entries."
+- name: books
+  emoj: "📖"
+  link: "/tag/books/"
+  titl: "Books"
+  tit2: "Books I'm reading and recommending as well as books I'm writing. Featuring the behind-the-scenes process of writng the [#NoOffice book](https://NoOffice.org/){:target='_blank'}."
 - name: guest
   emoj: "🤩"
   link: "/tag/guest/"
   titl: "Guest appearances"
   tit2: "Places where I was invited as a guest: press, interviews, podcasts, conferences..."
-- name: webinar
-  emoj: "💻"
-  link: "/tag/webinar/"
-  titl: "Webinars"
-  tit2: "Webinars I've given as founder of [Nozbe](https://nozbe.com/){:target='_blank'} and as a personal and team productivity guy. Each one is packed with lots of time and project management tips and tricks I've learned over the years. Make sure to check them out and learn for free!"
+- name: ipadonly
+  emoj: "📱"
+  link: "/tag/ipadonly/"
+  titl: "iPadOnly"
+  tit2: "I'm using the iPad as my main computing device since 2012. It started with the retina iPad 3, a year later I wrote the [#iPadOnly book](https://ipadonly.com/){:target='_blank'} on an iPad 4 and as I upgraded my iPads, now I'm working on the 2020 iPad Pro 11. Basically, I'm showing how an iPad is a *real computer*."
+- name: lifestyle
+  emoj: "😎"
+  link: "/tag/lifestyle/"
+  titl: "Lifestyle"
+  tit2: "How my life influences my business and the other way round. How I design my lifestyle and how I succeed or fail in the process."
+- name: nooffice
+  emoj: "🏝"
+  link: "/tag/nooffice/"
+  titl: "NoOffice"
+  tit2: "Stories from running an all-remote [Nozbe](https://nozbe.com/){:target='_blank'} team and resulting lifestyle of working from my home office or from anywhere really. Now described in detailed also in my new [#NoOffice book](https://NoOffice.org/){:target='_blank'}."
+- name: nozbe
+  emoj: "✅"
+  link: "/tag/nozbe/"
+  titl: "Nozbe"
+  tit2: "Posts about running my [Nozbe](https://nozbe.com/){:target='_blank'} business and both Nozbe Personal and Nozbe Teams apps. Successes, failures, mistakes and lessons learned... it's all in there."
+- name: now
+  emoj: "📝"
+  link: "/tag/now/"
+  titl: "Now-updates"
+  tit2: "Every Friday I try to post a new update to my [NOW page](/now). Here are all my past entries."
+- name: productivity
+  emoj: "☑️"
+  link: "/tag/productivity/"
+  titl: "Productivity"
+  tit2: "Productivity-related topics. How I hack my life, do things better, faster and most of all, create long-lasting habits. I'm a constant productivity student. Now focused mostly on team productivity with the recent launch of [Nozbe Teams](https://nozbe.com/){:target='_blank'}."
 - name: video
   emoj: "🎬"
   link: "/tag/video/"
@@ -99,21 +114,11 @@ tags:
   link: "/tag/vlog/"
   titl: "Vlog"
   tit2: "My 'Team Productivity Show' video blog where I share my best team productivity tips and tricks. It's also hosted on [Nozbe blog](https://nozbe.com/tags/michaelsteam)."
-- name: lifestyle
-  emoj: "😎"
-  link: "/tag/lifestyle/"
-  titl: "Lifestyle"
-  tit2: "How my life influences my business and the other way round. How I design my lifestyle and how I succeed or fail in the process."
-- name: books
-  emoj: "📖"
-  link: "/tag/books/"
-  titl: "Books"
-  tit2: "Books I'm reading and recommending as well as books I'm writing. Featuring the behind-the-scenes process of writng the [#NoOffice book](https://NoOffice.org/){:target='_blank'}."
-- name: nooffice
-  emoj: "🏝"
-  link: "/tag/nooffice/"
-  titl: "NoOffice"
-  tit2: "Stories from running an all-remote [Nozbe](https://nozbe.com/){:target='_blank'} team and resulting lifestyle of working from my home office or from anywhere really. Now described in detailed also in my new [#NoOffice book](https://NoOffice.org/){:target='_blank'}."
+- name: webinar
+  emoj: "💻"
+  link: "/tag/webinar/"
+  titl: "Webinars"
+  tit2: "Webinars I've given as founder of [Nozbe](https://nozbe.com/){:target='_blank'} and as a personal and team productivity guy. Each one is packed with lots of time and project management tips and tricks I've learned over the years. Make sure to check them out and learn for free!"
   
 tags_pl:
 - name: imagazine
