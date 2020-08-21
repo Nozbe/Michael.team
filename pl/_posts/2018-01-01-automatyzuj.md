@@ -6,9 +6,17 @@ cover: automatyzuj.jpg
 
 # Co zrobić aby 2018 był udany, czyli jak wyrobić sobie lepsze nawyki dzięki automatyzacji
 
-Witam w roku 2018! Dla większości z nas pierwsze dni stycznia to czas na podsumowanie poprzedniego roku i wyciągnięcie wniosków, aby ten nowy był znacznie lepszy pod każdym względem. Jest to czas „postanowień noworocznych”, które w praktyce niestety bardziej przypominają „pobożne życzenia na nowy rok” lub „marzenia ściętej głowy”.
+Witam w roku 2018! Dla większości z nas pierwsze dni stycznia to czas na podsumowanie poprzedniego roku i wyciągnięcie wniosków, aby ten nowy był znacznie lepszy pod każdym względem. Jest to czas „postanowień noworocznych”, które w praktyce niestety bardziej przypominają „pobożne życzenia na nowy rok” lub „marzenia ściętej głowy”. Dlaczego tak? Ponieważ rzeczywistość jest taka, że o tym co sobie w styczniu postanowiliśmy, w lutym już zapominamy... i miało być tak pięknie, a wyszło jak zawsze. Wiem coś o tym. Sam wpadam w tą pułapkę, ale od jakiegoś czasu mam na nią sposób.
 
-Dlaczego tak? Ponieważ rzeczywistość jest taka, że o tym co sobie w styczniu postanowiliśmy, w lutym już zapominamy... i miało być tak pięknie, a wyszło jak zawsze. Wiem coś o tym. Sam wpadam w tą pułapkę, ale od jakiegoś czasu mam na nią sposób.
+
+<!--More-->
+
+{% include lang.date.html date="2018-01-01" month=true %}
+
+> Ten felieton jest z wydania z {{ langdate }} [iMagazine](https://imagazine.pl){:target='_blank'}
+
+* TOC
+{:toc}
 
 ## Jak ludzie pochodzą do postanowień noworocznych?
 
