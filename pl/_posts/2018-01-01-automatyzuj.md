@@ -8,7 +8,6 @@ cover: automatyzuj.jpg
 
 Witam w roku 2018! Dla większości z nas pierwsze dni stycznia to czas na podsumowanie poprzedniego roku i wyciągnięcie wniosków, aby ten nowy był znacznie lepszy pod każdym względem. Jest to czas „postanowień noworocznych”, które w praktyce niestety bardziej przypominają „pobożne życzenia na nowy rok” lub „marzenia ściętej głowy”. Dlaczego tak? Ponieważ rzeczywistość jest taka, że o tym co sobie w styczniu postanowiliśmy, w lutym już zapominamy... i miało być tak pięknie, a wyszło jak zawsze. Wiem coś o tym. Sam wpadam w tą pułapkę, ale od jakiegoś czasu mam na nią sposób.
 
-
 <!--More-->
 
 {% include lang.date.html date="2018-01-01" month=true %}
@@ -94,7 +93,7 @@ W mojej firmie w piątek każdy pracownik musi zrobić obowiązkowy „przeglą
 
 Przegląd tygodnia to jest wielostopniowy proces, dlatego aby się udał, korzystamy z szablonu „Nozbe.how” - czyli gotowego szablonu projektu z zadaniami i komentarzami - każdy z nas może taki szablon sobie zaimportować do konta w Nozbe i potem dostosować do własnych potrzeb. Dzięki temu co tydzień jak nadchodzi czas przeglądu, to tworzę nowy projekt z przeglądem i idę przez niego krok po kroku.
 
-### Regularne nawyki pomagają osiągać cele!
+## Regularne nawyki pomagają osiągać cele!
 
 „Woda drąży skałę nie siłą, ale regularnością”, dlatego jest udowodnione, że wyrabianie sobie regularnych nawyków pomaga w dowożeniu celów. Co więcej, takie nawyki są obsługiwane przez inną półkulę mózgu, niż ta zorientowana na kreatywne myślenie, czyli tak naprawdę odciążamy mózg i dzięki nawykom wykonujemy rzeczy na pełnym autopilocie, mając moc i siłę do tworzenia nowych rzeczy. Ponadto, nawyki raz stworzone, zostają z nami na długo i nawet jeśli w którymś momencie coś zaniechamy, to łatwo nam do nich wracać.
 
