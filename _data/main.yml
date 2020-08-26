@@ -89,6 +89,11 @@ tags:
   link: "/tag/nooffice/"
   titl: "NoOffice"
   tit2: "Stories from running an all-remote [Nozbe](https://nozbe.com/){:target='_blank'} team and resulting lifestyle of working from my home office or from anywhere really. Now described in detailed also in my new [#NoOffice book](https://NoOffice.org/){:target='_blank'}."
+- name: noofficefm
+  emoj: "🎙"
+  link: "/tag/noofficefm/"
+  titl: "No Office FM"
+  tit2: "New bi-weekly podcast related to my [#NoOffice book](https://nooffice.org/){:target='_blank'}. I'm recording it with Rafal, the VP of Product at [Nozbe](https://nozbe.com/){:target='_blank'}. Visit the official web site at [NoOffice.fm](https://nooffice.fm/){:target='_blank'}"
 - name: nozbe
   emoj: "✅"
   link: "/tag/nozbe/"
@@ -121,16 +126,21 @@ tags:
   tit2: "Webinars I've given as founder of [Nozbe](https://nozbe.com/){:target='_blank'} and as a personal and team productivity guy. Each one is packed with lots of time and project management tips and tricks I've learned over the years. Make sure to check them out and learn for free!"
   
 tags_pl:
-- name: imagazine
-  emoj: "👨🏼‍💻"
-  link: "/pl/tag/imagazine/"
-  titl: "iMagazine"
-  tit2: "Felietony jakie piszę do [iMagazine](https://iMagazine.pl){:target='_blank'} od początku powstawania tego magazynu"
 - name: gosc
   emoj: "🤩"
   link: "/pl/tag/gosc/"
   titl: "Gościnnie"
   tit2: "Miejsca gdzie występowałem gościnnie: prasa, wywiady, podcasty, konferencje..."
+- name: imagazine
+  emoj: "👨🏼‍💻"
+  link: "/pl/tag/imagazine/"
+  titl: "iMagazine"
+  tit2: "Felietony jakie piszę do [iMagazine](https://iMagazine.pl){:target='_blank'} od początku powstawania tego magazynu"
+- name: niemabiura
+  emoj: "🎙"
+  link: "/pl/tag/niemabiura/"
+  titl: "Nie Ma Biura"
+  tit2: "Wszystkie odcinki podacastu o pracy zdalnej, który nagrywam co dwa tygodnie z Rafałem, szefem produktu [Nozbe](https://nozbe.com/pl/){:target='_blank'}. Oficjalna strona podcastu to [NieMaBiura.pl](https://niemabiura.pl/){:target='_blank'}"
 - name: webinar
   emoj: "💻"
   link: "/pl/tag/webinar/"
@@ -141,11 +151,7 @@ tags_pl:
   link: "/pl/tag/zycie/"
   titl: "Styl życia"
   tit2: "Jak życie wpływa na mój biznes i odwrotnie. Jak projektuję swój 'styl życia' i na ile mi to wychodzi lub nie."
-- name: niemabiura
-  emoj: "🎙"
-  link: "/pl/tag/niemabiura/"
-  titl: "Nie Ma Biura"
-  tit2: "Wszystkie odcinki podacastu o pracy zdalnej, który nagrywam co dwa tygodnie z Rafałem, szefem produktu [Nozbe](https://nozbe.com/pl/){:target='_blank'}. Oficjalna strona podcastu to [NieMaBiura.pl](https://niemabiura.pl/){:target='_blank'}"
+
 
 tags_es:
 - name: webinar
