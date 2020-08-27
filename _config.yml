@@ -125,6 +125,9 @@ titles_from_headings:
   strip_title: true
   collections: true
 
+# Don't show future posts!
+future: false
+
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :expanded # You might prefer to minify using :compressed
