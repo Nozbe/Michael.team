@@ -93,7 +93,7 @@ tags:
   emoj: "🎙"
   link: "/tag/noofficefm/"
   titl: "No Office FM"
-  tit2: "New bi-weekly podcast related to my [#NoOffice book](https://nooffice.org/){:target='_blank'}. I'm recording it with Rafal, the VP of Product at [Nozbe](https://nozbe.com/){:target='_blank'}. Visit the official web site at [NoOffice.fm](https://nooffice.fm/){:target='_blank'}"
+  tit2: "New bi-weekly podcast related to my [#NoOffice book](https://nooffice.org/){:target='_blank'}. I'm recording it with Rafal, the VP of Product at [Nozbe](https://nozbe.com/){:target='_blank'}. Visit [the official web site](https://nooffice.fm/){:target='_blank'} or **[Subscribe](https://podcasts.apple.com/podcast/no-office/id1527466890){:target='_blank'}**."
 - name: nozbe
   emoj: "✅"
   link: "/tag/nozbe/"
@@ -118,7 +118,7 @@ tags:
   emoj: "🎥"
   link: "/tag/vlog/"
   titl: "Vlog"
-  tit2: "My 'Team Productivity Show' video blog where I share my best team productivity tips and tricks. It's also hosted on [Nozbe blog](https://nozbe.com/tags/michaelsteam)."
+  tit2: "My 'Team Productivity Show' video blog where I share my best team productivity tips and tricks. It's also hosted on [Nozbe blog](https://nozbe.com/tags/michaelsteam){:target='_blank'}."
 - name: webinar
   emoj: "💻"
   link: "/tag/webinar/"
@@ -140,7 +140,7 @@ tags_pl:
   emoj: "🎙"
   link: "/pl/tag/niemabiura/"
   titl: "Nie Ma Biura"
-  tit2: "Wszystkie odcinki podacastu o pracy zdalnej, który nagrywam co dwa tygodnie z Rafałem, szefem produktu [Nozbe](https://nozbe.com/pl/){:target='_blank'}. Oficjalna strona podcastu to [NieMaBiura.pl](https://niemabiura.pl/){:target='_blank'}"
+  tit2: "Wszystkie odcinki podacastu o pracy zdalnej, który nagrywam co dwa tygodnie z Rafałem, szefem produktu [Nozbe](https://nozbe.com/pl/){:target='_blank'}. Zobacz [oficjalną stronę podcastu](https://niemabiura.pl/){:target='_blank'} albo od razu **[zasubskrybuj](https://podcasts.apple.com/pl/podcast/nie-ma-biura/id1526795631){:target='_blank'}**."
 - name: webinar
   emoj: "💻"
   link: "/pl/tag/webinar/"
