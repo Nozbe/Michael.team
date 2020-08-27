@@ -69,6 +69,11 @@ tags:
   link: "/tag/books/"
   titl: "Books"
   tit2: "Books I'm reading and recommending as well as books I'm writing. Featuring the behind-the-scenes process of writng the [#NoOffice book](https://NoOffice.org/){:target='_blank'}."
+- name: business
+  emoj: "💼"
+  link: "/tag/business/"
+  titl: "Business"
+  tit2: "Capitalism, business, money and my struggles as an Internet entrepreneur. No, I don't even own a briefcase."
 - name: guest
   emoj: "🤩"
   link: "/tag/guest/"
@@ -104,11 +109,21 @@ tags:
   link: "/tag/now/"
   titl: "Now-updates"
   tit2: "Every Friday I try to post a new update to my [NOW page](/now). Here are all my past entries."
+- name: office
+  emoj: "🏠"
+  link: "/tag/podcast/"
+  titl: "Office"
+  tit2: "My home office and other offices. Check out the yearly evolution of my personal home office - *the room where it happens*."
 - name: productivity
   emoj: "☑️"
   link: "/tag/productivity/"
   titl: "Productivity"
   tit2: "Productivity-related topics. How I hack my life, do things better, faster and most of all, create long-lasting habits. I'm a constant productivity student. Now focused mostly on team productivity with the recent launch of [Nozbe Teams](https://nozbe.com/){:target='_blank'}."
+- name: podcast
+  emoj: "🎧"
+  link: "/tag/podcast/"
+  titl: "The Podcast"
+  tit2: "[The Podcast](https://thepodcast.fm){:target='_blank'} is a podcast I've been recording with Radek, Nozbe's VP of Engineering. After more than 4 years of pretty regular weekly shows, now it's not as regular as we'd like."
 - name: video
   emoj: "🎬"
   link: "/tag/video/"
@@ -141,17 +156,16 @@ tags_pl:
   link: "/pl/tag/niemabiura/"
   titl: "Nie Ma Biura"
   tit2: "Wszystkie odcinki podacastu o pracy zdalnej, który nagrywam co dwa tygodnie z Rafałem, szefem produktu [Nozbe](https://nozbe.com/pl/){:target='_blank'}. Zobacz [oficjalną stronę podcastu](https://niemabiura.pl/){:target='_blank'} albo od razu **[zasubskrybuj](https://podcasts.apple.com/pl/podcast/nie-ma-biura/id1526795631){:target='_blank'}**."
-- name: webinar
-  emoj: "💻"
-  link: "/pl/tag/webinar/"
-  titl: "Webinary"
-  tit2: "Webinary, które organizowałem jako założyciel [Nozbe](https://nozbe.com/pl/){:target='_blank'} oraz ekspert z dziedziny produktywności osobistej i zespołowej czy zarządzania sobą w czasie. Każdy Webinar to solidna dawka wiedzy, więc zapraszam do słuchania, oglądania i nauki zupełnie za darmo!"
 - name: zycie
   emoj: "😎"
   link: "/pl/tag/zycie/"
   titl: "Styl życia"
   tit2: "Jak życie wpływa na mój biznes i odwrotnie. Jak projektuję swój 'styl życia' i na ile mi to wychodzi lub nie."
-
+- name: webinar
+  emoj: "💻"
+  link: "/pl/tag/webinar/"
+  titl: "Webinary"
+  tit2: "Webinary, które organizowałem jako założyciel [Nozbe](https://nozbe.com/pl/){:target='_blank'} oraz ekspert z dziedziny produktywności osobistej i zespołowej czy zarządzania sobą w czasie. Każdy Webinar to solidna dawka wiedzy, więc zapraszam do słuchania, oglądania i nauki zupełnie za darmo!"
 
 tags_es:
 - name: webinar
