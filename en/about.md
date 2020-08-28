@@ -28,7 +28,7 @@ Here's my short bio:
 
 If you need my photos for an interview, just right click and "save as" to download them in full res:
 
-![Michael Black](/img/michael.black.jpg){: style="height: 200px;"} ![Michael Team](/img/michael.team.jpg){: style="height: 200px;"} ![Michael London](/img/michael.london.jpg){: style="height: 200px;"}
+{% include photos.html %}
 
 ## This site is open source
 
