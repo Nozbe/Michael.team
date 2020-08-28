@@ -29,6 +29,6 @@ Krótka biografia od wykorzystania:
 
 Jeśli potrzebujesz moje zdjęcia, wystarczy "zapisać jako" poniższe zdjęcia a ściągną się w wysokiej rozdzielczości:
 
-![Michael Black](/img/michael.black.jpg){: style="height: 200px;"} ![Michael Team](/img/michael.team.jpg){: style="height: 200px;"} ![Michael London](/img/michael.london.jpg){: style="height: 200px;"}
+{% include photos.html %}
 
 ## [Kontakt ze mną i profile społecznościowe](/pl/kontakt)

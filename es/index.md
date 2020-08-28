@@ -28,7 +28,7 @@ Mi biografía corta para usar en prensa:
 
 Si necesitas fotos de Michael, "guarda como" cualquiera de estas fotos:
 
-![Michael Black](/img/michael.black.jpg){: style="height: 200px;"} ![Michael Team](/img/michael.team.jpg){: style="height: 200px;"} ![Michael London](/img/michael.london.jpg){: style="height: 200px;"}
+{% include photos.html %}
 
 ## Contacto
 
