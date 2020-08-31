@@ -1,5 +1,5 @@
 ---
-tags: [iPadOnly]
+tags: [ipadonly]
 img: "ipadonlyfree.jpg"
 ---
 
