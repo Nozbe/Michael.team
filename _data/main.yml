@@ -59,133 +59,106 @@ nav:
   url: "/es/"
 
 tags:
+- name: applewatch
+  emoj: "⌚️"
+  titl: "Apple Watch"
+  tit2: "One of my favorite Apple gadgets. It's something I wear every day and I use to check time or weather, track my fitness, listen to podcasts or audiobooks, even make phone calls and send messages."
 - name: blogging
   emoj: "⌨️"
-  link: "/tag/blogging/"
   titl: "Blogging"
   tit2: "I've had a personal blog since 2008. You can browse my full archives at [sliwinski.com](https://sliwinski.com/archive){:target='_blank'}. I've set up this blog [very recently](/new) and I'll be migrating my old blog posts to here in the future."
 - name: books
   emoj: "📖"
-  link: "/tag/books/"
   titl: "Books"
   tit2: "Books I'm reading and recommending as well as books I'm writing. Featuring the behind-the-scenes process of writng the [#NoOffice book](https://NoOffice.org/){:target='_blank'}."
 - name: business
   emoj: "💼"
-  link: "/tag/business/"
   titl: "Business"
   tit2: "Capitalism, business, money and my struggles as an Internet entrepreneur. No, I don't even own a briefcase."
 - name: guest
   emoj: "🤩"
-  link: "/tag/guest/"
   titl: "Guest appearances"
   tit2: "Places where I was invited as a guest: press, interviews, podcasts, conferences..."
+- name: imagazine
+  emoj: "👨🏼‍💻"
+  titl: "iMagazine"
+  tit2: "I write a monthly column to the leading Polish lifestyle magazine [iMagazine](https://iMagazine.pl){:target='_blank'} - if you speak Polish, I keep an [archive of most of these articles](/pl/tag/imagazine)"
 - name: ipadonly
   emoj: "📱"
-  link: "/tag/ipadonly/"
   titl: "iPadOnly"
   tit2: "I'm using the iPad as my main computing device since 2012. It started with the retina iPad 3, a year later I wrote the [#iPadOnly book](https://ipadonly.com/){:target='_blank'} on an iPad 4 and as I upgraded my iPads, now I'm working on the 2020 iPad Pro 11. Basically, I'm showing how an iPad is a *real computer*."
 - name: lifestyle
   emoj: "😎"
-  link: "/tag/lifestyle/"
   titl: "Lifestyle"
   tit2: "How my life influences my business and the other way round. How I design my lifestyle and how I succeed or fail in the process."
 - name: nooffice
   emoj: "🏝"
-  link: "/tag/nooffice/"
   titl: "NoOffice"
   tit2: "Stories from running an all-remote [Nozbe](https://nozbe.com/){:target='_blank'} team and resulting lifestyle of working from my home office or from anywhere really. Now described in detailed also in my new [#NoOffice book](https://NoOffice.org/){:target='_blank'}."
 - name: noofficefm
   emoj: "🎙"
-  link: "/tag/noofficefm/"
   titl: "No Office FM"
   tit2: "New bi-weekly podcast related to my [#NoOffice book](https://nooffice.org/){:target='_blank'}. I'm recording it with Rafal, the VP of Product at [Nozbe](https://nozbe.com/){:target='_blank'}. Visit [the official web site](https://nooffice.fm/){:target='_blank'} or **[Subscribe](https://podcasts.apple.com/podcast/no-office/id1527466890){:target='_blank'}**."
 - name: nozbe
   emoj: "✅"
-  link: "/tag/nozbe/"
   titl: "Nozbe"
   tit2: "Posts about running my [Nozbe](https://nozbe.com/){:target='_blank'} business and both Nozbe Personal and Nozbe Teams apps. Successes, failures, mistakes and lessons learned... it's all in there."
 - name: now
   emoj: "📝"
-  link: "/tag/now/"
   titl: "Now-updates"
   tit2: "Every Friday I try to post a new update to my [NOW page](/now). Here are all my past entries."
 - name: office
   emoj: "🏠"
-  link: "/tag/podcast/"
   titl: "Office"
   tit2: "My home office and other offices. Check out the yearly evolution of my personal home office - *the room where it happens*."
 - name: productivity
   emoj: "☑️"
-  link: "/tag/productivity/"
   titl: "Productivity"
   tit2: "Productivity-related topics. How I hack my life, do things better, faster and most of all, create long-lasting habits. I'm a constant productivity student. Now focused mostly on team productivity with the recent launch of [Nozbe Teams](https://nozbe.com/){:target='_blank'}."
 - name: podcast
   emoj: "🎧"
-  link: "/tag/podcast/"
   titl: "The Podcast"
   tit2: "[The Podcast](https://thepodcast.fm){:target='_blank'} is a podcast I've been recording with Radek, Nozbe's VP of Engineering. After more than 4 years of pretty regular weekly shows, now it's not as regular as we'd like."
 - name: video
   emoj: "🎬"
-  link: "/tag/video/"
   titl: "Videos"
   tit2: "Most of the video content on my blog. Some videos are mine, some are just embedded to express what I wanted to write... just better."
 - name: vlog
   emoj: "🎥"
-  link: "/tag/vlog/"
   titl: "Vlog"
   tit2: "My 'Team Productivity Show' video blog where I share my best team productivity tips and tricks. It's also hosted on [Nozbe blog](https://nozbe.com/tags/michaelsteam){:target='_blank'}."
 - name: webinar
   emoj: "💻"
-  link: "/tag/webinar/"
   titl: "Webinars"
   tit2: "Webinars I've given as founder of [Nozbe](https://nozbe.com/){:target='_blank'} and as a personal and team productivity guy. Each one is packed with lots of time and project management tips and tricks I've learned over the years. Make sure to check them out and learn for free!"
   
 tags_pl:
 - name: gosc
   emoj: "🤩"
-  link: "/pl/tag/gosc/"
   titl: "Gościnnie"
   tit2: "Miejsca gdzie występowałem gościnnie: prasa, wywiady, podcasty, konferencje..."
 - name: imagazine
   emoj: "👨🏼‍💻"
-  link: "/pl/tag/imagazine/"
   titl: "iMagazine"
   tit2: "Felietony jakie piszę do [iMagazine](https://iMagazine.pl){:target='_blank'} od początku powstawania tego magazynu"
 - name: niemabiura
   emoj: "🎙"
-  link: "/pl/tag/niemabiura/"
   titl: "Nie Ma Biura"
   tit2: "Wszystkie odcinki podacastu o pracy zdalnej, który nagrywam co dwa tygodnie z Rafałem, szefem produktu [Nozbe](https://nozbe.com/pl/){:target='_blank'}. Zobacz [oficjalną stronę podcastu](https://niemabiura.pl/){:target='_blank'} albo od razu **[zasubskrybuj](https://podcasts.apple.com/pl/podcast/nie-ma-biura/id1526795631){:target='_blank'}**."
 - name: zycie
   emoj: "😎"
-  link: "/pl/tag/zycie/"
   titl: "Styl życia"
   tit2: "Jak życie wpływa na mój biznes i odwrotnie. Jak projektuję swój 'styl życia' i na ile mi to wychodzi lub nie."
 - name: webinar
   emoj: "💻"
-  link: "/pl/tag/webinar/"
   titl: "Webinary"
   tit2: "Webinary, które organizowałem jako założyciel [Nozbe](https://nozbe.com/pl/){:target='_blank'} oraz ekspert z dziedziny produktywności osobistej i zespołowej czy zarządzania sobą w czasie. Każdy Webinar to solidna dawka wiedzy, więc zapraszam do słuchania, oglądania i nauki zupełnie za darmo!"
 
 tags_es:
 - name: webinar
   emoj: "💻"
-  link: "/es/tag/webinar/"
   titl: "Webinars"
   tit2: "Webinars que preparé como fundador de [Nozbe](https://nozbe.com/es/){:target='_blank'} y como experto de productividad personal y gestión de los equipos. Cada webinar contiene muchos trucos y consejos, así que disfruta y ¡aprende gratis!"
-
-other_tags:
-- name: video
-  emoj: "🎬"
-  link: "/tag/video/"
-  titl: "Video presentations"
-  tit2: "Videos and keynote presentations around remote working and promoting #NoOffice communication and lifestlye"
-- name: imagazine
-  emoj: "👨🏼‍💻"
-  link: "/tag/imagazine/"
-  titl: "iMagazine"
-  tit2: "I write a monthly column to the leading Polish lifestyle magazine [iMagazine](https://iMagazine.pl){:target='_blank'} - if you speak Polish, I keep an [archive of most of these articles](/pl/tag/imagazine)"
-
 
 week_pl: "Tydzień, Poniedziałek, Wtorek, Środa, Czwartek, Piątek, Sobota, Niedziela"
 month_pl: "Miesiąc, Styczeń, Luty, Marzec, Kwiecień, Maj, Czerwiec, Lipiec, Sierpień, Wrzesień, Październik, Listopad, Grudzień"
