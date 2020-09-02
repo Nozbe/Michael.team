@@ -87,6 +87,10 @@ tags:
   emoj: "📱"
   titl: "iPadOnly"
   tit2: "I'm using the iPad as my main computing device since 2012. It started with the retina iPad 3, a year later I wrote the [#iPadOnly book](https://ipadonly.com/){:target='_blank'} on an iPad 4 and as I upgraded my iPads, now I'm working on the 2020 iPad Pro 11. Basically, I'm showing how an iPad is a *real computer*."
+- name: iphone
+  emoj: "📲"
+  titl: "iPhone"
+  tit2: "The iPhone is my default smartphone of choice. We also share history, it was unvailed in the same year I launched [Nozbe](https://nozbe.com/){:target='_blank'}. These posts explain how I use the iPhone as a pocket computer alongside my [iPad](/tag/ipadonly)… and as a phone."
 - name: life
   emoj: "😎"
   titl: "Lifestyle"
