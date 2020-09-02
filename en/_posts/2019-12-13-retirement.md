@@ -11,8 +11,6 @@ Yesterday I had a chat with a friend about the concept of retirement and when (i
 
 ![{{ page.title }}](/img/{{ page.img }})
 
-
-
 ## Brian Tracy - the man who'd never stop!
 
 Brian Tracy is a legend as a business coach and inspirational speaker. He's the author of many books, including my short-and-sweet favorite - [Eat that Frog](https://sliwinski.com/eat-that-frog-brian-tracys-take-on-procrastin/). I met him over 5 years ago in January 2014 on an ICE conference in Finland. [I had a chance to interview him for my Productive Magazine!](https://sliwinski.com/brian-tracy) where we talked about retirement and what keeps him going.
