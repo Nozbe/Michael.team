@@ -4,6 +4,8 @@ layout: page
 
 {{ content }}
 
+{% include tags.html %}
+
 {% assign currentYear = site.time | date: '%Y' %}
 {% include lang.months.html %}
 
