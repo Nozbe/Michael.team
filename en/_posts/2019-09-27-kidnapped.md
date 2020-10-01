@@ -11,9 +11,7 @@ img: "kidnapped.jpg"
 
 ![{{ page.title }}](/img/{{ page.img }})
 
-
-
-### About iPad and me being [iPadOnly](/tag/ipadonly)
+## About iPad and me being [iPadOnly](/tag/ipadonly)
 
 > My iPad Pro is just a glorified iPod touch and will never help me get real work done. [Tweet](https://twitter.com/MSliwinski/status/1177140421140635648)
 
@@ -21,7 +19,7 @@ img: "kidnapped.jpg"
 
 Many people actually keep thinking that. My [iPad Pro](https://sliwinski.com/newdevice) is my [main computer](https://ipadonly.com)...
 
-### About the way I'm running [Nozbe][n]
+## About the way I'm running [Nozbe][n]
 
 > We’re about to announce raising series A of funding for @nozbe to accelerate our growth and dominate the to-do app space. [Tweet](https://twitter.com/MSliwinski/status/1177210462649409536)
 
@@ -29,18 +27,15 @@ Many people actually keep thinking that. My [iPad Pro](https://sliwinski.com/new
 
 Both statements could make sense... if I wasn't committed to building a [bootstrapped](https://sliwinski.com/investors) and all-remote [NoOffice](/tag/nooffice) company...
 
-### About the way we're [communicating in Nozbe](https://sliwinski.com/pyramid)
+## About the way we're [communicating in Nozbe](https://sliwinski.com/pyramid)
 
 > I think email is one of the best tools for efficient collaboration in a team. Real-time chat is the second best thing. [Tweet](https://twitter.com/MSliwinski/status/1177229089318625280)
 
 Some people and businesses really believe that. They don't know any better. That's why we're building [Nozbe Teams][n] now.
 
-### I really loved this challenge! Will you join me?
+## I really loved this challenge! Will you join me?
 
 [Tweet at me](https://twitter.com/MSliwinski) and let me know which phrase could describe other people... just not you! Let me know!
-
-
-
 
 [n]: https://nozbe.com/
 [p]: https://thepodcast.fm/
