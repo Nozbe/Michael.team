@@ -1,6 +1,6 @@
 ---
 permalink: /contact
-cover: michael.team.home.jpg
+cover: michael.team.pl.3k.jpg
 title: Connect with Michael Sliwinski
 ---
 

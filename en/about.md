@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-cover: michael.team.about.jpg
+cover: michael.team.about.3k.jpg
 ---
 
 # About Michael Sliwinski

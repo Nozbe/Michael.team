@@ -1,6 +1,6 @@
 ---
 permalink: /
-cover: michael.team.index.jpg
+cover: michael.team.3k.jpg
 title: Michael Sliwinski
 ---
 

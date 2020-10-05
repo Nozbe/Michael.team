@@ -1,5 +1,5 @@
 ---
-cover: michael.team.es.jpg
+cover: michael.team.es.3k.jpg
 ---
 
 # Michael Sliwinski

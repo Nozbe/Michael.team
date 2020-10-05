@@ -1,5 +1,5 @@
 ---
-cover: michael.team.pl.jpg
+cover: michael.team.pl.3k.jpg
 ---
 
 # Michał Śliwiński

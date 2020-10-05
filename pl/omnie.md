@@ -1,5 +1,5 @@
 ---
-cover: michael.team.about.jpg
+cover: michael.team.about.3k.jpg
 ---
 
 # O Michale Śliwińskim

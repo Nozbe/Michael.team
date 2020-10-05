@@ -1,5 +1,5 @@
 ---
-cover: michael.team.pl.podcast.jpg
+cover: michael.team.now.3k.jpg
 title: Kontakt z Michałem Śliwińskim
 ---
 
