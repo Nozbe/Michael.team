@@ -177,10 +177,6 @@ article > nav {
 	padding: 0 5px 10px;
 	a {
 		text-decoration: none;
-//		background-color: $mainBack;
-//		@include dark-mode {
-//			background-color: $mainDBack;
-//		}
 	}
 	p {
 		padding: 0.8em 0 0.2em;
@@ -193,6 +189,9 @@ article > nav {
 		color: $textG;
 		display: block;
 		text-align: center;
+	}
+	blockquote p:first-child {
+		padding-top: 0.2em;
 	}
 }
 
@@ -253,13 +252,6 @@ blockquote {
 		color: $blockD;
 		background-color: $blockDBack;
 	}
-
-//	a {
-//		background-color: $blockBack;
-//		@include dark-mode {
-//			background-color: $blockDBack;
-//		}
-//	}
 }
 
 img {
