@@ -5,7 +5,7 @@ img: "gtdsummit.jpg"
 
 # After 10 years, GTD Summit is back!
 
-It’s been 10 years since the “father of GTD”, [David Allen](http://productivemag.com/1/interview-with-david-allen) - the author of the best-selling book *“Getting Things Gone - the art of stress-free productivity”* ([Amazon](https://www.amazon.com/dp/0143126563?tag=sliwinski-20)|[Audible](https://www.audible.com/pd/B01B6WSMHI?tag=sliwinski-20)), organized a conference dedicated to being productive - the [GTD Summit](https://gtdsummit.com). I was there last time ([in 2009 in San Francisco, USA](https://sliwinski.com/meet-the-editor-and-nozbe-20-at-the-gtd-summit-in-san-francisco/)) and I’m here this time (Amsterdam, The Netherlands in Europe) and I can’t wait to meet my fellow over-achievers here.
+It’s been 10 years since the “father of GTD”, [David Allen](http://productivemag.com/1/interview-with-david-allen) - the author of the best-selling book *“Getting Things Gone - the art of stress-free productivity”* ([Amazon](https://www.amazon.com/dp/0143126563?tag=sliwinski-20) or [Audible](https://www.audible.com/pd/B01B6WSMHI?tag=sliwinski-20)), organized a conference dedicated to being productive - the [GTD Summit](https://gtdsummit.com). I was there last time ([in 2009 in San Francisco, USA](https://sliwinski.com/meet-the-editor-and-nozbe-20-at-the-gtd-summit-in-san-francisco/)) and I’m here this time (Amsterdam, The Netherlands in Europe) and I can’t wait to meet my fellow over-achievers here.
  
 <!--More-->
 
