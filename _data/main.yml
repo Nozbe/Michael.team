@@ -123,6 +123,10 @@ tags:
   emoj: "🎧"
   titl: "The Podcast"
   tit2: "[The Podcast](https://thepodcast.fm){:target='_blank'} is a podcast I've been recording with Radek, Nozbe's VP of Engineering. After more than 4 years of pretty regular weekly shows, now it's not as regular as we'd like."
+- name: short
+  emoj: "🗯"
+  titl: "Short"
+  tit2: "Short blog posts that I sometimes just want to post out there. More like *longer Tweets* that I just want to keep on my blog instead of social media."
 - name: sports
   emoj: "🎾"
   titl: "Sports"
@@ -135,6 +139,10 @@ tags:
   emoj: "🎥"
   titl: "Vlog"
   tit2: "My 'Team Productivity Show' video blog where I share my best team productivity tips and tricks. It's also hosted on [Nozbe blog](https://nozbe.com/tags/michaelsteam){:target='_blank'}."
+- name: year
+  emoj: "🗓"
+  titl: "Yearly"
+  tit2: "My yearly reviews. Each blog post is a review of the past year with my hopes and dreams for the next one."
 - name: webinar
   emoj: "💻"
   titl: "Webinars"
