@@ -161,6 +161,10 @@ tags_pl:
   emoj: "🎙"
   titl: "Nie Ma Biura"
   tit2: "Wszystkie odcinki podacastu o pracy zdalnej, który nagrywam co dwa tygodnie z Rafałem, szefem produktu [Nozbe](https://nozbe.com/pl/){:target='_blank'}. Zobacz [oficjalną stronę podcastu](https://niemabiura.pl/){:target='_blank'} albo od razu **[zasubskrybuj](https://podcasts.apple.com/pl/podcast/nie-ma-biura/id1526795631){:target='_blank'}**."
+- name: produktywnosc
+  emoj: "☑️"
+  titl: "Produktywność"
+  tit2: "Tematy związane z produktywnością osobistą i zespołową, czyli organizacją projektów, zarządzaniem sobą w czasie oraz skutecznej pracy zespołowej. To jest to co szczególnie ostatnio promuję przy pomocji mojej nowej aplikacji [Nozbe Teams](https://nozbe.com/){:target='_blank'}."
 - name: zycie
   emoj: "😎"
   titl: "Styl życia"
@@ -171,10 +175,15 @@ tags_pl:
   tit2: "Webinary, które organizowałem jako założyciel [Nozbe](https://nozbe.com/pl/){:target='_blank'} oraz ekspert z dziedziny produktywności osobistej i zespołowej czy zarządzania sobą w czasie. Każdy Webinar to solidna dawka wiedzy, więc zapraszam do słuchania, oglądania i nauki zupełnie za darmo!"
 
 tags_es:
+- name: productividad
+  emoj: "☑️"
+  titl: "Productividad"
+  tit2: "Productividad personal y empresarial. Organización y gestión de proyectos y tareas. Como liderar un equipo con eficacia gracias a la comunicación a través de tareas y comentarios. Estoy promoviendo estos conceptos con mi nueva aplicación [Nozbe Teams](https://nozbe.com/){:target='_blank'}."
 - name: webinar
   emoj: "💻"
   titl: "Webinars"
   tit2: "Webinars que preparé como fundador de [Nozbe](https://nozbe.com/es/){:target='_blank'} y como experto de productividad personal y gestión de los equipos. Cada webinar contiene muchos trucos y consejos, así que disfruta y ¡aprende gratis!"
+  
 
 week_pl: "Tydzień, Poniedziałek, Wtorek, Środa, Czwartek, Piątek, Sobota, Niedziela"
 month_pl: "Miesiąc, Styczeń, Luty, Marzec, Kwiecień, Maj, Czerwiec, Lipiec, Sierpień, Wrzesień, Październik, Listopad, Grudzień"
