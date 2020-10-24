@@ -53,7 +53,7 @@ I've created a Siri shortcut which can be used to either share directly a video 
 
 ## Enjoy!
 
-This is the easiest way I know to get the YouTube content on the iPad as quickly as possible for later consumption later.
+This is the easiest way I know to get the YouTube content on the iPad as quickly as possible for offline consumption later.
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
