@@ -95,6 +95,10 @@ tags:
   emoj: "😎"
   titl: "Lifestyle"
   tit2: "How my life influences my business and the other way round. How I design my lifestyle and how I succeed or fail in the process."
+- name: links
+  emoj: "🌎"
+  titl: "Links"
+  tit2: "Links to other interesting pages on the Internet. Very often references to the [Nozbe blog](https://nozbe.com/blog){:target='_blank'}. With optional quotes and additional commentary. Or not."
 - name: nooffice
   emoj: "🏝"
   titl: "NoOffice"
