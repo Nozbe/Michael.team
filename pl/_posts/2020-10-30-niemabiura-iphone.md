@@ -5,7 +5,7 @@ vid: "GCCtBzvCDOY"
 
 # Nie Ma Biura BONUS: No to jak z tym iPhonem 12?
 
-Zapraszam do odsłuchania odcinka # 55 mojego podcastu z Rafałem. Przy okazji naszego zjazdu [Nozbe Reunion Virtual][nb] nagraliśmy bonusowy odcinek podcastu poświęcony wydarzeniu Apple gdzie ogłoszono iPhone’a 12. Aby była trochę wyważona dyskusja, gościnnie wystąpił nasz Androidowy programista - Leon.
+Zapraszam do odsłuchania bonusowego odcinka mojego podcastu z Rafałem. Przy okazji naszego zjazdu [Nozbe Reunion Virtual][nb] nagraliśmy bonusowy odcinek podcastu poświęcony wydarzeniu Apple gdzie ogłoszono iPhone’a 12. Aby była trochę wyważona dyskusja, gościnnie wystąpił nasz Androidowy programista - Leon.
 
 {% include video.html id=page.vid %}
 

@@ -24,8 +24,12 @@ Spis wszystkich postów znajdziesz w moim [archiwum](/pl/archiwum/). Organizuję
 
 {% include search.html %}
 
+{% include tags.html %}
+
 <br>
 
-## Ostatnie wpisy
+## Najnowsze wpisy
 
 {% include posts.html posts=site.categories.pl limit=5 more=1 %}
+
+[Zobacz wszystkie wpisy…](/pl/archiwum/)

@@ -6,7 +6,7 @@ cover: "pracuj-inaczej.jpg"
 
 # Nie pracujmy więcej, ale inaczej. Zupełnie inaczej!
 
-Jak pisałem w poprzednim miesiącu w iMagazine, jestem w trakcie pisania książki "#NoOffice" o pracy bez biura, w której podkreślam, że *praca to nie miejsce, do którego się chodzi, ale to, co się robi*. Już ponad 2/3 książki jest gotowe, a większość tekstu jest przetłumaczona na język polski pod adresem **NoOffice.org/pl/** - zachęcam do czytania i komentowania. Pisząc książkę, zauważyłem, że dużo uwagi poświęcam niej nie temu, jak coś można zrobić trochę lepiej, ale: jak warto zrobić to zupełnie inaczej.
+Jak pisałem w poprzednim miesiącu w iMagazine, jestem w trakcie pisania książki "#NoOffice" o pracy bez biura, w której podkreślam, że *praca to nie miejsce, do którego się chodzi, ale to, co się robi*. Już ponad 2/3 książki jest gotowe, a większość tekstu jest przetłumaczona na język polski pod adresem **[NoOffice.org/pl/](https://NoOffice.org/pl)** - zachęcam do czytania i komentowania. Pisząc książkę, zauważyłem, że dużo uwagi poświęcam niej nie temu, jak coś można zrobić trochę lepiej, ale: jak warto zrobić to zupełnie inaczej.
 
 <!--More-->
 

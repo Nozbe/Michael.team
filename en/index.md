@@ -34,8 +34,12 @@ Check out [full archive](/archive/) or [browse my posts by tags or topics](/tag/
 
 {% include search.html %}
 
+{% include tags.html %}
+
 <br>
 
 ## Latest updates:
 
 {% include posts.html posts=site.categories.en limit=5 more=1 %}
+
+[Browse all blog entries…](/archive/)
