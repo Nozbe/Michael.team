@@ -73,7 +73,7 @@ function createSpinner (destroy=false) {
 function showYouTube () {
 	let urlParams = new URLSearchParams(window.location.search);
 	let param = urlParams.get('yt');
-	let yt = param.match(/v=(.+)/);
+	let yt = param.match('/v=(.+)/');
 	if (yt) yt = yt[1]; else yt = 'BmlB8y5Sig8';
 	document.querySelector("#embed").innerHTML = '<iframe src="https://www.youtube-nocookie.com/embed/'+yt+'" width="853" height="480" frameborder="0" webkitallowfullscreen="1" mozallowfullscreen="1" allowfullscreen="1"></iframe>';
 }
