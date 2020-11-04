@@ -71,7 +71,7 @@ function createSpinner (destroy=false) {
 
 //show video on /yt page with ?yt= YouTube link param
 function showYouTube (input=false) {
-	let yt = 'BmlB8y5Sig8';
+	let yt = ''; //'BmlB8y5Sig8';
 	let ytlink = '';
 	if (input) {
 		ytlink = document.forms.link.yt.value;
@@ -85,5 +85,7 @@ function showYouTube (input=false) {
 		let video = ytlink.match(/v=(.+)/);
 		if (video) yt = video[1];
 	}
-	document.querySelector("#embed").innerHTML = '<iframe src="https://www.youtube-nocookie.com/embed/'+yt+'" width="853" height="480" frameborder="0" webkitallowfullscreen="1" mozallowfullscreen="1" allowfullscreen="1"></iframe>';
+	if (yt) {
+		document.querySelector("#embed").innerHTML = '<iframe src="https://www.youtube-nocookie.com/embed/'+yt+'" width="853" height="480" frameborder="0" webkitallowfullscreen="1" mozallowfullscreen="1" allowfullscreen="1"></iframe>';
+	}
 }

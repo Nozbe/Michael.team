@@ -9,32 +9,34 @@ vid: BmlB8y5Sig8
 
 ## Watch any YouTube video here, cookie free!
 
-I created this web site because I was annoyed how YouTube (Google) tracks me and I also wanted to be able to watch just one video without bindge-watching more. [Here's the full story behind this page][blog].
+I created this because the experience of watching video on YouTube got worse. They show pop-ups, they track you and they tempt you to bindge-watch by suggesting lots of videos on the side. [Here's the full story behind this page][blog].
 
-## Option 1. Just paste a YouTube URL link below
+## Option 1. Just paste a YouTube URL link
 
 <form name="link" onsubmit="showYouTube(true); return false;">
-<div><input name="yt" type="text" value="" placeholder="E.g: https://www.youtube.com/watch?v=BmlB8y5Sig8"></div>
+<div><input name="yt" type="text" value="" placeholder="Paste: ...youtube.com/watch?v=..."></div>
 <div><button>Watch YouTube video!</button></div>
 </form>
 
-## Option 2. If on iOS, get this Siri Shortcut
+## Option 2. Get a Siri Shortcut for iOS
 
-I created a handy Siri Shortcut which you can use to "share" any YouTube link to this page. [Get the Siri Shortcut][shortcut].
+I created a handy Siri Shortcut which you can use to "share" any YouTube link to this page.
+
+**[Get the Siri Shortcut for iOS][shortcut]**
 
 ## Option 3. Just add a URL to this page as a parameter
 
 This page has a special `yt` parameter, so add the YouTube link at the end of it:
 
 {% highlight liquid %}
-https://michael.team/yt?yt=
+https://michael.team/yt/?yt=FULLYOUTUBELINK
 {% endhighlight %}
 
 ## Enjoy!
 
-I created this page mainly for me to be able to watch videos on my iPad and iPhone without being tracked by Google/YouTube. It uses the "nocookie" option of video embedding and it supports full screen on the iPadOS and iOS.
+Now you can watch videos on an iPad, iPhone or any other device without being tracked by Google/YouTube. When embedding the video it uses the "nocookie" option, which limits the tracking and it supports full screen on the iPadOS and iOS for most clips.
 
 [Read more about this page and share with your friends! Thanks!][blog]
 
-[blog]: https://michael.team
-[shortcut]: https://
+[blog]: https://michael.team/youtube/
+[shortcut]: https://www.icloud.com/shortcuts/a45cec1e83944253b6c0bd3cb2915bc4
