@@ -1,6 +1,6 @@
 ---
 permalink: /yt/
-title: "Watch!"
+title: "YouTube watcher"
 js: showYouTube
 vid: BmlB8y5Sig8
 ---
@@ -9,13 +9,13 @@ vid: BmlB8y5Sig8
 
 ## Watch any YouTube video here, cookie free!
 
-I created this web site because I was annoyed how YouTube/Google track me and I also wanted to be able to watch just one video without bindge-watching more. [Here's the full story behind this page][blog].
+I created this web site because I was annoyed how YouTube (Google) tracks me and I also wanted to be able to watch just one video without bindge-watching more. [Here's the full story behind this page][blog].
 
 ## Option 1. Just paste a YouTube URL link below
 
 <form name="link" onsubmit="showYouTube(true); return false;">
-<input name="yt" type="text" value="" size="50" placeholder="E.g: https://www.youtube.com/watch?v=BmlB8y5Sig8" />
-<button>Watch!</button>
+<div><input name="yt" type="text" value="" placeholder="E.g: https://www.youtube.com/watch?v=BmlB8y5Sig8"></div>
+<div><button>Watch YouTube video!</button></div>
 </form>
 
 ## Option 2. If on iOS, get this Siri Shortcut
