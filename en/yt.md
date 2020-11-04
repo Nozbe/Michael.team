@@ -26,7 +26,9 @@ I created a handy Siri Shortcut which you can use to "share" any YouTube link to
 
 This page has a special `yt` parameter, so add the YouTube link at the end of it:
 
-`https://michael.team/yt?yt=`
+```
+https://michael.team/yt?yt=
+```
 
 ## Enjoy!
 
