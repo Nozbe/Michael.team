@@ -5,7 +5,7 @@ js: showYouTube
 vid: BmlB8y5Sig8
 ---
 
-<div id="embed" class="embed-container"></div>
+<div id="yt"></div>
 
 ## Watch any YouTube video here, cookie free!
 

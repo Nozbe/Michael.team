@@ -86,6 +86,6 @@ function showYouTube (input=false) {
 		if (video) yt = video[1];
 	}
 	if (yt) {
-		document.querySelector("#embed").innerHTML = '<iframe src="https://www.youtube-nocookie.com/embed/'+yt+'" width="853" height="480" frameborder="0" webkitallowfullscreen="1" mozallowfullscreen="1" allowfullscreen="1"></iframe>';
+		document.querySelector("#yt").innerHTML = '<div id="embed" class="embed-container"><iframe src="https://www.youtube-nocookie.com/embed/'+yt+'" width="853" height="480" frameborder="0" webkitallowfullscreen="1" mozallowfullscreen="1" allowfullscreen="1"></iframe></div>';
 	}
 }
