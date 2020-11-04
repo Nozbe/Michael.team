@@ -13,8 +13,8 @@ I created this web site because I was annoyed how YouTube/Google track me and I 
 
 ## Option 1. Just paste a YouTube URL link below
 
-<form name="yt" onsubmit="showYouTube(true);">
-<input name="link" type="text" value="" size="50" placeholder="Paste a URL like: https://www.youtube.com/watch?v=BmlB8y5Sig8" />
+<form name="link" onsubmit="showYouTube(true); return false;">
+<input name="yt" type="text" value="" size="50" placeholder="E.g: https://www.youtube.com/watch?v=BmlB8y5Sig8" />
 <button>Watch!</button>
 </form>
 
