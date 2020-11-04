@@ -72,13 +72,16 @@ function createSpinner (destroy=false) {
 //show video on /yt page with ?yt= YouTube link param
 function showYouTube (input=false) {
 	let yt = 'BmlB8y5Sig8';
-  let ytlink = '';
-	if (input) ytlink = document.forms.link.yt.value;
-  if (!ytlink) {
-  	let urlParams = new URLSearchParams(window.location.search);
+	let ytlink = '';
+	if (input) {
+		ytlink = document.forms.link.yt.value;
+		window.scrollTo(0, 0);
+	}
+	if (!ytlink) {
+		let urlParams = new URLSearchParams(window.location.search);
 		ytlink = urlParams.get('yt');
-  }
-  if (ytlink) {
+	}
+	if (ytlink) {
 		let video = ytlink.match(/v=(.+)/);
 		if (video) yt = video[1];
 	}
