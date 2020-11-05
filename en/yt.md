@@ -36,7 +36,9 @@ https://michael.team/yt/?yt=FULLYOUTUBELINK
 
 Now you can watch videos on an iPad, iPhone or any other device without being tracked by Google/YouTube. When embedding the video it uses the "nocookie" option, which limits the tracking and it supports full screen on the iPadOS and iOS for most clips.
 
-[Read more about this page and share with your friends! Thanks!][blog]
+**[Read more about this page and share with your friends! Thanks!][blog]**
+
+### Share: [michael.team/yt](https://michael.team/yt/)
 
 [blog]: https://michael.team/youtube/
 [shortcut]: https://www.icloud.com/shortcuts/a45cec1e83944253b6c0bd3cb2915bc4
