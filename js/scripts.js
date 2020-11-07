@@ -75,6 +75,8 @@ function showYouTube(input = false) {
 	//https://www.youtube.com/watch?feature=emb_logo&v=BmlB8y5Sig8&app=desktop
 	//https://youtu.be/BmlB8y5Sig8
 	//https://www.youtube.com/watch?v=BmlB8y5Sig8
+	//window.history.pushState('video','YouTube watcher - Michael.team','https://michael.team/yt/?yt=https://www.youtube.com/watch?v=eWI_BtcDJu0')
+	//new URLSearchParams(window.location.search).get('v');
 	let yt = ''; //'BmlB8y5Sig8';
 	let ytlink = '';
 	if (input) {
@@ -84,19 +86,22 @@ function showYouTube(input = false) {
 	if (!ytlink) {
 		let urlParams = new URLSearchParams(window.location.search);
 		ytlink = urlParams.get('yt');
+		if (!ytlink) yt = urlParams.get('v'); //when the v= param is after & in a longer YouTube link
 	}
-	if (ytlink) {
-	//case 1 - v=ID is in the middle before "&"
-	let video = ytlink.match(/v=(.+)&/);
-	if (video) yt = video[1];
-		else {
-		//case 2 - v=ID is at the end
-		video = ytlink.match(/v=(.+)$/);
+	if (!yt) {
+		if (ytlink) {
+		//case 1 - v=ID is in the middle before "&"
+		let video = ytlink.match(/v=(.+)&/);
 		if (video) yt = video[1];
 			else {
-			//case 3 - it's a youtu.be/ID link
-			video = ytlink.match(/youtu\.be\/(.+)/);
+			//case 2 - v=ID is at the end
+			video = ytlink.match(/v=(.+)$/);
 			if (video) yt = video[1];
+				else {
+				//case 3 - it's a youtu.be/ID link
+				video = ytlink.match(/youtu\.be\/(.+)/);
+				if (video) yt = video[1];
+				}
 			}
 		}
 	}
@@ -107,5 +112,7 @@ function showYouTube(input = false) {
 	document.querySelector('meta[property="og:image"]').setAttribute("content", 'https://i.ytimg.com/vi/'+yt+'/maxresdefault.jpg');
 	//embed video
 	document.querySelector("#yt").innerHTML = '<div id="embed" class="embed-container"><iframe src="https://www.youtube-nocookie.com/embed/' + yt + '" width="853" height="480" frameborder="0" webkitallowfullscreen="1" mozallowfullscreen="1" allowfullscreen="1"></iframe></div>';
+	//add page to browser history if it was from input
+	if (input) window.history.pushState('video','YouTube watcher - Michael.team','https://michael.team/yt/?yt=https://www.youtube.com/watch?v='+yt);
 	}
 }
