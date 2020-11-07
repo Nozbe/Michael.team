@@ -107,7 +107,6 @@ function showYouTube(input = false) {
 	}
 	if (yt) {
 	//set meta attributes
-	document.querySelector('meta[name="twitter:player"]').setAttribute("content", 'https://www.youtube.com/embed/'+yt);
 	document.querySelector('meta[name="twitter:image"]').setAttribute("content", 'https://i.ytimg.com/vi/'+yt+'/maxresdefault.jpg');
 	document.querySelector('meta[property="og:image"]').setAttribute("content", 'https://i.ytimg.com/vi/'+yt+'/maxresdefault.jpg');
 	//embed video
