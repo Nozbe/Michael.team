@@ -85,8 +85,8 @@ function showYouTube(input = false) {
 	}
 	if (!ytlink) {
 		let urlParams = new URLSearchParams(window.location.search);
-		ytlink = urlParams.get('yt');
-		if (!ytlink) yt = urlParams.get('v'); //when the v= param is after & in a longer YouTube link
+		yt = urlParams.get('v'); //when the v= param is after & in a longer YouTube link
+		if (!yt) ytlink = urlParams.get('yt'); //we just get our normal yt param
 	}
 	if (!yt) {
 		if (ytlink) {
