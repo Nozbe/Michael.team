@@ -2,7 +2,7 @@
 permalink: /yt/
 title: "YouTube watcher"
 js: showYouTube
-vid: BmlB8y5Sig8
+img: yt.jpg
 ---
 
 <div id="yt"></div>
