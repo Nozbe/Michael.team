@@ -70,7 +70,11 @@ function createSpinner (destroy=false) {
 }
 
 //show video on /yt page with ?yt= YouTube link param
-function showYouTube (input=false) {
+function showYouTube(input = false) {
+	//Supported links:
+	//https://www.youtube.com/watch?feature=emb_logo&v=BmlB8y5Sig8&app=desktop
+	//https://youtu.be/BmlB8y5Sig8
+	//https://www.youtube.com/watch?v=BmlB8y5Sig8
 	let yt = ''; //'BmlB8y5Sig8';
 	let ytlink = '';
 	if (input) {
@@ -82,10 +86,26 @@ function showYouTube (input=false) {
 		ytlink = urlParams.get('yt');
 	}
 	if (ytlink) {
-		let video = ytlink.match(/v=(.+)/);
+	//case 1 - v=ID is in the middle before "&"
+	let video = ytlink.match(/v=(.+)&/);
+	if (video) yt = video[1];
+		else {
+		//case 2 - v=ID is at the end
+		video = ytlink.match(/v=(.+)$/);
 		if (video) yt = video[1];
+			else {
+			//case 3 - it's a youtu.be/ID link
+			video = ytlink.match(/youtu\.be\/(.+)/);
+			if (video) yt = video[1];
+			}
+		}
 	}
 	if (yt) {
-		document.querySelector("#yt").innerHTML = '<div id="embed" class="embed-container"><iframe src="https://www.youtube-nocookie.com/embed/'+yt+'" width="853" height="480" frameborder="0" webkitallowfullscreen="1" mozallowfullscreen="1" allowfullscreen="1"></iframe></div>';
+	//set meta attributes
+	document.querySelector('meta[name="twitter:player"]').setAttribute("content", 'https://www.youtube.com/embed/'+yt);
+	document.querySelector('meta[name="twitter:image"]').setAttribute("content", 'https://i.ytimg.com/vi/'+yt+'/maxresdefault.jpg');
+	document.querySelector('meta[name="og:image"]').setAttribute("content", 'https://i.ytimg.com/vi/'+yt+'/maxresdefault.jpg');
+	//embed video
+	document.querySelector("#yt").innerHTML = '<div id="embed" class="embed-container"><iframe src="https://www.youtube-nocookie.com/embed/' + yt + '" width="853" height="480" frameborder="0" webkitallowfullscreen="1" mozallowfullscreen="1" allowfullscreen="1"></iframe></div>';
 	}
 }
