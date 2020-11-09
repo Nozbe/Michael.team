@@ -1,0 +1,26 @@
+<form action="https://nozbe.info/add_subscriber.html" accept-charset="utf-8" method="post">
+	<!-- Name -->
+	Name: <input type="text" name="name"/><br/>
+	<!-- Email field (required) -->
+	Email: <input type="text" name="email"/><br/>
+	<!-- List token -->
+	<!-- Get the token at: https://nozbe.info/campaign_list.html -->
+	<input type="hidden" name="campaign_token" value="YGSR" />
+	<!-- Thank you page (optional) or confirmation page? -->
+	<input type="hidden" name="thankyou_url" value="https://michael.team/thanks/"/>
+	<!-- Add subscriber to the follow-up sequence with a specified day (optional) -->
+	<input type="hidden" name="start_day" value="0" />
+	<!-- Forward form data to your page (optional) -->
+	<input type="hidden" name="forward_data" value="post" />
+	<!-- Subscriber button -->
+	<input type="submit" value="Subscribe"/>
+</form>
+
+<!-- TODO: michael.team/thanks/ - Settings: https://nozbe.info/lists/vq4B -->
+<!-- TODO: michael.team/confirm/ ??? to confirm newsletter? -->
+<!-- TODO: michael.team/sorry/ - when people unsubscribe -->
+<!-- TODO: michael.team/newsletter/ - simple newsletter page -->
+<!-- TODO: michael.team/privacy/ - privacy policy - Newsletter and hello.nozbe.com -->
+<!-- TODO: review first and second message -->
+<!-- TODO: enable dark mode for both of these messages -->
+<!-- TODO: send first newsletter to tell people about the change to michael.team and No Office book and unsubscribe if they don't want to hear from me -->
