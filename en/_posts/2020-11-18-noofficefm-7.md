@@ -5,7 +5,7 @@ vid: "tlGQ2hNZAeg"
 
 # No Office FM #7: The Pyramid Of Communication
 
-Welcome to the episode #7 of my podcast about working remotely with Rafal, [Nozbe][n]'s VP of Product. In this episode we get back to basics of efficient team communication. How it’s done best especially in a distributed team. And why meetings are last. 
+Welcome to the episode #7 of my podcast about working remotely with Rafal, [Nozbe][n]'s VP of Product. In this episode we get back to basics of efficient team communication. How it’s done best especially in a distributed team. And why meetings are last. And why it has a [shape of a pyramid](https://nooffice.org/my-companys-pyramid-of-communication-revisited-fc54ae4b2a6d/).
 
 {% include video.html id=page.vid %}
 
@@ -16,8 +16,6 @@ Welcome to the episode #7 of my podcast about working remotely with Rafal, [Nozb
 <audio controls>
 <source src="https://media.transistor.fm/f3da5c7c/bac72c06.mp3" type="audio/mpeg">
 </audio>
-
-
 
 [Full episode show notes at NOOFFICE.FM/7](https://nooffice.fm/7)
 

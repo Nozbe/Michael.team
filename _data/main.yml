@@ -126,7 +126,7 @@ tags:
 - name: podcast
   emoj: "🎧"
   titl: "The Podcast"
-  tit2: "[The Podcast](https://thepodcast.fm){:target='_blank'} is a podcast I've been recording with Radek, Nozbe's VP of Engineering. After more than 4 years of pretty regular weekly shows, now it's not as regular as we'd like."
+  tit2: "[The Podcast](https://thepodcast.fm){:target='_blank'} is a podcast I've been recording with Radek, Nozbe's VP of Engineering. After more than 4 years of pretty regular weekly shows, now it's not as regular as we'd like. **[Subscribe](https://podcasts.apple.com/podcast/the-podcast/id1012329770)**"
 - name: short
   emoj: "🗯"
   titl: "Short"
@@ -142,7 +142,7 @@ tags:
 - name: vlog
   emoj: "🎥"
   titl: "Vlog"
-  tit2: "My 'Team Productivity Show' video blog where I share my best team productivity tips and tricks. It's also hosted on [Nozbe blog](https://nozbe.com/tags/michaelsteam){:target='_blank'}."
+  tit2: "My 'Team Productivity Show' video blog where I share my best team productivity tips and tricks. It's also hosted on [Nozbe blog](https://nozbe.com/tags/michaelsteam){:target='_blank'}. You can subscribe [on YouTube](https://www.youtube.com/playlist?list=PL4VGcOPPsP4O0dJlcJLoMiGEWSTOFYulO) or [as audio on Apple Podcasts](https://podcasts.apple.com/us/podcast/team-productivity-show/id1538743591)"
 - name: year
   emoj: "🗓"
   titl: "Yearly"

@@ -203,6 +203,12 @@ article > nav {
 	}
 }
 
+.footnotes {
+	p, li {
+		font-size: 0.9rem;
+	}
+}
+
 .date {
 	color: $textG;
 	font-style: italic;
