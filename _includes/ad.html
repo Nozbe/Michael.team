@@ -1,9 +1,7 @@
 {% comment %}
-Inserting an AD site-wide
-{% include ad.html text="Nozbe Teams is launching today on Product Hunt!" link="https://www.producthunt.com/posts/nozbe-teams" %}
-and put it in default.hml in line 74
+Inserting an AD site-wide - just put site.data.main.ad to true
 {% endcomment %}
 <div class="begend" id="ad">
-	<div class="begender center"><p>🥳 ✅ <a href="{{ include.link }}">{{ include.text }}</a> 🙏 👍</p>
+	<div class="begender center"><p>🥳 ✅ <a href="{{ site.data.main.ad_link }}">{{ site.data.main.ad_text }}</a> 🙏 👍</p>
 	</div>
 </div>

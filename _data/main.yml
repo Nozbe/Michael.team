@@ -30,6 +30,10 @@ read_es: "Sigue leyendo"
 
 twitter: "MSliwinski"
 
+ad: "true"
+ad_link: "https://nozbe.com/blog/2020-black-friday-special-offer/"
+ad_text: "BLACK FRIDAY deal on Nozbe Personal and Nozbe Teams - GET 4 MONTHS EXTRA FREE!"
+
 now: "This is a [“now”](https://nownownow.com/p/Wwy1){:target='_blank'} page inspired by [Derek Sievers](https://sivers.org/now){:target='_blank'}. It's a “status update“ on my life, my projects and priorities. I try to post a new update [every Friday](/tag/now/) while doing a weekly review. Here's my latest update:"
 
 descr: "[Hello](/now), I'm [Michael Sliwinski](/about), founder of [Nozbe](https://nozbe.com/){:target='_blank'} - to-do app for modern teams. I [write](/archive) [about](/tag) productivity, [#NoOffice](https://nooffice.org){:target='_blank'}, [#iPadOnly](https://ipadonly.com){:target='_blank'} and [I believe](/contact) that *work is not a place you go to, it's a thing you do.*"
