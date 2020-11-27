@@ -71,10 +71,6 @@
 </head><body>
 {% endif %}
 
-{% if site.data.main.ad == 'true' %}
-{% include ad.html %}
-{% endif %}
-
 <div class="begend" id="top">
 	<div class="begender">
 		<a href="{{ site.url }}/{{ langpath }}" class="avatar" title="{{ site.data.main.[pagetitle] }}"><img src="/icon.dark.png" alt="MS"></a>
@@ -83,6 +79,10 @@
 		{{ site.data.main.[pagedescr] | markdownify }}
 	</div>
 </div>
+
+{% if site.data.main.ad == 'true' %}
+{% include ad.html %}
+{% endif %}
 
 {{ content }}
 
