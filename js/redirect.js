@@ -5,8 +5,14 @@
 let links = new Map([
 
 //list of REDIRECT links
-['michael', 'https://michael.team/'],
 ['nooffice', 'https://nooffice.org'],
+['nozbe', 'https://nozbe.com/?a=mike'],
+['nozbepersonal', 'https://nozbe.com/personal/?a=mike'],
+['thepodcastyt','https://www.youtube.com/thepodcastfm']
+['thepodcastfm', 'https://thepodcast.fm/'],
+['thepodcast', 'https://podcasts.apple.com/podcast/the-podcast/id1012329770'],
+['ipadonly', 'https://ipadonly.com'],
+['radex', 'https://radex.io/'],
 
 ]);
 
