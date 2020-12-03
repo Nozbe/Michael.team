@@ -9,14 +9,26 @@ layout: page
 {% assign currentYear = site.time | date: '%Y' %}
 {% include lang.months.html %}
 
-<br>
-
-<nav class="tags">
+{% if langlang == 'en' or langlang == 'pl' %}
+<br><nav class="tags">
+{% if langlang == 'en' %}
 <a href="#2020">2020</a> |
 <a href="#2019">2019</a> |
 <a href="#2018">2018</a> |
-<a href="#2017">2017</a>
+<a href="#2017">2017</a> |
+<a href="#2016">2016</a>
+{% else %}
+<a href="#2020">2020</a> |
+<a href="#2019">2019</a> |
+<a href="#2018">2018</a> |
+<a href="#2017">2017</a> |
+<a href="#2016">2016</a> |
+<a href="#2014">2014</a> |
+<a href="#2012">2012</a> |
+<a href="#2010">2010</a>
+{% endif %}
 </nav>
+{% endif %}
 
 {% assign postsByYear = site.categories.[langlang] | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
