@@ -14,11 +14,11 @@ Tak najprościej mnie złapać:
 * Zaczynam coraz więcej pisać na [LinkedIn](https://www.linkedin.com/in/michaelsliwinski)
 * Nie jestem aktywny na [Fejsie](https://www.facebook.com/michael.sliwinski) ani [Instagramie](https://www.instagram.com/michaelsliwinski/) bo nie zgadzam się z podejściem do prywatności i polityki Marka Zuckerberga.
 
-## Pytania odnośnie [Nozbe][]?
+## Pytania odnośnie [Nozbe][n]?
 
-Jeśli masz pytania odnośnie [Nozbe][] to najlepiej śledź profil [Nozbe PL na Twitterze][tn] albo [napisz maila do naszego działu wsparcia][n] a dostaniesz szybką odpowiedź.
+Jeśli masz pytania odnośnie [Nozbe][n] to najlepiej śledź profil [Nozbe PL na Twitterze][tn] albo [napisz maila do naszego działu wsparcia][support] a dostaniesz szybką odpowiedź.
 
-**Wskazówka:** Jeśli jesteś użytkownikiem [Nozbe][] i chcesz się ze mną szybko skontaktować, to nie pisz do mnie bezpośrednio ale właśnie napisz do działu wsparcia Nozbe. Oni mają bezpośredni kontakt ze mną (oczywiście przez Nozbe!) i dzięki temu szybciej mnie złapiesz!
+**Wskazówka:** Jeśli jesteś użytkownikiem [Nozbe][n] i chcesz się ze mną szybko skontaktować, to nie pisz do mnie bezpośrednio ale właśnie napisz do działu wsparcia Nozbe. Oni mają bezpośredni kontakt ze mną (oczywiście przez Nozbe!) i dzięki temu szybciej mnie złapiesz!
 
 ## Chcesz się ode mnie czegoś dowiedzieć?
 
@@ -39,7 +39,7 @@ Jeśli Twojej odpowiedzi nie ma [na moim blogu](/pl/archiwum), to [tu jest mój 
 
 Zaznaczam, że wprawdzie **czytam każdego e-maila** ale czasami bardzo późno odpowiadam i do tego odpisuję bardzo krótko, jakbym pisał SMS'a. Tak po prostu działam.
 
-[Nozbe]: https://nozbe.com
-[n]: https://nozbe.com/contact
+[n]: https://nozbe.com/
+[support]: https://nozbe.com/pl/contact
 [tn]: https://twitter.com/nozbePL
 [email]: mailto:michaels@hey.com

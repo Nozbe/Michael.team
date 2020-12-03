@@ -6,7 +6,7 @@ cover: michael.team.es.3k.jpg
 
 ## ¡Hola! ¿Te interesa productividad personal y empresarial?
 
-Pues, estoy aquí para ayudarte. Soy fundador de [Nozbe y Nozbe Teams](https://nozbe.com/){:target='_blank'} - aplicaciones para profesionales y equipos que ayudan a organizarlo todo con eficacia. Lo llevo haciendo ya más que 13 años. También soy el escritor de libros, como ([#iPadOnly](https://iPadOnly.com){:target='_blank'} y [#NoOffice - Sin Oficina](https://NoOffice.org/es/){:target='_blank'}).
+Pues, estoy aquí para ayudarte. Soy fundador de [Nozbe y Nozbe Teams](https://nozbe.com/es/?a=mike){:target='_blank'} - aplicaciones para profesionales y equipos que ayudan a organizarlo todo con eficacia. Lo llevo haciendo ya más que 13 años. También soy el escritor de libros, como ([#iPadOnly](https://iPadOnly.com){:target='_blank'} y [#NoOffice - Sin Oficina](https://NoOffice.org/es/){:target='_blank'}).
 
 ## Mi blog
 

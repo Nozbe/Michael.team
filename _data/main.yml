@@ -34,11 +34,9 @@ ad: "false"
 ad_link: "https://nozbe.com/blog/2020-black-friday-special-offer/"
 ad_text: "BLACK FRIDAY on Nozbe Personal and Nozbe Teams - GET 4 MONTHS FREE!"
 
-now: "This is a [“now”](https://nownownow.com/p/Wwy1){:target='_blank'} page inspired by [Derek Sievers](https://sivers.org/now){:target='_blank'}. It's a “status update“ on my life, my projects and priorities. I try to post a new update [every Friday](/tag/now/) while doing a weekly review. Here's my latest update:"
-
-descr: "[Hello](/now), I'm [Michael Sliwinski](/about), founder of [Nozbe](https://nozbe.com/){:target='_blank'} - to-do app for modern teams. I [write](/archive) [about](/tag) productivity, [#NoOffice](https://nooffice.org){:target='_blank'}, [#iPadOnly](https://ipadonly.com){:target='_blank'} and [I believe](/contact) that *work is not a place you go to, it's a thing you do.*"
-descr_pl: "Hej, tu [Michał Śliwiński](/pl/omnie), założyciel [Nozbe](https://nozbe.com/pl/){:target='_blank'} - aplikacji do zadań dla nowoczesnych zespołów. [Po polsku](/pl/archiwum) [piszę](/pl/tag) o [produktywności](/pl/tag/imagazine). [Wierzę](/pl/kontakt), że *praca to nie jest miejsce do którego idziesz, ale to co robisz.*"
-descr_es: "Hola, soy Michael Sliwinski, fundador de [Nozbe](https://nozbe.com/es/){:target='_blank'} - gestor de tareas para modernos equipos. [Escribo](/es/todo/) [sobre](/es/tag) [productividad](/es/tag/webinar). Creo en que *trabajo no es un sitio a donde vas, sino es algo que haces.*"
+descr: "[Hello](/now), I'm [Michael Sliwinski](/about), founder of [Nozbe](https://nozbe.com/?a=mike){:target='_blank'} - to-do app for modern teams. I [write](/archive) [about](/tag) [productivity](/tag/productivity), [#NoOffice](/tag/nooffice), [#iPadOnly](/tag/ipadonly/) and [I believe](/contact) that *work is not a place you go to, it's a thing you do.*"
+descr_pl: "Hej, tu [Michał Śliwiński](/pl/omnie), założyciel [Nozbe](https://nozbe.com/pl/?a=mike){:target='_blank'} - aplikacji do zadań dla nowoczesnych zespołów. [Po polsku](/pl/archiwum) [piszę](/pl/tag) o [produktywności](/pl/tag/imagazine). [Wierzę](/pl/kontakt), że *praca to nie jest miejsce do którego idziesz, ale to co robisz.*"
+descr_es: "Hola, soy Michael Sliwinski, fundador de [Nozbe](https://nozbe.com/es/?a=mike){:target='_blank'} - gestor de tareas para modernos equipos. [Escribo](/es/todo/) [sobre](/es/tag) [productividad](/es/tag/webinar). Creo en que *trabajo no es un sitio a donde vas, sino es algo que haces.*"
 
 searchbox: "search..."
 searchbox_no: "Nothing found!"
@@ -94,7 +92,7 @@ tags:
 - name: iphone
   emoj: "📲"
   titl: "iPhone"
-  tit2: "The iPhone is my default smartphone of choice. We also share history, it was unvailed in the same year I launched [Nozbe](https://nozbe.com/){:target='_blank'}. These posts explain how I use the iPhone as a pocket computer alongside my [iPad](/tag/ipadonly)… and as a phone."
+  tit2: "The iPhone is my default smartphone of choice. We also share history, it was unvailed in the same year I launched [Nozbe](https://nozbe.com/?a=mike){:target='_blank'}. These posts explain how I use the iPhone as a pocket computer alongside my [iPad](/tag/ipadonly)… and as a phone."
 - name: life
   emoj: "😎"
   titl: "Lifestyle"
@@ -102,19 +100,19 @@ tags:
 - name: links
   emoj: "🌎"
   titl: "Links"
-  tit2: "Links to other interesting pages on the Internet. Very often references to the [Nozbe blog](https://nozbe.com/blog){:target='_blank'}. With optional quotes and additional commentary. Or not."
+  tit2: "Links to other interesting pages on the Internet. Very often references to the [Nozbe blog](https://nozbe.com/blog/?a=mike){:target='_blank'}. With optional quotes and additional commentary. Or not."
 - name: nooffice
   emoj: "🏝"
   titl: "NoOffice"
-  tit2: "Stories from running an all-remote [Nozbe](https://nozbe.com/){:target='_blank'} team and resulting lifestyle of working from my home office or from anywhere really. Now described in detailed also in my new [#NoOffice book](https://NoOffice.org/){:target='_blank'}."
+  tit2: "Stories from running an all-remote [Nozbe](https://nozbe.com/?a=mike){:target='_blank'} team and resulting lifestyle of working from my home office or from anywhere really. Now described in detailed also in my new [#NoOffice book](https://NoOffice.org/){:target='_blank'}."
 - name: noofficefm
   emoj: "🎙"
   titl: "No Office FM"
-  tit2: "New bi-weekly podcast related to my [#NoOffice book](https://nooffice.org/){:target='_blank'}. I'm recording it with Rafal, the VP of Product at [Nozbe](https://nozbe.com/){:target='_blank'}. Visit [the official web site](https://nooffice.fm/){:target='_blank'} or **[Subscribe](https://podcasts.apple.com/podcast/no-office/id1527466890){:target='_blank'}**."
+  tit2: "New bi-weekly podcast related to my [#NoOffice book](https://nooffice.org/){:target='_blank'}. I'm recording it with Rafal, the VP of Product at [Nozbe](https://nozbe.com/?a=mike){:target='_blank'}. Visit [the official web site](https://nooffice.fm/){:target='_blank'} or **[Subscribe](https://podcasts.apple.com/podcast/no-office/id1527466890){:target='_blank'}**."
 - name: nozbe
   emoj: "✅"
   titl: "Nozbe"
-  tit2: "Posts about running my [Nozbe](https://nozbe.com/){:target='_blank'} business and both Nozbe Personal and Nozbe Teams apps. Successes, failures, mistakes and lessons learned... it's all in there."
+  tit2: "Posts about running my [Nozbe](https://nozbe.com/?a=mike){:target='_blank'} business and both Nozbe Personal and Nozbe Teams apps. Successes, failures, mistakes and lessons learned... it's all in there."
 - name: now
   emoj: "📝"
   titl: "Now-updates"
@@ -126,7 +124,7 @@ tags:
 - name: productivity
   emoj: "☑️"
   titl: "Productivity"
-  tit2: "Productivity-related topics. How I hack my life, do things better, faster and most of all, create long-lasting habits. I'm a constant productivity student. Now focused mostly on team productivity with the recent launch of [Nozbe Teams](https://nozbe.com/){:target='_blank'}."
+  tit2: "Productivity-related topics. How I hack my life, do things better, faster and most of all, create long-lasting habits. I'm a constant productivity student. Now focused mostly on team productivity with the recent launch of [Nozbe Teams](https://nozbe.com/?a=mike){:target='_blank'}."
 - name: podcast
   emoj: "🎧"
   titl: "The Podcast"
@@ -146,7 +144,7 @@ tags:
 - name: vlog
   emoj: "🎥"
   titl: "Vlog"
-  tit2: "My 'Team Productivity Show' video blog where I share my best team productivity tips and tricks. It's also hosted on [Nozbe blog](https://nozbe.com/tags/michaelsteam){:target='_blank'}. You can subscribe [on YouTube](https://www.youtube.com/playlist?list=PL4VGcOPPsP4O0dJlcJLoMiGEWSTOFYulO) or [as audio on Apple Podcasts](https://podcasts.apple.com/us/podcast/team-productivity-show/id1538743591)."
+  tit2: "My 'Team Productivity Show' video blog where I share my best team productivity tips and tricks. It's also hosted on [Nozbe blog](https://nozbe.com/tags/michaelsteam?a=mike){:target='_blank'}. You can subscribe [on YouTube](https://www.youtube.com/playlist?list=PL4VGcOPPsP4O0dJlcJLoMiGEWSTOFYulO) or [as audio on Apple Podcasts](https://podcasts.apple.com/us/podcast/team-productivity-show/id1538743591)."
 - name: year
   emoj: "🗓"
   titl: "Yearly"
@@ -154,7 +152,7 @@ tags:
 - name: webinar
   emoj: "💻"
   titl: "Webinars"
-  tit2: "Webinars I've given as founder of [Nozbe](https://nozbe.com/){:target='_blank'} and as a personal and team productivity guy. Each one is packed with lots of time and project management tips and tricks I've learned over the years. Make sure to check them out and learn for free!"
+  tit2: "Webinars I've given as founder of [Nozbe](https://nozbe.com/?a=mike){:target='_blank'} and as a personal and team productivity guy. Each one is packed with lots of time and project management tips and tricks I've learned over the years. Make sure to check them out and learn for free!"
   
 tags_pl:
 - name: gosc
@@ -168,11 +166,11 @@ tags_pl:
 - name: niemabiura
   emoj: "🎙"
   titl: "Nie Ma Biura"
-  tit2: "Wszystkie odcinki podacastu o pracy zdalnej, który nagrywam co dwa tygodnie z Rafałem, szefem produktu [Nozbe](https://nozbe.com/pl/){:target='_blank'}. Zobacz [oficjalną stronę podcastu](https://niemabiura.pl/){:target='_blank'} albo od razu **[zasubskrybuj](https://podcasts.apple.com/pl/podcast/nie-ma-biura/id1526795631){:target='_blank'}**."
+  tit2: "Wszystkie odcinki podacastu o pracy zdalnej, który nagrywam co dwa tygodnie z Rafałem, szefem produktu [Nozbe](https://nozbe.com/pl/?a=mike){:target='_blank'}. Zobacz [oficjalną stronę podcastu](https://niemabiura.pl/){:target='_blank'} albo od razu **[zasubskrybuj](https://podcasts.apple.com/pl/podcast/nie-ma-biura/id1526795631){:target='_blank'}**."
 - name: produktywnosc
   emoj: "☑️"
   titl: "Produktywność"
-  tit2: "Tematy związane z produktywnością osobistą i zespołową, czyli organizacją projektów, zarządzaniem sobą w czasie oraz skutecznej pracy zespołowej. To jest to co szczególnie ostatnio promuję przy pomocji mojej nowej aplikacji [Nozbe Teams](https://nozbe.com/){:target='_blank'}."
+  tit2: "Tematy związane z produktywnością osobistą i zespołową, czyli organizacją projektów, zarządzaniem sobą w czasie oraz skutecznej pracy zespołowej. To jest to co szczególnie ostatnio promuję przy pomocji mojej nowej aplikacji [Nozbe Teams](https://nozbe.com/pl/?a=mike){:target='_blank'}."
 - name: zycie
   emoj: "😎"
   titl: "Styl życia"
@@ -180,17 +178,17 @@ tags_pl:
 - name: webinar
   emoj: "💻"
   titl: "Webinary"
-  tit2: "Webinary, które organizowałem jako założyciel [Nozbe](https://nozbe.com/pl/){:target='_blank'} oraz ekspert z dziedziny produktywności osobistej i zespołowej czy zarządzania sobą w czasie. Każdy Webinar to solidna dawka wiedzy, więc zapraszam do słuchania, oglądania i nauki zupełnie za darmo!"
+  tit2: "Webinary, które organizowałem jako założyciel [Nozbe](https://nozbe.com/pl/?a=mike){:target='_blank'} oraz ekspert z dziedziny produktywności osobistej i zespołowej czy zarządzania sobą w czasie. Każdy Webinar to solidna dawka wiedzy, więc zapraszam do słuchania, oglądania i nauki zupełnie za darmo!"
 
 tags_es:
 - name: productividad
   emoj: "☑️"
   titl: "Productividad"
-  tit2: "Productividad personal y empresarial. Organización y gestión de proyectos y tareas. Como liderar un equipo con eficacia gracias a la comunicación a través de tareas y comentarios. Estoy promoviendo estos conceptos con mi nueva aplicación [Nozbe Teams](https://nozbe.com/){:target='_blank'}."
+  tit2: "Productividad personal y empresarial. Organización y gestión de proyectos y tareas. Como liderar un equipo con eficacia gracias a la comunicación a través de tareas y comentarios. Estoy promoviendo estos conceptos con mi nueva aplicación [Nozbe Teams](https://nozbe.com/es/?a=mike){:target='_blank'}."
 - name: webinar
   emoj: "💻"
   titl: "Webinars"
-  tit2: "Webinars que preparé como fundador de [Nozbe](https://nozbe.com/es/){:target='_blank'} y como experto de productividad personal y gestión de los equipos. Cada webinar contiene muchos trucos y consejos, así que disfruta y ¡aprende gratis!"
+  tit2: "Webinars que preparé como fundador de [Nozbe](https://nozbe.com/es/?a=mike){:target='_blank'} y como experto de productividad personal y gestión de los equipos. Cada webinar contiene muchos trucos y consejos, así que disfruta y ¡aprende gratis!"
   
 
 week_pl: "Tydzień, Poniedziałek, Wtorek, Środa, Czwartek, Piątek, Sobota, Niedziela"

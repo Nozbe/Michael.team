@@ -10,7 +10,7 @@ cover: michael.team.about.3k.jpg
 
 ## Your host - founder and CEO of Nozbe
 
-Hi, I'm [Michael Sliwinski](https://sliwinski.com/){:target='_blank'} and I'm the [founder and CEO](https://nozbe.com/michael){:target='_blank'} of [Nozbe and Nozbe Teams](https://nozbe.com/){:target='_blank'} - to-do apps for busy professionals and teams. I'm <leading></leading> a team of [25 people who work completely remotely from their 25 "home offices"](https://nozbe.com/about){:target='_blank'} and we've been doing this for the last 13+ years now. Nozbe and Nozbe Teams have more than 700K users from all over the world.
+Hi, I'm [Michael Sliwinski](https://sliwinski.com/){:target='_blank'} and I'm the [founder and CEO](https://nozbe.com/michael?a=mike){:target='_blank'} of [Nozbe and Nozbe Teams](https://nozbe.com/?a=mike){:target='_blank'} - to-do apps for busy professionals and teams. I'm <leading></leading> a team of [20+ people who work completely remotely from their "home offices"](https://nozbe.com/about?a=mike){:target='_blank'} and we've been doing this for the last 13+ years now. Nozbe and Nozbe Teams have more than 700K users from all over the world.
 
 ## I'm on a mission to help small teams do great things!
 

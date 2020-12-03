@@ -6,7 +6,7 @@ cover: michael.team.pl.3k.jpg
 
 ## Pogadajmy o produktywności w Twoim zespole!
 
-Nazywam się Michał Śliwiński i jestem założycielem aplikacji [Nozbe i Nozbe Teams](https://nozbe.com/){:target='_blank'} do zarządzania czasem i projektami dla zapracowanych ludzi i ich zespołów. Robię to od ponad 13 lat i ciągle sprawia mi to frajdę. Oprócz tego jestem autorem książki [10 Kroków do Maksymalnej Produktywności](https://kursproduktywnosci.pl){:target='_blank'} i obecnie piszę książkę [#NoOffice](https://nooffice.org/pl){:target='_blank'}.
+Nazywam się Michał Śliwiński i jestem założycielem aplikacji [Nozbe i Nozbe Teams](https://nozbe.com/pl/?a=mike){:target='_blank'} do zarządzania czasem i projektami dla zapracowanych ludzi i ich zespołów. Robię to od ponad 13 lat i ciągle sprawia mi to frajdę. Oprócz tego jestem autorem książki [10 Kroków do Maksymalnej Produktywności](https://kursproduktywnosci.pl){:target='_blank'} i obecnie piszę książkę [#NoOffice](https://nooffice.org/pl/){:target='_blank'}.
 
 > **Pomagam małym zespołom osiągać wielkie rzeczy dzięki pracy w prawdziwie nowoczesny sposób.**
 
