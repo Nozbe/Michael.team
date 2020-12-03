@@ -15,11 +15,11 @@ This is the fastest way to get in touch with me:
 * I'm beginning to be more involved on [LinkedIn](https://www.linkedin.com/in/michaelsliwinski)
 * I'm no longer active on [Facebook](https://www.facebook.com/michael.sliwinski) or [Instagram](https://www.instagram.com/michaelsliwinski/) because I disagree with Mark Zuckerberg's stance on privacy and creepiness.
 
-## [Nozbe][] questions?
+## [Nozbe][n] questions?
 
-If you have any questions regarding [Nozbe][] the best way is to either [follow Nozbe on Twitter][tn] and tweet your question or [simply contact our 24/7 email support][n] for a quick answer.
+If you have any questions regarding [Nozbe][n] the best way is to either [follow Nozbe on Twitter][tn] and tweet your question or [simply contact our 24/7 email support][support] for a quick answer.
 
-**Pro tip:** If you're a [Nozbe][] customer and want to get in touch with me quickly, don't write to me directly but write to our customer support. They'll ping me internally and you'll have a better chance for a quick reply from me.
+> **Pro tip:** If you're a [Nozbe][n] customer and want to get in touch with me quickly, don't write to me directly but write to our customer support. They'll ping me internally and you'll have a better chance for a quick reply from me.
 
 ## Want to "pick my brain"?
 
@@ -41,7 +41,7 @@ If you want to learn productivity the fastest way possible:
 
 I do read all the email but I sometimes can take time to respond and when I do, I'm **"emailing like texting"** - meaning I just reply to an email like a text - quick and to the point. That's how I roll.
 
-[Nozbe]: https://nozbe.com
-[n]: https://nozbe.com/contact
+[n]: https://nozbe.com
+[support]: https://nozbe.com/contact
 [tn]: https://twitter.com/nozbe
 [email]: mailto:michaels@hey.com
