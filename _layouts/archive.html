@@ -9,9 +9,16 @@ layout: page
 {% assign currentYear = site.time | date: '%Y' %}
 {% include lang.months.html %}
 
+<nav class="tags">
+<a href="#2020">2020</a> |
+<a href="#2020">2019</a> |
+<a href="#2020">2018</a>
+</nav>
+
 {% assign postsByYear = site.categories.[langlang] | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
-<h2>{{ year.name }}</h2>
+
+<h2><a name="{{ year.name }}">{{ year.name }}</a></h2>
   {% if langlang == 'en' %}
     {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
   {% else %}
@@ -24,7 +31,7 @@ layout: page
       {% assign monthindex = month.name | plus:0 %}
       {% assign monthname = langmonth[monthindex] %}
     {% endif %}
-    <h3>{{ monthname }}{% if year.name!=currentYear %} {{ year.name }}{% endif %}</h3>
+    <h3 style="font-size: 2em;margin-top: 1em;">{{ monthname }}{% if year.name!=currentYear %} {{ year.name }}{% endif %}</h3>
     {% for post in month.items %}
       <h3><a href="{{ post.url }}">{% include lang.tags.html tags=post.tags short="true" %}{{ post.title }}</a></h3>
       {% include lang.date.html date=post.date %}
