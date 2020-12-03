@@ -24,4 +24,4 @@ It's easy:
 
 This requires lots of solidariy from the entire [Nozbe][n] team. But this is one of our core values. We take care of each other. We understand how unique and strange this situation is. And we'll get through it together.
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/?a=mike

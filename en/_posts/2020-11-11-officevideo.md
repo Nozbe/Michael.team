@@ -12,4 +12,4 @@ As I’ve been blogging recently about my new [2020 home office](/office) and th
 <!--More-->
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/?a=mike

@@ -12,4 +12,4 @@ Nagranie webinaru [Nozbe][n] o tym jak zmaksić te ostatnie miesiące przed koń
 <!--More-->
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/pl/?a=mike

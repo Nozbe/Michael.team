@@ -64,4 +64,4 @@ Daj znać na Twitterze jakie fajne akcesoria podróżne Tobie ułatwiają robot�
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/pl/?a=mike

@@ -18,4 +18,4 @@ U Józefa Kąckiego opowiadam o prowadzeniu firmy zdalnie. Dużo świetnych pyta
 </audio>
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/pl/?a=mike

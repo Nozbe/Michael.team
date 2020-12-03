@@ -39,5 +39,5 @@ I have three daughters so I have my hands full, but still I manage to enjoy my l
 
 That was our conclusion when we talked with my friend about the concept of "retirement". Let's enjoy life now and not postpone it for later. And let's spend our entire life contributing to society and getting great stuff done!
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/?a=mike
 [p]: https://thepodcast.fm/

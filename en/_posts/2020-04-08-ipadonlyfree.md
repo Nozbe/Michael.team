@@ -67,5 +67,5 @@ Now that the book is published and free, let's update it, revise it or extend it
 
 And even if not, [go ahead and read it free now - hope you'll find some parts of it eye-opening..](https://ipadonly.com/book/)
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/?a=mike
 [p]: https://thepodcast.fm/

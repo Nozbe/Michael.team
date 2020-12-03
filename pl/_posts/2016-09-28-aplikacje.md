@@ -12,4 +12,4 @@ W tym nagraniu webinaru [Nozbe][n] opowiadam o aplikacjach, jakich używamy w fi
 <!--More-->
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/pl/?a=mike

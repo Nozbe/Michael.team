@@ -53,5 +53,5 @@ After more than a month of **emailing like texting** I must admit I love this st
 
 And then try it yourself! Good luck! 👍 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/?a=mike
 [p]: https://thepodcast.fm/

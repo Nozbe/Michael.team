@@ -19,4 +19,4 @@ Artur z podcastu [Biznes Tata](https://biznestata.com) rozmawia ze mną o byciu 
 
 Bardzo ciekawa rozmowa, trochę inna niż moje pozostałe wywiady, bo dużo więcej opowiadam o rodzinie.
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/pl/?a=mike

@@ -75,4 +75,4 @@ Teraz czas na miniaturyzację. Wracam do rozmiaru tylko trochę większego niż 
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/pl/?a=mike

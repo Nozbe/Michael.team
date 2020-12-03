@@ -42,5 +42,5 @@ And yes, [I got asked on Twitter if I didn’t have a Mac, would I still get thi
 P.S. Looks like it’s good to [revisit my old articles about iPadOnly](/tag/ipadonly) on this blog - some things are as true now, as they were years ago.
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/?a=mike
 [p]: https://thepodcast.fm/

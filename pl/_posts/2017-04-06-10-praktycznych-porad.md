@@ -12,4 +12,4 @@ Nagranie webinaru [Nozbe][n] z 10 najważniejszymi poradami produktywnościowymi
 <!--More-->
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/pl/?a=mike

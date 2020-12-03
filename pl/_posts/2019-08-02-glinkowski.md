@@ -19,4 +19,4 @@ W tym podcaście o marketingu rozmawialiśmy o budowaniu globalnego biznesu i dl
 </audio>
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/pl/?a=mike

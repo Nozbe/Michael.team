@@ -79,4 +79,4 @@ Dajcie znać w komentarzach lub na Twitterze @MSliwinski, jak to wygląda w Wasz
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/pl/?a=mike

@@ -12,4 +12,4 @@ Recording of a [Nozbe][n] webinar when I was answering the most common questions
 <!--More-->
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/?a=mike

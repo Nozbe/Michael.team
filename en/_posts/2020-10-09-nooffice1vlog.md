@@ -13,4 +13,4 @@ As I wrote [more than 60% of the #NoOffice book](https://NoOffice.org) and [teas
 
 Now as I’m back at work at [Nozbe][n] I find less time to write, but hopefully after next week I’ll get back to writing. Let me know how you like the book so far!
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/?a=mike

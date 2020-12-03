@@ -12,4 +12,4 @@ Nagranie webinaru [Nozbe][n] gdzie dzielę się moimi najlepszymi wskazówkami 
 <!--More-->
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/pl/?a=mike

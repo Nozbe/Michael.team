@@ -57,4 +57,4 @@ This is the easiest way I know to get the YouTube content on the iPad as quickly
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/?a=mike

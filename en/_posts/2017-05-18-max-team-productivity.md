@@ -12,4 +12,4 @@ Recording of my [Nozbe][n] webinar where I’m showing my best tips and tricks o
 <!--More-->
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/?a=mike

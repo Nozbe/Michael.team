@@ -12,4 +12,4 @@ Grabación del seminario web de [Nozbe][n] donde hablamos sobre las maneras de e
 <!--More-->
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/es/?a=mike

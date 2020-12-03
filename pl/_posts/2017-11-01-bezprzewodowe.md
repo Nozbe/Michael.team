@@ -111,4 +111,4 @@ Same zalety! Polecam! A jak znajdziesz moment, wyślij mi tweeta na @MSliwinski 
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/pl/?a=mike

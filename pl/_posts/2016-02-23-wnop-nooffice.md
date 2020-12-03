@@ -19,4 +19,4 @@ Po raz drugi wystąpiłem w podcaście „Więcej Niż Oszczędzanie Pieniędzy�
 </audio>
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/pl/?a=mike

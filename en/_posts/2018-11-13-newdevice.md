@@ -74,5 +74,5 @@ Something to get used to.
 *- written on my new iPad Pro 11” - first post on this blog written on this beautiful device. More thoughts on it soon...*
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/?a=mike
 [p]: https://thepodcast.fm/

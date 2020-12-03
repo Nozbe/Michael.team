@@ -17,5 +17,5 @@ This week is all about the new iPad Pro and on IGTV I recorded this video when I
 The new iPad Pro is stunning and it’s so similar to the original iPad. Especially the silver version is stunning. The sharp edges are so cool. Check it out!
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/?a=mike
 [p]: https://thepodcast.fm/

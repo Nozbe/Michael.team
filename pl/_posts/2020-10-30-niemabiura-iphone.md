@@ -27,5 +27,5 @@ Zapraszam do odsłuchania bonusowego odcinka mojego podcastu z Rafałem. Przy ok
 🟠 [Overcast](https://overcast.fm/itunes1526795631/nie-ma-biura)\\
 🔴 [YouTube na kanale Nozbe Poland](https://youtube.com/NozbePoland)
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/pl/?a=mike
 [nb]: https://nozbe.com/pl/blog/virtual-covid-safe-online-company-retreat/

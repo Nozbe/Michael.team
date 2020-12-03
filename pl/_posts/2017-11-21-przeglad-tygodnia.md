@@ -12,4 +12,4 @@ Nagranie mojego webinaru [Nozbe][n] o tym jak robić skuteczny przegląd tygodni
 <!--More-->
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/pl/?a=mike

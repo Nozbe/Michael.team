@@ -20,4 +20,4 @@ Y vamos a ver un demo LIVE de [Nozbe Teams][n]!
 <!--More-->
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/es/?a=mike

@@ -104,4 +104,4 @@ Aby działać skuteczniej, trzeba często po prostu działać inaczej!
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/pl/?a=mike

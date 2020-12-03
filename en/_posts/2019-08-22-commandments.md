@@ -45,5 +45,5 @@ It’s all about love. And fruits of that love.
 
 [10]: https://dominikanie.pl/video/przykazania/
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/?a=mike
 [p]: https://thepodcast.fm/

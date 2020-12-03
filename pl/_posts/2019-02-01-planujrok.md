@@ -102,4 +102,4 @@ Mam nadzieję, że ten krótki przewodnik pomoże Ci osiągnąć wszystko, o cz
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/pl/?a=mike

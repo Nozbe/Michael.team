@@ -19,4 +19,4 @@ Marek Jankowski zaprosił mnie ponownie do swojego podcastu i tym razem rozmawia
 </audio>
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/pl/?a=mike

@@ -86,4 +86,4 @@ Mimo, że w Nozbe pracujemy w taki sposób już od ponad 11 lat, chętnie dowiem
 
 {% include video.html id="3NNZu5xepe4" %}
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/pl/?a=mike

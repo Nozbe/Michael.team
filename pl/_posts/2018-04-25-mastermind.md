@@ -19,4 +19,4 @@ U Michała Szafrańskiego, dodatkowo wraz z Markiem Jankowskim i Bartkiem Popiel
 </audio>
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/pl/?a=mike

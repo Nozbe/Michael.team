@@ -19,4 +19,4 @@ My good friends from [Anything But Idle podcast invited me again](/anythingbutid
 </audio>
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/?a=mike

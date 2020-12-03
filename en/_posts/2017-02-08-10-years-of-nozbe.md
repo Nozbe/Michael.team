@@ -12,4 +12,4 @@ Recording of a webinar I did to celebrate 10 years of [Nozbe][n].
 <!--More-->
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/?a=mike

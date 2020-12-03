@@ -24,4 +24,4 @@ Vas a descubrir:
 
 La presentación en el webinar dura 1 hora y luego estoy respondiendo a las preguntas por 30 minutos.
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/es/?a=mike

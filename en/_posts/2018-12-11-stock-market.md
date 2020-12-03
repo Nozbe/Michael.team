@@ -50,5 +50,5 @@ It’s like in this sketch about the financial crisis - which still holds up pre
 {% include video.html id="mzJmTCYmo9g" %}
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/?a=mike
 [p]: https://thepodcast.fm/

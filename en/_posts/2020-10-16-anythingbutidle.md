@@ -20,4 +20,4 @@ I was invited by two of my favorite [productivity](/productivity) podcasters: Au
 
 It was a blast of a show. We had fun geeking out and had a fair balance between Ray, who’s more Google-centric and Augusto and me who are Apple fanboys.
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/?a=mike

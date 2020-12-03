@@ -56,5 +56,5 @@ P.S. Post written on January 4, but updated on January 14 to reflect that we wer
 
 ![Having Nozbe featured as “App of the day” on the Apple App Store is great! 3](/img/appoftheday-3.jpg)
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/?a=mike
 [p]: https://thepodcast.fm/

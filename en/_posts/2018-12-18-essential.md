@@ -38,5 +38,5 @@ Maybe I just need to be better at editing my life... and when I have a plan, pra
 Yes, that’s what I have to ask myself at the end of my each [weekly review](https://sliwinski.com/weekly-review)... and edit the plan again. Let’s try to do it this [Friday.](https://sliwinski.com/tgif)
 
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/?a=mike
 [p]: https://thepodcast.fm/

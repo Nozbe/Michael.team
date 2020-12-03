@@ -84,4 +84,4 @@ No i zachęcam do przestudiowania naszej „Piramidy Komunikacji” i ustawienia
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-[n]: https://nozbe.com/
+[n]: https://nozbe.com/pl/?a=mike
