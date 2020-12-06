@@ -1,6 +1,6 @@
 ---
 permalink: /test/
-head: "My test"
+head: '"My test"'
 hand: "This is 'my' house"
 ---
 
