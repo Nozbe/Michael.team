@@ -33,6 +33,6 @@ And more code
 And even more here
 {% endhighlight %}
 
-{% page.head %}
+{{ page.head }}
 
-{% page.hand %}
+{{ page.hand }}
