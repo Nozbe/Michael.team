@@ -29,7 +29,7 @@ Or block:
 {% highlight liquid %}
 Code is here
 And more code
-{% page.permalink %}
+{{ page.permalink }}
 And even more here
 {% endhighlight %}
 
