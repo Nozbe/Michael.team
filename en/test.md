@@ -1,6 +1,7 @@
 ---
 permalink: /test/
-head: '"my" test'
+head: "My test"
+hand: "This is 'my' house"
 ---
 
 # Testing playground
@@ -33,3 +34,5 @@ And even more here
 {% endhighlight %}
 
 {% page.head %}
+
+{% page.hand %}
