@@ -1,7 +1,6 @@
 ---
 permalink: /test/
-head: '"My test" <a href="/test/">Here</a>'
-hand: "This is 'my' house"
+head: '<meta name="apple-itunes-app" content="app-id=1012329770" />'
 ---
 
 # Testing playground
@@ -32,7 +31,3 @@ And more code
 {{ page.permalink }}
 And even more here
 {% endhighlight %}
-
-{{ page.head }}
-
-{{ page.hand }}
