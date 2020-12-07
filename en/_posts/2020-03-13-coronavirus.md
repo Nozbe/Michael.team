@@ -1,9 +1,10 @@
 ---
 vid: "E8nZYzhDbL8"
 tags: [vlog, video]
+podcast: 1538743591
 ---
 
-# Special policy for Nozbe team as the COVID-19 takes over the world
+# Special policy for Nozbe team as the COVID-19 takes over the world - Team Productivity Show #3
 
 As the "Corona virus", known as "COVID-19", brings the world to a halt, I'm introducing a special policy for [Nozbe][n] team members. We all work from home, so there's no problem with us doing "social distancing" but half of my team has kids. And the kids stay at home, too. And I want my team members have time for their kids, too:
 

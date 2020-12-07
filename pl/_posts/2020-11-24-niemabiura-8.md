@@ -1,6 +1,7 @@
 ---
 tags: [niemabiura]
 vid: "EVZ4GiOLGgA"
+podcast: 1526795631
 ---
 
 # Nie Ma Biura #8: 17 przykazań o pracy cz. 2

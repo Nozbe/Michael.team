@@ -1,6 +1,7 @@
 ---
 tags: [niemabiura]
 vid: "-xfNJ7N0_-8"
+podcast: 1526795631
 ---
 
 # Nie Ma Biura #4: Moje domowe biuro!

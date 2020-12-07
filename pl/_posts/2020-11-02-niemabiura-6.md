@@ -1,6 +1,7 @@
 ---
 tags: [niemabiura]
 vid: "MPGAplTfEnw"
+podcast: 1526795631
 ---
 
 # Nie Ma Biura #6: Jak pracuje w domu Michał Szafrański?

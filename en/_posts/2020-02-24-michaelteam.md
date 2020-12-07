@@ -1,9 +1,10 @@
 ---
 tags: [video,vlog]
 vid: "D-eSyfgi9ZA"
+podcast: 1538743591
 ---
 
-# Launching Michael's Team Productivity vlog/podcast with 13 stories celebrating 13 years of Nozbe
+# Launching Michael's Team Productivity Show with 13 stories celebrating 13 years of Nozbe
 
 This year instead of blogging more I wanted to do something different and as our [Nozbe Teams](https://nozbe.com/teams) app is getting ready for launch I decided to start a new vlog/podcast focused on Team Productivity - how to get stuff done better in a team - with experience from running my own all-remote team and other teams using our apps - and to kick off I'm starting with the past by sharing the most memorable 13 stories from our 13-year history.
 

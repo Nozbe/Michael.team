@@ -1,6 +1,7 @@
 ---
 tags: [noofficefm]
 vid: "yYSt8xx7IMw"
+podcast: 1527466890
 ---
 
 # No Office FM: The Power of Small Teams

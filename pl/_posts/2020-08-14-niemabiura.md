@@ -1,6 +1,7 @@
 ---
 tags: [niemabiura]
 vid: "A4kMhdQkK5Q"
+podcast: 1526795631
 ---
 
 # Nowy podcast po polsku: Nie Ma Biura z Rafałem z Nozbe

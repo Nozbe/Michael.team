@@ -1,6 +1,7 @@
 ---
 tags: [niemabiura]
 vid: "Md3kxM0vyJ8"
+podcast: 1526795631
 ---
 
 # Nie Ma Biura: 5 rzeczy jakie kochamy w naszej pracy

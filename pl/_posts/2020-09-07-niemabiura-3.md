@@ -1,6 +1,7 @@
 ---
 tags: [niemabiura]
 vid: "s-Fka-ZhY7k"
+podcast: 1526795631
 ---
 
 # Nie Ma Biura: Kontrola pracowników pracujących zdalnie

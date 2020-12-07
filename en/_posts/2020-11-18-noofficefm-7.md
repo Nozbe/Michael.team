@@ -1,6 +1,7 @@
 ---
 tags: [noofficefm]
 vid: "tlGQ2hNZAeg"
+podcast: 1527466890
 ---
 
 # No Office FM #7: The Pyramid Of Communication

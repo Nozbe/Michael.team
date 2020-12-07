@@ -1,6 +1,7 @@
 ---
 tags: [niemabiura]
 vid: "H25LnP4WAMI"
+podcast: 1526795631
 ---
 
 # Nie Ma Biura #5: 17 przykazań o pracy cz. 1

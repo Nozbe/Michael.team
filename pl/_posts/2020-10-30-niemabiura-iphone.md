@@ -1,6 +1,7 @@
 ---
 tags: [niemabiura]
 vid: "GCCtBzvCDOY"
+podcast: 1526795631
 ---
 
 # Nie Ma Biura BONUS: No to jak z tym iPhonem 12?

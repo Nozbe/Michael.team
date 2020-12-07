@@ -1,9 +1,10 @@
 ---
 tags: [video,vlog]
 vid: "uq2xwFTrJGw"
+podcast: 1538743591
 ---
 
-# Why, How and When of the #NoOffice book - Team Productivity Show 6
+# Why, How and When of the #NoOffice book - Team Productivity Show #6
 
 In August I’m writing the [#NoOffice book](https://NoOffice.org/) and I’ve recorded a whole [vlog about why, how and when I’m writing it for the Nozbe blog](https://nozbe.com/blog/michaels-team-productivity-6-nooffice-book/) and if you've missed it, you can watch it below:
 
