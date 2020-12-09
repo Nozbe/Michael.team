@@ -1,5 +1,5 @@
 ---
-tags: [webinar]
+tags: [seminarios]
 vid: "Zy84G1JCoKo"
 ---
 

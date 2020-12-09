@@ -1,5 +1,5 @@
 ---
-tags: [webinar]
+tags: [seminarios]
 vid: "63cnfpJ2_ng"
 ---
 

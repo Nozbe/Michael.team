@@ -1,6 +1,6 @@
 ---
 vid: "ulj04WAcxaQ"
-tags: [webinar]
+tags: [webinary]
 ---
 
 # Jak małe zespoły mogą robić wielkie rzeczy, rezygnując z emaili i spotkań
