@@ -95,7 +95,7 @@ tags:
   tit2: "The iPhone is my default smartphone of choice. We also share history, it was unvailed in the same year I launched [Nozbe](https://nozbe.com/?a=mike){:target='_blank'}. These posts explain how I use the iPhone as a pocket computer alongside my [iPad](/tag/ipadonly)… and as a phone."
 - name: life
   emoj: "😎"
-  titl: "Lifestyle"
+  titl: "Life"
   tit2: "How my life influences my business and the other way round. How I design my lifestyle and how I succeed or fail in the process."
 - name: links
   emoj: "🌎"
@@ -113,7 +113,7 @@ tags:
   emoj: "✅"
   titl: "Nozbe"
   tit2: "Posts about running my [Nozbe](https://nozbe.com/?a=mike){:target='_blank'} business and both Nozbe Personal and Nozbe Teams apps. Successes, failures, mistakes and lessons learned... it's all in there."
-- name: now
+- name: now-updates
   emoj: "📝"
   titl: "Now-updates"
   tit2: "Every Friday I try to post a new update to my [NOW page](/now). Here are all my past entries."
@@ -139,17 +139,17 @@ tags:
   tit2: "My struggles as an amateur triathlete and a novice tennis player… and most of all, how I'm trying to stay in shape."
 - name: video
   emoj: "🎬"
-  titl: "Videos"
-  tit2: "Most of the video content on my blog. Some videos are mine, some are just embedded to express what I wanted to write... just better."
+  titl: "Video"
+  tit2: "Most of the video content on my blog. Some videos are mine, some are just embedded to express what I wanted to write… just better."
 - name: vlog
   emoj: "🎥"
   titl: "Vlog"
   tit2: "My 'Team Productivity Show' video blog where I share my best team productivity tips and tricks. It's also hosted on [Nozbe blog](https://nozbe.com/tags/teamproductivity?a=mike){:target='_blank'}. You can subscribe [on YouTube](https://www.youtube.com/playlist?list=PL4VGcOPPsP4O0dJlcJLoMiGEWSTOFYulO) or [as audio on Apple Podcasts](https://podcasts.apple.com/us/podcast/team-productivity-show/id1538743591)."
-- name: year
+- name: yearly
   emoj: "🗓"
   titl: "Yearly"
   tit2: "My yearly reviews. Each blog post is a review of the past year with my hopes and dreams for the next one."
-- name: webinar
+- name: webinars
   emoj: "💻"
   titl: "Webinars"
   tit2: "Webinars I've given as founder of [Nozbe](https://nozbe.com/?a=mike){:target='_blank'} and as a personal and team productivity guy. Each one is packed with lots of time and project management tips and tricks I've learned over the years. Make sure to check them out and learn for free!"

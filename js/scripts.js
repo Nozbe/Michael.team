@@ -10,7 +10,7 @@ function getNow () {
 	let where = '#page';
 	document.querySelector(where).after(createSpinner()); //show spinner
 	document.querySelector('#nojs').remove(); //remove the non-JS thing since JS works
-	let latestNow = getPostTag('now',where);
+	let latestNow = getPostTag('now-updates',where);
 }
 
 //fetching an article from the system
