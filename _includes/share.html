@@ -1,3 +1,4 @@
+{% if langlang==nil %}{% include lang.html %}{% endif %}
 {% capture share %}share{{ langvar }}{% endcapture %}
 {% if page.slug %}
 {% assign slug = page.slug %}
