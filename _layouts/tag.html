@@ -9,6 +9,7 @@ layout: default
 </div></header>
 <div class="entry">
 	{{ tag_subtitle | markdownify }}
+	{% include share.html %}
 	{% include podcast.html id=tag_name %}
 	{% assign tag_posts = site.tags[tag_name] %}
 	{% include posts.html posts=tag_posts limit=10 more=1 %}

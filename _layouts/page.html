@@ -10,4 +10,9 @@ layout: default
 <div class="entry">
 	{{ content }}
 </div>
+{% if page.name!="index.md" %}
+<footer>
+	{% include share.html tweet=true %}
+</footer>
+{% endif %}
 </article>
