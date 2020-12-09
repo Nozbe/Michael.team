@@ -1,6 +1,6 @@
 ---
 vid: "w2L41TRhc-0"
-tags: [webinar, video]
+tags: [webinars,video]
 ---
 
 # How Small Teams Can Do Great Things by Ditching Email & Meetings
