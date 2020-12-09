@@ -64,6 +64,7 @@ defaults:
     values:
       layout: "tag"
       lang: "en"
+      permalink: /:title/
   -
     scope:
       path: "pl"
@@ -80,6 +81,7 @@ defaults:
       path: "pl/tag"
     values:
       layout: "tag"
+      permalink: /pl/:title/
   -
     scope:
       path: "es"
@@ -96,6 +98,7 @@ defaults:
       path: "es/tag"
     values:
       layout: "tag"
+      permalink: /es/:title/
   -
     scope:
       path: ""
