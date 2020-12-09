@@ -30,7 +30,7 @@ Here are the main benefits of Nozbe Teams which I outlined on our [Product Hunt 
 
 ## New video by our new videographer
 
-Just recently we hired Marco, a new videographer who's been helping us do better videos that would show off what Nozbe and Nozbe Teams are all about. You'll see more of his work in my upcoming [vlogs](/tag/vlog) and other videos - just [subscribe to our YouTube channel](https://www.youtube.com/nozbecom).
+Just recently we hired Marco, a new videographer who's been helping us do better videos that would show off what Nozbe and Nozbe Teams are all about. You'll see more of his work in my upcoming [vlogs](/vlog) and other videos - just [subscribe to our YouTube channel](https://www.youtube.com/nozbecom).
 
 This new promo video Marco did for us is very cool. It's short, punchy, playful... and very original. You can watch it above or just go to our [Product Hunt page][p], watch it there and share with others, if you like it.
 

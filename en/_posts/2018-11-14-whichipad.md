@@ -39,7 +39,7 @@ So I went ahead and finally ordered the 11” iPad Pro, cellular version in silv
 
 And yes, [I got asked on Twitter if I didn’t have a Mac, would I still get this one](https://twitter.com/marisa8184/status/1061197309290209282) and the answer is *yes* - I would, it’s just a joy to use and still powerful enough to be a single computer - and there are days when I don’t use my Mac at all... and I’m completely not bothered by the relatively small iPad screen. I love it.
 
-P.S. Looks like it’s good to [revisit my old articles about iPadOnly](/tag/ipadonly) on this blog - some things are as true now, as they were years ago.
+P.S. Looks like it’s good to [revisit my old articles about iPadOnly](/ipadonly) on this blog - some things are as true now, as they were years ago.
 
 
 [n]: https://nozbe.com/?a=mike

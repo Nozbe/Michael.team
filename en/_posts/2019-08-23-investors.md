@@ -19,7 +19,7 @@ As I've written [almost 2 years ago on the Nozbe blog](https://nozbe.com/blog/11
 
 ## I stand by this now as I stood then
 
-Our [growing competitors](https://www.forbes.com/sites/alexkonrad/2019/07/30/monday-raises-150-million-becomes-israel-top-unicorn/) and more interest in the [productivity](/tag/productivity) space is amazing and we have ambitions to have more impact on the world with the launch of our [Team-oriented version of Nozbe](https://nozbe.com/) later this year, but I believe we can get there by not having outside investors (i.e. "outside bosses") that would want us to "get serious" (i.e. "get a real office" instead of [#NoOffice](https://NoOffice.org) or stop ["TGIF Fridays policy"](https://sliwinski.com/tgif) or force me to relocate to Silicon Valley - and I like where I live now 😎).
+Our [growing competitors](https://www.forbes.com/sites/alexkonrad/2019/07/30/monday-raises-150-million-becomes-israel-top-unicorn/) and more interest in the [productivity](/productivity) space is amazing and we have ambitions to have more impact on the world with the launch of our [Team-oriented version of Nozbe](https://nozbe.com/) later this year, but I believe we can get there by not having outside investors (i.e. "outside bosses") that would want us to "get serious" (i.e. "get a real office" instead of [#NoOffice](https://NoOffice.org) or stop ["TGIF Fridays policy"](https://sliwinski.com/tgif) or force me to relocate to Silicon Valley - and I like where I live now 😎).
 
 ## It's all about FREEDOM!
 

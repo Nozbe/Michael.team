@@ -69,7 +69,7 @@ While completely disregarding the real needs of their knowledge workers, who pri
 
 This is sad. This is 💩.
 
-There is a better way - [just invert the pyramid of communication](https://sliwinski.com/pyramid) or better yet, [go #NoOffice](/tag/nooffice) and check out my upcoming book - [#NoOffice - because work is not a place to go, it's a thing you do!](https://nooffice.org).
+There is a better way - [just invert the pyramid of communication](https://sliwinski.com/pyramid) or better yet, [go #NoOffice](/nooffice) and check out my upcoming book - [#NoOffice - because work is not a place to go, it's a thing you do!](https://nooffice.org).
 
 [n]: https://nozbe.com/?a=mike
 [p]: https://thepodcast.fm/

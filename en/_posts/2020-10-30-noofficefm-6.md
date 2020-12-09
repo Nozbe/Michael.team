@@ -6,7 +6,7 @@ podcast: 1527466890
 
 # No Office FM #6: How virtual Nozbe Reunion happened
 
-Welcome to the episode #6 of my podcast about working remotely with Rafal, [Nozbe][n]'s VP of Product. Just yesterday [I wrote and linked to how we did a virtual Nozbe Reunion](/reunion-virtual) and today we’re discussing it on our [NoOffice podcast](/tag/noofficefm/). Here’s how it happened and how we felt about it.
+Welcome to the episode #6 of my podcast about working remotely with Rafal, [Nozbe][n]'s VP of Product. Just yesterday [I wrote and linked to how we did a virtual Nozbe Reunion](/reunion-virtual) and today we’re discussing it on our [NoOffice podcast](/noofficefm/). Here’s how it happened and how we felt about it.
 
 {% include video.html id=page.vid %}
 

@@ -5,7 +5,7 @@ img: "mindblower.jpg"
 
 # MindBlower - un-official Apple’s Worldwide Developer Conference symbol I’m giving away for free at the event
 
-This year I’m at the WWDC conference in San Jose, California and I get to watch Apple Keynote live and witness the new software Apple is presenting. To commemorate this I’ve designed and [The Podcast](/tag/podcast) co-host Radek 3D-printed a symbol of this conference - a MindBlower (TM). Here’s how this idea came to be.
+This year I’m at the WWDC conference in San Jose, California and I get to watch Apple Keynote live and witness the new software Apple is presenting. To commemorate this I’ve designed and [The Podcast](/podcast) co-host Radek 3D-printed a symbol of this conference - a MindBlower (TM). Here’s how this idea came to be.
 
 <!--More-->
 

@@ -15,12 +15,12 @@ Mój zespół pracuje w pełni zdalnie, każdy ze swojego biura domowego (na zdj
 ## Chcesz się ze mną skontaktować?
 
 * [Najpierw przeczytaj więcej o mnie](/pl/omnie)
-* [Zobacz lub posłuchaj niektórych wywiadów ze mną](/pl/tag/gosc)
+* [Zobacz lub posłuchaj niektórych wywiadów ze mną](/pl/gosc)
 * [Skontaktuj się ze mną przez media społecznościowe lub email](/pl/kontakt)
 
 ## Wpisy na tej stronie
 
-Spis wszystkich postów znajdziesz w moim [archiwum](/pl/archiwum/). Organizuję większość wpisów po [tagach/tematach](/pl/tag/). Głównie na tej stronie zamieszczam moje felietony pisane do [iMagazine](/pl/tag/imagazine), odnośniki do [wywiadów ze mną](/pl/tag/gosc) lub [webinary Nozbe](/pl/tag/webinar). Najwięcej autorskich wpisów tworzę [po angielsku](/archive).
+Spis wszystkich postów znajdziesz w moim [archiwum](/pl/archiwum/). Organizuję większość wpisów po [tagach/tematach](/pl/). Głównie na tej stronie zamieszczam moje felietony pisane do [iMagazine](/pl/imagazine), odnośniki do [wywiadów ze mną](/pl/gosc) lub [webinary Nozbe](/pl/webinar). Najwięcej autorskich wpisów tworzę [po angielsku](/archive).
 
 {% include search.html %}
 

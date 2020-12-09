@@ -5,7 +5,7 @@ vid: "3NNZu5xepe4"
 
 # Why “No Office”? Why I’m running an all-remote company? - my presentation at Infoshare 2018
 
-In this presentation that I did in front of an audience of 500+ people at [InfoShare 2018](https://Infoshare.pl) I’m talking about the “why” of [#NoOffice](/tag/NoOffice) - why we’re running a company without an office. What are the advantages and disadvantages and why I believe it’s the future of work.
+In this presentation that I did in front of an audience of 500+ people at [InfoShare 2018](https://Infoshare.pl) I’m talking about the “why” of [#NoOffice](/NoOffice) - why we’re running a company without an office. What are the advantages and disadvantages and why I believe it’s the future of work.
 
 {% include video.html id=page.vid %}
 

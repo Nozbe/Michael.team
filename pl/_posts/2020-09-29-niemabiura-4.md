@@ -6,7 +6,7 @@ podcast: 1526795631
 
 # Nie Ma Biura #4: Moje domowe biuro!
 
-Zapraszam do odsłuchania odcinka # 4 mojego podcastu z Rafałem. Dzisiaj z Rafałem zabieramy was na wycieczkę [do mojego "NieMaBiura"](/office/). Opowiem o urządzeniach (i nie tylko!), z których korzystam pracując zdalnie. Zdradzę także swoje tricki na jeszcze bardziej efektywną pracę, oraz przybliżę temat [webinarów](/pl/tag/webinar/) organizowanych przez Nozbe.
+Zapraszam do odsłuchania odcinka # 4 mojego podcastu z Rafałem. Dzisiaj z Rafałem zabieramy was na wycieczkę [do mojego "NieMaBiura"](/office/). Opowiem o urządzeniach (i nie tylko!), z których korzystam pracując zdalnie. Zdradzę także swoje tricki na jeszcze bardziej efektywną pracę, oraz przybliżę temat [webinarów](/pl/webinar/) organizowanych przez Nozbe.
 
 {% include video.html id=page.vid %}
 

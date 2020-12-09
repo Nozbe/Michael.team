@@ -5,7 +5,7 @@ img: "appoftheday.jpg"
 
 # Having Nozbe featured as “App of the day” on the Apple App Store is great!
 
-I’ve been running [Nozbe][n] for [almost 12 years now](/tag/nozbe) and we’ve had our app on both the iOS and the Mac App Stores for many years as well. We’ve been doing everything we could to create the best app we could for our users... and to get more of them, we were hoping to also get noticed by Apple editors and get featured. Today was a very significant step - Nozbe became the **“App of the Day”** on many local App Stores:
+I’ve been running [Nozbe][n] for [almost 12 years now](/nozbe) and we’ve had our app on both the iOS and the Mac App Stores for many years as well. We’ve been doing everything we could to create the best app we could for our users... and to get more of them, we were hoping to also get noticed by Apple editors and get featured. Today was a very significant step - Nozbe became the **“App of the Day”** on many local App Stores:
  
 <!--More-->
 

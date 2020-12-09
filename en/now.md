@@ -6,7 +6,7 @@ js: getNow
 cover: michael.team.now.3k.jpg
 ---
 
-This is a [“now”](https://nownownow.com/p/Wwy1){:target='_blank'} page inspired by [Derek Sievers](https://sivers.org/now){:target='_blank'}. It's a “status update“ on my life, my projects and priorities. I try to post a new update [at least once a month](/tag/now/), usually while doing a Friday's weekly review. Here's my latest update:
+This is a [“now”](https://nownownow.com/p/Wwy1){:target='_blank'} page inspired by [Derek Sievers](https://sivers.org/now){:target='_blank'}. It's a “status update“ on my life, my projects and priorities. I try to post a new update [at least once a month](/now-updates/), usually while doing a Friday's weekly review. Here's my latest update:
 
 <footer id="nojs">
 {% assign tag_posts = site.tags['now-updates'] %}

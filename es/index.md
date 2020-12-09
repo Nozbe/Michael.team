@@ -10,7 +10,7 @@ Pues, estoy aquí para ayudarte. Soy fundador de [Nozbe y Nozbe Teams](https://n
 
 ## Mi blog
 
-Aquí tienes [todas entradas de mi blog](/es/todo), también organizadas por [tags/categorías](/es/tag/).
+Aquí tienes [todas entradas de mi blog](/es/todo), también organizadas por [tags/categorías](/es/).
 
 {% include search.html %}
 

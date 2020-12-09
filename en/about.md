@@ -37,7 +37,7 @@ You can copy and share any part of this site, but just give back credits to me. 
 ## My additional projects:
 
 * I'm currently writing a book on working better in a modern and more remote and flexible way: [#NoOffice](https://nooffice.org){:target='_blank'}.
-* I'm [blogging](/tag/blogging) on [this site](/archive/) now and I used to do it on my [old site: sliwinski.com](https://sliwinski.com){:target='_blank'}.
+* I'm [blogging](/blogging) on [this site](/archive/) now and I used to do it on my [old site: sliwinski.com](https://sliwinski.com){:target='_blank'}.
 * [I chat with Radek on "The Podcast . FM"](http://thepodcast.fm) - it's a semi-weekly podcast on "technology, productivity tips, business, publishing, and whatever else comes to mind..." - more than 200 episodes recorded to date!
 * I do all that from my iPad - I'm ([#iPadOnly](https://iPadOnly.com){:target='_blank'}).
 
@@ -91,7 +91,7 @@ I also [read about 30 books](https://sliwinski.com/reading) per year (actually [
 
 ### I work in "No Office"
 
-[I work from home](https://sliwinski.com/tag/office) and everyone on [my team works remotely](https://sliwinski.com/teleworking). I believe that *"job is not a place to go but a thing you do"*. I live in a very beautiful place in Europe with my wife Ewelina (who is a lawyer and you can see her on the photo above) and my three amazing daughters: Milena, Emilia and Liliana.
+[I work from home](https://sliwinski.com/office) and everyone on [my team works remotely](https://sliwinski.com/teleworking). I believe that *"job is not a place to go but a thing you do"*. I live in a very beautiful place in Europe with my wife Ewelina (who is a lawyer and you can see her on the photo above) and my three amazing daughters: Milena, Emilia and Liliana.
 
 Here's a video that I recorded a while back that illustrates what I'm about:
 

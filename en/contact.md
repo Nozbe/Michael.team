@@ -29,7 +29,7 @@ If you want to learn productivity the fastest way possible:
 
 * get my book: [10 Steps to Ultimate Productivity](https://productivitycourse.com) (also available in [Polish](http://kursproduktywnosci.pl))
 * or watch my [10-step video course in English](https://help.nozbe.com/bonus/introduction/), [Spanish](https://help.nozbe.com/es/bonus/introduction/), [Polish](https://help.nozbe.com/pl/bonus/introduction/), [German](https://help.nozbe.com/de/bonus/introduction/) and [Japanese](https://help.nozbe.com/ja/bonus/introduction/)
-* or watch one of my [productivity Webinars](/tag/webinar)
+* or watch one of my [productivity Webinars](/webinar)
 
 ## Prefer to email me?
 

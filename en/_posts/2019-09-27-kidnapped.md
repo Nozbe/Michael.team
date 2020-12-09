@@ -11,7 +11,7 @@ img: "kidnapped.jpg"
 
 ![{{ page.title }}](/img/{{ page.img }})
 
-## About iPad and me being [iPadOnly](/tag/ipadonly)
+## About iPad and me being [iPadOnly](/ipadonly)
 
 > My iPad Pro is just a glorified iPod touch and will never help me get real work done. [Tweet](https://twitter.com/MSliwinski/status/1177140421140635648)
 
@@ -25,7 +25,7 @@ Many people actually keep thinking that. My [iPad Pro](https://sliwinski.com/new
 
 > After 13 years of running @nozbe we’ve realized our mistake and are renting this beautiful office space in the heart of Warsaw for us to finally be able to work effectively. [Tweet](https://twitter.com/MSliwinski/status/1177183283676962821)
 
-Both statements could make sense... if I wasn't committed to building a [bootstrapped](https://sliwinski.com/investors) and all-remote [NoOffice](/tag/nooffice) company...
+Both statements could make sense... if I wasn't committed to building a [bootstrapped](https://sliwinski.com/investors) and all-remote [NoOffice](/nooffice) company...
 
 ## About the way we're [communicating in Nozbe](https://sliwinski.com/pyramid)
 

@@ -6,7 +6,7 @@ podcast: 1527466890
 
 # No Office FM #5: How to deal with emails?
 
-Welcome to the episode #5 of my podcast about working remotely with Rafal, [Nozbe][n]'s VP of Product. In this 5th episode of the [No Office podcast](/tag/noofficefm) we talk about how we deal with emails. It’s all about our love-hate relationship with email. Check it out (and if you’re looking for episode 4 of this podcast, we published my [last webinar](/differently) as a podcast).
+Welcome to the episode #5 of my podcast about working remotely with Rafal, [Nozbe][n]'s VP of Product. In this 5th episode of the [No Office podcast](/noofficefm) we talk about how we deal with emails. It’s all about our love-hate relationship with email. Check it out (and if you’re looking for episode 4 of this podcast, we published my [last webinar](/differently) as a podcast).
 
 {% include video.html id=page.vid %}
 

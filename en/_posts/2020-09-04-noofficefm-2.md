@@ -6,7 +6,7 @@ podcast: 1527466890
 
 # No Office FM: The Power of Small Teams
 
-Welcome to the episode # 2 of my new podcast about working remotely with Rafal, [Nozbe][n]'s VP of Product. In the second episode of the [No Office podcast](/tag/noofficefm) we talk about the power of small teams like ours. How small teams can build great relationships with their customers, how I regularly talk to them to get to know their needs and of course, how cool it really is to be a small team developing a collaboration app from small teams. Listen up:
+Welcome to the episode # 2 of my new podcast about working remotely with Rafal, [Nozbe][n]'s VP of Product. In the second episode of the [No Office podcast](/noofficefm) we talk about the power of small teams like ours. How small teams can build great relationships with their customers, how I regularly talk to them to get to know their needs and of course, how cool it really is to be a small team developing a collaboration app from small teams. Listen up:
 
 {% include video.html id=page.vid %}
 

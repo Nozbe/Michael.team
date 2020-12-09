@@ -25,7 +25,7 @@ Below are some thoughts of mine on this special and strange reunion.
 
 Personally it was weird doing a reunion online but I didn't feel like I had any other option. As the CEO I'm responsible for everyone on my team and I couldn't risk their health by even trying to pull off a normal reunion where I'd get everyone to the same place as usual. The law at the time would let me do it, but my conscience wouldn't.
 
-As an [all-remote team](/tag/nooffice), we know how to work together from our homes, but having 20+ people *hang out together* is a different thing.
+As an [all-remote team](/nooffice), we know how to work together from our homes, but having 20+ people *hang out together* is a different thing.
 
 ![{{ page.title }} 2](/img/reunion-virtual-2.jpg)
 

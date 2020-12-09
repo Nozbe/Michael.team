@@ -5,7 +5,7 @@ img: "ipadonlyfree.jpg"
 
 # The #iPadOnly book is an oldie but a goodie... and is free for you to read online!
 
-[10 years ago the iPad](https://sliwinski.com/7-ways-the-new-apple-ipad-will-increase-your) went on sale and exactly [8 years ago to date I started my quest to use the iPad](https://sliwinski.com/ipad-as-my-main-computer-prologue/) as my main computing device - I started being [#iPadOnly](/tag/ipadonly). And a year later I co-wrote a book about this with my friend Augusto Pinaud and **[today this book is free and open-sourced](https://ipadonly.com/book/)** for you to read online. Here is how it all came to be:
+[10 years ago the iPad](https://sliwinski.com/7-ways-the-new-apple-ipad-will-increase-your) went on sale and exactly [8 years ago to date I started my quest to use the iPad](https://sliwinski.com/ipad-as-my-main-computer-prologue/) as my main computing device - I started being [#iPadOnly](/ipadonly). And a year later I co-wrote a book about this with my friend Augusto Pinaud and **[today this book is free and open-sourced](https://ipadonly.com/book/)** for you to read online. Here is how it all came to be:
 
 <!--More-->
 
@@ -17,7 +17,7 @@ img: "ipadonlyfree.jpg"
 
 When 8 years ago to the day I started using a retina iPad 3 as my main computer, it was just a crazy experiment. The iPad was barely 2 years old as a platform and many apps were simply not ready for prime time. But I fell in love with the device - I loved the form factor, the battery life, the keyboard-less design... everything about it. Shortly after I went on a trip with my wife to see the canyons on the West Coast and didn't take a MacBook Air with me - only the iPad... and rest, as they say, is history.
 
-I started documenting my [#iPadOnly journey on this blog](/tag/ipadonly) and I noticed my good friend [Augusto Pinaud](http://augustopinaud.com/) was doing the same on his blog. So I emailed him and we decided to join forces and write our book together which we published in June 2013 as [#iPadOnly - the first post-PC book - how to use only your iPad to work, play... and everything in between](https://sliwinski.com/ipadonly).
+I started documenting my [#iPadOnly journey on this blog](/ipadonly) and I noticed my good friend [Augusto Pinaud](http://augustopinaud.com/) was doing the same on his blog. So I emailed him and we decided to join forces and write our book together which we published in June 2013 as [#iPadOnly - the first post-PC book - how to use only your iPad to work, play... and everything in between](https://sliwinski.com/ipadonly).
 
 The book was quite revolutionary. The iOS7 was just announced and most people thought we were full of it, trying to use this "glorified iPod touch" as a serious computing device.
 

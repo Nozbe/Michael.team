@@ -13,7 +13,7 @@ I love journaling. [I’ve blogged about it in the past](https://sliwinski.com/j
 
 ## Using Siri Shortcuts and Bear app
 
-Because I’m using iOS devices to get my stuff done - [I’m iPadOnly](/tag/ipadonly) with the [new 11” iPad Pro](https://sliwinski.com/whichipad) and [I use an iPhoneXS](https://sliwinski.com/newdevice) - I do all of my planning an journaling on either of these devices using Siri Shortcuts and the [Bear note-taking app](https://itunes.apple.com/us/app/bear/id1016366447?mt=8&uo=4&at=1l3vvCJ&ct=sliwinski). I don’t use Bear for anything else - just for planning my days and for journaling.
+Because I’m using iOS devices to get my stuff done - [I’m iPadOnly](/ipadonly) with the [new 11” iPad Pro](https://sliwinski.com/whichipad) and [I use an iPhoneXS](https://sliwinski.com/newdevice) - I do all of my planning an journaling on either of these devices using Siri Shortcuts and the [Bear note-taking app](https://itunes.apple.com/us/app/bear/id1016366447?mt=8&uo=4&at=1l3vvCJ&ct=sliwinski). I don’t use Bear for anything else - just for planning my days and for journaling.
 
 You’ll find below my Siri shortcuts for both planning the days and journaling:
 

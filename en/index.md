@@ -6,7 +6,7 @@ title: Michael Sliwinski
 
 ## Let's talk about your team's productivity!
 
-I'm the founder of [Nozbe and Nozbe Teams](https://nozbe.com/?a=mike){:target='_blank'} - to-do apps for busy professionals and teams, which I've been running for the last 13 years. I'm also a writer ([#iPadOnly](https://iPadOnly.com){:target='_blank'} and [#NoOffice](https://NoOffice.org){:target='_blank'}) and [serial](/tag/podcast) [podcaster](/tag/noofficefm).
+I'm the founder of [Nozbe and Nozbe Teams](https://nozbe.com/?a=mike){:target='_blank'} - to-do apps for busy professionals and teams, which I've been running for the last 13 years. I'm also a writer ([#iPadOnly](https://iPadOnly.com){:target='_blank'} and [#NoOffice](https://NoOffice.org){:target='_blank'}) and [serial](/podcast) [podcaster](/noofficefm).
 
 With the launch of [Nozbe Teams](https://nozbe.com/?a=mike){:target='_blank'} I'm all about "team productivity". Basically:
 
@@ -30,7 +30,7 @@ Also - [this site is free and open source](/license). Copy anything you want, ju
 
 ## Find something cool to read
 
-Check out [full archive](/archive/) or [browse my posts by tags or topics](/tag/). Gradually I'll be importing post from my old blog here. For now you can search only the new stuff:
+Check out [full archive](/archive/) or [browse my posts by tags or topics](/). Gradually I'll be importing post from my old blog here. For now you can search only the new stuff:
 
 {% include search.html %}
 

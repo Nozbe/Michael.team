@@ -6,7 +6,7 @@ podcast: 1538743591
 
 # No Office Book Teaser - Team Productivity Show #8
 
-As I wrote [more than 60% of the #NoOffice book](https://NoOffice.org) and [teased on this blog the first part of the book](/nooffice1) I decided to record a [vlog on it](/tag/vlog) so here it is!
+As I wrote [more than 60% of the #NoOffice book](https://NoOffice.org) and [teased on this blog the first part of the book](/nooffice1) I decided to record a [vlog on it](/vlog) so here it is!
 
 {% include video.html id=page.vid %}
 
