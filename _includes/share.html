@@ -1,5 +1,10 @@
 {% capture share %}share{{ langvar }}{% endcapture %}
-<h3>{{ site.data.main.[share] }}: <a href="{{ site.url }}{{ page.url }}">{{ site.data.main.domain }}{{ langpath }}/{{ page.slug }}</a></h3>
+{% if page.slug %}
+{% assign slug = page.slug %}
+{% else %}
+{% assign slug = page.name | remove_first: ".md" %}
+{% endif %}
+<h3>{{ site.data.main.[share] }}: <a href="{{ site.url }}{{ page.url }}">{{ site.data.main.domain }}{{ langpath }}/{{ slug }}</a></h3>
 {% if include.tweet %}
 {% capture tweet %}sharet{{ langvar }}{% endcapture %}
 <h4><a href="https://twitter.com/intent/tweet?text={{ page.title }}&via={{ site.data.main.twitter }}&url={{ site.url }}{{ page.url }}&hashtags={{ tagcommas }}">{{ site.data.main.[tweet] }}</a></h4>
