@@ -1,5 +1,5 @@
 ---
-tags: [webinar]
+tags: [webinary]
 vid: "kf_F5m-kOi8"
 ---
 

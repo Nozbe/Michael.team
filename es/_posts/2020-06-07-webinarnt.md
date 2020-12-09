@@ -1,6 +1,6 @@
 ---
 vid: "w8K7BCdMH0s"
-tags: [webinar]
+tags: [seminarios]
 ---
 
 # Cómo equipos pueden hacer cosas grandes dejando de lado el correo electrónico y las reuniones

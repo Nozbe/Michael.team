@@ -1,5 +1,5 @@
 ---
-tags: [webinar]
+tags: [seminarios]
 vid: "OXuld5tQ34w"
 ---
 
