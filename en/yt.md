@@ -7,9 +7,11 @@ img: yt.jpg
 
 <div id="yt"></div>
 
-## Watch any YouTube video here, cookie free!
+## Watch any video here, cookie free!
 
 I created this because the experience of watching video on YouTube got worse. They show pop-ups, they track you and they tempt you to bindge-watch by suggesting lots of videos on the side. [Here's the full story behind this page][blog].
+
+This page solves most of these problems. It lets you embed *any YouTube video* easily and watch it without being tracked, with full screen and picture-in-picture support on iPads.
 
 ## Option 1. Just paste a YouTube URL link
 
@@ -34,7 +36,7 @@ https://michael.team/yt/?yt=FULLYOUTUBELINK
 
 ## Enjoy!
 
-Now you can watch videos on an iPad, iPhone or any other device without being tracked by Google/YouTube. When embedding the video it uses the "nocookie" option, which limits the tracking and it supports full screen on the iPadOS and iOS for most clips.
+Now you can watch videos on an iPad, iPhone or any other device without being tracked by Google/YouTube. When embedding the video it uses the "nocookie" option, which limits the tracking and it supports full screen and picture-in-picture on the iPadOS and iOS for most clips.
 
 **[Read more about this page and share with your friends! Thanks!][blog]**
 
