@@ -138,7 +138,7 @@ function randomSet(urls, urlcount, where) {
 
 //get all blog posts and find a random one
 function random() {
-	document.querySelector("#ajax").remove(); //removing the "ajax" object if it exists
+	if (document.querySelector("#ajax")) document.querySelector("#ajax").remove();
 	let where = '#page';
 	document.querySelector(where).after(createSpinner());
 	fetch(URL + POSTS)
