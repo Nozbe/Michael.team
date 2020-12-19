@@ -158,17 +158,11 @@ function random() {
 
 //roll the dice!
 function dice () {
-	let dices = new Map([
-		[1, 'https://upload.wikimedia.org/wikipedia/commons/0/09/Dice-1.svg'],
-		[2, 'https://upload.wikimedia.org/wikipedia/commons/3/34/Dice-2.svg'],
-		[3, 'https://upload.wikimedia.org/wikipedia/commons/c/ca/Dice-3.svg'],
-		[4, 'https://upload.wikimedia.org/wikipedia/commons/1/16/Dice-4.svg'],
-		[5, 'https://upload.wikimedia.org/wikipedia/commons/d/dc/Dice-5.svg'],
-		[6, 'https://upload.wikimedia.org/wikipedia/commons/d/d7/Dice-6a.svg'],
-	]);
-	let img = '<a href="javascript:dice();"><img src="SVG"></a>';
-	document.querySelector('#dice').innerHTML = createSpinner().innerHTML; 
+	let img = '<a href="javascript:dice();"><img src="/img/dice-NUM.png"></a>';
+	document.querySelector('#dice').innerHTML = '';
+	document.querySelector('#dice').after(createSpinner()); 
 	setTimeout (() => {
-		document.querySelector('#dice').innerHTML = img.replace('SVG',dices.get(randomInt(1,6)));
+		createSpinner(true);
+		document.querySelector('#dice').innerHTML = img.replace('NUM',randomInt(1,6));
 	}, 1000);
 }
