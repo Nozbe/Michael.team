@@ -160,7 +160,7 @@ function random() {
 function dice () {
 	let img = '<a href="javascript:dice();"><img src="/img/dice-NUM.png"></a>';
 	document.querySelector('#dice').innerHTML = '';
-	document.querySelector('#dice').after(createSpinner()); 
+	document.querySelector('#header').after(createSpinner()); 
 	setTimeout (() => {
 		createSpinner(true);
 		document.querySelector('#dice').innerHTML = img.replace('NUM',randomInt(1,6));
