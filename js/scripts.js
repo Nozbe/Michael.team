@@ -16,6 +16,7 @@ function getNow () {
 //fetching an article from the system
 function getArticle (url, where) {
 	let element = document.createElement('article'); //create article
+	element.setAttribute('id', 'ajax'); //so we can identify it!
 	fetch(URL+url)
 	.then((response) => response.text())
 	.then((responseText) => {
@@ -114,4 +115,43 @@ function showYouTube(input = false) {
 	//add page to browser history if it was from input
 	if (input) window.history.pushState('video','YouTube watcher - Michael.team','https://michael.team/yt/?yt=https://www.youtube.com/watch?v='+yt);
 	}
+}
+
+// get a random integer from a set
+function randomInt(min, max) {
+	let rand = min + Math.random() * (max + 1 - min);
+	return Math.floor(rand);
+}
+
+//setting and loading the random page
+function randomSet(urls, urlcount, where) {
+	let randomDiv = document.querySelector("#random");
+	let randomNew = urls[randomInt(1, urlcount) - 1];
+	let randomOld = randomDiv.dataset.random;
+	if (randomOld == randomNew) {
+		randomSet (urls, urlcount);      
+	} else {
+		randomDiv.dataset.random = randomNew;
+		getArticle (randomNew,where); //load the page here!
+	}
+}
+
+//get all blog posts and find a random one
+function random() {
+	document.querySelector("#ajax").remove(); //removing the "ajax" object if it exists
+	let where = '#page';
+	document.querySelector(where).after(createSpinner());
+	fetch(URL + POSTS)
+	.then((response) => response.text())
+	.then((responseText) => {
+		let urls = [];
+		let posts = JSON.parse(responseText, function(key, value) {
+			if (key == 'url') urls.push(value);
+		});
+		let urlcount = urls.length;
+		randomSet(urls, urlcount, where); //setting the random page
+	})
+	.catch((error) => {
+		console.error(error)
+	})
 }
