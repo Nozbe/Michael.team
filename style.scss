@@ -47,6 +47,14 @@ a {
 	margin: auto;
 }
 
+article > footer {
+	padding: 20px;
+}
+
+#ajax {
+	border-top: 1px solid $main;
+}
+
 .begend {
 	background-color: $mainBack;
 	border-bottom: 1px solid $main;
