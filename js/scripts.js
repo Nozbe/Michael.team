@@ -159,10 +159,12 @@ function random() {
 //roll the dice!
 function dice () {
 	let img = '<a href="javascript:dice();"><img src="/img/dice-NUM.png"></a>';
-	document.querySelector('#dice').innerHTML = '';
+	let dice = document.querySelector('#dice');
+	dice.innerHTML = '';
+	dice.setAttribute('style','text-align: center;');
 	document.querySelector('#header').after(createSpinner()); 
 	setTimeout (() => {
 		createSpinner(true);
-		document.querySelector('#dice').innerHTML = img.replace('NUM',randomInt(1,6));
-	}, 1000);
+		dice.innerHTML = img.replace('NUM',randomInt(1,6));
+	}, 1000); //wait one second before showing the new dice!
 }
