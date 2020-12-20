@@ -30,6 +30,10 @@ I've fallen in love with Jekyll and now I'm migrating all of my stuff there. It 
 - vid - YouTube ID of the video
 - vim - Vimeo ID of the video (not yet implemented)
 - tags (which are defined in data/main.yml) - I'm planning on using only defined tags
+- js - javascript script to include, it includes scripts.js and launches on page load the script, (eg. js: dice - which launches dice() function from script on page load), exception is "redirect" because it includes the redirect.js entirely.
+- header - replaces the header part of the page with a custom header, like in dice we wanted to have shorter header with a link
+- head - opportunity to add something to the "head" section of the page, usually used for adding podcast icons to subscribe to our podcasts (eg. head: '<meta name="apple-itunes-app" content="app-id=1012329770" />')
+
 
 ### 2. The structure of the site will be very simple:
 
@@ -50,6 +54,18 @@ I've fallen in love with Jekyll and now I'm migrating all of my stuff there. It 
 - Adding a link that opens in new window in kramdown:
 
 [link](url){:target="_blank"}
+
+- Adding code:
+
+{% highlight liquid %}
+Code is here
+{% endhighlight %}
+
+- Adding quote with backslashes for newlines:
+
+> I've seen dark before, but not like this\\
+> This is cold, this is empty, this is numb
+
 ```
 
 [Kramdown reference](https://kramdown.gettalong.org/quickref.html)

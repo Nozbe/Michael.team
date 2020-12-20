@@ -76,8 +76,6 @@ function showYouTube(input = false) {
 	//https://www.youtube.com/watch?feature=emb_logo&v=BmlB8y5Sig8&app=desktop
 	//https://youtu.be/BmlB8y5Sig8
 	//https://www.youtube.com/watch?v=BmlB8y5Sig8
-	//window.history.pushState('video','YouTube watcher - Michael.team','https://michael.team/yt/?yt=https://www.youtube.com/watch?v=eWI_BtcDJu0')
-	//new URLSearchParams(window.location.search).get('v');
 	let yt = ''; //'BmlB8y5Sig8';
 	let ytlink = '';
 	if (input) {
@@ -188,7 +186,6 @@ function dice (which=0) {
 	document.querySelector('#dice').after(createSpinner()); 
 	setTimeout (() => {
 		createSpinner(true);
-		dice.innerHTML = img.replace('NUM',randomInt(1,6));
 		if (which == 2) {
 			let twodice = imgs.replace('NUM1',randomInt(1,6));
 			dice.innerHTML = twodice.replace('NUM2',randomInt(1,6));
