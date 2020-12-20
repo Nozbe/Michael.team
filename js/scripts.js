@@ -158,7 +158,7 @@ function random() {
 
 //roll the dice!
 function dice (which=0) {
-	let img = '<a href="javascript:dice();"><img src="/img/dice-NUM.png"></a>';
+	let img = '<a href="javascript:dice();"><img src="/img/dice-NUM.png" style="width: 50%"></a>';
 	let imgs = '<div class="column"><a href="javascript:dice();"><img src="/img/dice-NUM1.png"></a></div><div class="column"><a href="javascript:dice();"><img src="/img/dice-NUM2.png"></a></div>';
 	let dice = document.querySelector('#dice');
 	let dice1 = document.querySelector('#dice1');
