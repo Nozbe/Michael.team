@@ -185,7 +185,7 @@ function dice (which=0) {
 	//rolling the dice!
 	dice.innerHTML = '';
 	dice.setAttribute('style','text-align: center;');
-	document.querySelector('#header').after(createSpinner()); 
+	document.querySelector('#dice').after(createSpinner()); 
 	setTimeout (() => {
 		createSpinner(true);
 		dice.innerHTML = img.replace('NUM',randomInt(1,6));
