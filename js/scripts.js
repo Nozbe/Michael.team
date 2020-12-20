@@ -157,14 +157,41 @@ function random() {
 }
 
 //roll the dice!
-function dice () {
+function dice (which=0) {
 	let img = '<a href="javascript:dice();"><img src="/img/dice-NUM.png"></a>';
+	let imgs = '<div class="column"><a href="javascript:dice();"><img src="/img/dice-NUM1.png"></a></div><div class="column"><a href="javascript:dice();"><img src="/img/dice-NUM2.png"></a></div>';
 	let dice = document.querySelector('#dice');
+	let dice1 = document.querySelector('#dice1');
+	let dice2 = document.querySelector('#dice2');
+	//switcher
+	if (which==2) {
+		dice1.setAttribute('class','');
+		dice2.setAttribute('class','bold');
+	} else if (which==1) {
+		dice1.setAttribute('class','bold');
+		dice2.setAttribute('class','');
+	}
+	//reader
+	if (!which) {
+		if (dice1.getAttribute('class') == 'bold') {
+			which = 1;
+		} else if (dice2.getAttribute('class') == 'bold') {
+			which = 2;
+		} else { //default it's 1
+			which = 1;
+			dice1.setAttribute('class','bold');
+		}
+	}
+	//rolling the dice!
 	dice.innerHTML = '';
 	dice.setAttribute('style','text-align: center;');
 	document.querySelector('#header').after(createSpinner()); 
 	setTimeout (() => {
 		createSpinner(true);
 		dice.innerHTML = img.replace('NUM',randomInt(1,6));
+		if (which == 2) {
+			let twodice = imgs.replace('NUM1',randomInt(1,6));
+			dice.innerHTML = twodice.replace('NUM2',randomInt(1,6));
+		} else dice.innerHTML = img.replace('NUM',randomInt(1,6));
 	}, 1000); //wait one second before showing the new dice!
 }
