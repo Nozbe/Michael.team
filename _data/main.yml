@@ -101,6 +101,10 @@ tags:
   emoj: "🌎"
   titl: "Links"
   tit2: "Links to other interesting pages on the Internet. Very often references to the [Nozbe blog](https://nozbe.com/blog/?a=mike){:target='_blank'}. With optional quotes and additional commentary. Or not."
+- name: magazine
+  emoj: "📙"
+  titl: "Magazine"
+  tit2: "I used to be the editor of the [Productive! Magazine](http://productivemag.com){:target='_blank'} between 2008 and 2016 (34 issues), also in  [Polish](http://productivemag.pl){:target='_blank'} (18 issues), [Dutch](http://productivemag.nl){:target='_blank'} (5 issues), [Spanish](http://productivemag.es){:target='_blank'} and [Japanese](http://productivemag.jp){:target='_blank'} (1 issue) as a part of my now shut-down [Remag startup](https://remag.me){:target='_blank'}."
 - name: nooffice
   emoj: "🏝"
   titl: "NoOffice"
