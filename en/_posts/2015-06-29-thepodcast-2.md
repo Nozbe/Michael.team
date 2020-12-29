@@ -1,5 +1,5 @@
 ---
-tags: [podcast,applewatch]
+tags: [podcast]
 podcast: 1012329770
 img: "thepodcast-2.jpg"
 ---

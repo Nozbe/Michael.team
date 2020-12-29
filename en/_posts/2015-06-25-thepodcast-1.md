@@ -1,10 +1,10 @@
 ---
-tags: [link,podcast]
+tags: [podcast]
 podcast: 1012329770
 img: "thepodcast-1.jpg"
 ---
 
-# The Podcast ep. 1 - Introduction to Radek and me :-)
+# The Podcast #1 - Introduction to Radek and me :-)
 
 Together with [Radek][r] (our VP of Apple Tachnologies at [Nozbe][n]) we decided to start a weekly podcast about "technology, productivity tips, business, publishing, and whatever else comes to mind." We've been chatting about these things for a while and a few weeks ago we decided to switch to English and start recording our chats. This is how "The Podcast" was born and I'd love to welcome you to listen our very [first episode][e]:
 
