@@ -1,0 +1,42 @@
+---
+tags: [podcast]
+podcast: 1012329770
+img: "thepodcast-8.jpg"
+---
+
+# The Podcast #8 - Accidental Lego Podcast
+
+New episode of your [favorite weekly podcast][p] about "technology, productivity tips, business, publishing, and whatever else comes to mind..." is out! This time we talk about Lego, our "productive" bike rides and my Amazon prime problem:
+
+<!--More-->
+
+![{{ page.title }}](/img/{{ page.img }})
+
+We share our enthusiasm for Lego. We're adults but we still love playing with it. I have an Amazon prime problem where my courier shows up with a package almost every day... And we keep digging into productivity and talking about my [unschedule](https://sliwinski.com/unschedule) blog post. It was a good one:
+
+## [Listen to this week's episode:][e]
+
+<audio controls>
+<source src="https://files.nozbe.com/podcast/008.mp3" type="audio/mpeg">
+</audio>
+
+**[Subscribe to The Podcast in iTunes][i]**
+
+## Show notes for this episode:
+
+  * [Michael's TRX strength training setup](https://sliwinski.com/fitness-for-busy-professionals-productive-show-36/)
+  * [What do you mean Apple Watch only holds one day on battery?](https://twitter.com/radexp/status/619058119646257152)
+  * [Pomodoro Technique + Unschedule Calendar (New post)](https://nozbe.com/blog/unschedule/)
+  * [Pomodoro + Unschedule (Historical post)](https://sliwinski.com/power-of-unschedule-and-pomodoro-technique/)
+  * [Michael has an Amazon Prime problem](https://twitter.com/msliwinski/status/624238109941739520)
+  * [Amazon's Vine response](https://vine.co/v/egz5PT15dzO)
+  * [Sugru](https://sugru.com/)
+  * [Produtive Show: Sugru](https://youtu.be/YOvU6QKha-0)
+  * [Michael's Lego Duplo iPad stand](https://twitter.com/msliwinski/status/583954368615096320)
+  * [Tiko Unibody 3D printer](https://www.kickstarter.com/projects/tiko3d/tiko-the-unibody-3d-printer)
+
+[e]: http://thepodcast.fm/episodes/8
+[p]: https://michael.gratis/thepodcastfm
+[n]: https://nozbe.com/?a=mike
+[r]: https://michael.gratis/radex
+[i]: https://michael.gratis/thepodcast

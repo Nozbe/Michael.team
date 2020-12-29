@@ -1,0 +1,64 @@
+---
+tags: [podcast]
+podcast: 1012329770
+img: "thepodcast-6.jpg"
+---
+
+# The Podcast #6 - Unschedule Your Day
+
+New episode of your [favorite weekly podcast][p] about "technology, productivity tips, business, publishing, and whatever else comes to mind..." is out! This time we talk about how I use “unschedule” and “pomodoro” techniques:
+
+<!--More-->
+
+![{{ page.title }}](/img/{{ page.img }})
+
+Apart from true productivity tips regarding [pomodoro and unschedule](https://nozbe.com/blog/unschedule/) we also talk on [apple watch](/applewatch) and my new stand up desk. This episode starts slow but gets better with each minute passing. Check it out: 
+
+## [Listen to this week's episode:][e]
+
+<audio controls>
+<source src="https://files.nozbe.com/podcast/006.mp3" type="audio/mpeg">
+</audio>
+
+**[Subscribe to The Podcast in iTunes][i]**
+
+## Show notes for this episode:
+
+  * Brief follow-up on [Episode 5](http://thepodcast.fm/episodes/5)
+    * Collaborative spaces? More like interruptive spaces…
+    * [We apologize for any inconvenience we might have caused](https://signalvnoise.com/posts/1528-the-bullshit-of-outage-language)
+    * People see right through the corporate BS
+  * Sport and exercise
+    * [Michael’s triathlons](https://sliwinski.com/triathlon/)
+    * Easy access to sports gear ([Decathlon](http://www.decathlon.com/)) helps
+    * [Jawbone UP](https://jawbone.com/up/trackers)
+  * [IKEA Bekant (Michael’s standing desk)](http://www.ikea.com/us/en/catalog/products/S49022524/)
+    * Apple Watch gets confused by standing desks
+  * [Pomodoro Technique](http://pomodorotechnique.com/)
+    * [Unschedule Calendar + Pomodoro](https://nozbe.com/blog/unschedule/) ([earlier version of the article](https://sliwinski.com/power-of-unschedule-and-pomodoro-technique/))
+    * [Tadam](http://tadamapp.com/)
+    * [Hawthorne effect](https://en.wikipedia.org/wiki/Hawthorne_effect)
+  * Apple Watch
+    * Radek is keeping Michael’s Watch
+    * [Overcast on Apple Watch](http://www.marco.org/2015/05/08/overcast-apple-watch-redesign)
+    * [Sony MDR-7506](https://en.wikipedia.org/wiki/Sony_MDR-V6)
+    * [A tube of lubricant for your life](http://daringfireball.net/thetalkshow/2015/03/12/ep-113)
+    * [Resume to last used app](http://www.tech-recipes.com/rx/55220/apple-watch-open-the-most-recently-used-app-on-wrist-raise/)
+    * [Michael’s stand](https://instagram.com/p/5hNoVFJ_QO/)
+  * Note taking
+    * [Getting Things Done](http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563/ref=sr_1_1?ie=UTF8&qid=1437766362&sr=8-1&keywords=getting+things+done)
+    * Don’t rely on your brain as a storage device
+    * Radek is sad that there’s no easy way to quickly capture audio on an Apple Watch
+    * You can use Siri for reminders
+    * Apple Watch dictation is slow and unreliable 😥
+    * watchOS 2 might make a good solution possible #FreeAppIdea
+  * Apple Watch as an alarm clock
+    * Being in sync with the iPhone is not necessarily a good idea
+    * Radek’s biological clock
+    * Jawbone Up’s smart alarm clock
+
+[e]: http://thepodcast.fm/episodes/6
+[p]: https://michael.gratis/thepodcastfm
+[n]: https://nozbe.com/?a=mike
+[r]: https://michael.gratis/radex
+[i]: https://michael.gratis/thepodcast
