@@ -29,10 +29,10 @@ I'll be publishing the vlog weekly on [Nozbe Blog](https://nozbe.com/tags/michae
 9. The team - how our team grew from me, 3 of us... and now 22.
 10. The servant - how my role in the company changed as the CEO and founder
 11. The magazine - how we ran [Productive! Magazine](http://productivemag.com) between 2008-2016
-12. The podcast - how we've decided to [start a podcast](/podcast) (and we just celebrated the [200th episode](https://sliwinski.com/thepodcast-200)!)
+12. The podcast - how we've decided to [start a podcast](/podcast) (and we just celebrated the [200th episode](/podcast-200)!)
 13. The future - what the future holds for us and why it's tightly connected with [Nozbe Teams](https://nozbe.com/teams).
 
 Hope you like this casual format of my vlog - let me know what you think [in the comments on the Nozbe Blog](https://nozbe.com/blog/michaels-team-productivity-1/). Thanks!
 
 [n]: https://nozbe.com/?a=mike
-[p]: https://thepodcast.fm/
+[p]: /podcast

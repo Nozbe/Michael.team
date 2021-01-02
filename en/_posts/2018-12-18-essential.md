@@ -39,4 +39,4 @@ Yes, that’s what I have to ask myself at the end of my each [weekly review](ht
 
 
 [n]: https://nozbe.com/?a=mike
-[p]: https://thepodcast.fm/
+[p]: /podcast

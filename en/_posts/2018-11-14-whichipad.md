@@ -43,4 +43,4 @@ P.S. Looks like it’s good to [revisit my old articles about iPadOnly](/ipadonl
 
 
 [n]: https://nozbe.com/?a=mike
-[p]: https://thepodcast.fm/
+[p]: /podcast

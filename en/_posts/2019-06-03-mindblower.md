@@ -40,4 +40,4 @@ In the end I got the front-row seat for the keynote and could see Tim Cook and t
 The WWDC week is on. I’m hoping to get to know more people here and give away all of the stash of MindBlowers to the cool folks I’m going to meet. If you’re at the WWDC conference this year with me, don’t be shy and come say hi 👋 
 
 [n]: https://nozbe.com/?a=mike
-[p]: https://thepodcast.fm/
+[p]: /podcast

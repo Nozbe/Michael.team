@@ -42,4 +42,4 @@ Hope you’ll join me for the ride, [give me feedback](/contact) and help me spr
 
 
 [n]: https://nozbe.com/?a=mike
-[p]: https://thepodcast.fm/ 
+[p]: /podcast 

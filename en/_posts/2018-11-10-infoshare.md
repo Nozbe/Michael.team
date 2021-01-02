@@ -24,9 +24,9 @@ Apart from the big “why” I also talk about the practical aspects of running 
 
 Plus lots of practical tips of running an all remote team from me - a person, who’s been doing this for the last 11 years + more tips from other companies who’re doing it as well (Automattic, Buffer, MySQL, etc.). Enjoy!
 
-P.S. And if you want to find out how I worked on this presentation, you’ll get the whole back-stage [listening or watching the episode 145 of The Podcast](https://sliwinski.com/thepodcast-145/)
+P.S. And if you want to find out how I worked on this presentation, you’ll get the whole back-stage [listening or watching the episode 145 of The Podcast](/podcast-145/)
 
 
 
 [n]: https://nozbe.com/?a=mike
-[p]: https://thepodcast.fm/
+[p]: /podcast

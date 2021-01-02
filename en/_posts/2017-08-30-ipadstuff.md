@@ -33,7 +33,7 @@ Need to know more about my iPad gadgets - [this old video is still pretty much r
 
 [d]: http://db.tt/kD7Liux
 [t]: https://twitter.com/MSliwinski
-[p]: https://michael.gratis/thepodcastfm
+[p]: /podcast
 [n]: https://nozbe.com/?a=mike
 [r]: https://michael.gratis/radex
 [i]: https://michael.gratis/thepodcast

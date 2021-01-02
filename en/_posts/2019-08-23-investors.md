@@ -28,4 +28,4 @@ After almost 13 years of running [Nozbe][n] I just love the freedom it gives me 
 > So if you're an investor, know that you won't be able to invest in Nozbe. However if you want to get to know me and offer me free advice, by all means [get in touch](https://sliwinski.com/contact), I might have 30 minutes for a quick chat.
 
 [n]: https://nozbe.com/?a=mike
-[p]: https://thepodcast.fm/
+[p]: /podcast

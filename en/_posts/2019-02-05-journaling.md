@@ -72,4 +72,4 @@ Hope this helps you stay productive, too!
 
 
 [n]: https://nozbe.com/?a=mike
-[p]: https://thepodcast.fm/
+[p]: /podcast

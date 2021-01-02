@@ -29,7 +29,7 @@ When I heard about it (and this situation stands today as you can see from the s
 
 Exactly! Microsoft is losing on so many fronts - it lost the mobile war (there is no Windows Phone anymore), they’re struggling with tablets (with Surface products) and they’re dependent on Intel - who’s struggling making processors these days. They’re just milking the cow thanks to Microsoft Office 365 platform... which I honestly don’t use anymore...
 
-Whereas Apple’s iPhone is one of the two dominant mobile platforms, they’re kicking Intel’s ass with ARM-based A-series chips and soon [they’ll be releasing Macs with these processors](https://sliwinski.com/thepodcast-154), they’ve got the [dominant tablet with the iPad](/ipadonly) and the dominant fitness tracker [with the Apple Watch](/applewatch/)... and their recurring services revenue is soaring.
+Whereas Apple’s iPhone is one of the two dominant mobile platforms, they’re kicking Intel’s ass with ARM-based A-series chips and soon [they’ll be releasing Macs with these processors](/podcast-154), they’ve got the [dominant tablet with the iPad](/ipadonly) and the dominant fitness tracker [with the Apple Watch](/applewatch/)... and their recurring services revenue is soaring.
 
 Where’s the logic here? What gives?
 
@@ -51,4 +51,4 @@ It’s like in this sketch about the financial crisis - which still holds up pre
 
 
 [n]: https://nozbe.com/?a=mike
-[p]: https://thepodcast.fm/
+[p]: /podcast

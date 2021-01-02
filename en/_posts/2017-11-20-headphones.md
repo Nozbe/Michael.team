@@ -5,7 +5,7 @@ img: "headphones.jpg"
 
 # How wireless headphones improve my productivity... and take me into the future!
 
-This article was inspired by questions from readers and my discussion with Radek in the [95th episode of “ThePodcast.fm.”](https://sliwinski.com/thepodcast-95/) In that episode, we were chatting about our new wireless headphones and discussing how they make us feel like we’re living in the future. On top of that, I also believe wireless headphones significantly improve productivity. So, if you’re still using wired headphones, then, to quote Steve Jobs: “you’re doing it wrong.” Read on to find out why.
+This article was inspired by questions from readers and my discussion with Radek in the [95th episode of “ThePodcast.fm.”](/podcast-95/) In that episode, we were chatting about our new wireless headphones and discussing how they make us feel like we’re living in the future. On top of that, I also believe wireless headphones significantly improve productivity. So, if you’re still using wired headphones, then, to quote Steve Jobs: “you’re doing it wrong.” Read on to find out why.
 
 <!--More-->
 
@@ -102,9 +102,9 @@ It’s great to live in the future, in which you don’t necessarily have to buy
 If you have a minute, tweet me at [@MSliwinski][t] and tell me which headphones you use and what kind of books or podcasts you listen to – I’d love to hear your recommendations. I also encourage you to listen to [ThePodcast.fm][tp] (recently, we were featured on the first page of Apple Podcasts), in which we chat about technology, books and everything else.
 
 
-[tp95]: http://thepodcast.fm/episodes/95
+[tp95]: /podcast-95
 [imagazine]: https://imagazine.pl/
-[tp]: http://thepodcast.fm/
+[tp]: https://thepodcast.fm/
 [Nozbe]: https://nozbe.com/?a=mike
 [ip]: /iphone/
 [ipad]: /ipadonly/

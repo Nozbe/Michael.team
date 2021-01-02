@@ -38,7 +38,7 @@ You can copy and share any part of this site, but just give back credits to me. 
 
 * I'm currently writing a book on working better in a modern and more remote and flexible way: [#NoOffice](https://nooffice.org){:target='_blank'}.
 * I'm [blogging](/blogging) on [this site](/archive/) now and I used to do it on my [old site: sliwinski.com](https://sliwinski.com){:target='_blank'}.
-* [I chat with Radek on "The Podcast . FM"](http://thepodcast.fm) - it's a semi-weekly podcast on "technology, productivity tips, business, publishing, and whatever else comes to mind..." - more than 200 episodes recorded to date!
+* [I chat with Radek on "The Podcast . FM"](/podcast) - it's a semi-weekly podcast on "technology, productivity tips, business, publishing, and whatever else comes to mind..." - more than 200 episodes recorded to date!
 * I do all that from my iPad - I'm ([#iPadOnly](https://iPadOnly.com){:target='_blank'}).
 
 ## Things I used to do:

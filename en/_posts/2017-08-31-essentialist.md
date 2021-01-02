@@ -31,7 +31,7 @@ Here’s more:
 
 ## Essentialism is a disciplined pursuit like deliberate practice from the book “Peak”
 
-I’ve reviewed the book [“Peak” by Anders Ericsson](https://sliwinski.com/peak) on my blog before and [on the podcast](https://sliwinski.com/thepodcast-80) and the concept of deliberate practice is very similar to the disciplined pursuit of becoming an essentialist - you have to practice consciously, create habits that support this and really enjoy the journey and not just think of the destination.
+I’ve reviewed the book [“Peak” by Anders Ericsson](https://sliwinski.com/peak) on my blog before and [on the podcast](/podcast-80) and the concept of deliberate practice is very similar to the disciplined pursuit of becoming an essentialist - you have to practice consciously, create habits that support this and really enjoy the journey and not just think of the destination.
 
 > We have to create a system for removing obstacles and making execution as easy as possible.
 
@@ -95,7 +95,7 @@ Author argues that a true essentialist spends more time thinking and analyzing a
 
 ## Focus on your work
 
-This goes back to the concept of "Deep Work" from the book by the same title by Cal Newport (discussed [in #46 of The Podcast](https://sliwinski.com/thepodcast-46)):
+This goes back to the concept of "Deep Work" from the book by the same title by Cal Newport (discussed [in #46 of The Podcast](/podcast-46)):
 
 > In order to have focus we need to escape to focus
 
@@ -135,7 +135,7 @@ This is why I’m constantly fighting my urge to check Twitter or Instagram...
 
 > Avoid FOMO fear of missing out. If we ever say YES because it is an easy reward, we run the risk of having later to say NO to a more meaningful one.
 
-This is a trap. That’s why we’re [discussing tricks](https://sliwinski.com/thepodcast-105) and [habits](https://sliwinski.com/thepodcast-106) that help us avoid falling back in...
+This is a trap. That’s why we’re [discussing tricks](/podcast-105) and [habits](/podcast-106) that help us avoid falling back in...
 
 ## Essentialism is not NO-ism but learn to say NO...
 
@@ -314,7 +314,7 @@ Further reading:
 
 [d]: http://db.tt/kD7Liux
 [t]: https://twitter.com/MSliwinski
-[p]: https://michael.gratis/thepodcastfm
+[p]: /podcast
 [n]: https://nozbe.com/?a=mike
 [r]: https://michael.gratis/radex
 [i]: https://michael.gratis/thepodcast

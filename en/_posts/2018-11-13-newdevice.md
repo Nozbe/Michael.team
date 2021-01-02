@@ -75,4 +75,4 @@ Something to get used to.
 
 
 [n]: https://nozbe.com/?a=mike
-[p]: https://thepodcast.fm/
+[p]: /podcast

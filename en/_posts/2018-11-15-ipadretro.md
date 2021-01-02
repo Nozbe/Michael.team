@@ -18,4 +18,4 @@ The new iPad Pro is stunning and it’s so similar to the original iPad. Especia
 
 
 [n]: https://nozbe.com/?a=mike
-[p]: https://thepodcast.fm/
+[p]: /podcast

@@ -29,7 +29,7 @@ Feel free to use my Shortcut and modify it or tweak it for your liking:
 
 ## Morning and Evening routines... and daily planning
 
-Radek and I have discussed this on [109th episode of The Podcast](https://sliwinski.com/thepodcast-109) - we both do daily planning as a separate note in Bear.
+Radek and I have discussed this on [109th episode of The Podcast](/podcast-109) - we both do daily planning as a separate note in Bear.
 
 Additionally I use this note for each day to do [intermittent journaling](https://sliwinski.com/journaling) which helps me stay focused as the day goes by.
 
@@ -62,4 +62,4 @@ I hope this was helpful and inspires you to journal more regularly and have more
 The best part of this system is that it's very portable - I don't carry around a physical journal with me. I have these shortcuts and the Bear app (which syncs via iCloud) on both my iPhone and iPad so there's no excuse for planning the day or journaling.
 
 [n]: https://nozbe.com/?a=mike
-[p]: https://thepodcast.fm/
+[p]: /podcast

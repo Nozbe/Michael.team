@@ -5,7 +5,7 @@ img: "recording.jpg"
 
 # iPadOnly podcast recording set – how to travel & record podcasts with great quality and minimum equipment
 
-Recently, I posted the photo below on Instagram and some folks congratulated me on my setup, asking me how I manage to record podcasts while on the road, being [iPadOnly][ipad], using only my iPhone and iPad. It’s a frequent problem, especially during vacation, when it can be difficult to coordinate travel plans with the podcast schedule, but we still want to record it regularly. In the last two years we hardly ever missed a week ([we did miss last two weeks, sorry!](https://sliwinski.com/thepodcast-110)) thanks to this setup:
+Recently, I posted the photo below on Instagram and some folks congratulated me on my setup, asking me how I manage to record podcasts while on the road, being [iPadOnly][ipad], using only my iPhone and iPad. It’s a frequent problem, especially during vacation, when it can be difficult to coordinate travel plans with the podcast schedule, but we still want to record it regularly. In the last two years we hardly ever missed a week ([we did miss last two weeks, sorry!](/podcast-110)) thanks to this setup:
 
 <!--More-->
 
@@ -71,8 +71,8 @@ While recording our 100th episode – which was a special one because we were bo
 I’ll be happy to exchange thoughts with you on Twitter ([@MSliwinski](https://twitter.com/msliwinski)). Let me know what kind of podcasts you listen to and recommend! Also, let me know if you listen to [ThePodcast.fm](/podcast) and if you’re a podcaster yourself – tell me what kind of podcasts you record (I’ll be sure to check them out), and what setup you use. Hope to hear you on my AirPods!
 
 [pm]: http://productivemag.com/
-[tp]: http://thepodcast.fm/
+[tp]: https://thepodcast.fm/
 [n]: https://nozbe.com/?a=mike
-[100]: http://thepodcast.fm/100
+[100]: /podcast-100
 [iMagazine]: https://imagazine.pl/
 [ipad]: /ipadonly/

@@ -33,11 +33,11 @@ But I don't think he complains much - he's working from home, has a great lifest
 
 ## Me... and what I'm doing now to enjoy my life
 
-I have three daughters so I have my hands full, but still I manage to enjoy my life a lot. [Working from home](https://sliwinski.com/teleworking) and not having to go to an office helps. [Doing triathlons](https://sliwinski.com/tri11) keeps me in shape. I started introducing sabbaticals into my vocabulary - and [last year I managed to stay off work for full 6 weeks!](https://sliwinski.com/thepodcast-158). We try to travel a lot with my family... and with my wife we're [having a honeymoon every year (just two of us!)](https://sliwinski.com/honeymoon) and this year to celebrate our [40th birthday](https://sliwinski.com/forty) we went on to do a [Camino de Santiago](https://sliwinski.com/thepodcast-187) together.
+I have three daughters so I have my hands full, but still I manage to enjoy my life a lot. [Working from home](https://sliwinski.com/teleworking) and not having to go to an office helps. [Doing triathlons](https://sliwinski.com/tri11) keeps me in shape. I started introducing sabbaticals into my vocabulary - and [last year I managed to stay off work for full 6 weeks!](/podcast-158). We try to travel a lot with my family... and with my wife we're [having a honeymoon every year (just two of us!)](https://sliwinski.com/honeymoon) and this year to celebrate our [40th birthday](https://sliwinski.com/forty) we went on to do a [Camino de Santiago](/podcast-187) together.
 
 ## Don't postpone life - enjoy life now
 
 That was our conclusion when we talked with my friend about the concept of "retirement". Let's enjoy life now and not postpone it for later. And let's spend our entire life contributing to society and getting great stuff done!
 
 [n]: https://nozbe.com/?a=mike
-[p]: https://thepodcast.fm/
+[p]: /podcast

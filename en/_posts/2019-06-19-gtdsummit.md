@@ -29,4 +29,4 @@ Now I cannot un-hear it. **Hamsterdam it is** and I’m happy to be here for thi
 
 
 [n]: https://nozbe.com/?a=mike
-[p]: https://thepodcast.fm/
+[p]: /podcast

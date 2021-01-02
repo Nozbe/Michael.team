@@ -21,7 +21,7 @@ Hope you’ve enjoyed this short video and hope you’ll take your time to do yo
 
 [d]: http://db.tt/kD7Liux
 [t]: https://twitter.com/MSliwinski
-[p]: https://thepodcast.fm/
+[p]: /podcast
 [n]: https://nozbe.com/?a=mike
 [r]: https://radex.io/
 [i]: https://itunes.apple.com/podcast/the-podcast/id1012329770
