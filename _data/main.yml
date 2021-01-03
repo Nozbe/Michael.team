@@ -65,6 +65,14 @@ tags:
   emoj: "⌚️"
   titl: "Apple Watch"
   tit2: "One of my favorite Apple gadgets. It's something I wear every day and I use to check time or weather, track my fitness, listen to podcasts or audiobooks, even make phone calls and send messages."
+- name: best
+  emoj: "🥇"
+  titl: "Best"
+  tit2: "My collections of best blog posts of each year: [2019](/2019best), [2018](/2018best)…"
+- name: birthday
+  emoj: "🎂"
+  titl: "Birthday"
+  tit2: "Reflections on my life as I'm turning one year older with each passing year. Learnings, hopes, dreams and ideas."
 - name: blogging
   emoj: "⌨️"
   titl: "Blogging"
