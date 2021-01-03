@@ -1,4 +1,4 @@
 ---
-title: "Tag: Productive Magazine"
+title: "Tag: Productive! Magazine"
 permalink: /magazine/
 ---

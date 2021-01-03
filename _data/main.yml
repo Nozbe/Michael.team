@@ -85,6 +85,10 @@ tags:
   emoj: "👨🏼‍💻"
   titl: "iMagazine"
   tit2: "I write a monthly column to the leading Polish lifestyle magazine [iMagazine](https://iMagazine.pl){:target='_blank'} - if you speak Polish, I keep an [archive of most of these articles](/pl/imagazine)"
+- name: interviews
+  emoj: "🎤"
+  titl: "Interviews"
+  tit2: "As I was publishing [Productive! Magazine](http://productivemag.com){:target='_blank'} between 2008 and 2016, I conducted many interviews with people I truly admire. With amazing thought leaders. Below you'll find my most favorite inteviews:"
 - name: ipadonly
   emoj: "📱"
   titl: "iPadOnly"
@@ -104,7 +108,7 @@ tags:
 - name: magazine
   emoj: "📙"
   titl: "Magazine"
-  tit2: "I used to be the editor of the [Productive! Magazine](http://productivemag.com){:target='_blank'} between 2008 and 2016 (34 issues), also in  [Polish](http://productivemag.pl){:target='_blank'} (18 issues), [Dutch](http://productivemag.nl){:target='_blank'} (5 issues), [Spanish](http://productivemag.es){:target='_blank'} and [Japanese](http://productivemag.jp){:target='_blank'} (1 issue) as a part of my now shut-down [Remag startup](https://remag.me){:target='_blank'}."
+  tit2: "I used to be the editor of the [Productive! Magazine](http://productivemag.com){:target='_blank'} between 2008 and 2016 (34 issues), also in  [Polish](http://productivemag.pl){:target='_blank'} (18 issues), [Dutch](http://productivemag.nl){:target='_blank'} (5 issues), [Spanish](http://productivemag.es){:target='_blank'} (4 issues) and Japanese (1 issue) as a part of my now shut-down [Remag startup](https://remag.me){:target='_blank'}."
 - name: nooffice
   emoj: "🏝"
   titl: "NoOffice"
@@ -133,6 +137,10 @@ tags:
   emoj: "🎧"
   titl: "The Podcast"
   tit2: "[The Podcast](https://thepodcast.fm){:target='_blank'} is a podcast I've been recording with Radek, Nozbe's VP of Engineering. After more than 4 years of pretty regular weekly shows, now it's not as regular as we'd like. **[Subscribe](https://podcasts.apple.com/podcast/the-podcast/id1012329770)**"
+- name: show
+  emoj: "📽"
+  titl: "Productive! Show"
+  tit2: "I used to be the editor of the [Productive! Magazine](http://productivemag.com){:target='_blank'} between 2008 and 2016 (34 issues), also in  [Polish](http://productivemag.pl){:target='_blank'} (18 issues), [Dutch](http://productivemag.nl){:target='_blank'} (5 issues), [Spanish](http://productivemag.es){:target='_blank'} (4 issues) and Japanese (1 issue) as a part of my now shut-down [Remag startup](https://remag.me){:target='_blank'}."
 - name: short
   emoj: "🗯"
   titl: "Short"
@@ -154,7 +162,7 @@ tags:
   titl: "Yearly"
   tit2: "My yearly reviews. Each blog post is a review of the past year with my hopes and dreams for the next one."
 - name: webinars
-  emoj: "💻"
+  emoj: "📺"
   titl: "Webinars"
   tit2: "Webinars I've given as founder of [Nozbe](https://nozbe.com/?a=mike){:target='_blank'} and as a personal and team productivity guy. Each one is packed with lots of time and project management tips and tricks I've learned over the years. Make sure to check them out and learn for free!"
   
@@ -180,7 +188,7 @@ tags_pl:
   titl: "Styl życia"
   tit2: "Jak życie wpływa na mój biznes i odwrotnie. Jak projektuję swój 'styl życia' i na ile mi to wychodzi lub nie."
 - name: webinary
-  emoj: "💻"
+  emoj: "📺"
   titl: "Webinary"
   tit2: "Webinary, które organizowałem jako założyciel [Nozbe](https://nozbe.com/pl/?a=mike){:target='_blank'} oraz ekspert z dziedziny produktywności osobistej i zespołowej czy zarządzania sobą w czasie. Każdy Webinar to solidna dawka wiedzy, więc zapraszam do słuchania, oglądania i nauki zupełnie za darmo!"
 
@@ -190,7 +198,7 @@ tags_es:
   titl: "Productividad"
   tit2: "Productividad personal y empresarial. Organización y gestión de proyectos y tareas. Como liderar un equipo con eficacia gracias a la comunicación a través de tareas y comentarios. Estoy promoviendo estos conceptos con mi nueva aplicación [Nozbe Teams](https://nozbe.com/es/?a=mike){:target='_blank'}."
 - name: seminarios
-  emoj: "💻"
+  emoj: "📺"
   titl: "Seminarios Web"
   tit2: "Webinars que preparé como fundador de [Nozbe](https://nozbe.com/es/?a=mike){:target='_blank'} y como experto de productividad personal y gestión de los equipos. Cada webinar contiene muchos trucos y consejos, así que disfruta y ¡aprende gratis!"
   
