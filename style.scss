@@ -158,6 +158,7 @@ h4 {
 .headerblack {
 	text-align: center;
 	color: $textB;
+	margin: 0 auto;
 	@include dark-mode {
 		color: $textW;
 	}
