@@ -64,4 +64,4 @@ Te trzy wskaźniki zegarka Apple Watch, które traktowałem do tej pory tylko in
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-[n]: https://nozbe.com/pl/?a=mike
+[n]: https://michael.gratis/nozbe_pl

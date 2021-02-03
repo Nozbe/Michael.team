@@ -96,5 +96,5 @@ Here's my Mini in two versions - with the Mujjo Wallet and with the MagSafe Wall
 
 ![{{ page.title }} 3](/img/iphonescreen-3.jpg)
 
-[n]: https://nozbe.com/?a=mike
-[np]: https://nozbe.com/personal/?a=mike
+[n]: https://michael.gratis/nozbe
+[np]: https://michael.gratis/nozbepersonal

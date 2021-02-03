@@ -16,5 +16,5 @@ This interview was originally published on [Nozbe blog][b].
 After you've watched this video, make sure to [check out my podcasts and the entire Productive! Show archive](/show).
 
 [b]: https://nozbe.com/blog/user-erik-fisher/
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [h]: https://nozbe.how

@@ -55,5 +55,5 @@ P.S. They released this cute video with Wunderlist shutdown, I really love it al
 
 {% include video.html id="BOvU5iqjsBQ" %}
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [p]: /podcast

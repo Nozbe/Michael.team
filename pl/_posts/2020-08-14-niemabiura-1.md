@@ -38,4 +38,4 @@ Można subskrybować podcast [Nie Ma Biura](https://niemabiura.pl) wszędzie, gd
 🟠 [Overcast](https://overcast.fm/+giccA5mJE#)\\
 🔴 [YouTube na kanale Nozbe Poland](https://youtube.com/NozbePoland)
 
-[n]: https://nozbe.com/pl/?a=mike
+[n]: https://michael.gratis/nozbe_pl

@@ -61,5 +61,5 @@ I hope this was helpful and inspires you to journal more regularly and have more
 
 The best part of this system is that it's very portable - I don't carry around a physical journal with me. I have these shortcuts and the Bear app (which syncs via iCloud) on both my iPhone and iPad so there's no excuse for planning the day or journaling.
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [p]: /podcast

@@ -34,5 +34,5 @@ I'll be publishing the vlog weekly on [Nozbe Blog](https://nozbe.com/tags/michae
 
 Hope you like this casual format of my vlog - let me know what you think [in the comments on the Nozbe Blog](https://nozbe.com/blog/michaels-team-productivity-1/). Thanks!
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [p]: /podcast

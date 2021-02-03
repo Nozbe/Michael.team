@@ -28,5 +28,5 @@ Before I came here I told my 7-year old Emilia that *“daddy is going to Amster
 Now I cannot un-hear it. **Hamsterdam it is** and I’m happy to be here for this decade-in-the-making meeting of GTD aficionados.
 
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [p]: /podcast

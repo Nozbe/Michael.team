@@ -37,5 +37,5 @@ Some people and businesses really believe that. They don't know any better. That
 
 [Tweet at me](https://twitter.com/MSliwinski) and let me know which phrase could describe other people... just not you! Let me know!
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [p]: /podcast

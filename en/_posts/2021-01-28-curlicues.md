@@ -72,5 +72,5 @@ P.S. Just because I started note-taking so much now since I've installed this ap
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-[n]: https://nozbe.com/?a=mike
-[np]: https://nozbe.com/personal/?a=mike
+[n]: https://michael.gratis/nozbe
+[np]: https://michael.gratis/nozbepersonal

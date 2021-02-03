@@ -84,7 +84,7 @@ No, I’m definitely not going to work “Apple Watch Only”, I only chose this
 ***Question:*** *Do you use Apple Watch? Do you like it? How do you use it?*
 
 [iMagazine]: http://iMagazine.pl
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [ipad]: /ipadonly/
 [watch]: /applewatch/
 [prod]: /productivity/

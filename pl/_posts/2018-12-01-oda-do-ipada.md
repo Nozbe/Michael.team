@@ -108,4 +108,4 @@ Nie mogę się doczekać! A Ty?
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-[n]: https://nozbe.com/pl/?a=mike
+[n]: https://michael.gratis/nozbe_pl

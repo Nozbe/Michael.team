@@ -6,9 +6,9 @@ title: Michael Sliwinski
 
 ## Let's talk about your team's productivity!
 
-I'm the founder of [Nozbe and Nozbe Teams](https://nozbe.com/?a=mike){:target='_blank'} - to-do apps for busy professionals and teams, which I've been running for the last 13 years. I'm also a writer ([#iPadOnly](https://iPadOnly.com){:target='_blank'} and [#NoOffice](https://NoOffice.org){:target='_blank'}) and [serial](/podcast) [podcaster](/noofficefm).
+I'm the founder of [Nozbe and Nozbe Teams](https://michael.gratis/nozbe){:target='_blank'} - to-do apps for busy professionals and teams, which I've been running for the last 13 years. I'm also a writer ([#iPadOnly](https://iPadOnly.com){:target='_blank'} and [#NoOffice](https://NoOffice.org){:target='_blank'}) and [serial](/podcast) [podcaster](/noofficefm).
 
-With the launch of [Nozbe Teams](https://nozbe.com/?a=mike){:target='_blank'} I'm all about "team productivity". Basically:
+With the launch of [Nozbe Teams](https://michael.gratis/nozbe){:target='_blank'} I'm all about "team productivity". Basically:
 
 > **I help small teams do great things by working in a truly modern way.**
 

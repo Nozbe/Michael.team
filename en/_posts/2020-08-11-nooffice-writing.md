@@ -16,4 +16,4 @@ So far the plan is working out. I finished the first [10 chapters a few days ago
 
 Feel free to [read the finished chapters](https://nooffice.org/book/) online.
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe

@@ -12,4 +12,4 @@ Recording of my [Nozbe][n] webinar that shows off which apps we use in our all-r
 <!--More-->
 
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe

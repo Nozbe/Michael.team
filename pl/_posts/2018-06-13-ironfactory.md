@@ -13,4 +13,4 @@ Z Marcinem Hinz rozmawiałem o tym, że jako triatlonista amator, nie cisnę na 
 <!--More-->
 
 
-[n]: https://nozbe.com/pl/?a=mike
+[n]: https://michael.gratis/nozbe_pl

@@ -45,7 +45,7 @@ Bonus tip: some people do weekly reviews on Mondays, others on Fridays and some 
 
 [h]: https://nozbe.how/vynaO
 [how]: https://how.nozbe.com/
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [pm]: http://productivemag.com/
 [s]: /show
 [t]: http://twitter.com/MSliwinski

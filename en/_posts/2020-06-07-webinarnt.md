@@ -5,7 +5,7 @@ tags: [webinars,video]
 
 # How Small Teams Can Do Great Things by Ditching Email & Meetings
 
-Here's a recording of a webinar I did to show off the early version of [Nozbe Teams](https://nozbe.com/).
+Here's a recording of a webinar I did to show off the early version of [Nozbe Teams](https://michael.gratis/nozbe).
 
 {% include video.html id=page.vid %}
 
@@ -20,6 +20,6 @@ Watch the video and find out:
 - What is [asynchronous communication](https://nozbe.com/blog/asynchronous/) and why you should care
 - How [we communicate through tasks](https://nozbe.com/blog/task-based-communication) at Nozbe
 - How to plan and run meetings so that they actually work
-- What's the difference between [Nozbe Personal](https://nozbe.com/personal) and [Nozbe Teams](https://nozbe.com/)
+- What's the difference between [Nozbe Personal](https://nozbe.com/personal) and [Nozbe Teams](https://michael.gratis/nozbe)
 
 The webinar presentation is about 1 hour and it's followed by 30 minutes of Q&A.

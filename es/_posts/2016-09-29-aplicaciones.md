@@ -12,4 +12,4 @@ Grabación del seminario web de [Nozbe][n] sobre las aplicaciones que usamos par
 <!--More-->
 
 
-[n]: https://nozbe.com/es/?a=mike
+[n]: https://michael.gratis/nozbe_es

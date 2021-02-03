@@ -144,5 +144,5 @@ I hope you found this post useful and the apps I recommend will help you make yo
 
 And if you have more recommendations for me, don't be shy, and let me know [on social media](/contact).
 
-[n]: https://nozbe.com/?a=mike
-[np]: https://nozbe.com/personal/?a=mike
+[n]: https://michael.gratis/nozbe
+[np]: https://michael.gratis/nozbepersonal

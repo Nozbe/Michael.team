@@ -78,4 +78,4 @@ A Ty? Jak często korzystasz z mediów społecznościowych? Czy kompulsywnie spr
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-[n]: https://nozbe.com/pl/?a=mike
+[n]: https://michael.gratis/nozbe_pl

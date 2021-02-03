@@ -39,7 +39,7 @@ Jeśli Twojej odpowiedzi nie ma [na moim blogu](/pl/archiwum), to [tu jest mój 
 
 Zaznaczam, że wprawdzie **czytam każdego e-maila** ale czasami bardzo późno odpowiadam i do tego odpisuję bardzo krótko, jakbym pisał SMS'a. Tak po prostu działam.
 
-[n]: https://nozbe.com/pl/?a=mike
+[n]: https://michael.gratis/nozbe_pl
 [support]: https://nozbe.com/pl/contact
 [tn]: https://twitter.com/nozbePL
 [email]: mailto:michaels@hey.com

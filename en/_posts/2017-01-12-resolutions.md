@@ -12,4 +12,4 @@ Recording of my [Nozbe][n] webinar about New Year’s Resolutions in 2017. How t
 <!--More-->
 
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe

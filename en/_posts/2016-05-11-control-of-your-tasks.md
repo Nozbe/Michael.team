@@ -12,4 +12,4 @@ Recording of my first ever [Nozbe][n] webinar where I share my most important pr
 <!--More-->
 
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe

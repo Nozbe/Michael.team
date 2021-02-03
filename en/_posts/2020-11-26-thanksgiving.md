@@ -51,4 +51,4 @@ Writing this, makes me thankful!
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe

@@ -30,4 +30,4 @@ Welcome to the episode #6 of my podcast about working remotely with Rafal, [Nozb
 🟠 [Overcast](https://overcast.fm/itunes1527466890/no-office)\\
 🔴 [YouTube on Nozbe channel](https://youtube.com/NozbeCom)
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe

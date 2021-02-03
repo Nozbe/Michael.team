@@ -5,7 +5,7 @@ vid: "KNi3uhBj43A"
 
 # U Kamila Cebulskiego - o zarządzaniu pracą zdalną
 
-Z Kamilem Cebulskim rozmawiamy głównie o pracy zdalnej w moim zespole [Nozbe](https://nozbe.com/), ale nie tylko. Kamil mnie podpytuje odnośnie mojej drogi przedsiębiorcy, problemów, wpadek i nie tylko... bardzo dobry i trochę kontrowersyjny wywiad:
+Z Kamilem Cebulskim rozmawiamy głównie o pracy zdalnej w moim zespole [Nozbe](https://michael.gratis/nozbe), ale nie tylko. Kamil mnie podpytuje odnośnie mojej drogi przedsiębiorcy, problemów, wpadek i nie tylko... bardzo dobry i trochę kontrowersyjny wywiad:
 
 {% include video.html id=page.vid %}
 

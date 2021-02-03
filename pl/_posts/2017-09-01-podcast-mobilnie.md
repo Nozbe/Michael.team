@@ -74,4 +74,4 @@ Przy okazji tego felietonu zapraszam do wymiany zdań na Twitterze (@MSliwinski)
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-[n]: https://nozbe.com/pl/?a=mike
+[n]: https://michael.gratis/nozbe_pl

@@ -22,7 +22,7 @@ Hope you’ve enjoyed this short video and hope you’ll take your time to do yo
 [d]: http://db.tt/kD7Liux
 [t]: https://twitter.com/MSliwinski
 [p]: /podcast
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [r]: https://radex.io/
 [i]: https://itunes.apple.com/podcast/the-podcast/id1012329770
 [o]: https://ipadonly.com

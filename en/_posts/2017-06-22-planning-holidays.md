@@ -12,4 +12,4 @@ Recording of my [Nozbe][n] webinar about preparing and planning holidays in the 
 <!--More-->
 
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe

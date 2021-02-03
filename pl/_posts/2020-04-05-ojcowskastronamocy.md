@@ -19,4 +19,4 @@ Jarek Kania zaprosił mnie abyśmy porozmawiali o pracy zdalnej w momencie lock-
 </audio>
 
 
-[n]: https://nozbe.com/pl/?a=mike
+[n]: https://michael.gratis/nozbe_pl

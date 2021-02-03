@@ -12,4 +12,4 @@ Nagranie mojego webinaru [Nozbe][n] o planowaniu wakacji.
 <!--More-->
 
 
-[n]: https://nozbe.com/pl/?a=mike
+[n]: https://michael.gratis/nozbe_pl

@@ -30,4 +30,4 @@ Stare powiedzenie, że „zaufanie jest dobre, ale kontrola jest lepsza” powin
 🟠 [Overcast](https://overcast.fm/itunes1526795631/nie-ma-biura)\\
 🔴 [YouTube na kanale Nozbe Poland](https://youtube.com/NozbePoland)
 
-[n]: https://nozbe.com/pl/?a=mike
+[n]: https://michael.gratis/nozbe_pl

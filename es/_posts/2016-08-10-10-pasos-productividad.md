@@ -12,4 +12,4 @@ Grabación de mi primer seminario web [Nozbe][n] en Español.
 <!--More-->
 
 
-[n]: https://nozbe.com/es/?a=mike
+[n]: https://michael.gratis/nozbe_es

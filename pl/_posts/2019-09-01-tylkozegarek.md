@@ -76,4 +76,4 @@ Jestem pod wrażeniem tego, że ten zegarek już po kilku latach na rynku dorós
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-[n]: https://nozbe.com/pl/?a=mike
+[n]: https://michael.gratis/nozbe_pl

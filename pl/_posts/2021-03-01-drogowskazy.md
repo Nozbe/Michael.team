@@ -31,7 +31,7 @@ Daniel Pink w swojej książce *"Drive. Kompletnie nowe spojrzenie na motywację
 
 ## 14 lat Nozbe
 
-Dokładnie 1 lutego - w dzień publikacji tego numeru iMagazine - moja aplikacja [Nozbe](https://nozbe.com/) skończy 14 lat. I po tylu latach praca nad nią wcale mnie nie nudzi. Ciągle mnie ekscytuje. I wcale nie dlatego, że osiągam jakieś wyimaginowane cele.
+Dokładnie 1 lutego - w dzień publikacji tego numeru iMagazine - moja aplikacja [Nozbe](https://michael.gratis/nozbe) skończy 14 lat. I po tylu latach praca nad nią wcale mnie nie nudzi. Ciągle mnie ekscytuje. I wcale nie dlatego, że osiągam jakieś wyimaginowane cele.
 
 Jest inaczej. Mam głębsze poczucie misji i chęci działania. Wiem, że z każdym rokiem staję się lepszą wersją siebie. Jest tak prawdopodobnie dzięki temu, że widzę przed sobą kilka drogowskazów, które mnie prowadzą.
 
@@ -89,5 +89,5 @@ Kiedyś ktoś mądry powiedział, że *to właśnie podróż jest celem samym w
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-[n]: https://nozbe.com/pl/?a=mike
-[np]: https://nozbe.com/pl/personal/?a=mike
+[n]: https://michael.gratis/nozbe_pl
+[np]: https://michael.gratis/nozbepersonal_pl

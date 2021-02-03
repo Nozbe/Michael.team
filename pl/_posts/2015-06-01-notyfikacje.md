@@ -66,5 +66,5 @@ Czy postrzegacie je jako pomoc czy jako problem? Kupujecie zegarek? Jaki? Napisz
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-[n]: https://nozbe.com/pl/?a=mike
-[np]: https://nozbe.com/pl/personal/?a=mike
+[n]: https://michael.gratis/nozbe_pl
+[np]: https://michael.gratis/nozbepersonal_pl

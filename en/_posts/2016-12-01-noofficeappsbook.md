@@ -95,6 +95,6 @@ Thanks to this approach, the continuous improvement of our work and constantly i
 [To dive deeper into this topic, get my latest book ](https://sliwinski.com/apps)
 
 [iMagazine]: http://iMagazine.pl
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [iPad]: /ipad/
 [prod]: /productivity/

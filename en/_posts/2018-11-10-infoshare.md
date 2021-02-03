@@ -28,5 +28,5 @@ P.S. And if you want to find out how I worked on this presentation, you’ll get
 
 
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [p]: /podcast

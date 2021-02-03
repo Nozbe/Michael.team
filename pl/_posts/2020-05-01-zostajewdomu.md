@@ -109,4 +109,4 @@ Ten wirus nam nieźle namotał w życiu. Drastyczne zmiany i nagłe przejście n
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-[n]: https://nozbe.com/pl/?a=mike
+[n]: https://michael.gratis/nozbe_pl

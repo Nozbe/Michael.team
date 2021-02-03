@@ -23,7 +23,7 @@ Yet there’s a question of growth... Apple, apparently is doomed as they’re n
 
 When I heard about it (and this situation stands today as you can see from the screenshot above), [I tweeted this](https://twitter.com/MSliwinski/status/1069007612555997184):
 
-> … and with that we’ve decided to drop all iOS and Mac related projects at @[Nozbe](https://nozbe.com/) and focus entirely on the world’s dominant mobile platform:
+> … and with that we’ve decided to drop all iOS and Mac related projects at @[Nozbe](https://michael.gratis/nozbe) and focus entirely on the world’s dominant mobile platform:
 > Windows Phone!
 > …. oh wait… 🤔
 
@@ -50,5 +50,5 @@ It’s like in this sketch about the financial crisis - which still holds up pre
 {% include video.html id="mzJmTCYmo9g" %}
 
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [p]: /podcast

@@ -12,4 +12,4 @@ My webinar about finding focus at work. Lots of useful and actionable advice and
 <!--More-->
 
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe

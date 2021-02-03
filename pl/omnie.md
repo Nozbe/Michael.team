@@ -9,7 +9,7 @@ cover: michael.team.about.3k.jpg
 
 ## To ja - założyciel Nozbe
 
-Cześć, nazywam się [Michał Śliwiński](https://sliwinski.com/){:target='_blank'} i jestem [założycielem](https://nozbe.com/pl/michael?a=mike){:target='_blank'} aplikacji [Nozbe i Nozbe Teams](https://nozbe.com/pl/?a=mike){:target='_blank'} - do zarządzania czasem i projektami dla zapracowanych ludzi i zespołów. Prowadzę zespół [20+ osób, które w pracują w pełni zdalnie ze swoich "biur domowych"](https://nozbe.com/pl/about?a=mike){:target='_blank'} i robimy to już od ponad 13 lat. Nozbe i Nozbe Teams mają razem ponad 700,000 użytkowników na całym świecie.
+Cześć, nazywam się [Michał Śliwiński](https://sliwinski.com/){:target='_blank'} i jestem [założycielem](https://michael.gratis/nozbemichael_pl){:target='_blank'} aplikacji [Nozbe i Nozbe Teams](https://michael.gratis/nozbe_pl){:target='_blank'} - do zarządzania czasem i projektami dla zapracowanych ludzi i zespołów. Prowadzę zespół [20+ osób, które w pracują w pełni zdalnie ze swoich "biur domowych"](https://nozbe.com/pl/about?a=mike){:target='_blank'} i robimy to już od ponad 13 lat. Nozbe i Nozbe Teams mają razem ponad 700,000 użytkowników na całym świecie.
 
 ## Moja misja to pomagać małym zespołom osiągać wielkie rzeczy!
 

@@ -25,11 +25,11 @@ And bonus, he took the time to talk to me, which I'll be forever grateful for:
 
 {% include video.html id="82tZxPpPalA" %}
 
-## My dad - VP of Finance at [Nozbe](https://nozbe.com/)
+## My dad - VP of Finance at [Nozbe](https://michael.gratis/nozbe)
 
 [My parents are amazing.](https://sliwinski.com/parents) They always supported me in my business ventures and a few years back I convinced my dad to join me full time as my VP of Finance. Officially according to Polish law he's at the "retired" age... but he's helping me manage my company's finances - and who to trust more with money than your own dad, who's constantly rooting for you and wants what's best for you? Yes, I'm very lucky! And no, my dad will never retire - I need (and want) him by my side.
 
-But I don't think he complains much - he's working from home, has a great lifestyle with my mum, travels a lot and enjoys his age while doing something meaningful like helping he's son run [a global productivity company.](https://nozbe.com/)
+But I don't think he complains much - he's working from home, has a great lifestyle with my mum, travels a lot and enjoys his age while doing something meaningful like helping he's son run [a global productivity company.](https://michael.gratis/nozbe)
 
 ## Me... and what I'm doing now to enjoy my life
 
@@ -39,5 +39,5 @@ I have three daughters so I have my hands full, but still I manage to enjoy my l
 
 That was our conclusion when we talked with my friend about the concept of "retirement". Let's enjoy life now and not postpone it for later. And let's spend our entire life contributing to society and getting great stuff done!
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [p]: /podcast

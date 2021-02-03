@@ -17,5 +17,5 @@ P.S. Recently I’m on a roll and was lucky enough to be invited to quite a few 
 
 [kaz]: https://projectkazimierz.com/michael-sliwinski/
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [p]: /podcast

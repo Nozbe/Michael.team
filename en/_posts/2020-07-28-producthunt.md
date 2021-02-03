@@ -41,4 +41,4 @@ This is our first launch on Product Hunt. [Please help us spread the word, thank
 [![{{ page.title }}](/img/producthunt.jpg)][p]
 
 [p]: https://www.producthunt.com/posts/nozbe-teams
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe

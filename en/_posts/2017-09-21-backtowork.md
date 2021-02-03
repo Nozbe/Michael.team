@@ -12,4 +12,4 @@ Recording of my [Nozbe][n] webinar where I’m explaining how to focus on gettin
 <!--More-->
 
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe

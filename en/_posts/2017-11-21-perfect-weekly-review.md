@@ -12,4 +12,4 @@ Watch this recording of my [Nozbe][n] webinar about the GTD concept of Weekly re
 <!--More-->
 
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe

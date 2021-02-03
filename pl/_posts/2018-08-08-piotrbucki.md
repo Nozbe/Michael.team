@@ -18,4 +18,4 @@ Z Piotrem Buckim rozmawiam o prowadzeniu firmy bez biura, czyli dlaczego w Nozbe
 </audio>
 
 
-[n]: https://nozbe.com/pl/?a=mike
+[n]: https://michael.gratis/nozbe_pl

@@ -20,6 +20,6 @@ W webinarze pokazuję:
 * jak [komunikujemy się w firmie Nozbe poprzez zadania](https://nozbe.com/pl/blog/komunikacja-poprzez-zadania/),
 * czym jest [komunikacja asynchroniczna](https://nozbe.com/pl/blog/asynchronous/) i dlaczego warto ją stosować,
 * jak skutecznie planować i prowadzić spotkania,
-* czym różni się [Nozbe Personal](https://nozbe.com/pl/personal) od [Nozbe Teams](https://nozbe.com/).
+* czym różni się [Nozbe Personal](https://nozbe.com/pl/personal) od [Nozbe Teams](https://michael.gratis/nozbe).
 
 Prezentacja webinarowa trwa około godziny i potem jeszcze odpowiadam na pytania uczestników przez 30 minut. Zapraszam!

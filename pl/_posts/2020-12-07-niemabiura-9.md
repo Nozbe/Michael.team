@@ -32,5 +32,5 @@ Zapraszam do odsłuchania odcinka # 9 mojego podcastu z Rafałem. W tym odcinku 
 
 <!--podcast: 1526795631-->
 
-[n]: https://nozbe.com/pl/?a=mike
-[n]: https://nozbe.com/pl/personal/?a=mike
+[n]: https://michael.gratis/nozbe_pl
+[n]: https://michael.gratis/nozbepersonal_pl

@@ -59,5 +59,5 @@ W ciągu nadchodzących miesięcy czeka mnie dużo podróży, w które z pewnoś
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-[n]: https://nozbe.com/pl/?a=mike
-[np]: https://nozbe.com/pl/personal/?a=mike
+[n]: https://michael.gratis/nozbe_pl
+[np]: https://michael.gratis/nozbepersonal_pl

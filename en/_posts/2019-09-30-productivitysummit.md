@@ -22,5 +22,5 @@ Many thanks to [Augusto Pinaud](https://productivityvoice.com/about/) and [Ray S
 
 [sum]: https://productivitysummit.org/
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [p]: /podcast

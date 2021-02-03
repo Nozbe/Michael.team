@@ -32,5 +32,5 @@ Welcome to the episode #9 of my podcast about working remotely with Rafal, [Nozb
 
 <!--podcast: 1527466890-->
 
-[n]: https://nozbe.com/?a=mike
-[np]: https://nozbe.com/personal/?a=mike
+[n]: https://michael.gratis/nozbe
+[np]: https://michael.gratis/nozbepersonal

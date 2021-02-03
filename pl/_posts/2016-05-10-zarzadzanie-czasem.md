@@ -12,4 +12,4 @@ Nagranie mojego pierwszego webinaru [Nozbe][n] po polsku o podstawach zarządzan
 <!--More-->
 
 
-[n]: https://nozbe.com/pl/?a=mike
+[n]: https://michael.gratis/nozbe_pl

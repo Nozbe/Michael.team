@@ -35,7 +35,7 @@ Here's why it works and I think it's great:
 
 Here are a few tips and tricks that help me process emails this way:
 
-* **Use keyboard shortcuts** - in iOS and macOS I use keyboard shortcuts for many phrases to make replying faster. Like: "tff" stands for "Thanks so much for your email and kind feedback!", "xn" stands for my email address: "michael@nozbe.com" or "hhn" stands for link to "[Nozbe.com](https://nozbe.com/)".
+* **Use keyboard shortcuts** - in iOS and macOS I use keyboard shortcuts for many phrases to make replying faster. Like: "tff" stands for "Thanks so much for your email and kind feedback!", "xn" stands for my email address: "michael@nozbe.com" or "hhn" stands for link to "[Nozbe.com](https://michael.gratis/nozbe)".
 * **Pre-decide on things beforehand** - like if people want to interview me and I think this interview can be beneficial to both of us, I have set up two 2-hour slots weekly on Tuesdays and Thursdays for such meetings. I just send them a link to my [Calendly](https://calendly.com) and they can book a 30-minute slot in my calendar for an interview. This slot gets added automatically to my calendar so I know if I have a meeting or not.
 * **Have your own set of rules** - based on the above, I have a set of rules for people - like when investors email me to talk about investing in Nozbe, I politely decline and send them [to the blog post celebrating our 11th anniversary](https://nozbe.com/blog/11-years/) where I write:
 
@@ -53,5 +53,5 @@ After more than a month of **emailing like texting** I must admit I love this st
 
 And then try it yourself! Good luck! 👍 
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [p]: /podcast

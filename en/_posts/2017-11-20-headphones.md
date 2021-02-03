@@ -105,7 +105,7 @@ If you have a minute, tweet me at [@MSliwinski][t] and tell me which headphones 
 [tp95]: /podcast-95
 [imagazine]: https://imagazine.pl/
 [tp]: https://thepodcast.fm/
-[Nozbe]: https://nozbe.com/?a=mike
+[Nozbe]: https://michael.gratis/nozbe
 [ip]: /iphone/
 [ipad]: /ipadonly/
 [qc35]: https://www.amazon.com/dp/B0756CYWWD?tag=sliwinski-20

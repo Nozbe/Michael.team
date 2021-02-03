@@ -39,5 +39,5 @@ He was right - **I just shouldn't have signed up for the Ironman in the first pl
 
 Now that's what I want.
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [p]: /podcast

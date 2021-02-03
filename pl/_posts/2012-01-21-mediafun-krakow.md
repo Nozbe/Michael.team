@@ -12,4 +12,4 @@ Miałem przyjemność być mentorem podczas Krakowskiego „Startup Weekendu” 
 <!--More-->
 
 
-[n]: https://nozbe.com/pl/?a=mike
+[n]: https://michael.gratis/nozbe_pl

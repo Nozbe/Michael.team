@@ -62,4 +62,4 @@ And we like winning. Let's win every week!
 ![{{ page.title }}](/img/{{ page.cover }})
 
 [no]: https://NoOffice.org/book/email/
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe

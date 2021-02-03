@@ -12,4 +12,4 @@ Nagranie webinaru [Nozbe][n] o skupieniu się na projektach i lepszej pracy zada
 <!--More-->
 
 
-[n]: https://nozbe.com/pl/?a=mike
+[n]: https://michael.gratis/nozbe_pl

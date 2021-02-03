@@ -71,5 +71,5 @@ Anyway, I’ve been doing this for the last few weeks and I really like how my d
 Hope this helps you stay productive, too!
 
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [p]: /podcast

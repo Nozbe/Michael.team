@@ -13,4 +13,4 @@ Wywiad jakiego udzieliłem do rozmów o startupach. Dużo o pracy zdalnej i nasz
 
 [Przeczytaj więcej](https://www.swps.pl/strefa-zarzadzania/artykuly/21846-rozmowy-o-startupach-michal-sliwinski-nozbe-i-marta-wujek-mamstartup-pl)
 
-[n]: https://nozbe.com/pl/?a=mike
+[n]: https://michael.gratis/nozbe_pl

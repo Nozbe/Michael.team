@@ -72,7 +72,7 @@ I’ll be happy to exchange thoughts with you on Twitter ([@MSliwinski](https://
 
 [pm]: http://productivemag.com/
 [tp]: https://thepodcast.fm/
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [100]: /podcast-100
 [iMagazine]: https://imagazine.pl/
 [ipad]: /ipadonly/

@@ -5,7 +5,7 @@ img: productivitycast.jpg
 
 # On ProductivityCast about Nozbe Teams
 
-I was invited for an interview on [ProductivityCast][cast] to talk about [Nozbe Teams](https://nozbe.com/). I'm a listener of this show, so it was a real treat to be there as a guest.
+I was invited for an interview on [ProductivityCast][cast] to talk about [Nozbe Teams](https://michael.gratis/nozbe). I'm a listener of this show, so it was a real treat to be there as a guest.
 
 <!--More-->
 

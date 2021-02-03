@@ -13,7 +13,7 @@ This year I’m at the WWDC conference in San Jose, California and I get to watc
 
 ## Conference swag should be about the event
 
-Radek came up with this idea first when he was 3D printing “React” logo at the React conferences (our new [Nozbe Teams](https://nozbe.com/) is designed in React technology) and he saw how people liked the gadget and how they wanted to have it. As we both were preparing to travel for the WWDC conference he suggested I designed something similar for this conference. I loved the idea but initially I didn’t know what to do. Should that be just an Apple logo or something else?
+Radek came up with this idea first when he was 3D printing “React” logo at the React conferences (our new [Nozbe Teams](https://michael.gratis/nozbe) is designed in React technology) and he saw how people liked the gadget and how they wanted to have it. As we both were preparing to travel for the WWDC conference he suggested I designed something similar for this conference. I loved the idea but initially I didn’t know what to do. Should that be just an Apple logo or something else?
 
 ## Designing the MindBlower for WWDC
 
@@ -39,5 +39,5 @@ In the end I got the front-row seat for the keynote and could see Tim Cook and t
 
 The WWDC week is on. I’m hoping to get to know more people here and give away all of the stash of MindBlowers to the cool folks I’m going to meet. If you’re at the WWDC conference this year with me, don’t be shy and come say hi 👋 
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [p]: /podcast

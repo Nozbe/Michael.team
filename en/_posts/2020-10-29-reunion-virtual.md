@@ -51,4 +51,4 @@ Anyway, a reunion in a physical space for an all-remote team is still hands-down
 
 [nb]: https://nozbe.com/blog/virtual-covid-safe-online-company-retreat/
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe

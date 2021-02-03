@@ -12,4 +12,4 @@ Recording of my [Nozbe][n] webinar about my upcoming book [10 Steps to Ultimate 
 <!--More-->
 
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe

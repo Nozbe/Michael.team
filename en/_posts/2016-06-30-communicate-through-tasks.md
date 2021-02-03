@@ -12,4 +12,4 @@ Recording of a [Nozbe][n] webinar where probably for the first time I introduced
 <!--More-->
 
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe

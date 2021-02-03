@@ -12,4 +12,4 @@ Nagranie webinaru [Nozbe][n] o skutecznym komunikowaniu się przez zadania w ze
 <!--More-->
 
 
-[n]: https://nozbe.com/pl/?a=mike
+[n]: https://michael.gratis/nozbe_pl

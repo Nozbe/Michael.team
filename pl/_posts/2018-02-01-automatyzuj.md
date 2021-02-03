@@ -104,4 +104,4 @@ Kończąc, życzę Wam udanego 2018 roku oraz jak najlepszych i najfajniejszych 
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-[n]: https://nozbe.com/pl/?a=mike
+[n]: https://michael.gratis/nozbe_pl

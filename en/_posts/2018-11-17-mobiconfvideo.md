@@ -21,5 +21,5 @@ It was also nice that some people who were at my presentation rally liked it. So
 
 ![Which mobile apps we use to run our Nozbe company? - video of my presentation at Mobiconf 2018 2](/img/mobiconfvideo.jpg)
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [p]: /podcast

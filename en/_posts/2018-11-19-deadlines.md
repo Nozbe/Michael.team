@@ -44,5 +44,5 @@ Let's do this.
 
 P.S. Special thanks to Michael Hyatt for his [last episode about deadlines,](https://michaelhyatt.com/how-to-deliver-on-deadline/) which reminded me how important deadlines are to what we do.
 
-[n]: https://nozbe.com/?a=mike
+[n]: https://michael.gratis/nozbe
 [p]: /podcast

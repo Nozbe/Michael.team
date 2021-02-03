@@ -12,4 +12,4 @@ Moja prelekcja na kongresie Szlachetnej Paczki, gdzie opowiadaÅ‚em o tym jak siÄ
 <!--More-->
 
 
-[n]: https://nozbe.com/pl/?a=mike
+[n]: https://michael.gratis/nozbe_pl

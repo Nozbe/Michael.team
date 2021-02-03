@@ -10,7 +10,7 @@ cover: michael.team.about.3k.jpg
 
 ## Your host - founder and CEO of Nozbe
 
-Hi, I'm [Michael Sliwinski](https://sliwinski.com/){:target='_blank'} and I'm the [founder and CEO](https://nozbe.com/michael?a=mike){:target='_blank'} of [Nozbe and Nozbe Teams](https://nozbe.com/?a=mike){:target='_blank'} - to-do apps for busy professionals and teams. I'm <leading></leading> a team of [20+ people who work completely remotely from their "home offices"](https://nozbe.com/about?a=mike){:target='_blank'} and we've been doing this for the last 13+ years now. Nozbe and Nozbe Teams have more than 700K users from all over the world.
+Hi, I'm [Michael Sliwinski](https://sliwinski.com/){:target='_blank'} and I'm the [founder and CEO](https://michael.gratis/nozbemichael){:target='_blank'} of [Nozbe and Nozbe Teams](https://michael.gratis/nozbe){:target='_blank'} - to-do apps for busy professionals and teams. I'm <leading></leading> a team of [20+ people who work completely remotely from their "home offices"](https://nozbe.com/about?a=mike){:target='_blank'} and we've been doing this for the last 13+ years now. Nozbe and Nozbe Teams have more than 700K users from all over the world.
 
 ## I'm on a mission to help small teams do great things!
 
@@ -20,7 +20,7 @@ I'm all about "team productivity" and what it means for me is helping teams work
 
 Here's my short bio:
 
-> Michael Sliwinski is a team productivity enthusiast. He's the founder of [Nozbe and Nozbe Teams](https://nozbe.com/){:target='_blank'}, apps that help people and teams get more done in a better way on any platform (web-based with native apps for the Mac, Windows, Android, iPad and the iPhone + Apple Watch). Michael is passionate about working remotely (#NoOffice) and in a mobile way (#iPadOnly). Privately he is a husband and a father of 3 girls.
+> Michael Sliwinski is a team productivity enthusiast. He's the founder of [Nozbe and Nozbe Teams](https://michael.gratis/nozbe){:target='_blank'}, apps that help people and teams get more done in a better way on any platform (web-based with native apps for the Mac, Windows, Android, iPad and the iPhone + Apple Watch). Michael is passionate about working remotely (#NoOffice) and in a mobile way (#iPadOnly). Privately he is a husband and a father of 3 girls.
 
 [Here's my full story](https://michael.team/about/#my-story)
 
