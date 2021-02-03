@@ -6,10 +6,12 @@ let links = new Map([
 
 //list of REDIRECT links
 ['nooffice', 'https://nooffice.org'],
-['nozbe', 'https://michael.gratis/nozbe'],
+['nozbe', 'https://nozbe.com/?c=michaelteam'],
 ['nozbepersonal', 'https://nozbe.com/personal/?c=michaelteam'],
+['nozbemichael', 'https://nozbe.com/michael/?c=michaelteam'],
 ['nozbe_pl', 'https://nozbe.com/pl/?c=michaelteam'],
 ['nozbepersonal_pl', 'https://nozbe.com/pl/personal/?c=michaelteam'],
+['nozbemichael_pl', 'https://nozbe.com/pl/michael/?c=michaelteam'],
 ['nozbe_es', 'https://nozbe.com/es/?c=michaelteam'],
 ['nozbepersonal_es', 'https://nozbe.com/es/personal/?c=michaelteam'],
 ['thepodcastyt','https://www.youtube.com/thepodcastfm'],
