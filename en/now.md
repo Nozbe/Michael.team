@@ -8,7 +8,7 @@ cover: michael.team.now.3k.jpg
 
 This is a [“now”](https://nownownow.com/p/Wwy1){:target='_blank'} page inspired by [Derek Sievers](https://sivers.org/now){:target='_blank'}. It's a “status update“ on my life, my projects and priorities. I try to post a new update [at least once a month](/now-updates/) and this way you get a glimpse into my life as of current month:
 
-* What I'm doing for [Nozbe][n]…
+* What I'm busy with professionally…
 * …if there's anything else I'm involved with currently
 * …and how I'm taking care of my private life, especially my wife Ewelina and my three daughters: Milena (12), Emilia (8) and Liliana (4).
 
