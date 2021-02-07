@@ -14,9 +14,9 @@ Join my inner circle and as a *thank you* download two of my best-selling books:
 
 {% include email.html %}
 
-![{{ page.title }}](/img/{{ page.img }})
-
 </div>
+
+![{{ page.title }}](/img/{{ page.img }})
 
 ## What you'll receive every month
 
