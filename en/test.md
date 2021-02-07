@@ -1,7 +1,7 @@
 ---
 permalink: /test/
 head: '<meta name="apple-itunes-app" content="app-id=1012329770" />'
-test: no
+test: noshow
 ---
 
 # Testing playground
@@ -33,7 +33,7 @@ And more code
 And even more here
 {% endhighlight %}
 
-{% if page.test!="no" %}
+{% if page.test!="noshow" %}
 Show this now!
 {% endif %}
 
