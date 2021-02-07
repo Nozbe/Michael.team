@@ -23,7 +23,7 @@ with backslashes
 ## Testing Nozbe links
 
 - [Nozbe link directly](https://nozbe.com/?c=michaelteam)
-- [Nozbe link through gratis](https://michael.gratis/nozbe/)
+- [Nozbe link through gratis](https://michael.gratis/nozbe)
 
 Now code:
 
