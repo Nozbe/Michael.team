@@ -8,9 +8,9 @@ cover: michael.team.about.3k.jpg
 
 ## Columns:
 
-<form action="https://nozbe.info/add_subscriber.html" accept-charset="utf-8" method="post"><div class="container"><div class="left">
-<input type="text" name="name" placeholder="Name"/></div><div class="right">
-<input type="text" name="email" placeholder="Your@Email.com"/></div></div>
+<form action="https://nozbe.info/add_subscriber.html" accept-charset="utf-8" method="post"><div class="container"><div class="right">
+<input type="text" name="email" placeholder="Your@Email.com"/></div><div class="left">
+<input type="text" name="name" placeholder="Name"/></div></div>
 <input type="hidden" name="campaign_token" value="YGSR"/>
 <input type="hidden" name="thankyou_url" value="https://michael.team/gratis/"/>
 <input type="hidden" name="start_day" value="0"/>
