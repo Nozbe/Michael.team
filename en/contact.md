@@ -13,7 +13,8 @@ This is the fastest way to get in touch with me:
 
 * I'm very active on [Twitter](https://twitter.com/MSliwinski)
 * I'm beginning to be more involved on [LinkedIn](https://www.linkedin.com/in/michaelsliwinski)
-* I'm no longer active on [Facebook](https://www.facebook.com/michael.sliwinski) or [Instagram](https://www.instagram.com/michaelsliwinski/) because I disagree with Mark Zuckerberg's stance on privacy and creepiness.
+* I sometimes post a story on [Instagram](https://www.instagram.com/michaelsliwinski/)
+* I'm no longer active on [Facebook](https://www.facebook.com/michael.sliwinski) because I disagree with Mark Zuckerberg's stance on privacy and creepiness (yeah, I know Instagram is also owned by FB, so that's why I'm also not as active there as I used to be…)
 
 ## [Nozbe][n] questions?
 
@@ -41,7 +42,7 @@ If you want to learn productivity the fastest way possible:
 
 I do read all the email but I sometimes can take time to respond and when I do, I'm **"emailing like texting"** - meaning I just reply to an email like a text - quick and to the point. That's how I roll.
 
-[n]: https://nozbe.com
+[n]: https://michael.gratis/nozbe
 [support]: https://nozbe.com/contact
 [tn]: https://twitter.com/nozbe
 [email]: mailto:michaels@hey.com

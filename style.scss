@@ -88,33 +88,32 @@ article > footer {
 	}
 }
 
-.container {
-	margin: 10px 0px;
-	font-size: 0.8em;
+.box {
+	margin: 10px 0;
+	padding: 10px;
+	border: 1px solid $main;
 }
 
-.left {
-	float: right;
-	width: 50%;
-	padding-left: 20px;
+.flex-box {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.flex-left {
+	padding: 10px;
+	flex: 50%;
 	@include mobile {
-		float: none;
-		width: 100%;
-		padding-left: 0px;
+		flex: 100%;
 	}
 }
 
-.right {
-	float: right;
-	width: 50%;
-	padding-bottom: 20px;
+.flex-right {
+	padding: 10px;
+	flex: 50%;
 	@include mobile {
-		float: none;
-		width: 100%;
+		flex: 100%;
 	}
 }
-
-
 
 .avatar {
 	float: left;
@@ -251,6 +250,7 @@ article > nav {
 }
 
 .footnotes {
+	border-top: 1px solid $textG;
 	p, li {
 		font-size: 0.9rem;
 	}
@@ -293,10 +293,6 @@ strong, b, .bold {
 sup {
 	vertical-align: super;
 	font-size: smaller;
-}
-
-.footnotes {
-	border-top: 1px solid $textG;
 }
 
 blockquote {

@@ -1,61 +1,36 @@
 ---
 permalink: /newsletter/
-cover: michael.team.about.3k.jpg
+cover: newsletter.jpg
 ---
 
-# Newsletter
+# Sign up for Michael.Team's Monthly Newsletter
 
+Join my inner circle and as a *thank you* download two of my best-selling books: [It's All About Passion](https://sliwinski.com/passion) and [No Office Apps](https://sliwinski.com/apps/). Receive regular updates on my writing, especially my progress on the [The No Office book](/nooffice).
 
-## Columns:
+![{{ page.title }}](/img/{{ page.cover }})
 
-<form action="https://nozbe.info/add_subscriber.html" accept-charset="utf-8" method="post"><div class="container"><div class="right">
-<input type="text" name="email" placeholder="Your@Email.com"/></div><div class="left">
-<input type="text" name="name" placeholder="Name"/></div></div>
-<input type="hidden" name="campaign_token" value="YGSR"/>
-<input type="hidden" name="thankyou_url" value="https://michael.team/gratis/"/>
-<input type="hidden" name="start_day" value="0"/>
-<input type="submit" value="Join and get books"/>
-</form>
+## Join my mailing list
 
-## Form by Adwent Rodzinny
+<div class="box">
 
-<form action="https://nozbe.info/add_subscriber.html" accept-charset="utf-8" method="post">
-	<!-- Email field (required) -->
-	<input type="text" name="email" placeholder="Podaj swój adres e-mail" /><br/>
-	<!-- List token -->
-	<!-- Get the token at: https://nozbe.info/campaign_list.html -->
-	<input type="hidden" name="campaign_token" value="YGSR" />
-	<!-- Thank you page (optional)
-	<input type="hidden" name="thankyou_url" value="/potwierdzenie/"/>-->
-	<!-- Add subscriber to the follow-up sequence with a specified day (optional) -->
-	<input type="hidden" name="start_day" value="0" />
-	<!-- Forward form data to your page (optional) -->
-	<input type="hidden" name="forward_data" value="post" />
-	<!-- Subscriber button -->
-	<input type="submit" value="Zapisz się!"/>
-</form>
+{% include email.html %}
 
-	<!-- https://adwentrodzinny.pl/witamy/ -->
-	<!-- https://adwentrodzinny.pl/potwierdzenie/ -->
-	<!-- https://adwentrodzinny.pl/dzieki/-->
-	<!-- TODO: write first message -->
-	
-	
+</div>
 
-## Form by GetResponse
+## What you'll receive every month
 
-<form action="https://nozbe.info/add_subscriber.html" accept-charset="utf-8" method="post">
-	<!-- Name -->
-	name: <input type="text" name="name"/><br/>
-	<!-- Email field (required) -->
-	email: <input type="text" name="email"/><br/>
-	<!-- List token -->
-	<!-- Get the token at: https://nozbe.info/campaign_list.html -->
-	<input type="hidden" name="campaign_token" value="YGSR" />
-	<!-- Thank you page (optional) -->
-	<input type="hidden" name="thankyou_url" value="https://michael.team/gratis/"/>
-	<!-- Add subscriber to the follow-up sequence with a specified day (optional) -->
-	<input type="hidden" name="start_day" value="0" />
-	<!-- Subscriber button -->
-	<input type="submit" value="Subscribe"/>
-</form>
+I promise I won't overwhelm your email inbox. I'll be sending an email to you once, maybe twice per month. It all depends on what I'd like to let you know about. My newsletter will be about two things:
+
+### 1. A productivity tip
+
+You'll receive one of my best productivity tips every month. Something actionable.
+
+### 2. Updates on my writing
+
+You'll also get a highlight reel of my best blog posts from the month before as well as the main topics of the podcasts I published: [NoOffice FM](/noofficefm) and [The Podcast](/podcast).
+
+### 3. Progress on the [#NoOffice book](/nooffice)
+
+I'll be reporting on the progress of my writing of the [NoOffice book](https://NoOffice.org/) and I might ask you for your feedback.
+
+That's it. And remember, [I respect your privacy](/privacy) and you can unsubscribe anytime. Thanks!
