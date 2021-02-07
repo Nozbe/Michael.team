@@ -2,6 +2,8 @@
 permalink: /thanks/
 vid: "pWtl7n_Cg7c"
 img: thanks.jpg
+share: no
+email: no
 ---
 
 # Thanks for joining #NoOffice community!

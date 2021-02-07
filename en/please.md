@@ -1,6 +1,8 @@
 ---
 permalink: /please/
 cover: please.jpg
+share: no
+email: no
 ---
 
 # Please confirm your email address! Thank you!

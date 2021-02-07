@@ -33,6 +33,8 @@ I've fallen in love with Jekyll and now I'm migrating all of my stuff there. It 
 - js - javascript script to include, it includes scripts.js and launches on page load the script, (eg. js: dice - which launches dice() function from script on page load), exception is "redirect" because it includes the redirect.js entirely.
 - header - replaces the header part of the page with a custom header, like in dice we wanted to have shorter header with a link
 - head - opportunity to add something to the "head" section of the page, usually used for adding podcast icons to subscribe to our podcasts (eg. head: '<meta name="apple-itunes-app" content="app-id=1012329770" />')
+- share - if set to "no" the share link at the bottom of the page will not show
+- email - if set to "no" the newsletter signup form will not show
 
 
 ### 2. The structure of the site will be very simple:

@@ -43,7 +43,3 @@ Check out [full archive](/archive/) or [browse my posts by tags or topics](/). G
 {% include posts.html posts=site.categories.en limit=10 more=1 %}
 
 [Browse all blog entries…](/archive/)
-
-<div class="footnotes">
-{% include email.html %}
-</div>

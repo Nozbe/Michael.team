@@ -33,7 +33,7 @@ And more code
 And even more here
 {% endhighlight %}
 
-{% if page.test!="test" %}
+{% if page.test!="no" %}
 Show this!
 {% endif %}
 
