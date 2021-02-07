@@ -31,3 +31,7 @@ And more code
 {{ page.permalink }}
 And even more here
 {% endhighlight %}
+
+{% if page.test!="test" %}
+Show this thing
+{% endif %}

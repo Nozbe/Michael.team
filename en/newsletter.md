@@ -1,19 +1,20 @@
 ---
 permalink: /newsletter/
-cover: newsletter.jpg
+cover: thanks.jpg
+img: newsletter.jpg
 ---
 
 # Sign up for Michael.Team's Monthly Newsletter
 
 Join my inner circle and as a *thank you* download two of my best-selling books: [It's All About Passion](https://sliwinski.com/passion) and [No Office Apps](https://sliwinski.com/apps/). Receive regular updates on my writing, especially my progress on the [The No Office book](/nooffice).
 
-![{{ page.title }}](/img/{{ page.cover }})
-
 ## Join my mailing list
 
 <div class="box">
 
 {% include email.html %}
+
+![{{ page.title }}](/img/{{ page.img }})
 
 </div>
 

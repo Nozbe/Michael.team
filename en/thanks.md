@@ -1,13 +1,14 @@
 ---
 permalink: /thanks/
-cover: thanks.jpg
+vid: "pWtl7n_Cg7c"
+img: thanks.jpg
 ---
 
 # Thanks for joining #NoOffice community!
 
 Welcome to my "inner circle"! Let me thank you personally:
 
-{% include video.html id="pWtl7n_Cg7c" %}
+{% include video.html id=page.vid %}
 
 ## Enjoy my books and let me know if you liked them!
 
@@ -15,7 +16,7 @@ In a few moments you'll receive an email confirmation with the subject line: “
 
 … where you'll get links to PDF, Kindle and iBooks versions of my books: [It's All About Passion](https://sliwinski.com/passion) (already read by more than 10,000 people!) and the most recent [No Office Apps](https://sliwinski.com/apps/)
 
-![{{ page.title }}](/img/{{ page.cover }})
+![{{ page.title }}](/img/{{ page.img }})
 
 ## You'll be the FIRST to know!
 

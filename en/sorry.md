@@ -1,6 +1,6 @@
 ---
 permalink: /sorry/
-cover: michael.team.3k.jpg
+vid: "yN4WeGwGcqg"
 ---
 
 # Sorry to see you go but thanks for being here!
@@ -9,7 +9,7 @@ I'm sorry to see you go, and if you ever decide to come back, you'll be more tha
 
 As a farewell make sure to check out my video on [No Office](/nooffice) where I'm demonstrating how we work at [Nozbe][n]:
 
-{% include video.html id="yN4WeGwGcqg" %}
+{% include video.html id=page.vid %}
 
 ## Wanna read something interesting?
 
