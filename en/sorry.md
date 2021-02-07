@@ -1,8 +1,8 @@
 ---
 permalink: /sorry/
 vid: "yN4WeGwGcqg"
-share: no
-email: no
+share: noshow
+email: noshow
 ---
 
 # Sorry to see you go but thanks for being here!

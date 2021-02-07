@@ -13,15 +13,8 @@ layout: default
 	{{ content }}
 </div>
 {% if page.name!="index.md" %}
-	{% if page.share!="no" %}
 	<footer>
-		{% include share.html %}
+	{% include share.html %}
 	</footer>
-	{% endif %}
-	{% if page.email!="no" %}
-	<div class="footnotes">
-	{% include email.html %}
-	</div>
-	{% endif %}
 {% endif %}
 </article>

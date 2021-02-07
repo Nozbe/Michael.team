@@ -2,7 +2,7 @@
 permalink: /newsletter/
 cover: thanks.jpg
 img: newsletter.jpg
-email: no
+email: noshow
 ---
 
 # Sign up for Michael.Team's Monthly Newsletter
