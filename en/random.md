@@ -2,6 +2,7 @@
 permalink: /random/
 js: random
 title: "Random post from Michael Sliwinski's archive"
+email: noshow
 ---
 
 This page displays a completely random post from my entire [blog archive](/archive).

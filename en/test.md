@@ -20,6 +20,11 @@ with backslashes
 > The life I knew is over; the lights are out\\
 > Hello darkness: I'm ready to succumb
 
+## Testing Nozbe links
+
+- [Nozbe link directly](https://nozbe.com/?c=michaelteam)
+- [Nozbe link through gratis](https://michael.gratis/nozbe/)
+
 Now code:
 
 `code is here`

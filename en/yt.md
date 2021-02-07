@@ -40,7 +40,5 @@ Now you can watch videos on an iPad, iPhone or any other device without being tr
 
 **[Read more about this page and share with your friends! Thanks!][blog]**
 
-### Share: [michael.team/yt](https://michael.team/yt/)
-
 [blog]: https://michael.team/youtube/
 [shortcut]: https://www.icloud.com/shortcuts/a45cec1e83944253b6c0bd3cb2915bc4

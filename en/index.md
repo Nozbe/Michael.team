@@ -19,7 +19,7 @@ My team is all-remote and we all work from our "home offices" (just like the one
 * [First read a more about me - my story, bio, etc.](/about/)
 * [Check out what I'm up to right now](/now)
 * [Connect with me on social media or drop me an email](/contact)
-* [Subscribe to my monthly](/newsletter)
+* [Subscribe to my monthly newsletter](/newsletter)
 
 ## This site is in: English (this), [Spanish](/es/) and [Polish](/pl/)
 
@@ -31,7 +31,7 @@ Also - [this site is free and open source](/license). Copy anything you want, ju
 
 ## Find something cool to read
 
-Check out [full archive](/archive/) or [browse my posts by tags or topics](/). Gradually I'll be importing post from my old blog here. For now you can search only the new stuff:
+Check out [full archive](/archive/) or [browse my posts by tags or topics](/tag/). Gradually I'll be importing post from my old blog here. For now you can search only the new stuff:
 
 {% include search.html %}
 
