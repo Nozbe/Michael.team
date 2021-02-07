@@ -12,9 +12,7 @@ Join my inner circle and as a *thank you* download two of my best-selling books:
 ## Join my mailing list
 
 <div class="box">
-
 {% include email.html %}
-
 </div>
 
 ![{{ page.title }}](/img/{{ page.img }})

@@ -19,6 +19,7 @@ My team is all-remote and we all work from our "home offices" (just like the one
 * [First read a more about me - my story, bio, etc.](/about/)
 * [Check out what I'm up to right now](/now)
 * [Connect with me on social media or drop me an email](/contact)
+* [Subscribe to my monthly](/newsletter)
 
 ## This site is in: English (this), [Spanish](/es/) and [Polish](/pl/)
 
@@ -37,6 +38,12 @@ Check out [full archive](/archive/) or [browse my posts by tags or topics](/). G
 {% include tags.html %}
 
 <br>
+
+## Join my mailing list and get inspired!
+
+<div class="box">
+{% include email.html %}
+</div>
 
 ## Latest updates:
 
