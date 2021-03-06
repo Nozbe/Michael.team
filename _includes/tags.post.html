@@ -1,5 +1,7 @@
 {% if include.tags.size>0 -%}
 {% if langvar==nil %}{% include lang.html %}{% endif -%}
+{% assign comma = "" -%}
+{% assign comma2 = "" -%}
 {% capture taglist %}tags{{ langvar }}{% endcapture -%}
 {% for tag in include.tags -%}
 {% for item in site.data.main.[taglist] -%}
