@@ -1,4 +1,3 @@
-10
 {% if include.tags.size>0 -%}
 {% if langvar==nil %}{% include lang.html %}{% endif -%}
 {% capture taglist %}tags{{ langvar }}{% endcapture -%}
@@ -6,9 +5,9 @@
 {% for item in site.data.main.[taglist] -%}
 {% if tag==item.name -%}
 {% if include.short!=nil -%}
-{{- item.emoj -}}
+{{ comma }}{{ item.emoj }}{% assign comma = "&nbsp;" -%}
 {% else -%}
-{{ comma }}<a href="{{ langpath }}/{{ item.name }}/">{{ item.emoj }}{{ item.titl }}</a>{% assign comma = "," %}
+{{ comma }}<a href="{{ langpath }}/{{ item.name }}/">{{ item.emoj }}{{ item.titl }}</a>{% assign comma = "," -%}
 {% capture tagcommas %}{{ tagcommas }}{{ comma2 }}{{ item.name }}{% endcapture %}{% assign comma2 = "," -%}
 {% endif -%}
 {% endif -%}
