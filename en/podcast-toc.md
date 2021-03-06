@@ -1,7 +1,7 @@
 ---
 permalink: /podcast-toc/
 podcast: 1012329770
-tags: [podcast]
+tags: [podcast, video, nooffice]
 ---
 
 # ThePodcast.fm - Table of Contents
@@ -18,7 +18,7 @@ tags: [podcast]
   * [Courage To Be Disliked](https://thepodcast.fm/186)
   * [Factfulness](http://thepodcast.fm/185)
   * [Digital Minimalism](https://thepodcast.fm/184)
-  * [Punished by Rewards](https://thepodcast.fm/179) ([part 2](https://thepodcast.fm/180))
+  * [Punished by Rewards](https://thepodcast.fm/179) ([follow-up](https://thepodcast.fm/180))
   * [It doesn’t have to be crazy at work](https://thepodcast.fm/172)
   * [Bullshit Jobs](https://thepodcast.fm/169)
   * [Profit first](http://thepodcast.fm/149)
@@ -33,11 +33,11 @@ tags: [podcast]
   * [Sleep Smarter](http://thepodcast.fm/87)
   * [Peak](http://thepodcast.fm/80) ([Follow-up](http://thepodcast.fm/81))
   * [Ego is the Enemy](http://thepodcast.fm/77)
-  * [Under New Management](http://thepodcast.fm/75) ([Follow-up](https://thepodcast.fm/76))
+  * [Under New Management](http://thepodcast.fm/75) ([follow-up](https://thepodcast.fm/76))
   * [Disrupted](http://thepodcast.fm/74)
-  * [The Inevitable](http://thepodcast.fm/68) ([Follow-up](http://thepodcast.fm/69))
+  * [The Inevitable](http://thepodcast.fm/68) ([follow-up](http://thepodcast.fm/69))
   * [How to Fly a Horse](http://thepodcast.fm/63)
-  * [Smarter Faster Better](http://thepodcast.fm/61) ([Follow-up](http://thepodcast.fm/62))
+  * [Smarter Faster Better](http://thepodcast.fm/61) ([follow-up](http://thepodcast.fm/62))
   * [Originals](http://thepodcast.fm/53)
   * [4 Disciplines of Execution](http://thepodcast.fm/50)
   * [The Third Wave](http://thepodcast.fm/48)
@@ -96,7 +96,7 @@ tags: [podcast]
   * [Lean House](https://thepodcast.fm/209)
   * [Core Hours](https://thepodcast.fm/204)
   * [2019 Annual Review](https://thepodcast.fm/198)
-  * [Social media rehab](https://thepodcast.fm/168) [(part 2)](https://thepodcast.fm/175)
+  * [Social media rehab](https://thepodcast.fm/168) [(follow-up)](https://thepodcast.fm/175)
   * [2019 Plans](https://thepodcast.fm/173)
   * [2018 in Review](https://thepodcast.fm/171)
   * [Annual Review](https://thepodcast.fm/170)
@@ -116,8 +116,8 @@ tags: [podcast]
   * [Death to Paper (with Evernote)](http://thepodcast.fm/111)
   * [iPad Workflows & Automation](http://thepodcast.fm/108) ([Part 2](http://thepodcast.fm/109))
   * [Simplify everything](http://thepodcast.fm/107)
-  * [Distractions, Addictions, Notifications, Social Media](http://thepodcast.fm/105) ([Part 2](http://thepodcast.fm/106))
-  * [Stoicism](http://thepodcast.fm/103) ([Part 2](http://thepodcast.fm/104))
+  * [Distractions, Addictions, Notifications, Social Media](http://thepodcast.fm/105) ([follow-up](http://thepodcast.fm/106))
+  * [Stoicism](http://thepodcast.fm/103) ([follow-up](http://thepodcast.fm/104))
   * [Working while traveling](http://thepodcast.fm/96)
   * [Shutdown ritual](http://thepodcast.fm/89)
   * [Perfect week](http://thepodcast.fm/86)
@@ -142,6 +142,7 @@ tags: [podcast]
   * [Weekly Review](http://thepodcast.fm/27)
 
 ## Technology
+
   * [Competition gossip corner](https://thepodcast.fm/207)
   * [Apple WWDC 2019](https://thepodcast.fm/189)
   * [iPad vs Mac](https://thepodcast.fm/167)
@@ -157,15 +158,15 @@ tags: [podcast]
   * [iOS note-taking & other apps](http://thepodcast.fm/135)
   * [SpaceX and reusable rockets](https://thepodcast.fm/132)
   * [2017 Christmas gadget ideas](http://thepodcast.fm/124)
-  * [iPad Only (Take 2)](http://thepodcast.fm/102) ([Follow-up](https://thepodcast.fm/118))
+  * [iPad Only (Take 2)](http://thepodcast.fm/102) ([follow-up](https://thepodcast.fm/118))
   * [iPhone X](http://thepodcast.fm/117)
-  * [Death to Paper (with Evernote)](http://thepodcast.fm/111)
+  * [Death to Paper - with Evernote](http://thepodcast.fm/111)
   * [Extreme iOS automation](http://thepodcast.fm/109)
   * [Making iPad more productive](http://thepodcast.fm/108)
-  * WWDC17: [Wishes](http://thepodcast.fm/99), [Commentary](http://thepodcast.fm/101)
+  * [WWDC17 - wishes](http://thepodcast.fm/99) ([follow-up](http://thepodcast.fm/101))
   * [Bose QC35 review + more](http://thepodcast.fm/88)
   * [Future of the Mac](http://thepodcast.fm/79)
-  * [MacBook Pro w/ Touch Bar review](http://thepodcast.fm/78)
+  * [MacBook Pro with Touch Bar review](http://thepodcast.fm/78)
   * [On startup culture](http://thepodcast.fm/74)
   * [Thoughts on software design](http://thepodcast.fm/59)
   * [WWDC16](http://thepodcast.fm/51)
@@ -174,9 +175,10 @@ tags: [podcast]
   * [Future of transportation 2 & Elon Musk](http://thepodcast.fm/12)
   * [Future of transportation](http://thepodcast.fm/11)
   * [Digital publishing / Remag](http://thepodcast.fm/3)
-  * WWDC15: [Part 1](http://thepodcast.fm/001), [Part 2](http://thepodcast.fm/2)
+  * [WWDC15](http://thepodcast.fm/001), ([follow-up](http://thepodcast.fm/2))
 
 ## Everything else
+
   * [Big city life](https://thepodcast.fm/211)
   * [Radek’s Face Shield Factory](https://thepodcast.fm/206)
   * [Best of The Podcast](https://thepodcast.fm/200)
@@ -205,13 +207,13 @@ tags: [podcast]
   * [Personal Finance](http://thepodcast.fm/143)
   * [Travel, paradigms, taking the blame](http://thepodcast.fm/138)
   * [Nomadic lifestyle](http://thepodcast.fm/137)
-  * [Learning languages](http://thepodcast.fm/119) ([Part 2](http://thepodcast.fm/120), [Part 3](http://thepodcast.fm/125))
+  * [Learning languages](http://thepodcast.fm/119) ([follow-up](http://thepodcast.fm/120), [more follow-up](http://thepodcast.fm/125))
   * [Don’t follow your passion](http://thepodcast.fm/123)
   * [Triathlons](http://thepodcast.fm/115)
   * [Panama](http://thepodcast.fm/114)
   * [On software developers' ethical obligations](http://thepodcast.fm/113)
   * [100th episode celebration!](http://thepodcast.fm/100)
-  * Rant on education: [Part 1](http://thepodcast.fm/97), [Part 2](http://thepodcast.fm/98)
+  * [Rant on education](http://thepodcast.fm/97), ([follow-up](http://thepodcast.fm/98))
   * [Living in the future](http://thepodcast.fm/95)
   * [Trump, Brexit, Poland](http://thepodcast.fm/90)
   * [Why We Get Fat](http://thepodcast.fm/32)
