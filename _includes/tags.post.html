@@ -1,12 +1,13 @@
-{%- if include.tags.size>0 -%}
-{%- if langvar==nil -%}{%- include lang.html -%}{%- endif -%}
-{%- capture taglist -%}tags{{ langvar }}{%- endcapture -%}
-{%- for tag in include.tags -%}
-{%- assign item = site.data.main.[taglist] | where: "name", tag -%}
-{%- if include.short!=nil -%}
-{{ item.emoj }}
-{%- else -%}
-{{ comma }}<a href="{{ langpath }}/{{ item.name }}/">{{ item.emoj }}{{ item.titl }}</a>{% assign comma = "," %}
-{%- endif -%}
-{%- endfor -%}
-{%- endif -%}
+1
+{% if include.tags.size>0 -%}
+{% if langvar==nil %}{% include lang.html %}{% endif -%}
+{% capture taglist %}tags{{ langvar }}{% endcapture -%}
+{% for tag in include.tags -%}
+{% assign item = site.data.main.[taglist] | where: "name", tag -%}
+{% if include.short!=nil -%}
+{{ item.emoj -}}
+{% else -%}
+{{ comma }}<a href="{{ langpath }}/{{ item.name }}/">{{ item.emoj }}{{ item.titl }}</a>{% assign comma = "," -%}
+{% endif -%}
+{% endfor -%}
+{% endif -%}
