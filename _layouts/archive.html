@@ -50,7 +50,7 @@ layout: page
     {% endif %}
     <h3 style="font-size: 2em;margin-top: 1em;">{{ monthname }}{% if year.name!=currentYear %} {{ year.name }}{% endif %}</h3>
     {% for post in month.items %}
-      <h3><a href="{{ post.url }}">{% include tags.post.html tags=post.tags short="true" %}{{ post.title }}</a></h3>
+      <h3><a href="{{ post.url }}">{% include tags.post.html tags=post.tags short="true" %} {{ post.title }}</a></h3>
       {% include lang.date.html date=post.date %}
       <div class="date">{{ langdate }}</div>
     {% endfor %}

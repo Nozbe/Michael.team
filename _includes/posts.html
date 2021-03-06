@@ -23,7 +23,7 @@ The "more" parameter is to make sure we want to display the images and the summa
     {% if langindex <= include.offset %}{% continue %}{% endif %}
   {% endif %}
   
-  <h2><a href="{{ post.url }}" title="{{ post.title }}">{% include lang.tags.html tags=post.tags short="true" %}{{ post.title }}</a></h2>
+  <h2><a href="{{ post.url }}" title="{{ post.title }}">{% include tags.post.html tags=post.tags short="true" %} {{ post.title }}</a></h2>
   {% include lang.date.html date=post.date %}
   <div class="date">{{ langdate }}</div>
  {% if include.more %}
