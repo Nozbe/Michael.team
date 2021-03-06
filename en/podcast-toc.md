@@ -27,7 +27,7 @@ tags: [podcast, video, nooffice]
   * [So Good They Can’t Ignore You](http://thepodcast.fm/123)
   * [Essentialism](http://thepodcast.fm/112)
   * [Non-Violent Communication](http://thepodcast.fm/110)
-  * [A Guide to the Good Life](http://thepodcast.fm/103), [part 2](http://thepodcast.fm/104)
+  * [A Guide to the Good Life](http://thepodcast.fm/103) ([follow-up](http://thepodcast.fm/104))
   * [Insanely Simple](http://thepodcast.fm/94)
   * [Fooled by Randomness](http://thepodcast.fm/92)
   * [Sleep Smarter](http://thepodcast.fm/87)
@@ -175,7 +175,7 @@ tags: [podcast, video, nooffice]
   * [Future of transportation 2 & Elon Musk](http://thepodcast.fm/12)
   * [Future of transportation](http://thepodcast.fm/11)
   * [Digital publishing / Remag](http://thepodcast.fm/3)
-  * [WWDC15](http://thepodcast.fm/001), ([follow-up](http://thepodcast.fm/2))
+  * [WWDC15](http://thepodcast.fm/001) ([follow-up](http://thepodcast.fm/2))
 
 ## Everything else
 
@@ -207,13 +207,13 @@ tags: [podcast, video, nooffice]
   * [Personal Finance](http://thepodcast.fm/143)
   * [Travel, paradigms, taking the blame](http://thepodcast.fm/138)
   * [Nomadic lifestyle](http://thepodcast.fm/137)
-  * [Learning languages](http://thepodcast.fm/119) ([follow-up](http://thepodcast.fm/120), [more follow-up](http://thepodcast.fm/125))
+  * [Learning languages](http://thepodcast.fm/119) ([follow-up](http://thepodcast.fm/120)) ([more follow-up](http://thepodcast.fm/125))
   * [Don’t follow your passion](http://thepodcast.fm/123)
   * [Triathlons](http://thepodcast.fm/115)
   * [Panama](http://thepodcast.fm/114)
   * [On software developers' ethical obligations](http://thepodcast.fm/113)
   * [100th episode celebration!](http://thepodcast.fm/100)
-  * [Rant on education](http://thepodcast.fm/97), ([follow-up](http://thepodcast.fm/98))
+  * [Rant on education](http://thepodcast.fm/97) ([follow-up](http://thepodcast.fm/98))
   * [Living in the future](http://thepodcast.fm/95)
   * [Trump, Brexit, Poland](http://thepodcast.fm/90)
   * [Why We Get Fat](http://thepodcast.fm/32)
