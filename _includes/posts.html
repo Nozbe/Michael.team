@@ -5,6 +5,8 @@ This can be used without limit, or with limit, or with offset:
 {% include posts.html posts=site.categories.en offset=1 limit=2 more=1 %}
 In here we create our own index (and not rely on the forloop.index, because we have to rule out the blog posts which are in each language and the same category - like webinars in en/es/pl - they belong to the same category
 The "more" parameter is to make sure we want to display the images and the summary. Otherwise it's just title and date.
+
+TODO: Support exclusion of tags for index.
 {% endcomment %}
 
 {% if langlang==nil %}{% include lang.html %}{% endif %}
