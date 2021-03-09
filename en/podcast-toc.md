@@ -6,7 +6,7 @@ tags: [podcast]
 
 # ThePodcast.fm - Table of Contents
 
-Topics we cover on [ThePodcast.FM](/podcast):
+If you're a new listener to [ThePodcast.FM](/podcast) and are interested in what we talked about in the past, here's the **list of all our past episodes grouped by topic**. Pick and choose what interests you!
 
 ## Book reviews
 
