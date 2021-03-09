@@ -31,7 +31,7 @@ read_es: "Sigue leyendo"
 twitter: "MSliwinski"
 
 url_podcast: "https://thepodcast.fm/"
-url_podcast_name: "ThePodcast.FM"
+url_podcast_name: "ThePodcast.fm"
 
 ad: "false" #"true" so it displays, everything else to not show it, like "false"
 ad_link: "https://nozbe.com/blog/14-birthday-promo-final-hours/"
@@ -146,8 +146,8 @@ tags:
   tit2: "Productivity-related topics. How I hack my life, do things better, faster and most of all, create long-lasting habits. I'm a constant productivity student. Now focused mostly on team productivity with the recent launch of [Nozbe Teams](https://michael.gratis/nozbe){:target='_blank'}."
 - name: podcast
   emoj: "🎧"
-  titl: "The Podcast . FM"
-  tit2: "A podcast I've been recording with Radek, Nozbe's VP of Engineering for the last 4+ years about [productivity, business, books, and whatever else comes to mind](/podcast-toc)... about 1-2 episodes per month. **[Subscribe](https://podcasts.apple.com/podcast/the-podcast/id1012329770)**"
+  titl: "ThePodcast.fm"
+  tit2: "The Podcast is a conversation between [me](/about) and Radek ([@radexp](https://twitter.com/radexp), [radex.io](https://radex.io/)), Nozbe's VP of Engineering, that we've been having for the last 4+ years about [productivity, business, books, and whatever else comes to mind](/podcast-toc)... about 1-2 episodes per month. **[Subscribe](https://podcasts.apple.com/podcast/the-podcast/id1012329770)**"
 - name: show
   emoj: "📽"
   titl: "Productive! Show"
