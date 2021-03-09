@@ -1,14 +1,12 @@
 ---
 permalink: /podcast-toc/
 podcast: 1012329770
-tags: [podcast, video, nooffice]
+tags: [podcast]
 ---
 
 # ThePodcast.fm - Table of Contents
 
-{{ page.tags }}
-
-{% include tags.post.html tags=page.tags short="true" %}
+Topics we cover on [ThePodcast.FM](/podcast):
 
 ## Book reviews
 

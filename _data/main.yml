@@ -30,6 +30,9 @@ read_es: "Sigue leyendo"
 
 twitter: "MSliwinski"
 
+url_podcast: "https://thepodcast.fm/"
+url_podcast_name: "ThePodcast.FM/"
+
 ad: "false" #"true" so it displays, everything else to not show it, like "false"
 ad_link: "https://nozbe.com/blog/14-birthday-promo-final-hours/"
 ad_text: "Final hours of 14th birthday 🎂 of Nozbe - GET 4 MONTHS FREE!"

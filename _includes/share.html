@@ -5,11 +5,20 @@
 {% else %}
 {% assign slug = page.name | remove_first: ".md" %}
 {% endif %}
+{% capture sharelink %}{{ site.url }}{{ page.url }}{% endcapture %}
+{% capture sharelink_name %}{{ site.data.main.domain }}{{ langpath }}/{{ slug }}{% endcapture %}
+{% for tag in tags %}
+  {% if tag == "podcast" %}
+    {% assign altslug = slug | replace: "/podcast-", "" %}
+    {% capture sharelink %}{{ site.data.main.[url_podcast] }}{{ altslug }}{% endcapture %}
+    {% capture sharelink_name %}{{ site.data.main.[url_podcast_name] }}{{ altslug }}{% endcapture %}
+  {% endif %}
+{% endfor %}
 {% if page.share!="noshow" %}
-<h3>{{ site.data.main.[share] }}: <a href="{{ site.url }}{{ page.url }}">{{ site.data.main.domain }}{{ langpath }}/{{ slug }}</a></h3>
+<h3>{{ site.data.main.[share] }}: <a href="{{ sharelink }}">{{ sharelink_name }}</a></h3>
 	{% if include.tweet %}
 	{% capture tweet %}sharet{{ langvar }}{% endcapture %}
-	<h4><a href="https://twitter.com/intent/tweet?text={{ page.title }}&via={{ site.data.main.twitter }}&url={{ site.url }}{{ page.url }}&hashtags={{ tagcommas }}">{{ site.data.main.[tweet] }}</a></h4>
+	<h4><a href="https://twitter.com/intent/tweet?text={{ page.title }}&via={{ site.data.main.twitter }}&url={{ sharelink }}&hashtags={{ tagcommas }}">{{ site.data.main.[tweet] }}</a></h4>
 	{% endif %}
 {% endif %}
 {% if page.email!="noshow" %}
