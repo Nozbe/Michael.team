@@ -7,6 +7,7 @@
 {% endif %}
 {% capture sharelink %}{{ site.url }}{{ page.url }}{% endcapture %}
 {% capture sharelink_name %}{{ site.data.main.domain }}{{ langpath }}/{{ slug }}{% endcapture %}
+
 {% for tag in page.tags %}
   {% if tag == "podcast" %}
     {% assign altslug = slug | replace: "/podcast-", "" %}
@@ -14,6 +15,7 @@
     {% capture sharelink_name %}{{ site.data.main.[url_podcast_name] }}{{ altslug }}{% endcapture %}
   {% endif %}
 {% endfor %}
+
 {% if page.share!="noshow" %}
 <h3>{{ site.data.main.[share] }}: <a href="{{ sharelink }}">{{ sharelink_name }}</a></h3>
 	{% if include.tweet %}
