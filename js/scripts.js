@@ -13,8 +13,13 @@ function getNow () {
 	let latestNow = getPostTag('now-updates',where);
 }
 
+function getNow2 () {
+	document.querySelector('#page').after(createSpinner()); //show spinner
+	let latestNow = getPostTag('now-updates','#first','replace');
+}
+
 //fetching an article from the system
-function getArticle (url, where) {
+function getArticle (url, where, what = "add") {
 	let element = document.createElement('article'); //create article
 	element.setAttribute('id', 'ajax'); //so we can identify it!
 	fetch(URL+url)
@@ -24,7 +29,11 @@ function getArticle (url, where) {
 		let fullHTML = parser.parseFromString (responseText, 'text/html');
 		element.innerHTML = fullHTML.querySelector('article').innerHTML; //get article
 		createSpinner(true); //remove spinner
-		document.querySelector(where).after(element); //put the article where it belongs
+		if (what == "add") { //add an article after a block
+			document.querySelector(where).after(element);
+		} else if (what == "replace") { //replace an article block
+			document.querySelector(where).innerHTML = element.innerHTML;
+		}
 	})
 	.catch((error) => {
 		console.error(error)
@@ -32,7 +41,7 @@ function getArticle (url, where) {
 }
 
 //getting the url of the latest post in the specified tag
-function getPostTag(tag, where) {
+function getPostTag(tag, where, what = "add") {
 	let mytag = false;
 	let counter = 0; //to catch it only once
 	fetch(URL + POSTS)
@@ -46,7 +55,7 @@ function getPostTag(tag, where) {
 			}
 			if (mytag) {
 				if (key == 'url') {
-					getArticle (value,where);
+					getArticle (value, where, what);
 					counter++;
 					mytag = false;
 				}
