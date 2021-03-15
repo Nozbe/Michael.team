@@ -32,6 +32,7 @@ function getArticle (url, where, what = "add") {
 		if (what == "add") { //add an article after a block
 			document.querySelector(where).after(element);
 		} else if (what == "replace") { //replace an article block
+			element.querySelector('footer').remove(); //removing footer from the HTML
 			document.querySelector(where).innerHTML = element.innerHTML;
 		}
 	})
