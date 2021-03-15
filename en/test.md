@@ -9,7 +9,7 @@ layout: default
 	<h1>{{ tag_emoji }}&nbsp;{{ tag_title }}</h1>
 </div></header>
 {% assign tag_name = "now-updates" %}
-{% assign tag_limit = 20 %}
+{% assign tag_limit = 1 %}
 <div class="entry">
 	{{ tag_subtitle | markdownify }}
 	{% include podcast.html id=tag_name %}
