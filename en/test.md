@@ -18,12 +18,11 @@ layout: default
 
 {% assign tag_posts = site.tags[tag_name] %}
 
-<article class="page"><div class="entry">
+<article class="page" id="first"><div class="entry">
 {% include posts.html posts=tag_posts limit=tag_limit more=1 %}
 </div></article>
 
-<article class="page"><div class="entry">
-{% include posts.html posts=tag_posts limit=tag_limit more=1 %}
+<article class="page" id="rest"><div class="entry">
 {% include posts.html posts=tag_posts offset=tag_limit %}</div>
 <footer>
 {% include share.html %}
