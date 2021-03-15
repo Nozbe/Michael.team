@@ -23,6 +23,7 @@ I've fallen in love with Jekyll and now I'm migrating all of my stuff there. It 
 
 ### 1. Every post will have the following additional parameters:
 
+- layout - the default layout is being used or page layout for pages or post layout for posts, but then we can still customize it for tags and other views
 - cover - the image name of the cover image going behind the H1 (optional)
 - img - main image name of the site/post but NOT the one behind H1
 - title - can be also done using the first H1 in the file
@@ -33,8 +34,9 @@ I've fallen in love with Jekyll and now I'm migrating all of my stuff there. It 
 - js - javascript script to include, it includes scripts.js and launches on page load the script, (eg. js: dice - which launches dice() function from script on page load), exception is "redirect" because it includes the redirect.js entirely.
 - header - replaces the header part of the page with a custom header, like in dice we wanted to have shorter header with a link
 - head - opportunity to add something to the "head" section of the page, usually used for adding podcast icons to subscribe to our podcasts (eg. head: '<meta name="apple-itunes-app" content="app-id=1012329770" />')
-- share - if set to "noshow" the share link at the bottom of the page will not show
-- email - if set to "noshow" the newsletter signup form will not show
+- podcast - the id of the podcast (eg. podcast: 1012329770)
+- share - if set to "noshow" the share link at the bottom of the page will not be shown
+- email - if set to "noshow" the newsletter signup form will not be shown
 
 
 ### 2. The structure of the site will be very simple:

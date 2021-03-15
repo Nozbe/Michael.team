@@ -1,47 +1,31 @@
 ---
 permalink: /test/
-head: '<meta name="apple-itunes-app" content="app-id=1012329770" />'
-test: noshow
+layout: default
 ---
 
-# Testing playground
+<article class="page">
+{% include tags.html %}
+<header><div class="header headerblack">
+	<h1>{{ tag_emoji }}&nbsp;{{ tag_title }}</h1>
+</div></header>
+{% assign tag_name = "now-updates" %}
+{% assign tag_limit = 20 %}
+<div class="entry">
+	{{ tag_subtitle | markdownify }}
+	{% include podcast.html id=tag_name %}
+</div>
+</article>
 
-## Testing quotes
+{% assign tag_posts = site.tags[tag_name] %}
 
-> I've seen dark before, but not like this
-> This is cold, this is empty, this is numb
-> The life I knew is over; the lights are out
-> Hello darkness: I'm ready to succumb
+<article class="page"><div class="entry">
+{% include posts.html posts=tag_posts limit=tag_limit more=1 %}
+</div></article>
 
-with backslashes
-
-> I've seen dark before, but not like this\\
-> This is cold, this is empty, this is numb\\
-> The life I knew is over; the lights are out\\
-> Hello darkness: I'm ready to succumb
-
-## Testing Nozbe links
-
-- [Nozbe link directly](https://nozbe.com/?c=michaelteam)
-- [Nozbe link through gratis](https://michael.gratis/nozbe)
-
-Now code:
-
-`code is here`
-
-Or block:
-
-{% highlight liquid %}
-Code is here
-And more code
-{{ page.permalink }}
-And even more here
-{% endhighlight %}
-
-{% if page.test!="noshow" %}
-Show this now!
-{% endif %}
-
-{% if page.test!="test123" %}
-Show 123 test
-{% endif %}
+<article class="page"><div class="entry">
+{% include posts.html posts=tag_posts limit=tag_limit more=1 %}
+{% include posts.html posts=tag_posts offset=tag_limit %}</div>
+<footer>
+{% include share.html %}
+</footer>
+</article>
