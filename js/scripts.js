@@ -5,15 +5,16 @@
 const URL = "https://michael.team"; //my main domain
 const POSTS = "/searchposts.json"; //json with all the posts
 
-//getting the latest "now" post from "now" tag
-function getNow () {
+//getting the latest "now" post from "now" tag - NOT used anymore, saved for later
+function getNowOld () {
 	let where = '#page';
 	document.querySelector(where).after(createSpinner()); //show spinner
 	document.querySelector('#nojs').remove(); //remove the non-JS thing since JS works
 	let latestNow = getPostTag('now-updates',where);
 }
 
-function getNow2 () {
+//substitute the first entry on "now" with the fully blown article
+function getNow () {
 	document.querySelector('#page').after(createSpinner()); //show spinner
 	let latestNow = getPostTag('now-updates','#first','replace');
 }

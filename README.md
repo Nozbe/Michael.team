@@ -37,6 +37,7 @@ I've fallen in love with Jekyll and now I'm migrating all of my stuff there. It 
 - podcast - the id of the podcast (eg. podcast: 1012329770)
 - share - if set to "noshow" the share link at the bottom of the page will not be shown
 - email - if set to "noshow" the newsletter signup form will not be shown
+- limit - how many blog posts to show at first (on tag page)
 
 
 ### 2. The structure of the site will be very simple:

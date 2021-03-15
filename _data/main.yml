@@ -28,19 +28,6 @@ read: "Read more"
 read_pl: "Czytaj dalej"
 read_es: "Sigue leyendo"
 
-entry: "Latest post"
-entries: "Latest posts"
-entrymore: "More posts"
-
-entry_pl: "Ostatni wpis"
-entries_pl: "Ostatnie wpisy"
-entrymore_pl: "Więcej wpisów"
-
-entry_es: "Última entrada"
-entries_es: "Últimas entradas"
-entrymore_es: "Más entradas"
-
-
 twitter: "MSliwinski"
 
 url_podcast: "https://thepodcast.fm/"
@@ -75,6 +62,11 @@ nav:
   url: "/pl/"
 - title: "🇪🇸 Español"
   url: "/es/"
+
+tagsall: "Choose a topic"
+tagsall_pl: "Wybierz temat"
+tagsall_es: "Elige un tema"
+tagsallemoji: "⬆️"
 
 tags:
 - name: applewatch
@@ -148,7 +140,7 @@ tags:
 - name: now-updates
   emoj: "📝"
   titl: "Now-updates"
-  tit2: "Every Friday I try to post a new update to my [NOW page](/now). Here are all my past entries."
+  tit2: "This is my [“now”](https://nownownow.com/p/Wwy1){:target='_blank'} page inspired by [Derek Sievers](https://sivers.org/now){:target='_blank'}. It's a “status update“ on my life, my projects and priorities. I try to post a new update at least once a month."
 - name: office
   emoj: "🏠"
   titl: "Office"

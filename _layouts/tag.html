@@ -2,19 +2,29 @@
 layout: default
 ---
 
-<article class="page">
+<article class="page" id="page">
 {% include tags.html %}
 <header><div class="header headerblack">
-	<h1>{{ tag_emoji }}&nbsp;{{ tag_title }}</h1>
+	<h1>{{ tag_emoji }} {{ tag_title }}</h1>
 </div></header>
+
 <div class="entry">
 	{{ tag_subtitle | markdownify }}
 	{% include podcast.html id=tag_name %}
-	{% assign tag_posts = site.tags[tag_name] %}
-	{% include posts.html posts=tag_posts limit=20 more=1 %}
-	{% include posts.html posts=tag_posts offset=20 %}
+	{% if page.limit %}{% assign tag_limit = page.limit %}
+		{%else %}{% assign tag_limit = 10 %}{% endif %}
 </div>
-	<footer>
-	{% include share.html %}
-	</footer>
+</article>
+
+{% assign tag_posts = site.tags[tag_name] %}
+
+<article class="page" id="first"><div class="entry">
+{% include posts.html posts=tag_posts limit=tag_limit more=1 %}
+</div></article>
+
+<article class="page" id="rest"><div class="entry">
+{% include posts.html posts=tag_posts offset=tag_limit %}</div>
+<footer>
+{% include share.html %}
+</footer>
 </article>
