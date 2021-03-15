@@ -16,7 +16,7 @@ function getNowOld () {
 //substitute the first entry on "now" with the fully blown article
 function getNow () {
 	document.querySelector('#page').after(createSpinner()); //show spinner
-	let latestNow = getPostTag('now-updates','#first','replace');
+	let latestNow = getPostTag('now','#first','replace');
 }
 
 //fetching an article from the system
