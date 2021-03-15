@@ -137,10 +137,10 @@ tags:
   emoj: "✅"
   titl: "Nozbe"
   tit2: "Posts about running my [Nozbe](https://michael.gratis/nozbe){:target='_blank'} business and both Nozbe Personal and Nozbe Teams apps. Successes, failures, mistakes and lessons learned... it's all in there."
-- name: now-updates
+- name: now
   emoj: "📝"
-  titl: "Now-updates"
-  tit2: "This is my [“now”](https://nownownow.com/p/Wwy1){:target='_blank'} page inspired by [Derek Sievers](https://sivers.org/now){:target='_blank'}. It's a “status update“ on my life, my projects and priorities. I try to post a new update at least once a month."
+  titl: "Now?"
+  tit2: "This is my [“now”](https://nownownow.com/p/Wwy1){:target='_blank'} page inspired by [Derek Sievers](https://sivers.org/now){:target='_blank'}. It answers “what I'm doing now?“. My life, projects and priorities. I post an update monthly."
 - name: office
   emoj: "🏠"
   titl: "Office"
