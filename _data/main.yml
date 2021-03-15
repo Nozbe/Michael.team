@@ -28,6 +28,19 @@ read: "Read more"
 read_pl: "Czytaj dalej"
 read_es: "Sigue leyendo"
 
+entry: "Latest post"
+entries: "Latest posts"
+entrymore: "More posts"
+
+entry_pl: "Ostatni wpis"
+entries_pl: "Ostatnie wpisy"
+entrymore_pl: "Więcej wpisów"
+
+entry_es: "Última entrada"
+entries_es: "Últimas entradas"
+entrymore_es: "Más entradas"
+
+
 twitter: "MSliwinski"
 
 url_podcast: "https://thepodcast.fm/"
