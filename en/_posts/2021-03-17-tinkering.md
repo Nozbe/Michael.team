@@ -5,7 +5,7 @@ cover: "tinkering.jpg"
 
 # Tinkering, building, crafting… and cables in my home office
 
-I love tinkering. Manual crafts always attracted me. I love building [lego blocks](/yoda) and I definitely have enjoyed changing and [re-designing my home offices](/office) many times over the years. Just look at the details of my [current one](/myoffice). And yet, I'm about to improve it even more!
+I love tinkering. Manual crafts always attracted me. I love building [lego blocks](/yoda) and I definitely have enjoyed changing and [re-designing my home offices](/office) many times over the years. Just look at the details of my [current one](/myoffice). And yet, I'm about to improve it even more! Here's the photo from today with all the materials brought in to start working on it this coming Friday:
 
 <!--More-->
 
