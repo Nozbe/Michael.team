@@ -103,6 +103,11 @@ defaults:
     values:
       layout: "book"
       book: "passion"
+  -
+    scope:
+      path: "nozbe.com"
+    values:
+      lang: "en"
 
 # Book collection (optional)
 collections:
