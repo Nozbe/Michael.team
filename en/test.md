@@ -4,4 +4,6 @@ permalink: /test/
 
 # Testing playground
 
-{% include video_lazy.html id="Fv-XOF3XBvE" %}
+{% include video.html id="Fv-XOF3XBvE" %}
+
+{% include vimeo.html id="533511146" %}

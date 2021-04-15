@@ -1,11 +1,12 @@
 <div class="embed-container">
-  <iframe
-      src="https://player.vimeo.com/video/{{ include.id }}"
-      width="853"
-      height="480"
-      frameborder="0"
-      webkitallowfullscreen="1"
-      mozallowfullscreen="1"
-      allowfullscreen="1">
-  </iframe>
+<iframe
+	src="https://player.vimeo.com/video/{{ include.id }}"
+	srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://player.vimeo.com/video/{{ include.id }}><img src=https://vumbnail.com/{{ include.id }}.jpg><span>▶</span></a>"
+	width="853"
+	height="480"
+	frameborder="0"
+	webkitallowfullscreen="1"
+	mozallowfullscreen="1"
+	allowfullscreen="1">
+</iframe>
 </div>
