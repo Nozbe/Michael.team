@@ -16,7 +16,7 @@ The fact that we work entirely remotely may seem like an obstacle but it has mad
 In this article I’m going to describe the apps that we use and briefly discuss how we use them.
 
 If you want a longer version of this article and a deeper dive into this subject, please get my latest book here: ["**No Office Apps**
-How the Nozbe team uses modern technologies to communicate better and get more done."](https://sliwinski.com/apps) - it's completely free! :-)
+How the Nozbe team uses modern technologies to communicate better and get more done."](/apps) - it's completely free! :-)
 
 In traditional offices, communication occurs either verbally during conversations or often via e-mail. We discovered there are more ways to communicate and that they form a kind of pyramid:
 
@@ -92,9 +92,9 @@ Ultimately, we don’t work to waste all of our time on meetings. To do our job 
 
 Thanks to this approach, the continuous improvement of our work and constantly improving applications, we’re able to work more effectively and create a good working atmosphere. I hope you’ll be able to implement some of these tips in your team because they’re universal and suitable for working with others, regardless of whether you’re working remotely like us or share a common office.
 
-[To dive deeper into this topic, get my latest book ](https://sliwinski.com/apps)
+[To dive deeper into this topic, get my latest book ](/apps/)
 
 [iMagazine]: http://iMagazine.pl
 [n]: https://michael.gratis/nozbe
-[iPad]: /ipad/
+[iPad]: /ipadonly/
 [prod]: /productivity/

@@ -1,26 +1,21 @@
 ---
 permalink: /apps/
+img: "noofficeappsbook.jpg"
 ---
 
 # BOOK: No Office Apps
 
 ## How the [Nozbe][n] team uses modern technologies to communicate better and get more done.
 
-### By me (Michael Sliwinski). Published December 1, 2016
+### By me (Michael Sliwinski). Published December 1, 2016.
 
-Just: [get the Book](#download) | [watch Promo video](#video) | [view Table of Contents](#toc)
+## [Subscribe to my Newsletter for ePub, Mobi or PDF version of "No Office Apps"](/newsletter)
 
-![No Office Apps Book](/appsbook.jpg)
+![{{ page.title }}](/img/{{ page.img }})
 
-### In this book I discuss the concept of "Pyramid of Communication" - which helps me and my team communicate effectively to get everything done
+### In this book I discuss the concept of "Pyramid of Communication" - which helps me and my team communicate effectively to get everything done. [See Table of Contents](#toc)
 
 This book is based on my company’s concept of [pyramid of communication](https://sliwinski.com/communication-pyramid/), which I also discussed on the [18th episode of The Podcast](/podcast-18/). I later [revisited the concept here](https://sliwinski.com/pyramid/) and [on the 65th episode of The Podcast](/podcast-65/). Based on all this, as well as frequent questions from readers about [apps I use and recommend](https://sliwinski.com/ama-apps/) and [apps I use at my company](https://sliwinski.com/noofficeapps) I decided to write this book.
-
-<a name="download"></a>
-
-### [Subscribe to my Newsletter for ePub, Mobi or PDF version of "No Office Apps"](/newsletter)
-
-<a name="video"></a>
 
 ## Promo video - "Where are you based?"
 
@@ -142,13 +137,11 @@ Below is the table of contents with quotes from my book. This way you'll have a 
 
 Please let me know what you think! I wrote this book for you:
 
-**[Get the Book! It's FREE!](#download)**
+**[Get the Book! It's FREE!](/newsletter/)**
 
-
-### Version history
+## "No Office Apps" - version history
 
 * 1 December, 2016 - official public release on this blog
 * 26 September, 2016 - version 1.0 - first initial limited release for [Nozbe][n] customers
 
-
-[n]: https://nozbe.com/
+[n]: https://michael.gratis/nozbe
