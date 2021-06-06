@@ -1,5 +1,5 @@
 ---
-tags: [ipadonly]
+tags: [ipadonly,imagazine]
 cover: "scrivener.jpg"
 ---
 
