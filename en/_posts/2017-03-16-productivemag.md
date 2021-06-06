@@ -1,6 +1,6 @@
 ---
 tags: [magazine]
-img: "productivemag.jpg"
+cover: "productivemag.jpg"
 ---
 
 # №34 with Greg McKeown - the last (essential) issue of the Productive! Magazine
@@ -9,7 +9,7 @@ img: "productivemag.jpg"
 
 <!--More-->
 
-![{{ page.title }}](/img/{{ page.img }})
+![{{ page.title }}](/img/{{ page.cover }})
 
 ## That uncomfortable feeling - closing down the magazine after 8+ years...
 
