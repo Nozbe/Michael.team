@@ -1,5 +1,5 @@
 ---
-tags: [nooffice]
+tags: [nooffice, wrong]
 cover: "flexibility.jpg"
 ---
 

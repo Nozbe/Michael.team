@@ -156,7 +156,7 @@ tags:
 - name: show
   emoj: "📽"
   titl: "Productive! Show"
-  tit2: "I used to be the editor of the [Productive! Magazine](http://productivemag.com){:target='_blank'} between 2008 and 2016 (34 issues), also in  [Polish](http://productivemag.pl){:target='_blank'} (18 issues), [Dutch](http://productivemag.nl){:target='_blank'} (5 issues), [Spanish](http://productivemag.es){:target='_blank'} (4 issues) and Japanese (1 issue) as a part of my now shut-down [Remag startup](https://remag.me){:target='_blank'}."
+  tit2: "Collection of my productivity videos which I used to record in the past. Now when I want to post a video, I have a new [Team Productivity Show](/vlog/) for that, or I just go live on [No Office FM podcast](/noofficefm/)."
 - name: short
   emoj: "🗯"
   titl: "Short"
@@ -173,14 +173,18 @@ tags:
   emoj: "🎥"
   titl: "Vlog"
   tit2: "My 'Team Productivity Show' video blog where I share my best team productivity tips and tricks. It's also hosted on [Nozbe blog](https://nozbe.com/tags/teamproductivity?a=mike){:target='_blank'}. You can subscribe [on YouTube](https://www.youtube.com/playlist?list=PL4VGcOPPsP4O0dJlcJLoMiGEWSTOFYulO) or [as audio on Apple Podcasts](https://podcasts.apple.com/us/podcast/team-productivity-show/id1538743591)."
-- name: yearly
-  emoj: "🗓"
-  titl: "Yearly"
-  tit2: "My yearly reviews. Each blog post is a review of the past year with my hopes and dreams for the next one."
+- name: wrong
+  emoj: "☹️"
+  titl: "Wrong"
+  tit2: "Most of my posts about [life](/life/) are very positive. However, sometimes I write when I feel that something is wrong. It's not about complaining but critisizing an issue in constructive way."
 - name: webinars
   emoj: "📺"
   titl: "Webinars"
   tit2: "Webinars I've given as founder of [Nozbe](https://michael.gratis/nozbe){:target='_blank'} and as a personal and team productivity guy. Each one is packed with lots of time and project management tips and tricks I've learned over the years. Make sure to check them out and learn for free!"
+- name: yearly
+  emoj: "🗓"
+  titl: "Yearly"
+  tit2: "My yearly reviews. Each blog post is a review of the past year with my hopes and dreams for the next one."
   
 tags_pl:
 - name: gosc

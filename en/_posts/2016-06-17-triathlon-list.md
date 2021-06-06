@@ -1,5 +1,5 @@
 ---
-tags: [nozbehow,sports]
+tags: [nozbe,sports]
 img: "triathlon-list.jpg"
 ---
 
