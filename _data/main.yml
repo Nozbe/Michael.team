@@ -33,9 +33,9 @@ twitter: "MSliwinski"
 url_podcast: "https://thepodcast.fm/"
 url_podcast_name: "ThePodcast.fm"
 
-ad: "false" #"true" so it displays, everything else to not show it, like "false"
-ad_link: "https://nozbe.com/blog/14-birthday-promo-final-hours/"
-ad_text: "Final hours of 14th birthday 🎂 of Nozbe - GET 4 MONTHS FREE!"
+ad: "true" #"true" so it displays, everything else to not show it, like "false"
+ad_link: "https://nozbe.com/blog/summer-promo-extra-months-2021/"
+ad_text: "Only this week - ☀️ Summer offer 4️⃣! Get Nozbe - 4 MONTHS FREE!"
 
 descr: "[Hello](/now), I'm [Michael Sliwinski](/about), founder of [Nozbe](https://michael.gratis/nozbe){:target='_blank'} - to-do app for modern teams. I [write](/archive) [about](/tag) [productivity](/productivity), [#NoOffice](/nooffice), [#iPadOnly](/ipadonly/) and [I believe](/contact) that *work is not a place you go to, it's a thing you do.*"
 descr_pl: "Hej, tu [Michał Śliwiński](/pl/omnie), założyciel [Nozbe](https://michael.gratis/nozbe_pl){:target='_blank'} - aplikacji do zadań dla nowoczesnych zespołów. [Po polsku](/pl/archiwum) [piszę](/pl/tag) o [produktywności](/pl/imagazine). [Wierzę](/pl/kontakt), że *praca to nie jest miejsce do którego idziesz, ale to co robisz.*"
