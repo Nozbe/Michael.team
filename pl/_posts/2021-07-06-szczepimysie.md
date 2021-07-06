@@ -29,9 +29,9 @@ Poniższe odnośniki powinny rozwiać wątpliwości odnośnie szczepionki:
 
 * Jesteś wierzącym katolikiem? [Papież Franciszek nawołuje do szczepienia się](https://www.vaticannews.va/pl/papiez/news/2021-01/papiez-zacheca-do-sczepien-i-zapowiada-kiedy-sam-sie-zaszczepi.html)
 * Boisz się długoterminowych skutków szczepionek? [Szczepionki to jeden z największych sukcesów współczesnej nauki, który uratował życie milionom osób.](https://pl.wikipedia.org/wiki/Szczepionka)
-* A nie boisz się długoterminowych konsekwencji COVID-19, nawet jeśli przejdziesz wirusa bezobjawowo? [Poczytaj o nich. Ten wirus sieje spustoszenie.](https://pl.wikipedia.org/wiki/COVID-19)
+* A nie boisz się długoterminowych konsekwencji COVID-19, nawet jeśli przejdziesz wirusa bezobjawowo? [Poczytaj o nich. Ten wirus sieje spustoszenie w organiźmie.](https://pl.wikipedia.org/wiki/COVID-19)
 * Uważasz, że szczepionki to jest jakiś szybki eksperyment? [Poczytaj o technologii mRNA i ile lat nad nią pracowano.](https://pl.wikipedia.org/wiki/MRNA)
-* Uważasz, że nic Ci nie będzie? Wirus mutuje, [wersja Delta już się rozprzestrzenia i sieje kolejne żniwo. Rozprzestrzenia się 2X szybciej i zkaża 4X mocniej!](https://tvn24.pl/swiat/wariant-delta-koronawirusa-objawy-szczepionki-przypadki-w-polsce-5122689)
+* Uważasz, że nic Ci nie będzie? Wirus mutuje, [wersja Delta już się rozprzestrzenia i sieje kolejne żniwo. Rozprzestrzenia się 2X szybciej i zakaża 4X mocniej!](https://tvn24.pl/swiat/wariant-delta-koronawirusa-objawy-szczepionki-przypadki-w-polsce-5122689)
 * Boisz się szczepić dziecka? [Wirus może u nich spowodować długotrwałe problemy sercowe. Zobacz dlaczego warto!](https://www.medonet.pl/porozmawiajmyoszczepionce/szczepionka-na-covid-19,szczepienia-na-covid-19-u-dzieci-12---przewodnik-dla-rodzicow,artykul,93788601.html)
 * A jeśli ciągle uważasz, że nie ma COVID-19 i ta pandemia to jakiś spisek, to robisz straszną przykrość tym wszystkim, których rodzina i znajomi umarli a nie musieli. Zachęcam do odwiedzenia najbliższego szpitala i porozmawiania z lekarzami na oddziałach COVID-owych. Wystarczy zresztą popytać się znajomych - ja znam sporo osób, którym umarli najbliżsi a nie musieli!
 
