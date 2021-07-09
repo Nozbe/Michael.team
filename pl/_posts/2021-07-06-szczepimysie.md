@@ -28,6 +28,7 @@ Czyli w skrócie:
 Poniższe odnośniki powinny rozwiać wątpliwości odnośnie szczepionki:
 
 * Jesteś wierzącym katolikiem? [Papież Franciszek nawołuje do szczepienia się](https://www.vaticannews.va/pl/papiez/news/2021-01/papiez-zacheca-do-sczepien-i-zapowiada-kiedy-sam-sie-zaszczepi.html)
+* W Polsce też szczepienia popiera [Kardynał Nycz i otworzył w Świątyni Opatrzności Bożej punkt szczepień!](https://www.polsatnews.pl/wiadomosc/2021-07-06/kardynal-nycz-apeluje-do-proboszczow-ws-szczepien/)
 * Boisz się długoterminowych skutków szczepionek? [Szczepionki to jeden z największych sukcesów współczesnej nauki, który uratował życie milionom osób.](https://pl.wikipedia.org/wiki/Szczepionka)
 * A nie boisz się długoterminowych konsekwencji COVID-19, nawet jeśli przejdziesz wirusa bezobjawowo? [Poczytaj o nich. Ten wirus sieje spustoszenie w organiźmie.](https://pl.wikipedia.org/wiki/COVID-19)
 * Uważasz, że szczepionki to jest jakiś szybki eksperyment? [Poczytaj o technologii mRNA i ile lat nad nią pracowano.](https://pl.wikipedia.org/wiki/MRNA)
