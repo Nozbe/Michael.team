@@ -3,7 +3,7 @@ tags: [gosc,produktywnosc]
 img: "piateczki.jpg"
 ---
 
-# O piąteczkach w Nozbe w prasie w Polsce - Fakt, Wprost, Bankier, itd..
+# O piąteczkach w Nozbe w prasie w Polsce - InnPoland, Bankier, Fakt, Wprost itd..
 
 Ostatnio znowu wypłynął temat [„piąteczków w Nozbe”](https://NoOffice.org/piatek) i prasa o tym zaczęła pisać. Nagle pojawiły się podobne artykuły wspominające naszą firmę i fakt, że w piątki u nas nie pracujemy nad bieżącymi sprawami, tylko skupiamy się na przeglądzie tygodnia i rozwoju osobistym.
 
