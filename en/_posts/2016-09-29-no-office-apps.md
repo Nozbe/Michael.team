@@ -3,7 +3,7 @@ tags: [webinars,video]
 vid: "5V6X4GJwAkQ"
 ---
 
-# No Office Apps - how to work effectively in an all-remote team using moder
+# No Office Apps - how to work effectively in an all-remote team using modern technologies
 
 Recording of my [Nozbe][n] webinar that shows off which apps we use in our all-remote team.
 
