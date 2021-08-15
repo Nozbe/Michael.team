@@ -27,7 +27,7 @@ TODO: Support exclusion of tags for index.
   
   <h2><a href="{{ post.url }}" title="{{ post.title }}">{% include tags.post.html tags=post.tags short="true" %} {{ post.title }}</a></h2>
   {% include lang.date.html date=post.date %}
-  <div class="date">{{ langdate }}</div>
+  <div class="date">{{ langdate }} <span class="small">{{ post.url }}</span></div>
  {% if include.more %}
   {% if post.cover %}{% assign postimage = post.cover %}{% elsif post.img %}{% assign postimage = post.img %}{% else %}{% assign postimage = nil %}{% endif %}
   {% if postimage %}

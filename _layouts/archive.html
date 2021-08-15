@@ -52,7 +52,7 @@ layout: page
     {% for post in month.items %}
       <h3><a href="{{ post.url }}">{% include tags.post.html tags=post.tags short="true" %} {{ post.title }}</a></h3>
       {% include lang.date.html date=post.date %}
-      <div class="date">{{ langdate }}</div>
+      <div class="date">{{ langdate }} <span class="small">{{ post.url }}</span></div>
     {% endfor %}
   {% endfor %}
 {% endfor %}
