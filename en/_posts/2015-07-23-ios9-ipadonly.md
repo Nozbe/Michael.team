@@ -1,5 +1,5 @@
 ---
-tags: [ipadonly]
+tags: [ipadonly,imagazine]
 img: "ios9-ipadonly.jpg"
 ---
 
