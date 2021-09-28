@@ -1,6 +1,6 @@
 ---
 permalink: /thanks/
-vid: "pWtl7n_Cg7c"
+vid: "p5dDYu08Wc4"
 img: thanks.jpg
 share: noshow
 email: noshow
@@ -16,7 +16,7 @@ Welcome to my "inner circle"! Let me thank you personally:
 
 In a few moments you'll receive an email confirmation with the subject line: “Thanks for joining! Here are the links to my books...”
 
-… where you'll get links to PDF, Kindle and iBooks versions of my books: [It's All About Passion](https://sliwinski.com/passion) (already read by more than 10,000 people!) and the most recent [No Office Apps](https://sliwinski.com/apps/)
+… where you'll get links to PDF, Kindle and iBooks versions of my books: [It's All About Passion](https://sliwinski.com/passion) (already read by more than 10,000 people!) and the most recent [No Office Apps](/apps/)
 
 ![{{ page.title }}](/img/{{ page.img }})
 
