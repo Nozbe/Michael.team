@@ -1,6 +1,6 @@
 ---
 permalink: /apps/
-img: "noofficeappsbook.jpg"
+cover: "noofficeappsbook.jpg"
 ---
 
 # BOOK: No Office Apps
@@ -11,7 +11,7 @@ img: "noofficeappsbook.jpg"
 
 ## [Subscribe to my Newsletter for ePub, Mobi or PDF version of "No Office Apps"](/newsletter)
 
-![{{ page.title }}](/img/{{ page.img }})
+![{{ page.title }}](/img/{{ page.cover }})
 
 ### In this book I discuss the concept of "Pyramid of Communication" - which helps me and my team communicate effectively to get everything done. [See Table of Contents](#toc)
 
@@ -30,6 +30,9 @@ This book is based on my company’s concept of [pyramid of communication](https
 ## "No Office Apps" - Table of Contents
 
 Below is the table of contents with quotes from my book. This way you'll have a better "feel" of the book and its contents. You'll quickly see why a simple article on the pyramid of communication wasn't enough and I had to convert it to an entire book:
+
+* TOC
+{:toc}
 
 ### Introduction: Where are you based?
 
