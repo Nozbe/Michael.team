@@ -27,9 +27,6 @@ Alternatively, you can buy the book on [Amazon Kindle Store](http://MNoz.be/0k) 
 
 ## "It's all about Passion!" - Table of Contents
 
-* TOC
-{:toc}
-
 Below is the table of contents with quotes from my book. This way you'll have a better "feel" of the book and its contents. I also included the quotes from my friends who contributed to the book. Feel free to tweet them if you like. Thank you for spreading your passion!
 
 ### Introduction: My first passionate startup

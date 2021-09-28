@@ -31,9 +31,6 @@ This book is based on my company’s concept of [pyramid of communication](https
 
 Below is the table of contents with quotes from my book. This way you'll have a better "feel" of the book and its contents. You'll quickly see why a simple article on the pyramid of communication wasn't enough and I had to convert it to an entire book:
 
-* TOC
-{:toc}
-
 ### Introduction: Where are you based?
 
 > "Q: Where are you based? A: We don’t have an office. We all work from home..."
