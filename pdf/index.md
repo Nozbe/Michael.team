@@ -12,7 +12,7 @@ lang: en
 
 ### [Polish site](/pl/archiwum) 🇵🇱
 
-- [W Gazecie Wyborczej o piąteczkach](/pl/gazeta/)
+- [W Gazecie Wyborczej o piąteczkach](/pl/wyborcza/)
 
 ### [Spanish site](/es/archivo) 🇪🇸
 
