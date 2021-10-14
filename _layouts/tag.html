@@ -11,6 +11,7 @@ layout: default
 <div class="entry">
 	{{ tag_subtitle | markdownify }}
 	{% include podcast.html id=tag_name %}
+	{% if page.url == "news" %}<div class="box">{% include email.html %}</div>{% endif %}
 	{% if page.limit %}{% assign tag_limit = page.limit %}
 		{%else %}{% assign tag_limit = 10 %}{% endif %}
 </div>

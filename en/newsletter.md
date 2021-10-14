@@ -7,7 +7,7 @@ email: noshow
 
 # Sign up for Michael.Team's Monthly Newsletter
 
-Join my inner circle and as a *thank you* download two of my best-selling books: [It's All About Passion](https://sliwinski.com/passion) and [No Office Apps](https://sliwinski.com/apps/). Receive regular updates on my writing, especially my progress on the [The No Office book](/nooffice).
+Join my inner circle and as a *thank you* download two of my best-selling books: [It's All About Passion](/passion/) and [No Office Apps](/apps/). Receive regular updates on my writing, especially my progress on the [The No Office book](/nooffice/).
 
 ## Join my mailing list
 
@@ -16,6 +16,8 @@ Join my inner circle and as a *thank you* download two of my best-selling books:
 </div>
 
 ![{{ page.title }}](/img/{{ page.img }})
+
+As my newsletter subscriber every month you'll receive 3 things: an actionable productivity tip, an update on my writing with highlights from my [#NoOffice FM podcast](/noofficefm) and the progress report on the [NoOffice book](https://NoOffice.org/) and… I might ask you for your feedback! Fill out the form below to join my *inner circle*! See you on the other side!
 
 ## What you'll receive every month
 
