@@ -4,7 +4,7 @@ layout: default
 
 <article class="page" id="page">
 {% include tags.html %}
-<header><div class="headerblack">
+{% if page.cover %}<header style="background: url('{{ site.url }}/img/{{ page.cover }}') center center / cover no-repeat; min-height: 400px;"><div class="header">{% else %}<header><div class="headerblack">{% endif %}
 	<h1>{{ tag_emoji }} {{ tag_title }}</h1>
 </div></header>
 

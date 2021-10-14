@@ -14,10 +14,10 @@ testing!
 
 ## Variables
 
-Title: {{ page.title }}
+page.title: {{ page.title }}
 
-URL: {{ page.url}}
+page.url: {{ page.url}}
 
-Name: {{ page.name }}
+page.name: {{ page.name }}
 
-Slug: {{ page.slug }}
+<div class="date"><a href="{{ page.url}}">Thursday, October 14</a></div>
