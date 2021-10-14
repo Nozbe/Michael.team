@@ -259,6 +259,10 @@ article > nav {
 .date {
 	color: $textG;
 	font-style: italic;
+	a {
+		color: $textG;
+		text-decoration: underline;
+	}
 }
 
 .small {
