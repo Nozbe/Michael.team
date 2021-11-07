@@ -11,6 +11,8 @@ function getPrevNext(slug) {
 	let prevnext = document.createElement('div');
 	prevnext.setAttribute('id','prevnext');
 	document.querySelector('footer').prepend(prevnext);
+	//lang detect - if the fourth char is / then get the first three chars
+	let lang = (slug.slice(3,4) == '/') ? slug.slice(0,3) : '';
 	//let's define vars and get on with it
 	let prevTitle = ''; //title of previous post
 	let prevSlug = ''; //slug of previous post
@@ -18,7 +20,7 @@ function getPrevNext(slug) {
 	let nextSlug = ''; //slug of next post
 	let thisTitle = ''; //title of this slug
 	let tempTitle = ''; //temporary title
-	fetch(URL + POSTS)
+	fetch(URL + lang + POSTS)
 	.then((response) => response.text())
 	.then((responseText) => {
 		let posts = JSON.parse(responseText, function(key, value) {
