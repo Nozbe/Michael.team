@@ -5,6 +5,71 @@
 const URL = "https://michael.team"; //my main domain
 const POSTS = "/searchposts.json"; //json with all the posts
 
+//get related links based on the tag of the current blog post
+function getRelated(slug) {
+	// let's add "#prevnext to footer of the blog post"
+	let related = document.createElement('div');
+	related.setAttribute('id','related');
+	let lang = (slug.slice(3,4) == '/') ? slug.slice(0,3) : ''; //lang detect
+	related.innerHTML = '<h3>Related posts</h3>';
+	if (lang == '/pl') related.innerHTML = '<h3>Podobne wpisy:</h3>';
+	if (lang == '/es') related.innerHTML = '<h3>Entradas relacionadas:</h3>';
+	related.style.visibility = "hidden"; //we hide it first, before we show all of the posts
+	document.querySelector('footer').append(related);
+	let tempTag = '';
+	let slugTag = '';
+	let counter = 0; //count to 3 related posts
+	let tempTitle = '';
+	let tempSlug = '';
+	let addTag = false; //add this?
+	fetch(URL + lang + POSTS)
+	.then((response) => response.text())
+	.then((responseText) => {
+		let posts = JSON.parse(responseText, function(key, value) {
+		if (key == 'tags') tempTag = value;
+		if (key == 'url') {
+			if (value == slug) {
+				let mytags = tempTag.split(', ');
+				for (let name of mytags) {
+					if (name != 'video') { //we skip the video tag
+						slugTag = name;
+						break;
+					} else continue;
+				}
+			}
+		}
+		});
+		posts = JSON.parse(responseText, function(key, value) {
+			if (key == 'title') { tempTitle = value; } //we get the title of the current item
+			if (key == 'emoji') { tempTitle = value + ' ' + tempTitle; } //we add emoji to it
+			if (key == 'tags') {
+				if (value.indexOf(slugTag)>=0){ // it contains a tag we seek
+					if (counter<3) addTag = true; else addTag = false;
+				} else addTag = false;
+			}
+			if (key == 'url') {
+				if (value == slug) addTag = false;
+				if (addTag) {
+					counter++;
+					addRelated(value,tempTitle);
+				}
+			}
+		});
+	})
+	.catch((error) => {
+		console.error(error)
+	})
+}
+
+//add related links below the blog post
+function addRelated (slug, title) {
+	let related = document.createElement('a');
+	related.setAttribute('href', URL + slug);
+	related.innerHTML = goodTitle (title);
+	document.querySelector('#related').style.visibility = "visible";
+	document.querySelector('#related').append(related);
+}
+
 //getting previous (older) and next post (newer) for the current post
 function getPrevNext(slug) {
 	// let's add "#prevnext to footer of the blog post"
