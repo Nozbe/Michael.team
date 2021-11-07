@@ -7,9 +7,9 @@ layout: nil
     {{ comma }}
     {
       "title"    : "{{ post.title | escape }}",
+      "emoji"    : "{% include tags.post.html tags=post.tags short="true" %}",
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ post.url }}",
-      "emoji"    : "{% include tags.post.html tags=post.tags short="true" %}",
       "date"     : "{{ post.date }}"
       {% comment %}We can add here later descriptions (excerpts), tag names or tag icons (or put tag data in a different JSON) and post.img (main images of posts){% endcomment %}
     }
