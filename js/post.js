@@ -43,7 +43,7 @@ function getRelated(slug) {
 			if (key == 'title') { tempTitle = value; } //we get the title of the current item
 			if (key == 'emoji') { tempTitle = value + ' ' + tempTitle; } //we add emoji to it
 			if (key == 'tags') {
-				if (value.indexOf(slugTag)>=0){ // it contains a tag we seek
+				if (findTags(slugTag,value)) { // it contains a tag we seek
 					if (counter<3) addTag = true; else addTag = false;
 				} else addTag = false;
 			}
@@ -136,4 +136,14 @@ function goodTitle (title) {
 	return title
 		.replace('&amp;amp;','&')
 		.replace('&#39;',"'");
+}
+
+//finding tags in the comma-separated tag list - dupicated from scripts.js
+function findTags(tag,tags) {
+	let mytags = tags.split(', ');
+	let result = false;
+	for (let name of mytags) {
+		if (name == tag) result = true;
+	}
+	return result;
 }
