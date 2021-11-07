@@ -1,10 +1,15 @@
 ---
 permalink: /test/
+tags: [guest,video]
 ---
 
 # Testing playground
 
 ?
+
+Look:
+
+{{ page.tags }}
 
 time for a plan!
 

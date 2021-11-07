@@ -314,6 +314,7 @@ sup {
 		float: left;
 		margin: 1em 0;
 		padding: 0 1em;
+		text-decoration: none;
 		@include mobile {
 			float: none;
 			width: 100%;
