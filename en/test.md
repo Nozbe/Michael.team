@@ -9,7 +9,7 @@ tags: [guest,video]
 
 Look:
 
-{{ page.tags }}
+
 
 time for a plan!
 
@@ -24,3 +24,5 @@ page.title: {{ page.title }}
 page.url: {{ page.url}}
 
 page.name: {{ page.name }}
+
+page.tags: {{ page.tags }}

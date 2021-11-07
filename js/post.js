@@ -15,7 +15,7 @@ function getRelated(slug) {
 	if (lang == '/pl') related.innerHTML = '<h3>Podobne wpisy:</h3>';
 	if (lang == '/es') related.innerHTML = '<h3>Entradas relacionadas:</h3>';
 	related.style.visibility = "hidden"; //we hide it first, before we show all of the posts
-	document.querySelector('footer').append(related);
+	document.querySelector('footer').prepend(related);
 	let tempTag = '';
 	let slugTag = '';
 	let counter = 0; //count to 3 related posts
