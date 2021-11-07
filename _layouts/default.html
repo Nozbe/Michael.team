@@ -62,6 +62,9 @@
 <link rel="icon" type="image/png" href="{{ site.avatar }}">
 <base target="_parent">
 <script src="https://hello.michael.team/script.js" async></script>
+{% if page.layout == "post" %}
+<script type="text/javascript" src="{{ site.url }}/js/post.js"></script>
+{% endif %}
 {% if page.js %}
 {% if page.js == "redirect" %}
 <meta http-equiv="Refresh" content="60; url=https://michael.team/" />
