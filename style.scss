@@ -303,6 +303,32 @@ sup {
 	font-size: smaller;
 }
 
+#prevnext {
+	display: block;
+	width: auto;
+	overflow: hidden;
+	
+	a {
+		display: block;
+		width: 50%;
+		float: left;
+		margin: 1em 0;
+		padding: 0 1em;
+		@include mobile {
+			float: none;
+			width: 100%;
+			text-align: center;
+		}
+	}
+
+	.next {
+		text-align: right;
+		@include mobile {
+			text-align: center;
+		}
+	}
+}
+
 blockquote {
 	padding: 0.1em 1em;
 	margin: 1em;
