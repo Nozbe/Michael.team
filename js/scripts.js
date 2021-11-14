@@ -54,9 +54,7 @@ function getPostTag(tag, where, what = "add") {
 	.then((responseText) => {
 		let posts = JSON.parse(responseText, function(key, value) {
 			if (key == 'tags') {
-				if (findTags(tag,value))
-				let tags = value;
-				if (tags.indexOf(tag)>=0){ //if it contains a tag we seek
+				if (findTags(tag,value)) { //if it contains a tag we seek
 					if (!counter) mytag = true;
 				}
 			}
