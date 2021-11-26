@@ -64,6 +64,12 @@ Now that you look good, there is a pro-tip that Seth mentioned in his article - 
 
 This is glorious. We as humans are not designed to be staring at ourselves through the mirror all day.
 
+## The result? I'm looking great!
+
+As I mentioned in my [Home Office '22 post](/office22/) the result is stunning and I hope people appreciate this:
+
+![{{ page.title }} bokeh](/img/office22-5.jpg)
+
 ## That's it - enjoy your better video calls and interviews!
 
 This setup is not cheap, but if that's what you're doing professionally, it's worth it! My version cost me:
