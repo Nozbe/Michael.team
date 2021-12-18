@@ -5,6 +5,7 @@ redirect_from:
  - /passionbook-21/
 part: one
 title: "Passion 7: Synergies"
+subtitle: "You will notice that passionate people attract other passionate people!"
 ---
 
 ![It's all about passion - 21](/passionbook-21.jpg)

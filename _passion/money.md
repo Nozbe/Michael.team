@@ -5,6 +5,7 @@ redirect_from:
  - /passionbook-05/
 part: one
 title: "Passion 1: Money"
+subtitle: "You will develop a healthy passion for money!"
 ---
 
 ![It's all about passion - chapter 2.1](/passionbook-05.jpg)
