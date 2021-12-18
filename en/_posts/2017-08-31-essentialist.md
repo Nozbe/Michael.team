@@ -312,6 +312,15 @@ Further reading:
 * Watch my [interview with Greg McKeown](https://sliwinski.com/greg-mckeown)
 * Or [read the interview in the last issue of the Productive! Magazine](http://productivemag.com/34/interview-with-greg-mckeown)
 
+
+## Bonus: Essentialism Visual Synopsis
+
+[Dani Saveker](https://twitter.com/DaniSaveker/status/1469354113683148803) prepared a great [Visual Synopsis of Essentialism](https://www.visualsynopsis.com/full-collection/essentialism-greg-mckeown-visual-synopsis-by-dani-saveker):
+
+![Visual Synopsis of Essentialism](/img/essentialist-3.jpg)
+
+
+
 [d]: http://db.tt/kD7Liux
 [t]: https://twitter.com/MSliwinski
 [p]: /podcast
