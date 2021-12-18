@@ -33,7 +33,7 @@ Why am I asking for this? It's because I want to write a new book next year and 
 
 Yes, that's it for today. Let's chat. I'll write to you again later this month.
 
-*Question: What did you think about [my book about 7 types of passion?](https://sliwinski.com/passsion)*
+*Question: What did you think about [my book about 7 types of passion?](/passion/)*
 
 [promo]: http://nozbe.com/blog/thanks2014
 [iMagazine]: http://iMagazine.pl

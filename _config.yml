@@ -103,9 +103,9 @@ defaults:
     values:
       layout: "book"
       book: "passion"
+      permalink: /:title/
 
-
-# Book collection (optional)
+# Book collection
 collections:
   passion:
     output: true

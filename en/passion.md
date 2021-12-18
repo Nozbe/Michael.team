@@ -1,6 +1,7 @@
 ---
 permalink: /passion/
 cover: "passion.jpg"
+book: passion
 ---
 
 # BOOK: It's all about Passion!
@@ -10,6 +11,11 @@ cover: "passion.jpg"
 ### By me (Michael Sliwinski), published on May 20, 2014 (my 35th birthday!)
 
 ## [Subscribe to my Newsletter for ePub, Mobi or PDF version of "It's all about passion!"](/newsletter)
+
+{% include book.html %}
+
+{% include book_toc.html %}
+
 
 Alternatively, you can buy the book on [Amazon Kindle Store](http://MNoz.be/0k) - all of my royalties from these sales will go to children-helping charities.
 
