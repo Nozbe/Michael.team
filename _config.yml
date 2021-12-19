@@ -103,6 +103,7 @@ defaults:
     values:
       layout: "book"
       book: "passion"
+      lang: "en"
 
 # Book collection
 collections:

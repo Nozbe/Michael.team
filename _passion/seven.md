@@ -5,6 +5,7 @@ redirect_from:
 part: one
 title: "7 Types of Passion"
 subtitle: "Let's start discovering 7 different types of passion!"
+excerpt: "Passion shows up in many shapes and forms and you just don't get to be passionate about one thing or one aspect of your company. There are many types of passion and over here I'd like to comment on the ones I have discovered and that have played the major role in my success."
 ---
 
 ![It's all about passion - chapter 1.1](/img/passionbook-03.jpg)
