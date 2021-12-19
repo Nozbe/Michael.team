@@ -5,6 +5,7 @@ redirect_from:
 part: one
 title: "Passion 2: Solution"
 subtitle: "You will develop a passion for figuring out a solution!"
+excerpt: "A startup in theory should be solving some real-life problems and making people's lives all around the world easier."
 ---
 
 ![It's all about passion - 8](/img/passionbook-08.jpg)
@@ -26,8 +27,6 @@ That's why it's so important to understand your startup's mission as way to solv
 The best way to find a problem to solve is to actually look at the stuff that's bothering you and see if you can make it better. Just see if you can scratch what's itching you the most. Usually that's the best start. If you're genuinely interested in solving the particular problem, chances are you'll have more passion and drive to pursue a solution and maybe even build a startup business around it.
 
 Just see what's really bothering you and do some research for available solutions out there. See what works and what doesn't and what is really popular. Chances are you will be thinking: "I know I can do better than that!". If that's the case, go for it.
-
-...
 
 When you're passionate about the solution, you'll know exactly where your product will be headed. You'll just instinctively know which features help you build a stronger and better solution and which don't. You won't feel the urge to solve all the world's problems with your startup. You'll stay focused on your solution.
 
@@ -59,8 +58,6 @@ You'll have plenty of time to make the leap and take it full time. I started my 
 I'm not the only one here. 37signals, the now-famous web-app company was still doing the client work the first year they launched Basecamp - their flagship project management solution. Only after one full year they decided to "ditch the clients" and focus on their web-app. Bob Parsons, now CEO of GoDaddy - the world's most successful domain registrar, started his business of accounting software in the evenings and he failed to get traction his first three years. He persisted and after a few years sold his company to Intuit for millions of dollars.
 
 Only after a year of running Nozbe I decided to take the leap and to work on Nozbe full-time. I hired my first programmer mid-2008 and now after all these years he's still with me and he's my CTO (Chief Technical Officer) and we are working together perfectly. I also hired my first customer-support person and now she runs my entire customer support department. We are like three musketeers.
-
-...
 
 The point of the story is to highlight that if you're passionate about your solution and if you have enough patience, you'll eventually succeed. It takes time and a lot of hard work, but eventually it does work out. My advice would be not to bet it all too early on your new thing by dropping everything else, but to bet everything in a sense of working on this every evening, step by step.
 

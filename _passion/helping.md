@@ -6,11 +6,13 @@ redirect_from:
 part: one
 title: "Passion 6: Helping"
 subtitle: "You will develop a passion for helping others!"
+excerpt: "To help others do something more efficiently and easily. That's especially what the Startup businesses are all about. I created Nozbe to solve my own time-management problems."
 ---
 
 ![It's all about passion - 18](/img/passionbook-18.jpg)
 
-> "The two most important days in your life are the day you are born and the day you find out why." - Mark Twain
+> "The two most important days in your life are the day you are born and the day you find out why."
+> - Mark Twain
 
 * TOC
 {:toc}
@@ -20,8 +22,6 @@ subtitle: "You will develop a passion for helping others!"
 As we discussed in the previous chapters, businesses are being created to solve problems. To help others do something more efficiently and easily. That's especially what the Startup businesses are all about. I created Nozbe to solve my own time-management problems.
 
 By solving my own problem I found out there are other "Michaels" out there and many more folks have the same problem. Now, every day I know there are thousands upon thousands of people and companies that rely on my software to manage their lives. I literally make their lives better by providing this service. This feeling is incredible. And when I receive emails from the people saying how thankful they are for my solution, I'm the happiest person alive.
-
-...
 
 Here's where the passion to help kicks in. When we design our stuff, we are focused on helping others. We make decisions based on this. We keep asking ourselves "will this new feature really help or will it just be a nice thing to have"... and then we decide. Again, we are here to help, and many more startups must understand that this kind of passion is really necessary to build a fantastic product and run a passionate startup.
 
@@ -98,7 +98,7 @@ When I came back to Tokyo with this new feature built I felt an earthquake every
 
 When you solve your own problem by building a startup you never know if you're this weird person who just happens to have this stupid issue with something or are there more people struggling with the same thing and can be helped. When you realize there are thousands (if not millions) of people who also need help through your solution, it's a surprise that brings a smile to your face and makes you feel great every morning waking up.
 
-1. Surprised by impact and reciprocity
+### 1. Surprised by impact and reciprocity
 
 When you help, you have an impact on others. And as they say: "what goes around comes around". You'll be surprised by the impact your help evokes and by the number of beautiful emails you'll receive from people all around the world.
 
@@ -106,7 +106,7 @@ You know, I'm just this guy from Poland, a country in the Central-Eastern Europe
 
 What's even more surprising is the reciprocity that I experience every single day. People give back when you help. They want to help you, too. Thanks to my passion to help I connected with people from all over the world I'd never think I'd be able to connect to.
 
-2. Surprised how you get better at helping
+### 2. Surprised how you get better at helping
 
 When you're passionate about helping, you get new ideas. Just like my sudden idea of a public project feature in the moment of experiencing the biggest earthquake in Japan. The passion to help works subconsciously inside of you and your organization and you get great ideas just because you care. And because those around care as much as you.
 

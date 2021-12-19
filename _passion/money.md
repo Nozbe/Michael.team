@@ -6,6 +6,7 @@ redirect_from:
 part: one
 title: "Passion 1: Money"
 subtitle: "You will develop a healthy passion for money!"
+excerpt: "Money rules the world we live in right now. No doubt about that. But it's not what it's all about. Money is just a means to an end - a happy, fulfilled life."
 ---
 
 ![It's all about passion - chapter 2.1](/img/passionbook-05.jpg)
@@ -36,7 +37,7 @@ When you're running a startup you should be passionate about money in a sense of
 
 It's your job to look at the money as a means to build a successful company and not be blinded by the millions of dollars you think you're going to have. Probably you never will cash in these millions. Yet if you do, you will not care about it anyway at this point. This is how it works.
 
-Donald Trump in several interviews said he had more money he ever needed and he didn't care, all he cared was making great deals. When you follow your passions you will get there. And you'll love it. Several studies proved that if people had enough money to cover their basic needs, they stop caring about it altogether. I can testify it's true... and that your passion will get you there.
+Several studies proved that if people had enough money to cover their basic needs, they stop caring about it altogether. I can testify it's true... and that your passion will get you there.
 
 These days I'm crazy about the revenue and I'm watching it very closely, comparing to the previous months, looking at the increase or decrease of sales, making sure my costs don't sink our ship. I care about the "healthy revenue" and not the amount of cash in my bank account.
 
@@ -64,7 +65,7 @@ I built my first copycat web-based product right after college in 2004 and showe
 
 ![It's all about passion - chapt 2_2](/img/passionbook-06.jpg)
 
-### When you're only motivated by money - you will lose
+## When you're only motivated by money - you will lose
 
 Everything was going as I had planned. Then suddenly one competitor showed up. And another. And one more... and my unique "business opportunity" space started getting crowded.
 
@@ -79,7 +80,7 @@ It's so easy to give up if you don't become rich and famous quickly which was al
 Do you think I learned my lesson? Well, not quite. I built a second "copycat business" in 2005 and again, after some initial traction and first customers, I thought I was on to something. But the story did repeat itself. First problems arouse and I started giving up. Finally I surrendered. Again. This time around I was certain I'd never have a chance at building my own web based business. It wasn't meant to be for me. Little did I know that a small task management tool I built "on the side" for my own purposes will become my main business and calling...
 
 >"Building startups is really in fashion now. Unfortunately very often it comes down to a "Startup Lifestyle" which means pretending that you're doing a "cool project" sitting in a cafeteria with your Macbook. The truth is, a startup is simply a fast-growing company where there's no time to lose. You just have to work a lot. Like crazy lot. And you can only do it with passion."
->Art Kurasinski, blogger, co-founder of Fokus
+>- Art Kurasinski, blogger, co-founder of Fokus
 
 ## My startup idea found me...
 

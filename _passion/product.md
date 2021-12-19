@@ -6,6 +6,7 @@ redirect_from:
 part: one
 title: "Passion 3: Product"
 subtitle: "You will develop a passion for your product!"
+excerpt: "Every startup builds a product or service. A service is a product itself so let's cut it short to the fact, that whatever your startup is building, is a product."
 ---
 
 ![It's all about passion - 10](/img/passionbook-10.jpg)
@@ -25,8 +26,6 @@ My Nozbe is my product. I built it because I needed it. Not because I wanted to 
 ## Every startup product is in constant "beta"
 
 When Gmail (Google Mail) launched in beta it stayed like this for more than two years... and then they removed the "beta" sign... although they could have kept it indefinitely. Gmail keeps on evolving, changing and getting better. It really is at beta stage all of the time.
-
-...
 
 Same applies to your startup product. If you're passionate about it - you want to constantly improve it. You want it better every day. You physically suffer if it doesn't meet your expectations... and it never does. Because you know it can be so much better.
 

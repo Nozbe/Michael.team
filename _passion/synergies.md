@@ -6,11 +6,13 @@ redirect_from:
 part: one
 title: "Passion 7: Synergies"
 subtitle: "You will notice that passionate people attract other passionate people!"
+excerpt: "People who are passionate about something want to share their passion with others. This gives them great energy to be passionate even more. And the best of all is if they share their passion with someone who's also passionate about something. Anything. These can be totally different passions. It doesn't matter. Where there is passion involved, there is love and love is all we need and are supposed to share, right?"
 ---
 
 ![It's all about passion - 21](/img/passionbook-21.jpg)
 
->"I would rather die of passion than of boredom" - Vincent van Gogh, painter
+>"I would rather die of passion than of boredom"
+>- Vincent van Gogh, painter
 
 * TOC
 {:toc}
@@ -45,8 +47,6 @@ Passionate people will be happy to talk to you. All you need to ask them is what
 I work from home. I love my work. I'm passionate about it and every now and then I need to share my passion and make sure I'm not the only weird and crazy out there. Everyone needs this kind of validation and a little bit of social support. And as mentioned earlier - if you're passionate about something, you want to share it.
 
 That's why when I moved to a new city I started searching for meet-ups of people who are alike. Of people who'd share my passion and who'd understand me. I needed a reason to leave my home office and spend some time with folks as weird as me. I found and attended these kinds of meet-ups. And I had a blast each time.
-
-...
 
 Later when I moved again and couldn't find similar events, I went ahead and found conferences in my industry across Europe and started going there every now and then. Again, meeting the same passionate weirdos like myself helped and pumped me even more. And I learned a lot from other passionate guys and gals and these stories proved to be the much-needed fuel for me to get going even more.
 

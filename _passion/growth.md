@@ -6,11 +6,13 @@ redirect_from:
 part: one
 title: "Passion 5: Growth"
 subtitle: "You will develop a passion for growing and growth!"
+excerpt: "It takes a little more time to find this passion but at some point you realize you want to care for growth a lot more. I'm passionate about our growth, our growing user base and our growing team. It's amazing to see things getting better and people getting better. It's a very rewarding passion to find."
 ---
 
 ![It's all about passion - 15](/img/passionbook-15.jpg)
 
->*"It's never too late to be what you might have been." - George Eliot*
+>"It's never too late to be what you might have been."
+>- George Eliot
 
 
 * TOC
@@ -20,8 +22,6 @@ subtitle: "You will develop a passion for growing and growth!"
 ## Growing for the sake of growing
 
 Many startups which become funded by the VCs have too much money in their bank account and feel the urge to spend it quickly... so they start growing for the sake of growing. They just feel they need to grow their team and company really quickly although they have no clue how to do it. They are passionate about spending money on growth, not on the growth itself.
-
-...
 
 ## When your startup takes off, you grow with it
 
@@ -45,8 +45,6 @@ Running a startup business is not a walk in the park. Things don't always go the
 Big companies usually fear change and do everything in their power to maintain the status quo. They see change as the enemy and employ all of their resources to bring back the "old way of doing things". Don't take this route. Never.
 
 Nozbe was initially built as a web application and with developments of HTML5 and projects like Chrome OS from Google I was confident we should be just improving our web site and not focus on installable apps.
-
-...
 
 The iOS App store and Mac App store and all the other places of app distribution proved me wrong. We had to adjust our strategy and treat our web-app as a web service with a great API and focus on building installable, "native" apps. Our customers loved the idea but were anxious to wait as we built these apps. It still is a steep learning curve. We learned a lot more about our tool, our users and our mission by building a whole array of apps for all the major platforms: Android, Mac, Windows and of course the iPhone and the iPad.
 
@@ -139,8 +137,6 @@ You grow, you learn, and you will be surprised how it improves your life and tho
 ## When you help people around you grow, you want to grow that circle of influence even more
 
 Out of your passion for growth comes the next one: to help others. In the next chapter I'll tell you an incredible story that happened to me upon my first visit to Japan. There will be drama, earthquake, tsunami... and lots of passion to deal with all this...
-
-
 
 [Nozbe]: http://Nozbe.com/
 [a]: http://mnoz.be/0k
