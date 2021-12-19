@@ -8,7 +8,7 @@ title: "Passion 5: Growth"
 subtitle: "You will develop a passion for growing and growth!"
 ---
 
-![It's all about passion - 15](/passionbook-15.jpg)
+![It's all about passion - 15](/img/passionbook-15.jpg)
 
 >*"It's never too late to be what you might have been." - George Eliot*
 
@@ -31,7 +31,7 @@ But passion for growth doesn't end by just hiring more people. It combines all t
 
 It takes a little more time to find this passion but at some point you realize you want to care for growth a lot more. I'm passionate about our growth, our growing user base and our growing team. It's amazing to see things getting better and people getting better. It's a very rewarding passion to find.
 
-![It's all about passion - 16](/passionbook-16.jpg)
+![It's all about passion - 16](/img/passionbook-16.jpg)
 
 >*“Remind your Team about your Mission and why it matters. Say it over email. Say it in meetings. Say it all the time. Say it with meaning and passion. Your team needs to be reminded that what they’re doing matters and that you’re insanely passionate about it. They’re not as invested in it as you are and you need to lead by example. If you’re not insanely passionate about your mission, maybe it’s time to kill your startup.”*
 - Ryan Carson, co-founder of Treehouse
@@ -78,7 +78,7 @@ This experience not only helped me develop the user base of my web app but also 
 
 The passion and drive to build a great product and swiftly ship an iPhone and iPad app taught me to decide quickly. I grew a lot from the experience. It was a good decision and it helped my company grow, too. After a few years, when we realized how important the mobile platforms are to our business, we decided to reverse the decision and built our own free mobile apps for our customers. And we did. And now we're taking it to a whole new level with Nozbe 2.0.
 
-![It's all about passion - 17](/passionbook-17.jpg)
+![It's all about passion - 17](/img/passionbook-17.jpg)
 
 ## Be passionate about growing as a leader
 

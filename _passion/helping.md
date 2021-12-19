@@ -8,7 +8,7 @@ title: "Passion 6: Helping"
 subtitle: "You will develop a passion for helping others!"
 ---
 
-![It's all about passion - 18](/passionbook-18.jpeg)
+![It's all about passion - 18](/img/passionbook-18.jpg)
 
 > "The two most important days in your life are the day you are born and the day you find out why." - Mark Twain
 
@@ -53,7 +53,7 @@ Basecamp (formerly 37signals) build very simple to use web apps that let you man
 These companies are really passionate about helping others. This makes them even more successful. They have raving fans (and not simply "customers") and they are doing really great.
 
 
-![It's all about passion - 19](/passionbook-19.jpg)
+![It's all about passion - 19](/img/passionbook-19.jpg)
 
 ## Helping in trying times - Earthquake in Japan
 
@@ -92,7 +92,7 @@ When I came back to Tokyo with this new feature built I felt an earthquake every
 >*Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, "What's in it for me?"*
 - Brian Tracy, motivational speaker
 
-![It's all about passion - 20](/passionbook-20.jpg)
+![It's all about passion - 20](/img/passionbook-20.jpg)
 
 ## Passion to help is even more surprising
 

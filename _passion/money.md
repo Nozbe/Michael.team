@@ -8,7 +8,7 @@ title: "Passion 1: Money"
 subtitle: "You will develop a healthy passion for money!"
 ---
 
-![It's all about passion - chapter 2.1](/passionbook-05.jpg)
+![It's all about passion - chapter 2.1](/img/passionbook-05.jpg)
 
 > "It’s a bit of a myth that entrepreneurs and businesses are driven by money. Very few great businesses truly are: most great businesses are driven by a belief in a need and a belief in something that helps meet it. And getting paid and being profitable, whilst of course important in itself in the longer term, is more important as the vindication that what you believe has some truth in it: people agree with you."
 > - Graham Allcott, author of "How to be a Productivity Ninja"
@@ -62,7 +62,7 @@ I was also quite confident I was the only one seeing the copycat opportunity. I 
 
 I built my first copycat web-based product right after college in 2004 and showed it to the world. I was proud and was seeing some initial traction and some early success. I was pumped.
 
-![It's all about passion - chapt 2_2](/passionbook-06.jpg)
+![It's all about passion - chapt 2_2](/img/passionbook-06.jpg)
 
 ### When you're only motivated by money - you will lose
 
@@ -99,7 +99,7 @@ They become your investors. Even though they have a minority stake, it's a big d
 
 The commitment goes both ways - you just took their money and you can't fail them now. Your job is to make sure they get their bang for their buck. It doesn't mean to just do what the customers say, it means to listen carefully and do what you're supposed to do to make your product better.
 
-![It's all about passion - chapt 2_3](/passionbook-07.jpg)
+![It's all about passion - chapt 2_3](/img/passionbook-07.jpg)
 
 ## Money drives passion in a healthy way
 

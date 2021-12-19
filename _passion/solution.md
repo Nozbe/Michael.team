@@ -7,7 +7,7 @@ title: "Passion 2: Solution"
 subtitle: "You will develop a passion for figuring out a solution!"
 ---
 
-![It's all about passion - 8](/passionbook-08.jpg)
+![It's all about passion - 8](/img/passionbook-08.jpg)
 
 >"Visionary people face the same problems everyone else faces; but rather than get paralyzed by their problems, visionaries immediately commit themselves to finding a solution."
 >- Bill Hybels
@@ -48,7 +48,7 @@ It was still my side-project. I would continue working for my clients until arou
 >"There are lots of good ideas, but it’s the combination of a great idea with the personal ownership and passion that leads to persistent execution of the idea that ultimately wins."
 >- Fred Wilson, venture capitalist, blogger at AVC
 
-![It's all about passion - 9](/passionbook-09.jpg)
+![It's all about passion - 9](/img/passionbook-09.jpg)
 
 ## You don't have to bet everything
 

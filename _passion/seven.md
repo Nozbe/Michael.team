@@ -7,7 +7,7 @@ title: "7 Types of Passion"
 subtitle: "Let's start discovering 7 different types of passion!"
 ---
 
-![It's all about passion - chapter 1.1](/passionbook-03.jpg)
+![It's all about passion - chapter 1.1](/img/passionbook-03.jpg)
 
 >"Passion is not something you go after as an end in itself. It's rather a symptom of your engagement with anything into which you are fully immersed. It's also not something you usually know you have. Others notice your full involvement with something and they call it ‘passion’. I just call it doing what I feel like doing."
 
@@ -52,7 +52,7 @@ That's why it is so important to be passionate about what you're doing. Without 
 
 >— MG Siegler, venture capitalist
 
-![It's all about passion - chapter 1.2](/passionbook-04.jpg)
+![It's all about passion - chapter 1.2](/img/passionbook-04.jpg)
 
 ## There are several types of passion
 

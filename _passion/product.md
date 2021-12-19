@@ -8,7 +8,7 @@ title: "Passion 3: Product"
 subtitle: "You will develop a passion for your product!"
 ---
 
-![It's all about passion - 10](/passionbook-10.jpeg)
+![It's all about passion - 10](/img/passionbook-10.jpg)
 
 > *"Pleasure in the job puts perfection in the work."*
 > - Aristotle
@@ -71,7 +71,7 @@ look at pretty much any sort of widespread, successful product or start-up out t
 services or tools, they damn well use their own product."*
 >- David Heinemeier Hansson, co-founder of Basecamp
 
-![It's all about passion - 11](/passionbook-11.jpg)
+![It's all about passion - 11](/img/passionbook-11.jpg)
 
 ## Learn to say NO
 
@@ -124,7 +124,7 @@ This is when your passion for your product really shines - when you learn to shi
 >*"We do many things at Automattic, but our core passion is creating great products. When we see something we feel isn’t our best work it bugs us until we’re able to loop back and iterate on it — it’s a blessing and a curse."*
 >- Matt Mullenweg, creator of Wordpress
 
-![It's all about passion - 12](/passionbook-12.jpg)
+![It's all about passion - 12](/img/passionbook-12.jpg)
 
 ## Find a mission or slogan or headline for your product
 

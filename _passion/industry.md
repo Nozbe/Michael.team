@@ -7,7 +7,7 @@ title: "Passion 4: Industry"
 subtitle: "You will develop a passion for your industry!"
 ---
 
-![It's all about passion - 13](/passionbook-13.jpeg)
+![It's all about passion - 13](/img/passionbook-13.jpg)
 
 >*"There is no greatness without a passion to be great, whether it's the aspiration of an athlete or an artist, a scientist, a parent, or a businessperson." - Tony Robbins, motivational speaker*
 
@@ -47,7 +47,7 @@ This is why I recorded a [10 Steps To Ultimate Productivity][10] course and put 
 >"Passion is what fuels the best of what we do. It’s that tireless drive to do something that we feel matters that will bring us forward in so many ways."
 - Chris Brogan, author of "The Freaks Shall Inherit the Earth"
 
-![It's all about passion - 14](/passionbook-14.jpg)
+![It's all about passion - 14](/img/passionbook-14.jpg)
 
 ## Getting better and building personal brand
 

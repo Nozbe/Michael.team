@@ -7,7 +7,7 @@ part: one
 title: "Logout: Find Your Passions"
 ---
 
-![It's all about passion - 24](/passionbook-24.jpg)
+![It's all about passion - 24](/img/passionbook-24.jpg)
 
 > *"Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma – which is living with the results of other people’s thinking. Don’t let the noise of other’s opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary."* - Steve Jobs
 
@@ -50,7 +50,7 @@ concept beautifully:
 
 ***- Michal Szafranski, blogger at [JakOszczedzacPieniadze.pl](https://JakOszczedzacPieniadze.pl)***
 
-![It's all about passion - 25](/passionbook-25.jpg)
+![It's all about passion - 25](/img/passionbook-25.jpg)
 
 ## Steve Jobs was right
 
@@ -86,7 +86,7 @@ My book has a mixture of these things. My friend, Maciek, explains why these con
 
 - Maciek Budzich, blogger at [Mediafun.pl](http://Mediafun.pl)
 
-![It's all about passion - 26](/passionbook-26.jpg)
+![It's all about passion - 26](/img/passionbook-26.jpg)
 
 ## Passion in Education
 

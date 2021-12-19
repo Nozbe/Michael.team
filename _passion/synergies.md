@@ -8,7 +8,7 @@ title: "Passion 7: Synergies"
 subtitle: "You will notice that passionate people attract other passionate people!"
 ---
 
-![It's all about passion - 21](/passionbook-21.jpg)
+![It's all about passion - 21](/img/passionbook-21.jpg)
 
 >"I would rather die of passion than of boredom" - Vincent van Gogh, painter
 
@@ -35,7 +35,7 @@ People love to share and if they are passionate about something, they want to sh
 
 Passionate people will be happy to talk to you. All you need to ask them is what they do, what they love... or more precise: what they are passionate about. And, boy, they will tell you. Remember, they need to share their passion and you want to listen. Believe me, you do. Listening to someone talking about their passion and observing their feelings is the best thing… and it pumps up your emotions and helps you uncover your passion within.
 
-![It's all about passion - 22](/passionbook-22.jpg)
+![It's all about passion - 22](/img/passionbook-22.jpg)
 
 >*"Go ahead and be original, because it’s the people with passion, guts, and daring that will win. Not just because going through life with passion and guts beats the alternative (which it does), but also because it's the only way to be successful. Today, the one sure way to fail is to be boring. Your one chance for success is to be remarkable."*
 >- Seth Godin, author, blogger
@@ -73,7 +73,7 @@ Sharing the same passion is even cooler. People will help you out, will want to 
 >*"Passion doesn’t just bring happiness to the person who enjoys that passion – it also brings a vicarious pleasure to onlookers."*
 >- Gretchen Rubin, author of “The Happiness Project”
 
-![It's all about passion - 23](/passionbook-23.jpg)
+![It's all about passion - 23](/img/passionbook-23.jpg)
 
 >*"Creating and conveying a vision relies on passion. If a vision doesn’t engage people emotionally, it won’t be a powerful motivator…"*
 >- Stever Robbins, podcaster as “The Get-It-Done Guy”

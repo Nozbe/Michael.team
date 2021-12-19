@@ -7,7 +7,7 @@ title: "Introduction"
 subtitle: "My first passionate startup story…"
 ---
 
-![It's all about passion - cover](/passionbook-01.jpg)
+![It's all about passion - cover](/img/passionbook-01.jpg)
 
 >"People say you have to have a lot of passion for what you're doing. It's totally true. The reason is, because it's so hard and if you don't, any rational person would give up. It's really hard. And you have to do it over a sustained period of time. So if you don't love it, if you're not having fun doing it, you don't really love it, you're gonna give up.
 
@@ -44,7 +44,7 @@ I used to like building things on the computer with code. Now I was more motivat
 >"Passion is energy. Feel the power that comes from focusing on what excites you."
 >- Oprah Winfrey
 
-![It's all about passion - intro 2](/passionbook-02.jpg)
+![It's all about passion - intro 2](/img/passionbook-02.jpg)
 
 ## My first .COM
 
