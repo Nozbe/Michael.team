@@ -5,18 +5,6 @@ tags: [guest,video]
 
 # Testing playground
 
-?
-
-Look:
-
-
-
-time for a plan!
-
-Testing\\
-Testing\\
-testing!
-
 ## Variables
 
 page.title: {{ page.title }}
