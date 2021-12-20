@@ -3,7 +3,7 @@ redirect_from:
  - /passionbook-17/
  - /passionbook-16/
  - /passionbook-15/
-part: one
+part: intro
 title: "Passion 5: Growth"
 subtitle: "You will develop a passion for growing and growth!"
 excerpt: "It takes a little more time to find this passion but at some point you realize you want to care for growth a lot more. I'm passionate about our growth, our growing user base and our growing team. It's amazing to see things getting better and people getting better. It's a very rewarding passion to find."

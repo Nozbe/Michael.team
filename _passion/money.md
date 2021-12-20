@@ -3,7 +3,7 @@ redirect_from:
  - /passionbook-07/
  - /passionbook-06/
  - /passionbook-05/
-part: one
+part: intro
 title: "Passion 1: Money"
 subtitle: "You will develop a healthy passion for money!"
 excerpt: "Money rules the world we live in right now. No doubt about that. But it's not what it's all about. Money is just a means to an end - a happy, fulfilled life."

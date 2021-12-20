@@ -2,7 +2,7 @@
 redirect_from:
  - /passionbook-02/
  - /passionbook-01/
-part: one
+part: intro
 title: "Introduction"
 subtitle: "My first passionate startup story…"
 excerpt: "This book is about the types of passions I discovered within me and within my peers, colleagues, mentors and friends in all these years of running Nozbe."

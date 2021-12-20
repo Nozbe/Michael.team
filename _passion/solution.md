@@ -2,7 +2,7 @@
 redirect_from:
  - /passionbook-09/
  - /passionbook-08/
-part: one
+part: intro
 title: "Passion 2: Solution"
 subtitle: "You will develop a passion for figuring out a solution!"
 excerpt: "A startup in theory should be solving some real-life problems and making people's lives all around the world easier."

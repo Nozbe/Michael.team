@@ -3,7 +3,7 @@ redirect_from:
  - /passionbook-20/
  - /passionbook-19/
  - /passionbook-18/
-part: one
+part: intro
 title: "Passion 6: Helping"
 subtitle: "You will develop a passion for helping others!"
 excerpt: "To help others do something more efficiently and easily. That's especially what the Startup businesses are all about. I created Nozbe to solve my own time-management problems."
