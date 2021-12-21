@@ -1,12 +1,12 @@
 title: "Book: It's All About Passion"
-subtitle: "The 7 types of passions I discovered when running my startup Nozbe."
+subtitle: "How 7 types of passion helped me achieve success with my productivity startup Nozbe."
 back: Back to the Table of Contents
 continue: "Next:"
 draft: "[Draft]"
 none: "Nothing written yet..."
 url: passion
 toc:
-- url: intro
+- url: intro #the same url must be used in the following documents as "part" part:intro
   status: publish # options are: none (no file created), draft (rough draft), ready (just written) and publish (published document)
   chname: Start
   chapters:

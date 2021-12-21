@@ -8,22 +8,26 @@ book: passion
 
 ## How 7 types of passion helped me achieve success with my productivity startup [Nozbe][n]
 
-### By me (Michael Sliwinski), published on May 20, 2014 (my 35th birthday!)
+By me ([Michael Sliwinski](/about)), published on May 20, 2014 (my 35th birthday!)
 
-## [Subscribe to my Newsletter for ePub, Mobi or PDF version of "It's all about passion!"](/newsletter)
-
+## Read online (FREE!):
+ 
 {% include book.html %}
 
 {% include book_toc.html %}
 
+## Get ePub, Mobi or PDF versions, free!
 
-Alternatively, you can buy the book on [Amazon Kindle Store](http://MNoz.be/0k) - all of my royalties from these sales will go to children-helping charities.
+[Subscribe to my Newsletter for ePub, Mobi or PDF version of "It's all about passion!"](/newsletter)
+
+## Buy on Amazon, support charities!
+
+Buy the book on [Amazon Kindle Store](http://MNoz.be/0k) - all of my royalties from these sales will go to children-helping charities.
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-### In my book I'm sharing the story of 7 types of passion I discovered over 7 years of running my productivity startup. [See Table of Contents](#toc)
-
-> "Thanks to Michael, I have learned that it doesn't matter what your passion is, it matters how far you are willing to go with it, how much you are going to learn from it, and most importantly who you are going to share it with. With this book you got to experience Michael’s passion the same way I did." - [Augusto Pinaud](http://twitter.com/apinaud)
+> "Thanks to Michael, I have learned that it doesn't matter what your passion is, it matters how far you are willing to go with it, how much you are going to learn from it, and most importantly who you are going to share it with. With this book you got to experience Michael’s passion the same way I did." - 
+>- [Augusto Pinaud](http://twitter.com/apinaud)
 
 ## My story - watch an interview with me about my passion for productivity:
 
@@ -31,9 +35,9 @@ Alternatively, you can buy the book on [Amazon Kindle Store](http://MNoz.be/0k) 
 
 <a name="toc"></a>
 
-## "It's all about Passion!" - Table of Contents
+## "It's all about Passion!" - quotes from the book
 
-Below is the table of contents with quotes from my book. This way you'll have a better "feel" of the book and its contents. I also included the quotes from my friends who contributed to the book. Feel free to tweet them if you like. Thank you for spreading your passion!
+Below are quotes from my book. This way you'll have a better "feel" of the book and its contents. I also included the quotes from my friends who contributed to the book. Feel free to tweet them if you like. Thank you for spreading your passion!
 
 ### Introduction: My first passionate startup
 
@@ -79,7 +83,6 @@ Below is the table of contents with quotes from my book. This way you'll have a 
 
 ### Passion 2: Solution
 
-
 > "The best way to find a problem to solve is to look at the stuff that's bothering you.."
 
 > "Keep your day job and work on your idea on the side and see how it goes..."
@@ -93,7 +96,6 @@ Below is the table of contents with quotes from my book. This way you'll have a 
 > "Do you care enough to defend cause, navigate obstacles, and fight bureaucracy?" - [Al Pittampalli](http://twitter.com/pittampalli)
 
 ### Passion 3: Product
-
 
 > "My Nozbe is my product. I built it because I needed it... and I keep on building it..."
 
@@ -130,7 +132,6 @@ Below is the table of contents with quotes from my book. This way you'll have a 
 
 ### Passion 5: Growth
 
-
 > "When the wind of change is blowing - feel it, take it, love it..."
 
 > "...if you're passionate about your startup, you'll take (fear) as a challenge..."
@@ -145,9 +146,7 @@ Below is the table of contents with quotes from my book. This way you'll have a 
 
 > "Nobody in school teaches you the real work is figuring out what you LOVE doing." - [Jason Womack](http://twitter.com/JasonWomack)
 
-
 ### Passion 6: Helping
-
 
 > "Passion to help is contagious and once you've helped a little you want to help more..."
 
@@ -168,9 +167,7 @@ Below is the table of contents with quotes from my book. This way you'll have a 
 
 > "What you do for yourself dies with you, what you do for others lives on forever." - [Ken Robinson](http://twitter.com/SirKenRobinson)
 
-
 ### Passion 7: Synergies
-
 
 > "When there is passion involved, the conventional status symbols don't matter..."
 
@@ -188,9 +185,7 @@ Below is the table of contents with quotes from my book. This way you'll have a 
 
 > "If a vision doesn’t engage people emotionally, it won’t be a powerful motivator…" - [Stever Robbins](http://twitter.com/GetItDoneGuy)
 
-
 ### Logout: Find your Passions
-
 
 > "Open up for the unknown and the power of side effects..." - [Michal Szafranski](http://twitter.com/szaffi)
 
@@ -198,9 +193,9 @@ Below is the table of contents with quotes from my book. This way you'll have a 
 
 > "Passion, personal brand and one’s own business – I love the combination of these..." - [Maciek Budzich](http://twitter.com/mediafun)
 
-Please let me know what you think! I wrote this book for you:
+Please let me know what you think! I wrote this book for you.
 
-**[Get the Book! It's FREE!](/newsletter/)**
+**[Get the eBook! It's FREE!](/newsletter/)** or **[read online](/passion/intro)**
 
 ## I wrote this book together with my online friends
 
@@ -210,6 +205,7 @@ Special thanks to all these folks who sent me their quotes and stories right awa
 
 ## "It's all about passion!" -- version history
 
+* 21 December, 2021 - version 1.3 - minor corrections, [online version published](/passion/intro)
 * 23 May, 2014 - version 1.2 - with minor corrections, video link as a bonus
 * 21 May, 2014 - version 1.1 - with minor corrections, additional quotes, better PDF version
 * 20 May, 2014 - version 1.0 - initial book released on my 35th birthday!
