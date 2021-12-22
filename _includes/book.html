@@ -3,6 +3,8 @@ We're creating arrays for slugs, titles and subtitles based on the contents of t
 The variable "thisbook" is the current book, and it's checked on in the "default" layout for "page.book" - if "page.book" is not defined, it means that there's no book.
 {% endcomment %}
 
+{% if page.book %}{% assign thisbook = page.book %}{% endif %}
+
 {% for chapter in site.[thisbook] %}
   {% assign slugs = slugs | append: chapter.slug | append:'||' %}
   {% assign titles = titles | append: chapter.title | append:'||' %}

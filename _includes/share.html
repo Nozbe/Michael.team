@@ -5,6 +5,9 @@
 {% capture sharelink_name %}{{ site.data.main.domain }}{{ langpath }}/{{ slug }}{% endcapture %}
 {% for tag in page.tags %}{% if tag == "podcast" %}{% assign altslug = slug | replace: "podcast-", "" %}{% capture sharelink %}{{ site.data.main.url_podcast }}{{ altslug }}{% endcapture %}{% capture sharelink_name %}{{ site.data.main.url_podcast_name }}/{{ altslug }}{% endcapture %}{% endif %}{% endfor %}
 {% if slug == "podcast" %}{% capture sharelink %}{{ site.data.main.url_podcast }}{% endcapture %}{% capture sharelink_name %}{{ site.data.main.url_podcast_name }}{% endcapture %}{% endif %}
+
+{% if thisbook %}{% capture sharelink_name %}{{ site.data.main.domain }}{{ page.url }}{% endcapture %}{% endif %}
+
 {% if page.share!="noshow" %}
 <h3>{{ site.data.main.[share] }}: <a href="{{ sharelink }}">{{ sharelink_name }}</a></h3>
 	{% if include.tweet %}
