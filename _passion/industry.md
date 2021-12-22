@@ -2,6 +2,7 @@
 redirect_from:
  - /passionbook-14/
  - /passionbook-13/
+part: industry
 title: "Passion 4: Industry"
 subtitle: "You will develop a passion for your industry!"
 excerpt: "Being in Productivity Industry made me realize how much I could still improve my personal (as well as my team's) productivity and organizational skills. It all started with improving Nozbe (my product) based on my users' feedback."

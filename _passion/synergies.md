@@ -3,6 +3,7 @@ redirect_from:
  - /passionbook-23/
  - /passionbook-22/
  - /passionbook-21/
+part: synergies
 title: "Passion 7: Synergies"
 subtitle: "You will notice that passionate people attract other passionate people!"
 excerpt: "People who are passionate about something want to share their passion with others. This gives them great energy to be passionate even more. And the best of all is if they share their passion with someone who's also passionate about something. Anything. These can be totally different passions. It doesn't matter. Where there is passion involved, there is love and love is all we need and are supposed to share, right?"

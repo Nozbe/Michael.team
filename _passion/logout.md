@@ -3,7 +3,9 @@ redirect_from:
  - /passionbook-26/
  - /passionbook-25/
  - /passionbook-24/
+part: logout
 title: "Logout: Find Your Passions"
+subtitle: "In this materialistic world we're living in, passion is what sets us apart and it's what we all need."
 excerpt: "Money, status, cars, luxury items... are cool to have, but they don't inspire people. Passion inspires people. Passion attracts people. In this materialistic world we're living in, passion is what sets us apart and it's what we all need. That's why it's so important to be passionate about something. It's so crucial to really find your passion and now it's your turn to discover your 7 (or more) types of passion."
 img: passionbook-24.jpg
 ---

@@ -3,6 +3,7 @@ redirect_from:
  - /passionbook-12/
  - /passionbook-11/
  - /passionbook-10/
+part: product
 title: "Passion 3: Product"
 subtitle: "You will develop a passion for your product!"
 excerpt: "Every startup builds a product or service. A service is a product itself so let's cut it short to the fact, that whatever your startup is building, is a product."
