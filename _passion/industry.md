@@ -2,13 +2,13 @@
 redirect_from:
  - /passionbook-14/
  - /passionbook-13/
-part: intro
 title: "Passion 4: Industry"
 subtitle: "You will develop a passion for your industry!"
 excerpt: "Being in Productivity Industry made me realize how much I could still improve my personal (as well as my team's) productivity and organizational skills. It all started with improving Nozbe (my product) based on my users' feedback."
+img: passionbook-13.jpg
 ---
 
-![It's all about passion - 13](/img/passionbook-13.jpg)
+![{{ page.title }}](/img/{{ page.img }})
 
 >*"There is no greatness without a passion to be great, whether it's the aspiration of an athlete or an artist, a scientist, a parent, or a businessperson." - Tony Robbins, motivational speaker*
 

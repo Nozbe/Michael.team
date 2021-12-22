@@ -2,6 +2,7 @@
 permalink: /passion/
 cover: "passion.jpg"
 book: passion
+part: toc
 ---
 
 # BOOK: It's all about Passion!
@@ -13,6 +14,8 @@ By me ([Michael Sliwinski](/about)), published on May 20, 2014 (my 35th birthday
 ## Read online (FREE!):
  
 {% include book.html %}
+
+### It's all about Passion! - Table of Contents
 
 {% include book_toc.html %}
 

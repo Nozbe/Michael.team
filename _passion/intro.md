@@ -2,13 +2,13 @@
 redirect_from:
  - /passionbook-02/
  - /passionbook-01/
-part: intro
 title: "Introduction"
 subtitle: "My first passionate startup story…"
 excerpt: "This book is about the types of passions I discovered within me and within my peers, colleagues, mentors and friends in all these years of running Nozbe."
+img: passionbook-01.jpg
 ---
 
-![It's all about passion - cover](/img/passionbook-01.jpg)
+![{{ page.title }}](/img/{{ page.img }})
 
 > "People say you have to have a lot of passion for what you're doing. It's totally true. The reason is, because it's so hard and if you don't, any rational person would give up. It's really hard. And you have to do it over a sustained period of time. So if you don't love it, if you're not having fun doing it, you don't really love it, you're gonna give up.\\
 > It happens to most people actually. If you look at the ones that ended up being successful in the eyes of society and the ones that didn't, often times the ones that were successful loved what they did so they could persevere when it got really tough. The ones that didn't love it, quit. Because they're sane, right? Who would want to put up with this stuff if you don't love it. So it's a lot of hard work and it's a lot of worrying constantly and if you don't love it you're gonna fail. So you gotta love it and you gotta have passion."

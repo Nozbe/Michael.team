@@ -2,13 +2,13 @@
 redirect_from:
  - /passionbook-04/
  - /passionbook-03/
-part: intro
 title: "7 Types of Passion"
 subtitle: "Let's start discovering 7 different types of passion!"
 excerpt: "Passion shows up in many shapes and forms and you just don't get to be passionate about one thing or one aspect of your company. There are many types of passion and over here I'd like to comment on the ones I have discovered and that have played the major role in my success."
+img: passionbook-03.jpg
 ---
 
-![It's all about passion - chapter 1.1](/img/passionbook-03.jpg)
+![{{ page.title }}](/img/{{ page.img }})
 
 >"Passion is not something you go after as an end in itself. It's rather a symptom of your engagement with anything into which you are fully immersed. It's also not something you usually know you have. Others notice your full involvement with something and they call it ‘passion’. I just call it doing what I feel like doing."
 >- David Allen, the originator of "Getting Things Done"

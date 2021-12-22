@@ -3,13 +3,13 @@ redirect_from:
  - /passionbook-12/
  - /passionbook-11/
  - /passionbook-10/
-part: intro
 title: "Passion 3: Product"
 subtitle: "You will develop a passion for your product!"
 excerpt: "Every startup builds a product or service. A service is a product itself so let's cut it short to the fact, that whatever your startup is building, is a product."
+img: passionbook-10.jpg
 ---
 
-![It's all about passion - 10](/img/passionbook-10.jpg)
+![{{ page.title }}](/img/{{ page.img }})
 
 > *"Pleasure in the job puts perfection in the work."*
 > - Aristotle

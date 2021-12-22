@@ -3,12 +3,12 @@ redirect_from:
  - /passionbook-26/
  - /passionbook-25/
  - /passionbook-24/
-part: intro
 title: "Logout: Find Your Passions"
 excerpt: "Money, status, cars, luxury items... are cool to have, but they don't inspire people. Passion inspires people. Passion attracts people. In this materialistic world we're living in, passion is what sets us apart and it's what we all need. That's why it's so important to be passionate about something. It's so crucial to really find your passion and now it's your turn to discover your 7 (or more) types of passion."
+img: passionbook-24.jpg
 ---
 
-![It's all about passion - 24](/img/passionbook-24.jpg)
+![{{ page.title }}](/img/{{ page.img }})
 
 > *"Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma – which is living with the results of other people’s thinking. Don’t let the noise of other’s opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary."*
 > - Steve Jobs, co-founder of Apple

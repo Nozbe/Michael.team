@@ -3,13 +3,13 @@ redirect_from:
  - /passionbook-07/
  - /passionbook-06/
  - /passionbook-05/
-part: intro
 title: "Passion 1: Money"
 subtitle: "You will develop a healthy passion for money!"
 excerpt: "Money rules the world we live in right now. No doubt about that. But it's not what it's all about. Money is just a means to an end - a happy, fulfilled life."
+img: passionbook-05.jpg
 ---
 
-![It's all about passion - chapter 2.1](/img/passionbook-05.jpg)
+![{{ page.title }}](/img/{{ page.img }})
 
 > "It’s a bit of a myth that entrepreneurs and businesses are driven by money. Very few great businesses truly are: most great businesses are driven by a belief in a need and a belief in something that helps meet it. And getting paid and being profitable, whilst of course important in itself in the longer term, is more important as the vindication that what you believe has some truth in it: people agree with you."
 > - Graham Allcott, author of "How to be a Productivity Ninja"

@@ -3,13 +3,13 @@ redirect_from:
  - /passionbook-20/
  - /passionbook-19/
  - /passionbook-18/
-part: intro
 title: "Passion 6: Helping"
 subtitle: "You will develop a passion for helping others!"
 excerpt: "To help others do something more efficiently and easily. That's especially what the Startup businesses are all about. I created Nozbe to solve my own time-management problems."
+img: passionbook-18.jpg
 ---
 
-![It's all about passion - 18](/img/passionbook-18.jpg)
+![{{ page.title }}](/img/{{ page.img }})
 
 > "The two most important days in your life are the day you are born and the day you find out why."
 > - Mark Twain

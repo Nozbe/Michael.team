@@ -1,15 +1,7 @@
 {% comment %}
 We're creating arrays for slugs, titles and subtitles based on the contents of the _book collection so that we can use it later.
-We need to have "page.book" defined and if we don't, we default to "book"
-Our main variable then is "thisbook" which we define in the beginning.
+The variable "thisbook" is the current book, and it's checked on in the "default" layout for "page.book" - if "page.book" is not defined, it means that there's no book.
 {% endcomment %}
-
-{% if page.book %}
-  {% assign thisbook = page.book %}
-{% else %}
-  {% assign thisbook = 'book' %}
-{% endif %}
-
 
 {% for chapter in site.[thisbook] %}
   {% assign slugs = slugs | append: chapter.slug | append:'||' %}

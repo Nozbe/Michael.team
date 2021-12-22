@@ -2,13 +2,13 @@
 redirect_from:
  - /passionbook-09/
  - /passionbook-08/
-part: intro
 title: "Passion 2: Solution"
 subtitle: "You will develop a passion for figuring out a solution!"
 excerpt: "A startup in theory should be solving some real-life problems and making people's lives all around the world easier."
+img: passionbook-08.jpg
 ---
 
-![It's all about passion - 8](/img/passionbook-08.jpg)
+![{{ page.title }}](/img/{{ page.img }})
 
 >"Visionary people face the same problems everyone else faces; but rather than get paralyzed by their problems, visionaries immediately commit themselves to finding a solution."
 >- Bill Hybels
