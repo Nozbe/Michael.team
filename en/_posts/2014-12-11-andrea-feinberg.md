@@ -8,9 +8,10 @@ vid: "ijOqoylrz88"
 
 Andrea Feinberg, a coach working mostly with small business owners, explains why some of us feel like slaves there at our desks and reveals her personal productivity tips and tricks. More details in [Productive! Magazine #25](http://ProductiveMag.com)
 
+{% include video.html id=page.vid %}
+
 <!--More-->
 
-{% include video.html id=page.vid %}
 
 [ps]: http://michaelsliwinski.com/show
 [itunesv]: http://michaelsliwinski.com/go/itunesvideo

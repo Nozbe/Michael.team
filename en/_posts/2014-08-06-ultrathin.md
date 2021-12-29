@@ -8,9 +8,9 @@ vid: "rIXPOh169jo"
 
 Do you work on the iPad and need to type longer texts sometimes? Watch my short presentation of Logitech Ultrathin keyboard that I have bought recently. It has some new features that will surely help you work effectively and comfortably. Question: Which is your favorite tablet keyboard?
 
-<!--More-->
-
 {% include video.html id=page.vid %}
+
+<!--More-->
 
 
 [n]: https://michael.gratis/nozbe

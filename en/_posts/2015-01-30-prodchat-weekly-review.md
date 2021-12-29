@@ -8,10 +8,8 @@ vid: "HM56N2yF4Nk"
 
 Today we're having a Hangout on Air and we're chatting about successful Mondays, Weekly Reviews... and productivity in general, with some iPads and iPhone 6 Pluses in the mix. Enjoy and let us know what you think!
 
-<!--More-->
-
 {% include video.html id=page.vid %}
 
-[Watch and comment on YouTube](https://www.youtube.com/watch?v=HM56N2yF4Nk)
+<!--More-->
 
 [n]: https://michael.gratis/nozbe
