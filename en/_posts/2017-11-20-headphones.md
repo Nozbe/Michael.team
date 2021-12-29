@@ -95,7 +95,7 @@ Listening to podcasts or audiobooks while exercising really allows me to “bend
 
 The future will be wire-free. Even the newest iPhones already have inductive charging. The Bluetooth standard is also improving (right now it’s 4.0 or maybe even 5.0), so you really don’t need to cling to wires!
 
-It’s great to live in the future, in which you don’t necessarily have to buy expensive headphones like [Bose QC35][qc] or [AirPods][airpods] to discover the freedom of wireless headphone technology – you can start with cheap (but good) Bluetooth headphones. Yes, they require charging, but, even right now, almost every pair of headphones has at least five hours of non-stop play, and some have even longer. We have to charge our iPhones and Apple Watches anyway, so this isn’t anything new. The convenience of life without wires cannot be overestimated.
+It’s great to live in the future, in which you don’t necessarily have to buy expensive headphones like [Bose QC35][qc35] or [AirPods][airpods] to discover the freedom of wireless headphone technology – you can start with cheap (but good) Bluetooth headphones. Yes, they require charging, but, even right now, almost every pair of headphones has at least five hours of non-stop play, and some have even longer. We have to charge our iPhones and Apple Watches anyway, so this isn’t anything new. The convenience of life without wires cannot be overestimated.
 
 > Using wireless headphones can increase your productivity! And will feel like living in the future!
 
