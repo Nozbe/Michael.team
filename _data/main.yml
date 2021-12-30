@@ -41,9 +41,9 @@ ad: "false" #"true" so it displays, everything else to not show it, like "false"
 ad_link: "https://nozbe.com/promo/?c=michaelteam"
 ad_text: "💥BLACK FRIDAY! Get Nozbe - up to 4 MONTHS FREE!🔥"
 
-descr: "[Hello](/now), I'm [Michael Sliwinski](/about), founder of [Nozbe](https://michael.gratis/nozbe){:target='_blank'} - to-do app for modern teams. I [write](/archive) [about](/tag) [productivity](/productivity), [#NoOffice](/nooffice), [#iPadOnly](/ipadonly/) and [I believe](/contact) that *work is not a place you go to, it's a thing you do.*"
-descr_pl: "Hej, tu [Michał Śliwiński](/pl/omnie), założyciel [Nozbe](https://michael.gratis/nozbe_pl){:target='_blank'} - aplikacji do zadań dla nowoczesnych zespołów. [Po polsku](/pl/archiwum) [piszę](/pl/tag) o [produktywności](/pl/imagazine). [Wierzę](/pl/kontakt), że *praca to nie jest miejsce do którego idziesz, ale to co robisz.*"
-descr_es: "Hola, soy Michael Sliwinski, fundador de [Nozbe](https://michael.gratis/nozbe_es){:target='_blank'} - gestor de tareas para modernos equipos. [Escribo](/es/todo/) [sobre](/es/tag) [productividad](/es/webinar). Creo en que *trabajo no es un sitio a donde vas, sino es algo que haces.*"
+descr: "[Hello](/now/), I'm [Michael Sliwinski](/about/), [founder](/business/) of [Nozbe](/nozbe/) - [to-do](/productivity/) app for [teams](/vlog/). [I write](/archive/) on [#iPadOnly](/ipadonly/) in [#NoOffice](/nooffice/) and [I believe](/contact) that *work is not a place you go to, it's a thing you do.*"
+descr_pl: "Hej, tu [Michał Śliwiński](/pl/omnie), założyciel [Nozbe](https://michael.gratis/nozbe_pl){:target='_blank'} - aplikacji do zadań dla nowoczesnych zespołów. [Po polsku](/pl/archiwum/) piszę o [produktywności](/pl/imagazine/). [Wierzę](/pl/kontakt/), że *praca to nie jest miejsce do którego idziesz, ale to co robisz.*"
+descr_es: "Hola, soy Michael Sliwinski, fundador de [Nozbe](https://michael.gratis/nozbe_es){:target='_blank'} - gestor de tareas para modernos equipos. [Escribo](/es/todo/) sobre [productividad](/es/webinar). Creo en que *trabajo no es un sitio a donde vas, sino es algo que haces.*"
 
 searchbox: "search..."
 searchbox_no: "Nothing found!"
@@ -80,7 +80,7 @@ tags:
 - name: best
   emoj: "🥇"
   titl: "Best"
-  tit2: "My collections of best blog posts of each year: [2019](/2019best), [2018](/2018best)…"
+  tit2: "My collections of best blog posts of each year of blogging…"
 - name: birthday
   emoj: "🎂"
   titl: "Birthday"
@@ -88,7 +88,7 @@ tags:
 - name: blogging
   emoj: "⌨️"
   titl: "Blogging"
-  tit2: "I've had a personal blog since 2008. You can browse my full archives at [sliwinski.com](https://sliwinski.com/archive){:target='_blank'}. I've set up this blog [very recently](/new) and I'll be migrating my old blog posts to here in the future."
+  tit2: "I've had a personal blog since 2008. Here's where I share all my stories regarding to blogging, platforms and writing itself."
 - name: books
   emoj: "📖"
   titl: "Books"
@@ -112,11 +112,11 @@ tags:
 - name: interviews
   emoj: "🎤"
   titl: "Interviews"
-  tit2: "As I was publishing [Productive! Magazine](http://productivemag.com){:target='_blank'} between 2008 and 2016, I conducted many interviews with people I truly admire. With amazing thought leaders. Below you'll find my most favorite inteviews:"
+  tit2: "As I was publishing [Productive! Magazine](/magazine/) between 2008 and 2016, I conducted many interviews with people I truly admire. With amazing thought leaders. Below you'll find my most favorite inteviews:"
 - name: ipadonly
   emoj: "📱"
   titl: "iPadOnly"
-  tit2: "I'm using the iPad as my main computing device since 2012. It started with the retina iPad 3, a year later I wrote the [#iPadOnly book](https://ipadonly.com/){:target='_blank'} on an iPad 4 and as I upgraded my iPads, now I'm working on the 2020 iPad Pro 11. Basically, I'm showing how an iPad is a *real computer*."
+  tit2: "I'm using the iPad as my main computing device since 2012. It started with the retina iPad 3, a year later I wrote the [#iPadOnly book](https://ipadonly.com/){:target='_blank'} on an iPad 4 and as I upgraded my iPads, now I'm working on the [iPad Pro 13](/ipad13pro/). Basically, I'm showing how an iPad is a *real computer*."
 - name: iphone
   emoj: "📲"
   titl: "iPhone"
@@ -152,7 +152,7 @@ tags:
 - name: now
   emoj: "📝"
   titl: "Now?"
-  tit2: "This is my **“now”** page inspired by [Derek Sievers](https://sivers.org/now){:target='_blank'}. It answers “what I'm doing now?“. My life, projects and priorities. I post an update monthly."
+  tit2: "This is my **“now”** page inspired by [Derek Sievers](https://sivers.org/now){:target='_blank'}. It answers “what I'm doing now?“. My life, projects and priorities. I post an update here every 1-3 months."
 - name: office
   emoj: "🏠"
   titl: "Office"
@@ -164,7 +164,7 @@ tags:
 - name: podcast
   emoj: "🎧"
   titl: "ThePodcast.fm"
-  tit2: "The Podcast is a conversation between [me](/about) and Radek ([@radexp](https://twitter.com/radexp), [radex.io](https://radex.io/)), Nozbe's VP of Engineering, that we've been having for the last 4+ years about [productivity, business, books, and whatever else comes to mind](/podcast-toc)... about 1-2 episodes per month. **[Subscribe](https://podcasts.apple.com/podcast/the-podcast/id1012329770)**"
+  tit2: "The Podcast was a conversation between [me](/about) and Radek ([@radexp](https://twitter.com/radexp), [radex.io](https://radex.io/)), Nozbe's VP of Engineering, that we've been having for 4 years (2016-2020) about [productivity, business, books, and whatever else comes to mind](/podcast-toc)... **[Subscribe and check archives](https://podcasts.apple.com/podcast/the-podcast/id1012329770)**"
 - name: show
   emoj: "📽"
   titl: "Productive! Show"
@@ -180,7 +180,7 @@ tags:
 - name: travel
   emoj: "✈️"
   titl: "Travel"
-  tit2: "I love traveling and learning new things from new places and people. I sometimes write a diary of my travels here. Especially when a place or story was particularly memorable."
+  tit2: "I love traveling and learning new things from new places and people. I sometimes write a diary of my travels here. Especially when a place or story was particularly memorable. Also my travel gadgets!"
 - name: video
   emoj: "🎬"
   titl: "Video"

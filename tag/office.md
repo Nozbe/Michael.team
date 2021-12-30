@@ -1,4 +1,5 @@
 ---
-title: "Tag: Home Office"
+title: "Home Office evolution - the #NoOffice way"
 permalink: /office/
+redirect_from: /tag/office/
 ---

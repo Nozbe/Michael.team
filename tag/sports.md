@@ -1,4 +1,5 @@
 ---
-title: "Tag: Sports"
+title: "Sports I do like triathlon (swimming, cycling and running), basketball, tennis and more"
 permalink: /sports/
+redirect_from: /tag/sports/
 ---

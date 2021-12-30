@@ -1,4 +1,5 @@
 ---
-title: "Tag: Interviews"
+title: "Interviews with thought leaders"
 permalink: /interviews/
+redirect_from: /tag/interviews/
 ---

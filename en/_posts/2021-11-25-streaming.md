@@ -5,7 +5,7 @@ cover: "streaming.jpg"
 
 # Perfect zoom meeting setup or streaming kit in my new home office
 
-Last year I read a blog post by [Matt Mullenweg](https://ma.tt/) - the founder of [Wordpress](https://wordpress.org) where he explained his [high-quality streaming setup](https://ma.tt/2020/05/ceo-video-streaming/) - he revised this post [this year with more updates](https://ma.tt/2021/05/2021-streaming-kit/). Later [I read a similar post by Seth](https://seths.blog/2021/04/fixing-zoom-calls-looking-better-and-feeling-better/). As I do quite a few [interviews](/guest/), record [podcasts](/noofficefm/) and have some [zoom meetings](https://NoOffice.org/meetings/) with my [Nozbe][n] team, I decided to upgrade my setup, too. [I explained some of it in my latest "office update" post](/office22/) but here are more details:
+Last year I read a blog post by [Matt Mullenweg](https://ma.tt/) - the founder of [Wordpress](https://wordpress.org) where he explained his [high-quality streaming setup](https://ma.tt/2020/05/ceo-video-streaming/) - he revised this post [this year with more updates](https://ma.tt/2021/05/2021-streaming-kit/). Later [I read a similar post by Seth Godin](https://seths.blog/2021/04/fixing-zoom-calls-looking-better-and-feeling-better/). As I do quite a few [interviews](/guest/), record [podcasts](/noofficefm/) and have some [zoom meetings](https://NoOffice.org/meetings/) with my [Nozbe][n] team, I decided to upgrade my setup, too. [I explained some of it in my latest "office update" post](/office22/) but here are more details:
 
 <!--More-->
 
