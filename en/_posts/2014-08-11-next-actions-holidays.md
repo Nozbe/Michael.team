@@ -1,6 +1,6 @@
 ---
-tags: [productivity,life]
-img: "next-actions-holidays.jpg"
+tags: [productivity,life,draw]
+cover: "next-actions-holidays.jpg"
 ---
 
 # Next Actions and Holidays: How vacation planning apps can teach you to get organized...
@@ -9,7 +9,7 @@ We're half way through the Summer and I'm going on a vacation next week so today
 
 <!--More-->
 
-![{{ page.title }}](/img/{{ page.img }})
+![{{ page.title }}](/img/{{ page.cover }})
 
 ## The holiday should be an inspiration for work
 

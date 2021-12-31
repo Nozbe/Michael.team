@@ -1,6 +1,6 @@
 ---
-tags: [nooffice]
-img: "communication-pyramid.jpg"
+tags: [nooffice,draw]
+cover: "communication-pyramid.jpg"
 ---
 
 # The Pyramid of Communication in a Remotely Working team
@@ -9,7 +9,7 @@ img: "communication-pyramid.jpg"
 
 <!--More-->
 
-![{{ page.title }}](/img/{{ page.img }})
+![{{ page.title }}](/img/{{ page.cover }})
 
 ## The Foundation — Level 1: Asynchronous communication with Nozbe and Github
 

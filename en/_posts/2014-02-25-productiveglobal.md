@@ -1,6 +1,6 @@
 ---
-tags: [magazine,business]
-img: "productiveglobal.jpg"
+tags: [magazine,business,draw]
+cover: "productiveglobal.jpg"
 ---
 
 # Productive! Magazine going regular, global and local
@@ -9,7 +9,7 @@ Back in 2007 I launched [Nozbe][n] because I wanted to "scratch my own itch" and
 
 <!--More-->
 
-![{{ page.title }}](/img/{{ page.img }})
+![{{ page.title }}](/img/{{ page.cover }})
 
 ## Productive! Magazine is now a "monthly"... and is going places
 

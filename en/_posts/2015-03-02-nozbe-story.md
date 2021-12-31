@@ -1,6 +1,6 @@
 ---
-tags: [nozbe,business]
-img: "nozbe-story.jpg"
+tags: [nozbe,business,draw]
+cover: "nozbe-story.jpg"
 ---
 
 # Nozbe story - interview with me for "Stories of the best Polish apps"
@@ -9,7 +9,7 @@ img: "nozbe-story.jpg"
 
 <!--More-->
 
-![{{ page.title }}](/img/{{ page.img }})
+![{{ page.title }}](/img/{{ page.cover }})
 
 **1. Were the Nozbe apps and web service launched at the same time? Which platform did you focus on at first?**
 

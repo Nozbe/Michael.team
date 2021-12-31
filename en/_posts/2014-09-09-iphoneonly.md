@@ -1,6 +1,6 @@
 ---
-tags: [ipadonly,iphone]
-img: "iphoneonly.jpg"
+tags: [ipadonly,iphone,draw]
+cover: "iphoneonly.jpg"
 ---
 
 # Will a new 5,5" iPhone convert people to not only #iPadOnly, but more #iPhoneOnly?
@@ -9,7 +9,7 @@ I'm a big fan of working on iOS devices. I [co-wrote a book about working ont th
 
 <!--More-->
 
-![{{ page.title }}](/img/{{ page.img }})
+![{{ page.title }}](/img/{{ page.cover }})
 
 ## I switched to using iPad and iPhone for most of my daily work tasks 2 years ago
 

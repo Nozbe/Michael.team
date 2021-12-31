@@ -1,6 +1,6 @@
 ---
-tags: [nooffice]
-img: "teleworking.jpg"
+tags: [nooffice,draw]
+cover: "teleworking.jpg"
 ---
 
 # Teleworking in Nozbe - why we all work from home, from anywhere, without any office...
@@ -16,7 +16,7 @@ and
 
 <!--More-->
 
-![{{ page.title }}](/img/{{ page.img }})
+![{{ page.title }}](/img/{{ page.cover }})
 
 ## I always wanted to work from anywhere...
 
