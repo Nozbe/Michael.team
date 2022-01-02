@@ -3,7 +3,7 @@ tags: [productivity,business,draw]
 cover: "give-productivity.jpg"
 ---
 
-# you "give" productivity? Or is productivity a feature of character?
+# Can you "give" productivity? Or is productivity a feature of character?
 
 Each year we run a special [Nozbe][n] offer around Christmas/New Year's where our customers have a chance to *"give productivity"*, meaning, to buy a [Nozbe personal plan][ns] for someone for the next year. To essentially give them the tool that'll help them get things done and finally make these New Year's Resolutions happen. Many folks take us up on this offer... but some are skeptical about our intentions and question whether you can "give productivity".
 

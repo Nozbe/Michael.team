@@ -3,7 +3,7 @@ tags: [productivity,draw]
 cover: "scary-resistance.jpg"
 ---
 
-# Resistance when being Scared
+# Fighting resistance when being scared
 
 This week I'm going to record my long-overdue "[10 Steps to Ultimate Productivity Course][c]" which consists of [1 intro step][c] and 10 steps that will deal with many aspects of [productivity][pr]. To make it more difficult for myself I'm going to record it in all languages I know: English, Polish, Spanish, German... and Japanese (for this last one I'll have a co-host :-) ... and I was supposed to have spent last week preparing for the recording when I had a very important family issue to sort out (good one, but a big one) and some other crisis along the way as well (and many [Nozbe][n]-related decisions). It was all very stressful... and this past weekend I felt like canceling the whole recording when another road-block showed up...
 
