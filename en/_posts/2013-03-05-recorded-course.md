@@ -3,7 +3,7 @@ tags: [productivity,life]
 img: "recorded-course.jpg"
 ---
 
-# Resistance - the 10-step productivity course recorded!
+# Combating the Resistance - 10-step productivity course recorded!
 
 [A few months ago I announced on this blog][1] I was planning to record the video course: ***10 steps to ultimate productivity!***. It took me a little while to get the recording going but [finally we started recording last week][2] and yesterday we finished the recording process. It was a roller coaster of an experience... but definitely one of these moments you feel you're alive.
 
