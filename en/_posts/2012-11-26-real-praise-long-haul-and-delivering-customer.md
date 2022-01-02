@@ -1,6 +1,6 @@
 ---
 tags: [business,draw]
-img: "real-praise-long-haul-and-delivering-customer.jpg"
+cover: "real-praise-long-haul-and-delivering-customer.jpg"
 ---
 
 # Real praise, long haul and delivering customer happiness
@@ -10,7 +10,7 @@ Last Friday was a "Black Friday" and I wasn't sure whether to prepare a special 
 
 <!--More-->
 
-![{{ page.title }}](/img/{{ page.img }})
+![{{ page.title }}](/img/{{ page.cover }})
 
 ## We are in a transition period
 

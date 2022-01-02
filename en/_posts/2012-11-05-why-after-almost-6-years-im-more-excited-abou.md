@@ -1,6 +1,6 @@
 ---
 tags: [business,draw]
-img: "why-after-almost-6-years-im-more-excited-abou.jpg"
+cover: "why-after-almost-6-years-im-more-excited-abou.jpg"
 ---
 
 # Why after almost 6 years I'm more excited about Nozbe than ever
@@ -10,7 +10,7 @@ After close to 6 years of running [Nozbe][n] I'm more excited than ever about wh
 
 <!--More-->
 
-![{{ page.title }}](/img/{{ page.img }})
+![{{ page.title }}](/img/{{ page.cover }})
 
 ## Why I started Nozbe in the first place
 

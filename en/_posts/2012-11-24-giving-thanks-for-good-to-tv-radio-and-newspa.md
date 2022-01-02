@@ -1,6 +1,6 @@
 ---
 tags: [life,draw]
-img: "giving-thanks-for-good-to-tv-radio-and-newspa.jpg"
+cover: "giving-thanks-for-good-to-tv-radio-and-newspa.jpg"
 ---
 
 # Giving thanks for good to TV, Radio and Newspapers
@@ -10,7 +10,7 @@ Yesterday was "Thanksgiving" in the USA and though we don't celebrate it here on
 
 <!--More-->
 
-![{{ page.title }}](/img/{{ page.img }})
+![{{ page.title }}](/img/{{ page.cover }})
 
 ## How I started out with an old TV and 2 channels
 

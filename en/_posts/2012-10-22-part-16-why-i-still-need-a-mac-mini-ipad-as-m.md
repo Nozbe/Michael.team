@@ -1,6 +1,6 @@
 ---
 tags: [ipadonly,draw]
-img: "part-16-why-i-still-need-a-mac-mini-ipad-as-m.jpg"
+cover: "part-16-why-i-still-need-a-mac-mini-ipad-as-m.jpg"
 ---
 
 # Part 16 - why I (still need a Mac Mini - iPad as my main computer
@@ -10,7 +10,7 @@ I received lots of positive responses to my [last blog post about my new 2012 ho
 
 <!--More-->
 
-![{{ page.title }}](/img/{{ page.img }})
+![{{ page.title }}](/img/{{ page.cover }})
 
 ## I work on my [iPad 80% of the time](/ipadonly) so I still need a "normal computer"
 
