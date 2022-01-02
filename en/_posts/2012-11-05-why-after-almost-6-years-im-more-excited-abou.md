@@ -42,7 +42,7 @@ Why is Nozbe so successful and so profitable? And why am I so happy running Nozb
 
 As [Simon Sinek in his book "Start with Why"](http://michaelnozbe.com/start-with-why-by-simon-sinek-audio-book-of-t) explains - when you know why you do something - people share your why and help you get to where you want to go. People don't buy what you do they buy why you do it. I'm privileged and honored to have my customers and my team share my "why" with me. _And what is your "why"?_
 
-## _And what are you passionate about? Are you bored with your job? Why? Why not? Have you ever analyzed why you do what you do? Do people around you share your "why"?_
+_And what are you passionate about? Are you bored with your job? Why? Why not? Have you ever analyzed why you do what you do? Do people around you share your "why"?_
 
 
 [n]: https://michael.gratis/nozbe

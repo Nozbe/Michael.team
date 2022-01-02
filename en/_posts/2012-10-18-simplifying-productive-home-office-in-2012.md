@@ -1,0 +1,67 @@
+---
+tags: [office]
+img: "simplifying-productive-home-office-in-2012.jpg"
+---
+
+# Simplifying Productive! Home Office in 2012
+
+
+If you follow me long enough you know every year or so I like to reorganize my home office. I started off with an [Ikea cabinet (in 2008)](http://michaelnozbe.com/declutter-your-desk-why-i-love-my-clutter-fre), later moved to a [bigger office with large desk (in 2009)](http://michaelnozbe.com/christmas-cleaning-clutter-free-productive-ho), then we moved to a [new house where I re-built the office again (in 2010)](http://michaelnozbe.com/zen-in-my-new-2010-clutter-free-home-office) and then [I improved my cable-management with my CTO in 2011](http://michaelnozbe.com/cable-management-in-my-home-office) and this time around **I'm simplifying everything this year** (and moving my office to a different room in our house).
+
+<!--More-->
+
+![{{ page.title }}](/img/{{ page.img }})
+
+## 2012 theme: "Stand up working and Minimalism with iPad"
+
+Back in 2011 I had an iPad 1 for reading but my main work machine was my MacBook Air and my home-office computer was the Lenovo TabletPC and later Mac Mini. Now it's a different world we live in - since then I moved to [work almost exclusively on the iPad (#iPadOnly)](/ipadonly) and configured my Mac Mini to be my only machine should I need a "traditional" computer (and I still need it 20%-30% of the time). And my MacBook Air is now a "mobile" version of my Mini... and it's not being used that much anymore.
+
+In 2011 I had my home office set up for the MacBook Air and Mac Mini... now it'll be only for mini and the iPad... with a noble inclusion of my stand up desk :-)
+
+## Getting started - Chaos
+
+It all starts with Chaos - I removed all the cables and switches, and gadgets and everything I had stored below my main work desk and you can see I had to start with a really big mess. There it is.
+
+![{{ page.title }} 2](/img/simplifying-productive-home-office-in-2012-2.jpg)
+
+## Planning - what to keep and what to throw away
+
+Then, after careful analysis I did a diagram of the things I really needed in my home office and made sure there wasn't anything "too much" set up there. Instead of two "baskets" of cables, one for the Air and one for the Mini, it's just one now:
+
+![{{ page.title }} 4](/img/simplifying-productive-home-office-in-2012-3.jpg)
+
+## Losing weight - before and after
+
+Here's what I had in my 2011 home office and what I have now after the move:
+
+I still have my four "computers": Mac Mini, MacBook Air, iPad and iPhone. And an Android phone and Windows phone for testing. Other than that, here's what got dumped:
+
+Before - **After**
+
+  * Monitors: 2 - **1 (I connected my Thunderbolt Monitor to the Mini)**
+  * USB hubs: 2 - **0 (I use my TB Monitor as USB hub)**
+  * External HDD: 3 - **2 (just my backup 750 GB and 1TB 2.5" for travel)** \- I also use a Time Capsule for backing up my and my wife's Airs.
+
+And a lot less cables, chargers and other things... the setup has been slimmed down to what I believe now to be a minimum for me.
+
+Other machines that survived the change:
+
+  * multi-functional laser printer with document feeder (helps me go paperless)
+  * document shredder (again, helps me securely go paperless :-)
+
+## Connecting the dots, moving to a new place, standing up
+
+Now as I work on my iPad, I usually work standing there, so my new stand-up desk is an integral part of my home office. My MacBook Air doesn't have a dedicated space anymore as it's not being used all that much. Here's the final result:
+
+![{{ page.title }} 5](/img/simplifying-productive-home-office-in-2012-4.jpg)
+
+## Bonus: Ambient lighting
+
+As I heard that "ambient lighting" is really healthy and it'a great way of working in the evenings when it's dark outside - I decided to install an Ikea set of diodes I bought the other day. The effect is amazing:
+
+![{{ page.title }} 7](/img/simplifying-productive-home-office-in-2012-5.jpg)
+
+There it is, my home office 2012 - new, improved, simplified. Love it.
+
+
+[n]: https://michael.gratis/nozbe

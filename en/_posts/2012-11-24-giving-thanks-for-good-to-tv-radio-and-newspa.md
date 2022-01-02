@@ -50,7 +50,7 @@ The Internet changed everything. Content on demand changes even more (even thoug
 
 That's why I'm so thankful for the times are live in and for the amazing ways I can access content on demand. TV? Radio? Newspapers? No, thanks.
 
-## _Question: And how do you "consume content"? Have your habits changed, too? In which way?_
+_Question: And how do you "consume content"? Have your habits changed, too? In which way?_
 
 
 [n]: https://michael.gratis/nozbe
