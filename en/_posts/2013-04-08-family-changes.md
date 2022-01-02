@@ -1,6 +1,8 @@
 ---
 tags: [links,life]
 img: "this-is-something-i-ve-been-struggling-with-recently-getting-your-family-on-board-with-life-changes.jpg"
+redirect_from:
+ - /this-is-something-i-ve-been-struggling-with-recently-getting-your-family-on-board-with-life-changes/
 ---
 
 # This is something I've been struggling with recently: Getting Your Family On Board with Life Changes
