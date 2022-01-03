@@ -1,6 +1,7 @@
 ---
 tags: [show,video,iphone]
 vid: "cDRlBdPv3Vc"
+redirect_from: /productive-iphone-5-review-to-buy-or-not-to-buy-productive-magazine-show-49/
 ---
 
 # To buy or not to buy an iPhone 5? My video...
