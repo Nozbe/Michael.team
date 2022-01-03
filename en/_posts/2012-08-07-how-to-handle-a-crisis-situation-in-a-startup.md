@@ -56,6 +56,7 @@ The crisis is gone, your service is up to speed. How to handle the situation now
 This is the email I got from Zerigo:
 
 > Sent from: noreply@zerigo.com
+>
 > Subject: _Zerigo DNS outage explanation_
 >
 > _Dear Zerigo Managed DNS Subscriber,_
