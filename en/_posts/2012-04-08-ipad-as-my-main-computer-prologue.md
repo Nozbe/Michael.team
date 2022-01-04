@@ -54,11 +54,4 @@ Maybe it's just the geek in me, or maybe I'm just an Apple fanboy who bought int
 
 _Did you ever try do do "more" on the iPad? How's your experience been? Do you have any tips for me as I'm starting this?_
 
-
-I'm [Michael Sliwinski](http://twitter.com/MichaelNozbe) and I'm an [entrepreneur](http://apivision.com/) who's also the...  
-.. Founder of [Nozbe.com](http://nozbe.com) - a time and project management web application  
-.. Editor of [Productive! Magazine](http://productivefirm.com/magazine) - a global PDF publication on productivity  
-.. and a [blogger](http://michaelnozbe.com) as well as a producer of a weekly 2-minute [Productive! show](http://productivefirm.com/show). 
-
-
 [n]: https://michael.gratis/nozbe

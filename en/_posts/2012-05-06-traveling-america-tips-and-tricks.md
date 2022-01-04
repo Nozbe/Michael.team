@@ -13,8 +13,6 @@ I live in Europe and I'm not American... but I do like to travel to the USA ever
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-  
-
 
 ## Prices in America
 

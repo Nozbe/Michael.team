@@ -13,9 +13,6 @@ The more I use the iPad the more I explore its "nuts and bolts". The more apps I
 
 ![{{ page.title }}](/img/{{ page.img }})
 
-  
-
-
 ## Email. To zero. Every day.
 
 When I wrote my first [post on the iPad](http://michaelnozbe.com/7-ways-the-new-apple-ipad-will-increase-your) two years ago I didn't know it'd be so true. Processing emails on the iPad to zero is so beautiful. It's really great. I'm "touching" emails and processing my inbox to zero every single day. I love it. The best part is that my Mail application is not "asking for attention" in the dock, it's there when I need it... and I use it several times a day and it's a great experience every time.

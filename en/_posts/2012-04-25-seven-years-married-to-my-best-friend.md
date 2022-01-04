@@ -13,8 +13,6 @@ Yesterday (Monday) exactly seven years ago me and my wife said "yes" and commenc
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-  
-
 
 ## When Harry met Sally
 

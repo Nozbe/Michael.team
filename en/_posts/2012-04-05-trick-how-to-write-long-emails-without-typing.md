@@ -40,9 +40,5 @@ I've used this trick several times now and will continue to use it even more. I 
 
 And by the way, [Patrick's article is great](http://visualstudiomagazine.com/articles/2012/04/02/the-business-of-pricing-your-product.aspx), it's a must-read for anyone responsible for setting prices of their products. [Go read it here](http://visualstudiomagazine.com/articles/2012/04/02/the-business-of-pricing-your-product.aspx) and share it through the internets via the social medias :-) I'm glad my 2 cents helped him :-)
 
-I'm [Michael Sliwinski](http://twitter.com/MichaelNozbe) and I'm an [entrepreneur](http://apivision.com/) who's also the...  
-.. Founder of [Nozbe.com](http://nozbe.com) - a time and project management web application  
-.. Editor of [Productive! Magazine](http://productivefirm.com/magazine) - a global PDF publication on productivity  
-.. and a [blogger](http://michaelnozbe.com) as well as a producer of a weekly 2-minute [Productive! show](http://productivefirm.com/show).
 
 [n]: https://michael.gratis/nozbe
