@@ -4,7 +4,7 @@ vid: "LBwOjjFaVy8"
 redirect_from: /still-standing-stand-up-desk-and-productivity-show-42/
 ---
 
-# I'm still standing! Stand-up desk and productivity - Show #42
+# I'm still standing! Stand-up desk and productivity - Productive! Show #42
 
 Aren't you sitting too much? In the office, in the car, at home after work? Have you ever considered standing while working? I'm Michael Sliwinski of Nozbe.com and Productive! Magazine and I have been working standing these last two months and I love it. Here's how I prepared the stand-up desk setup and how I'm doing it. Hope this helps you decide to at least give it a try!
 

@@ -3,7 +3,7 @@ tags: [ipadonly]
 img: "part-3-designing-flows-ipad-as-my-main-comput.jpg"
 ---
 
-# Part 3 - Designing Flows - iPad as my main computer
+# Part 3 - Designing Flows and a HomeScreen - iPad as my main computer
 
 Many people have asked me why I'm trying to go [iPad-only](http://michaelnozbe.com/ipad-as-my-main-computer-prologue) when I'm so productive on the Mac and don't really need to go so far. Well, apart from being excited by the challenge and the new gadget, the other thing is to really re-think how I use my computer and why I do things I do the same way. I've already discovered in my last posts that [I need to use different cloud services](http://michaelnozbe.com/part-1-the-clouds-ipad-as-my-main-computer) and also [need to change the way I write](http://michaelnozbe.com/part-2-writing-ipad-as-my-main-computer) which brings me to the real deal here: **I'm really re-designing my "flows" or processes**  
 

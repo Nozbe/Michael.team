@@ -4,7 +4,7 @@ vid: "ncxgcWQ90_c"
 redirect_from: /my-ipad-only-accessories-vs-steve-wozniaks-ga/
 ---
 
-# My must-have iPad accessories for the road (Productive! Magazine Show #47) vs Steve Wozniak's bag
+# My must-have iPad accessories for the road (Productive! Show #47) vs Steve Wozniak's bag
 
 As I'm now working mostly on my iPad (and traveling only with the iPad) I need to carry these accessories for my business travel. Locally I just take my iPad even without the external keyboard, but when there's a hotel and sleep-over involved, here's my gear! Episode #47 of the Productive! Magazine Show with Michael Sliwinski.
 

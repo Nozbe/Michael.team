@@ -3,7 +3,7 @@ tags: [books]
 img: "start-with-why-by-simon-sinek-audio-book-of-t.jpg"
 ---
 
-# Start with Why by Simon Sinek - (audio book of the week
+# Start with Why by Simon Sinek - audio book of the week
 
 
 I need to get back to [writing book reviews](/books) on this blog as I keep on reading (audio-reading) more books and can't keep up with my thoughts about them. Need to put it here for both you - my readers and myself... so hopefully more reviews are coming in the next few weeks. Let's start with the latest book I listened to: "Start with Why?" by Simon Sinek.  

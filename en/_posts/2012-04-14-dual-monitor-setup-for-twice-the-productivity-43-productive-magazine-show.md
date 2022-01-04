@@ -4,7 +4,7 @@ vid: "PWwwE3XOPYc"
 redirect_from: /video-of-my-dual-monitor-setup-for-twice-the/
 ---
 
-# Dual-monitor setup for twice the productivity - #43 Productive! Magazine Show
+# Dual-monitor setup for twice the productivity - Productive! Show #43
 
 
 When I'm at my home office I work on two screens at a time - one big screen (Apple Thunderbolt Display) hooked up to my Macbook Air - helps me arrange apps and get stuff done quickly, shifting my eye focus from one window to another without actually switching the apps.

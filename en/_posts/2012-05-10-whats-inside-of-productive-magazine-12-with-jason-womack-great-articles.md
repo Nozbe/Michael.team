@@ -4,6 +4,7 @@ img: "whats-inside-of-productive-magazine-12-with-jason-womack-great-articles.jp
 redirect_from:
  - /productive-magazine-12-with-jason-womack-impr/
  - /jason-womack-in-the-productive-magazine-12-on-pdf-and-ipad/
+ - /jason-womack-in-productive-magazine-12/
 ---
 
 # What's inside of Productive! Magazine #12 with Jason Womack? Great articles!
