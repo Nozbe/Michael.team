@@ -6,7 +6,7 @@ cover: "nozbe-retreat-how-to-recharge-batteries-of-yo.jpg"
 # Nozbe retreat - how to recharge batteries of your team
 
 
-Today the last group of my [Nozbe](http://www.nozbe.com/) team members flew away home. We spent a whole week working together, dining together and enjoying each others' company - it was a blast!
+Today the last group of my [Nozbe][n] team members flew away home. We spent a whole week working together, dining together and enjoying each others' company - it was a blast!
 
 <!--More-->
 
@@ -32,7 +32,7 @@ We were anxious about meeting and spending a whole week together. We know each o
 
 ## Thanks to my team and hopefully see you soon!
 
-We left back to our homes and to our duties. Now we feel even more empowered and motivated to work together and we've got so many great things ahead of us for [Nozbe](http://www.nozbe.com/). Let's make it happen now!
+We left back to our homes and to our duties. Now we feel even more empowered and motivated to work together and we've got so many great things ahead of us for [Nozbe][n]. Let's make it happen now!
 
   
   

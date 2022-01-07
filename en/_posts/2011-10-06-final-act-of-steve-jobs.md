@@ -64,17 +64,7 @@ He proved again that even his death can be planned perfectly and he knew how to 
 
 _Steve, God bless, may your soul rest in peace. I know it will._
 
-_"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart." **Steve Jobs, **__[Stanford Commencement Speech_](http://michaelnozbe.com/how-steve-jobs-inspired-me-as-an-entrepreneur)
-
-  
-
-
-  
-  
-  
- 
-
-  
+> "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart." **Steve Jobs** [Stanford Commencement Speech](http://michaelnozbe.com/how-steve-jobs-inspired-me-as-an-entrepreneur)
 
 
 

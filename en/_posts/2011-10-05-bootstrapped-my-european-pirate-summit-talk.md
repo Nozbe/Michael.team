@@ -1,10 +1,9 @@
 ---
-tags: [startup]
+tags: [business]
 img: "bootstrapped-my-european-pirate-summit-talk.jpg"
 ---
 
 # Bootstrapped - My European Pirate Summit Talk
-
 
 A few weeks ago I was invited to participate in the [European Pirate Summit](http://piratesummit.com/) in Cologne Germany and the event was a blast. I gave a talk on Bootstrapping and here I'd like to post this talk's summary. The images I used are copyrighted by the owners of The Pirates of the Caribbean movie franchise and hope they'll forgive me for using them - it's for educational purposes only. They were perfect for explaining my pirate, startup life.
 
@@ -14,7 +13,7 @@ A few weeks ago I was invited to participate in the [European Pirate Summit](htt
 
 ## Fights & Scars in the life of a Bootstrapped Pirate
 
-As I started my journey of bootstrapping with my [Nozbe](http://www.nozbe.com/) startup, I learned a lot of lessons and fought many fights and I keep doing it. This is the life of a pirate with self-funding, self-investing, never-ending with problems vessel... and a life I wouldn't change for anything else.
+As I started my journey of bootstrapping with my [Nozbe][n] startup, I learned a lot of lessons and fought many fights and I keep doing it. This is the life of a pirate with self-funding, self-investing, never-ending with problems vessel... and a life I wouldn't change for anything else.
 
 Here are the 8 principles that drive me every day and make my pirate bootstrapped life a great one:
 

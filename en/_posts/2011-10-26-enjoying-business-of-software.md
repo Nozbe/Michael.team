@@ -1,10 +1,9 @@
 ---
-tags: [bos2011]
+tags: [business]
 img: "enjoying-business-of-software.jpg"
 ---
 
 # Enjoying business of software
-
 
 Greetings from Boston, Massachusetts in the USA where I'm attending the "[Business of Software Conference](http://www.businessofsoftware.org)" and I'm having a great time with other software business owners, developers, coders, geeks... meaning - folks like myself :-)
 
@@ -16,7 +15,7 @@ Greetings from Boston, Massachusetts in the USA where I'm attending the "[Busine
 
 There's this amazing thing about listening to great similar-thinking guys doing geeky-software-stuff in their industries and learning from them.
 
-I've listened to talks about disruption, creativity, A/B testing, mistakes, successes, pricing, social media... etc... and as I listen to each talk my mind keeps spinning and getting new ideas for the stuff I'd love to do, ideas I'd want to implement in my company and improvements I'd love to build into [Nozbe](http://www.nozbe.com/)...
+I've listened to talks about disruption, creativity, A/B testing, mistakes, successes, pricing, social media... etc... and as I listen to each talk my mind keeps spinning and getting new ideas for the stuff I'd love to do, ideas I'd want to implement in my company and improvements I'd love to build into [Nozbe][n]...
 
 ## Re-discovering ideas all over again
 
@@ -32,7 +31,7 @@ Contrary to the popular opinion geeks are not as introverts as you'd think - esp
 
 I went to several conferences this year and I seriously prefer one-track conferences. When there are more tracks, more people wander around between these and many folks end up chatting on the corridor not deciding which room to visit. Not on "Business of Software" - over here there is only one track and it's jammed packed as there is only the one place we can go to listen to the speakers. And later when there are breaks, we can discuss what we just heard with anyone... as everyone was there.
 
-## And my personal bonus - I got to meet [Nozbe](http://www.nozbe.com/) users :-)
+## And my personal bonus - I got to meet [Nozbe][n] users :-)
 
 There is nothing like talking to someone and when they ask what you do for a living someone else comes over and starts explaining what you do and why you do it and that they love your software. It happened to me today and I was blown away. Thanks Kevin for making my day and being a fantastic Nozbe evangelist!
 

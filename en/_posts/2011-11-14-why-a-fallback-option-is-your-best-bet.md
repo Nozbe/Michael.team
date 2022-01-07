@@ -34,7 +34,7 @@ Business is business and you're expecting the other party to do a great job. I'm
 
 That's why I don't tell the other party that I'm having a fallback option. If they ask, I don't lie, but they never ask. I'm expecting them to deliver me a great job or great offer and if they can't - I have all the right to have another option. After all, it's in my interest in the first place.
 
-_What do you think? Do you always "shop around"?_ _ When?_
+_What do you think? Do you always "shop around"? When?_
 
   
 
