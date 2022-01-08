@@ -1,5 +1,5 @@
 ---
-tags: [show,video,office]
+tags: [show,video]
 vid: "LEi31df204U"
 ---
 

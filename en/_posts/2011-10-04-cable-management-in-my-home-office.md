@@ -1,6 +1,7 @@
 ---
 tags: [office]
 img: "cable-management-in-my-home-office.jpg"
+redirect_from: /office11/
 ---
 
 # Cable management in my home office
