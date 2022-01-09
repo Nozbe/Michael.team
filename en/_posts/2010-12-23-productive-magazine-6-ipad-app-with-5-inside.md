@@ -3,7 +3,7 @@ tags: [magazine,ipadonly]
 img: "productive-magazine-6-ipad-app-with-5-inside.jpg"
 ---
 
-# Productive Magazine #6 iPad app with #5 inside :-
+# Productive Magazine #6 iPad app with #5 inside :-)
 
 
 We're already preparing Productive! Magazine #7 with Michael Hyatt and the Productive Magazine #6 finally hit the AppStore:

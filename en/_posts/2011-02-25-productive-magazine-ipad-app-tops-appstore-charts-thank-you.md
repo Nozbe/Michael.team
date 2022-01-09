@@ -1,6 +1,9 @@
 ---
 tags: [magazine]
 img: "productive-magazine-ipad-app-tops-appstore-charts-thank-you.jpg"
+redirect_from:
+ - /productive-magazine-top-10-in-lifestyle-in-ipad-appstore/
+ - /productive-magazine-there-will-be-an-ipad-app-for-that/
 ---
 
 # Productive! Magazine iPad app tops Appstore charts! Thank you!
