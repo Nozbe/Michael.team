@@ -1,5 +1,5 @@
 ---
-tags: [life,video]
+tags: [links,video]
 vid: "xWrbAmtZuGc"
 ---
 

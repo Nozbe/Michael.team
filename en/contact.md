@@ -2,6 +2,7 @@
 permalink: /contact/
 cover: michael.team.pl.3k.jpg
 title: Connect with Michael Sliwinski
+redirect_from: /Contact/
 ---
 
 * TOC
