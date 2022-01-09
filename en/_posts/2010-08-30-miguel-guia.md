@@ -1,6 +1,7 @@
 ---
 tags: [show,video]
 vid: "AJeZoaCb2HE"
+redirect_from: /video-interview-productive-magazine-5-preview/
 ---
 
 # Productive Magazine #5 interview with Miguel Guía
