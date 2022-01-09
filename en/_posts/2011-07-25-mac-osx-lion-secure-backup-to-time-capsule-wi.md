@@ -102,10 +102,5 @@ TimeMachineEditor will disable your official Time Machine backup scheduler as it
 
 _Congratulations. You have secure backups on your Time Capsule in Lion and you're set to be even more productive on your Mac. Good luck!_
 
-![{{ page.title }} 6](/img/mac-osx-lion-secure-backup-to-time-capsule-wi-6.jpg)
-  
-  
-
-
 
 [n]: https://michael.gratis/nozbe
