@@ -1,6 +1,6 @@
 ---
 tags: [show,video]
-vid: "AJeZoaCb2HE"
+vid: "jEBLkEuR9jE"
 redirect_from: /video-interview-productive-magazine-5-preview/
 ---
 
