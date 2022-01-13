@@ -4,4 +4,5 @@ permalink: /show/
 redirect_from:
  - /tag/show/
  - /Show/
+ - /subscribe-to-productive-show-via-itunes/
 ---
