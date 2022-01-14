@@ -7,6 +7,7 @@ redirect_from:
  - /productive-magazine-4-coming-next-week/
  - /productive-magazine-4-preview-working-effectively-from-home/
  - /getting-the-productive-magazine-ready-finally/
+ - /productive-magazine-4-to-be-announced-soon/
 ---
 
 # Productive! Magazine #4 available! Leo Babauta interview and productivity tips and tricks.

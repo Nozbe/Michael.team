@@ -5,4 +5,5 @@ redirect_from:
   - /tag/life/
   - /tag/thoughts/
   - /tag/passion/
+  - /tag/family/
 ---
