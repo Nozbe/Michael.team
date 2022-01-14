@@ -73,6 +73,10 @@ tagsall_es: "Elige un tema"
 tagsallemoji: "⬆️"
 
 tags:
+- name: apple
+  emoj: "🍎"
+  titl: "Apple"
+  tit2: "Commentary on Apple Inc. and their late CEO Steve Jobs. I'm both inspired by their products (see: [iPad](/ipadonly), [iPhone](/iphone) and [Apple Watch](/applewatch)) and their practices. As a true fan, sometimes I'm also critisizing them to hold them accountable."
 - name: applewatch
   emoj: "⌚️"
   titl: "Apple Watch"
@@ -80,7 +84,7 @@ tags:
 - name: best
   emoj: "🥇"
   titl: "Best"
-  tit2: "My collections of best blog posts of each year of blogging…"
+  tit2: "My collections of best blog posts of each year of blogging… Highlights, lessons learned and much more!"
 - name: birthday
   emoj: "🎂"
   titl: "Birthday"

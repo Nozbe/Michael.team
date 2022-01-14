@@ -6,7 +6,7 @@ img: "7-ways-the-new-apple-ipad-will-increase-your.jpg"
 # 7 ways the new Apple iPad will increase your productivity
 
 
-The [Apple's iPad is still causing lots of controversy all over the Internet](http://michaelnozbe.com/friday-readership-no-one-really-likes-the-app) and since it's not been shipped yet to the Apple stores, hardly anyone has ever played with it. However, looking at the iPad's page and the promo video, one can already find a number of ways the iPad will do to improve your productivity (if you get one of course):
+The Apple's iPad is still causing lots of controversy all over the Internet and since it's not been shipped yet to the Apple stores, hardly anyone has ever played with it. However, looking at the iPad's page and the promo video, one can already find a number of ways the iPad will do to improve your productivity (if you get one of course):
 
 <!--More-->
 

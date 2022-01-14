@@ -4,4 +4,5 @@ permalink: /life/
 redirect_from:
   - /tag/life/
   - /tag/thoughts/
+  - /tag/passion/
 ---
