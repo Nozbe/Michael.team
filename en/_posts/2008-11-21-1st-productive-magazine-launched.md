@@ -8,6 +8,13 @@ redirect_from:
  - /17th-article-for-the-first-issue-of-the-pm/
  - /new-design-and-magazine-update/
  - /early-scoop-on-the-productive-magazine-cover/
+ - /articles-in-the-first-edition-of-the-productive-magazine/
+ - /getting-the-productive-magazine-done/
+ - /the-articles-keep-on-coming-still-waiting-for-your-submission/
+ - /why-productive-magazine-why-downloadable-free-pdf/
+ - /first-blogs-and-bloggers-contacted/
+ - /the-productive-magazine/
+ - /productive-magazine-started/
 ---
 
 # 1st Productive Magazine launched!
@@ -24,6 +31,8 @@ I'm happy to announce that we've just released the first issue of the Productive
   * 17 great articles by the most active productivity bloggers in the blogoshpere, make sure to check these out!
 
 Thanks to all the contributors and to everyone who helped me make this happen! After you've downloaded the magazine, please do come back to this web site and post your comments to let me know what you think! 
+
+## Get [Productive! Magazine #1](http://productivemag.com/1)
 
 P.S. Productive Magazine is sponsored by **[Nozbe - Simply Get Things Done][n]** tool that keeps you productive when you're by the computer or with the mobile phone or the iPhone. 
 
