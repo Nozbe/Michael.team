@@ -1,5 +1,5 @@
 ---
-tags: [book]
+tags: [books]
 img: "making-it-all-work-grab-your-new-book-by-david-allen.jpg"
 ---
 
