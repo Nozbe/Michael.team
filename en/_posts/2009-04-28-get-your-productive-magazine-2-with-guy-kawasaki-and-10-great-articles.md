@@ -7,6 +7,7 @@ redirect_from:
  - /productive-magazine-issue-2-cover/
  - /articles-in-the-productive-magazine-2/
  - /preview-of-pm-2-cover-and-interview-with-guy-kawasaki/
+ - /productivity-bloggers-wheres-your-article-for-the-issue-2/
 ---
 
 # Get your Productive Magazine 2 with Guy Kawasaki and 10 great articles
