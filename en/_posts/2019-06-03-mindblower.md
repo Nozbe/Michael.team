@@ -1,5 +1,5 @@
 ---
-tags: [business]
+tags: [travel,nozbe,business]
 img: "mindblower.jpg"
 ---
 

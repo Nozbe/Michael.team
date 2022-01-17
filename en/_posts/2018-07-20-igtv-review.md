@@ -1,5 +1,5 @@
 ---
-tags: [video,productivity]
+tags: [show,video]
 vid: "bTLPYh_LTVc"
 ---
 
@@ -28,4 +28,3 @@ Hope you’ve enjoyed this short video and hope you’ll take your time to do yo
 [o]: https://ipadonly.com
 
 [pm]: http://productivemag.com/
-*[Sent from my iPhone X](/iphonex)*

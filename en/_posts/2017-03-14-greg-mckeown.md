@@ -1,5 +1,5 @@
 ---
-tags: [show,video,interviews]
+tags: [interviews,magazine,show,video]
 vid: "r9ULEChPBck"
 ---
 
@@ -11,15 +11,11 @@ I've been a long-time fan of the book: [Essentialism - the disciplined pursuit o
 
 <!--More-->
 
+## Get [Productive! Magazine #34](http://productivemag.com/34)
+
 This interview is pretty long, but it's really worth watching it - we've covered lots of topics and really nailed down the [Essentialism part](/essentialism/). You can read more about the last issue of the [Productive! Magazine on the Nozbe blog][b].
 
 Thanks for being a part of the [Productive! Magazine][pm] - I've been running it more than 8 years now but it was the time to finish it up with a blast and focus on other ways we can do to help people get more done.
-
-Thanks!
-
-Your editor-in-chief of the Productive! Magazine
-
-- Michael Sliwinski
 
 P.S. After you've watched this video, make sure to [check out my podcasts and the entire Productive! Show archive](/show/). I've done a few great interviews for this blog, [check them out (Seth Godin, Michael Hyatt, Leo Babauta, Brian Tracy...)](/interviews/)
 

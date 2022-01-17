@@ -1,6 +1,6 @@
 ---
 cover: once-a-week.jpg
-tags: [productivity]
+tags: [productivity,blogging]
 ---
 
 # Once a week to create a long-lasting habit

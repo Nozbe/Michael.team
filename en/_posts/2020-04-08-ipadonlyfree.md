@@ -1,11 +1,11 @@
 ---
-tags: [ipadonly]
+tags: [ipadonly,projects]
 img: "ipadonlyfree.jpg"
 ---
 
 # The #iPadOnly book is an oldie but a goodie... and is free for you to read online!
 
-[10 years ago the iPad](/7-ways-the-new-apple-ipad-will-increase-your) went on sale and exactly [8 years ago to date I started my quest to use the iPad](/ipad-as-my-main-computer-prologue/) as my main computing device - I started being [#iPadOnly](/ipadonly). And a year later I co-wrote a book about this with my friend Augusto Pinaud and **[today this book is free and open-sourced](https://ipadonly.com/book/)** for you to read online. Here is how it all came to be:
+[10 years ago the iPad](/7-ways-the-new-apple-ipad-will-increase-your) went on sale and exactly [8 years ago to date I started my quest to use the iPad](/ipad-as-my-main-computer-prologue/) as my main computing device - I started being [#iPadOnly](/ipadonly). And a year later I co-wrote a book about this with my friend Augusto Pinaud and **[today this book is free and open-sourced][i]** for you to read online. Here is how it all came to be:
 
 <!--More-->
 
@@ -13,7 +13,7 @@ img: "ipadonlyfree.jpg"
 
 
 
-## The first post-PC book...
+## [The first post-PC book…][i]
 
 When 8 years ago to the day I started using a retina iPad 3 as my main computer, it was just a crazy experiment. The iPad was barely 2 years old as a platform and many apps were simply not ready for prime time. But I fell in love with the device - I loved the form factor, the battery life, the keyboard-less design... everything about it. Shortly after I went on a trip with my wife to see the canyons on the West Coast and didn't take a MacBook Air with me - only the iPad... and rest, as they say, is history.
 
@@ -65,7 +65,10 @@ The book's web site is done in [Jekyll](https://jekyllrb.com/) and published on 
 
 Now that the book is published and free, let's update it, revise it or extend it together, shall we? If you're as passionate about the iPad as I am, feel free to open a pull request, suggest a change, chapter or whatever you want. Maybe we can revive this book together?
 
-And even if not, [go ahead and read it free now - hope you'll find some parts of it eye-opening..](https://ipadonly.com/book/)
+And even if not, [go ahead and read it free now - hope you'll find some parts of it eye-opening..][i]
+
+## [Read #iPadOnly book online free][i]
 
 [n]: https://michael.gratis/nozbe
 [p]: /podcast
+[i]: https://ipadonly.com/book/

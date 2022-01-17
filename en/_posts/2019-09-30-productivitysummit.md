@@ -1,5 +1,5 @@
 ---
-tags: [guest,productivity]
+tags: [guest]
 img: "productivitysummit.jpg"
 ---
 

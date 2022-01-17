@@ -1,5 +1,5 @@
 ---
-tags: [productivity]
+tags: [travel,productivity]
 img: "gtdsummit.jpg"
 ---
 

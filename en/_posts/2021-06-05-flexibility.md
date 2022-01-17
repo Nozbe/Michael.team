@@ -1,5 +1,5 @@
 ---
-tags: [nooffice, wrong]
+tags: [apple, nooffice, wrong]
 cover: "flexibility.jpg"
 ---
 
