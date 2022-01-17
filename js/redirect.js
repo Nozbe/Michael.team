@@ -19,6 +19,16 @@ let links = new Map([
 ['thepodcast', 'https://podcasts.apple.com/podcast/the-podcast/id1012329770'],
 ['ipadonly', 'https://ipadonly.com'],
 ['radex', 'https://radex.io/'],
+['amazon', 'http://amazon.com/author/sliwinski'],
+['calendar', 'https://calendly.com/nozbe-ceo/30min/'],
+['apps-pdf', 'http://MNoz.be/3i'],
+['apps-epub', 'http://MNoz.be/3j'],
+['apps-mobi', 'http://MNoz.be/3k'],
+['passion-pdf', 'http://MNoz.be/0g'],
+['passion-epub', 'http://MNoz.be/0e'],
+['passion-mobi', 'http://MNoz.be/0f'],
+
+['test', 'test'],
 
 ]);
 

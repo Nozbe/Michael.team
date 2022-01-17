@@ -20,7 +20,7 @@ This time we kept our word and thanks to the common work of the entire Productiv
 
 This was my alternative cover which ultimately didn't ship:
 
-![{{ page.title }} 2](productive-magazine-issue-3-with-michael-bungay-stanier-august-2009-2.jpg)
+![{{ page.title }} 2](/img/productive-magazine-issue-3-with-michael-bungay-stanier-august-2009-2.jpg)
 
 
 [n]: https://michael.gratis/nozbe

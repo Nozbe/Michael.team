@@ -11,8 +11,6 @@ My very good friend Frank Meeuwsen of "What's the Next Action Blog" fame and now
 
 <!--More-->
 
-![{{ page.title }}](/img/{{ page.img }})
-
 *Here's me with David Allen and friends: Michal Malyszko and Krzysztof "[TesTeq](https://biznesbezstresu.pl)" Wysocki at the GTD Summit*
 
 ![{{ page.title }}](/img/post-gtdsummit-stuff-interview-with-david-allen-by-lifehackingnl.jpg)

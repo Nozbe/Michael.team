@@ -1,5 +1,5 @@
 ---
-tags: [business]
+tags: [links,business,video]
 vid: "bvzUPUUA90w"
 ---
 

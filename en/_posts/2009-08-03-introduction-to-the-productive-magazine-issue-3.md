@@ -1,5 +1,5 @@
 ---
-tags: [show,video]
+tags: [magazine,show,video]
 vid: "m6dNJGD0bMQ"
 redirect_from: /productive-magazine-issue-3-available-tomorrow-watch-the-video-trailer/
 ---

@@ -3,6 +3,7 @@ permalink: /passion/
 cover: "passion.jpg"
 book: passion
 part: toc
+redirect_from: /passionate-startup/
 ---
 
 # BOOK: It's all about Passion!

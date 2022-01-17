@@ -1,13 +1,14 @@
 ---
 permalink: /reading/
 img: "reading.jpg"
+redirect_from: /read/
 ---
 
 # Books - my ultimate list of the (audio)books I've read in the past and I'm reading now
 
 ## Latest Update: October 20, 2017
 
-> Note: I'm about to update this page. It's long outdated!
+> Note: I haven't updated this page in the last 5 years, so it's totally outdated. I've read many more books since then. I'm hoping to be gradually updating this page again and at least post the list of my favorite recently read books here. Soon-ish!
 
 As a CEO of an established company [Nozbe][n] I need to keep growing as a leader and the best way to do that is to read lots of books. As they say: *"Not all readers are leaders, but all leaders are readers"!* But how to find time for books? Well, back in 2010 [I started listening to audiobooks][a] instead of reading physical books and I went from 2 books per year to around 30... and from then on I've been either [listening to audiobooks][a] or [podcasts][p]. Right now my Audible library is really huge so I created a document with the list of all the books I read in the past. I was losing track. And I only managed to [write about some of them on this blog](/books/). Long story short, I decided to share my list of books with you - together with links, notes, everything right here... on this page. Here goes:
 
@@ -580,10 +581,8 @@ As I've read all of the books above, feel free to ask me about them in the comme
 
 ***Question:*** *Which book would you suggest I read next? Which one on the list did you like / not like?*
 
-[Nozbe]: https://nozbe.com
-[Remag]: https://remag.me
 [a]: /reading-audiobooks-and-absorbing-content
-[p]: http://michaelsliwinski.com/re-discovering-productivity-boosting-podcasti
+[p]: /re-discovering-productivity-boosting-podcasti
 [m]: http://productivemag.com
 [gr]: /gretchen-rubin-in-the-upcoming-productive-magazine-11/
 [jw]: /interview-with-jason-womack-for-the-productive-magazine-12/

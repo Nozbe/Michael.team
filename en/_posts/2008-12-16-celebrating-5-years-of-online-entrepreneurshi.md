@@ -11,7 +11,11 @@ img: "celebrating-5-years-of-online-entrepreneurshi.jpg"
 
 ![{{ page.title }}](/img/{{ page.img }})
 
-Half a year after my graduation, when most of my friends from the Management Studies went seeking great jobs with great companies to hunt for great salaries.... **... I decided to start a great company myself.** I wasn’t sure what to expect. I had some clients in my portfolio already (the ones I was already doing some gigs during the studies) and some ideas for products and services online (actually I had one online service in the preparation already). **Why did I start my own company? **(without any prior experience of working for someone else) I had my reasons: 
+Half a year after my graduation, when most of my friends from the Management Studies went seeking great jobs with great companies to hunt for great salaries... **I decided to start a great company myself.** I wasn’t sure what to expect. I had some clients in my portfolio already (the ones I was already doing some gigs during the studies) and some ideas for products and services online (actually I had one online service in the preparation already).
+
+## Why did I start my own company? (without any prior experience of working for someone else)
+
+I had my reasons: 
 
   * **I did have some work experience**, I took a series of internships during the studies, so I had a vague idea of how working in a big company can look like
   * **My both parents are entrepreneurs** - my father is running an advertising agency and my mum had several businesses in her career and currently owns a cafe with gallery. I had great role models... and I was aware of the risks.

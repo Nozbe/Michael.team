@@ -41,7 +41,7 @@ ad: "false" #"true" so it displays, everything else to not show it, like "false"
 ad_link: "https://nozbe.com/promo/?c=michaelteam"
 ad_text: "💥BLACK FRIDAY! Get Nozbe - up to 4 MONTHS FREE!🔥"
 
-descr: "[Hello](/now/), I'm [Michael Sliwinski](/about/), founder of [Nozbe](/nozbe/) - [to-do](/productivity/) app for [teams](/vlog/). I [write essays](/archive/), [books](/books/) and I [podcast](/noofficefm/) for you using [#iPadOnly](/ipadonly/) in [#NoOffice](/nooffice/) as I [believe](/contact) that *work is not a place you go to, it's a thing you do.*"
+descr: "[Hello](/now/), I'm [Michael Sliwinski](/about/), founder of [Nozbe](/nozbe/) - [to-do](/productivity/) app for [teams](/vlog/). I [write essays](/archive/), [books](/books/), work on [projects](/projects) and I [podcast](/noofficefm/) for you using [#iPadOnly](/ipadonly/) in [#NoOffice](/nooffice/) as I [believe](/contact) that *work is not a place you go to, it's a thing you do.*"
 descr_pl: "Hej, tu [Michał Śliwiński](/pl/omnie), założyciel [Nozbe](https://michael.gratis/nozbe_pl){:target='_blank'} - aplikacji do zadań dla nowoczesnych zespołów. [Po polsku](/pl/archiwum/) piszę o [produktywności](/pl/imagazine/). [Wierzę](/pl/kontakt/), że *praca to nie jest miejsce do którego idziesz, ale to co robisz.*"
 descr_es: "Hola, soy Michael Sliwinski, fundador de [Nozbe](https://michael.gratis/nozbe_es){:target='_blank'} - gestor de tareas para modernos equipos. [Escribo](/es/todo/) sobre [productividad](/es/webinar). Creo en que *trabajo no es un sitio a donde vas, sino es algo que haces.*"
 
@@ -76,7 +76,7 @@ tags:
 - name: apple
   emoj: "🍎"
   titl: "Apple"
-  tit2: "Commentary on Apple Inc. and their late CEO Steve Jobs. I'm both inspired by their products (see: [iPad](/ipadonly), [iPhone](/iphone) and [Apple Watch](/applewatch)) and their practices. As a true fan, sometimes I'm also critisizing them to hold them accountable."
+  tit2: "Commentary on Apple Inc. and their late CEO Steve Jobs. I'm both inspired by their products (see: [iPad](/ipadonly), [iPhone](/iphone) and [Apple Watch](/applewatch)) and their practices. As a true fan, sometimes I'm also critisizing Apple to hold them accountable."
 - name: applewatch
   emoj: "⌚️"
   titl: "Apple Watch"
@@ -96,7 +96,7 @@ tags:
 - name: books
   emoj: "📖"
   titl: "Books"
-  tit2: "Books I'm reading and recommending as well as books I'm writing. Featuring the behind-the-scenes process of writing my main project currently, the **[#NoOffice book](https://NoOffice.org/){:target='_blank'}**. You can also get my past books: [It's All About Passion!](/passion/) and [NoOffice Apps](/apps/) when you subscribe to my [newsletter](/news/)."
+  tit2: "Books I'm reading and recommending as well as books I'm writing. Featuring the behind-the-scenes process of writing my main project currently, the **[#NoOffice book](https://NoOffice.org/){:target='_blank'}**. I'm also [reading a lot](/reading/). You can also get my past books: [It's All About Passion!](/passion/) and [NoOffice Apps](/apps/) when you subscribe to my [newsletter](/news/)."
 - name: business
   emoj: "💼"
   titl: "Business"
@@ -169,6 +169,10 @@ tags:
   emoj: "☑️"
   titl: "Productivity"
   tit2: "Productivity-related topics. How I hack my life, do things better, faster and most of all, create long-lasting habits. I'm a constant productivity student. Now focused mostly on team productivity with the recent launch of [Nozbe Teams](https://michael.gratis/nozbe){:target='_blank'}."
+- name: projects
+  emoj: "🚀"
+  titl: "Projects"
+  tit2: "Things I'm working on. Projects on this site, like **[Dice](/dice/)** or **[YouTube watcher](/yt/)**. As well as my past projects, startup ideas or some behind-the-scenes scoop."
 - name: podcast
   emoj: "🎧"
   titl: "ThePodcast.fm"

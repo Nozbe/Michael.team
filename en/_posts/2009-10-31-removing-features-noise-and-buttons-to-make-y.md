@@ -26,6 +26,10 @@ This the typical Apple genious - remove noise, remove unnecessary buttons but im
 
 As a startup owner/founder my goal with Nozbe 2.0 was to do the same thing: remove noise, remove buttons, sliders, dropdowns...And yet when I look at it I see there is still a lot that can be done... So I decided to do "weekly reviews" of Nozbe in a search for something to remove.
 
+## Compare that to what this might could have been if Apple decided to just keep adding features:
+
+![{{ page.title }} 2](/img/removing-features-noise-and-buttons-to-make-y-2.jpg)
+
 ## That's right. I'll be removing stuff from Nozbe. Literally.
 
 Follow Apple's advice:**Keep removing noise while adding new features. Make stuff work "behind the scenes" and not "in your face".**

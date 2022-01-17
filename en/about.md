@@ -1,7 +1,9 @@
 ---
 permalink: /about/
 cover: michael.team.about.3k.jpg
-redirect_from: /About/
+redirect_from:
+ - /About/
+ - /speaking/
 ---
 
 # About Michael Sliwinski
@@ -21,7 +23,7 @@ I'm all about "team productivity" and what it means for me is helping teams work
 
 Here's my short bio:
 
-> Michael Sliwinski is a team productivity enthusiast. He's the founder of [Nozbe and Nozbe Teams](https://michael.gratis/nozbe){:target='_blank'}, apps that help people and teams get more done in a better way on any platform (web-based with native apps for the Mac, Windows, Android, iPad and the iPhone + Apple Watch). Michael is passionate about working remotely (#NoOffice) and in a mobile way (#iPadOnly). Privately he is a husband and a father of 3 girls.
+> Michael Sliwinski is a team productivity enthusiast. He's the founder of [Nozbe](https://michael.gratis/nozbe){:target='_blank'}, app that helps people and teams get more done in a better way on any platform (web-based with native apps for the Mac, Windows, Android, iPad and the iPhone + Apple Watch). Michael is passionate about working remotely (#NoOffice) and in a mobile way (#iPadOnly). Privately he is a husband and a father of 3 girls.
 
 [Here's my full story](https://michael.team/about/#my-story)
 
@@ -35,18 +37,25 @@ If you need my photos for an interview, just right click and "save as" to downlo
 
 You can copy and share any part of this site, but just give back credits to me. It's published using [Creative Commons Attribution-ShareAlike 4.0 license](/license). Everything - the content, the code, anything - feel free to share it, use it, re-use it. Just remember to give me credit. I'll also soon publish the code for this site completely open on GitHub.
 
+## What I'm doing now?
+
+### [Check out my "Now" page](/now/)
+
 ## My additional projects:
 
 * I'm currently writing a book on working better in a modern and more remote and flexible way: [#NoOffice](https://nooffice.org){:target='_blank'}.
-* I'm [blogging](/blogging) on [this site](/archive/) now and I used to do it on my [old site: sliwinski.com](){:target='_blank'}.
-* [I chat with Radek on "The Podcast . FM"](/podcast) - it's a semi-weekly podcast on "technology, productivity tips, business, publishing, and whatever else comes to mind..." - more than 200 episodes recorded to date!
-* I do all that from my iPad - I'm ([#iPadOnly](https://iPadOnly.com){:target='_blank'}).
+* I'm [blogging](/blogging) on [this site](/archive/) now and I used to do it on my old site: **sliwinski.com**.
+* I'm podcasting at [No Office FM](/noofficefm/), giving [guest interviews](/guest/) on other podcasts or sites, sometimes I'm also podcasting in Polish at [Nie Ma Biura podcast](/pl/niemabiura/).
+* I read lots of [books](/books/), actually [audiobooks are being read to me](/reading/)
+* I do all that from my iPad - I'm [#iPadOnly](/ipadonly/). I actually co-wrote a book on that subject: [#iPadOnly - the first real post-PC book - how to use only your iPad to work, play and everything in between](https://ipadonly.com){:target='_blank'}.
 
 ## Things I used to do:
 
+* I wrote a book on [productivity](/productivity): [**10 Steps to Ultimate Productivity**](https://productivitycourse.com){:target='_blank'}, also available in [Polish](https://kursproduktywnosci.pl){:target='_blank'} and [Chinese](https://10steps.tw){:target='_blank'}
+* Between 2015-2021 I used to co-host ["The Podcast . FM"](/podcast) with [Radek](https://michael.gratis/radex) - on "technology, productivity tips, business, publishing, and whatever else comes to mind..." - we recorded than 200 episodes recorded to date!
 * Between 2008-2017 I used to run the [Productive! Magazine](http://productivemag.com/issues) where together with other productivity experts we shared our best tips and tricks. All the issues are available for free on the web in **[English](http://productivemag.com)**, [Polish](http://productivemag.pl), [Spanish](http://productivemag.es), [Dutch](http://productivemag.nl) and [Japanese](http://productivemag.jp)
 * Before Nozbe (i.e. before 2007) as [apivision.com](http://apivision.com) I was a one-man web marketing department/consultant for [BuySculpture.com](https://buysculpture.com)
-* Before that in the early 2000s I failed at launching several startups: [RSS publishing with HitRSS.com](http://hitrss.com), [Email auto-responders with Wyslij.info](http://wyslij.info) and banner-agency "ELLO". I also wrote a Windows launcher [called QTbar](http://qtbar.com) when I was in collage.
+* Before that in the early 2000s I failed at launching several startups: [RSS publishing with HitRSS.com](/hitrss/), [Email auto-responders with Wyslij.info](http://wyslij.info) and banner-agency "ELLO". I also wrote a Windows launcher [called QTbar](/qtbar/) when I was in collage.
 
 ## Speaking
 
@@ -57,6 +66,8 @@ You can hire me to speak at your event!
 These are the three topics I'm being asked to speak at events all over the world. I've been a keynote speaker at various conferences and events (including TEDx) in the USA, Germany and Poland. As a productivity expert I've been featured on BBC and other media channels. These days I'm extremely busy running Nozbe, so I only accept a limited number of offers to speak per year. One of my recent ones was the one at InfoShare 2018:
 
 {% include video.html id="FyAHtCTJWsU" %}
+
+### [Watch my entire keynote on InfoShare 2018](/infoshare/)
 
 Here's what people say about me speaking:
 
