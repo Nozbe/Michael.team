@@ -16,9 +16,9 @@ Yesterday we published Productive! Magazine #8 and this one is with my software/
 
 ![{{ page.title }}](/img/{{ page.img }})
 
-If you haven't, I encourage you to **[grab your copy of the PDF magazine (it's free)**](http://productivemag.com/8).
+## Get [Productive! Magazine #8](http://productivemag.com/8)
 
-If you missed my video interview with Jason, [make sure to check it out ](/video-interview-with-jason-fried-of-37signals)(there is a 6:30 min version and a very "short and sweet" 1-min version).
+If you missed my video interview with Jason, [make sure to check it out ](/video-interview-with-jason-fried-of-37signals).
 
 ## On design:
 

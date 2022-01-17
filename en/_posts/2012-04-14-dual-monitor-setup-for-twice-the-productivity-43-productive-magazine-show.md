@@ -1,5 +1,5 @@
 ---
-tags: [show,video,computers]
+tags: [computers,show,video]
 vid: "PWwwE3XOPYc"
 redirect_from: /video-of-my-dual-monitor-setup-for-twice-the/
 ---

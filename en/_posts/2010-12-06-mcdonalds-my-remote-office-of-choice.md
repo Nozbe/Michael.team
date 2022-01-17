@@ -1,5 +1,5 @@
 ---
-tags: [business]
+tags: [travel,nooffice]
 img: "mcdonalds-my-remote-office-of-choice.jpg"
 ---
 

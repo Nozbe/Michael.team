@@ -1,5 +1,5 @@
 ---
-tags: [magazine]
+tags: [magazine,ipadonly]
 img: "productive-magazine-ipad-app-tops-appstore-charts-thank-you.jpg"
 redirect_from:
  - /productive-magazine-top-10-in-lifestyle-in-ipad-appstore/

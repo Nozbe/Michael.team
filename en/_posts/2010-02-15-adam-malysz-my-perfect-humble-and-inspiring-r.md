@@ -1,5 +1,5 @@
 ---
-tags: [life]
+tags: [sports,life]
 img: "adam-malysz-my-perfect-humble-and-inspiring-r.jpg"
 ---
 

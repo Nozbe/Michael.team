@@ -1,5 +1,5 @@
 ---
-tags: [business]
+tags: [apple]
 img: "final-act-of-steve-jobs.jpg"
 ---
 

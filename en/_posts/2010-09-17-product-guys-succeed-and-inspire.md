@@ -1,5 +1,5 @@
 ---
-tags: [business]
+tags: [applle,business]
 img: "product-guys-succeed-and-inspire.jpg"
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: [business]
+tags: [travel,business]
 img: "passion-attracts-passion.jpg"
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: [computers,ipadonly]
+tags: [apple,computers,ipadonly]
 img: "dear-apple-ipad-is-not-a-personal-device-like.jpg"
 ---
 

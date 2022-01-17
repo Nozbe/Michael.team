@@ -1,5 +1,5 @@
 ---
-tags: [books]
+tags: [books,apple]
 img: "thoughts-quotes-from-steve-jobs-biography-by.jpg"
 ---
 

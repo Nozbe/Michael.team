@@ -1,5 +1,5 @@
 ---
-tags: [interviews,show,video]
+tags: [interviews,magazine,show,video]
 vid: "7jnNOWV1iUs"
 redirect_from: /responsiveness-and-leadership-by-michael-hyat/
 ---

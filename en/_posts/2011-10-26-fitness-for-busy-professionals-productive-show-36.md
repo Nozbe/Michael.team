@@ -1,5 +1,5 @@
 ---
-tags: [show,video,sports]
+tags: [sports,show,video]
 vid: "cMpMUru91-c"
 ---
 

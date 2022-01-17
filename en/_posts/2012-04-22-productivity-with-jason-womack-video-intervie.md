@@ -1,5 +1,5 @@
 ---
-tags: [show,video,interviews]
+tags: [interviews,magazine,show,video]
 vid: "4ryeati-gPo"
 redirect_from: /interview-with-jason-womack-for-the-productive-magazine-12/
 ---

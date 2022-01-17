@@ -24,7 +24,7 @@ I'm happy to announce the [fourth installment of our Productive! Magazine.][p] T
 
 Apart from an interview with Leo, we've got great articles like: 
 
-![{{ page.title }} iPad](productive-magazine-4-available-leo-babauta-interview-and-productivity-tips-and-tricks-toc.jpg)
+![{{ page.title }} iPad](/img/productive-magazine-4-available-leo-babauta-interview-and-productivity-tips-and-tricks-toc.jpg)
 
 
   * _How to delegate if you don't have a staff_? by Michael Hyatt
@@ -39,7 +39,7 @@ Apart from an interview with Leo, we've got great articles like:
 
 And here's how the magazine looks on the iPhone:
 
-![{{ page.title }} iPhone](productive-magazine-4-available-leo-babauta-interview-and-productivity-tips-and-tricks-iphone.jpg)
+![{{ page.title }} iPhone](/img/productive-magazine-4-available-leo-babauta-interview-and-productivity-tips-and-tricks-iphone.jpg)
 
 [p]: http://productivemag.com/4
 [n]: https://michael.gratis/nozbe

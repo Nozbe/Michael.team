@@ -1,5 +1,5 @@
 ---
-tags: [books]
+tags: [books,apple]
 img: "insanely-simple-by-ken-segall-audio-book-of-t.jpg"
 ---
 

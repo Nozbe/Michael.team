@@ -1,5 +1,5 @@
 ---
-tags: [books]
+tags: [books,apple]
 img: "the-steve-jobs-way-ileadership-for-a-new-gene.jpg"
 ---
 

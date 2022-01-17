@@ -1,5 +1,5 @@
 ---
-tags: [show,video,interviews]
+tags: [interviews,magazine,show,video]
 vid: "5_s3_sZmiso"
 redirect_from: /how-seth-godin-beats-resistance-and-gets-thin/
 ---

@@ -1,5 +1,5 @@
 ---
-tags: [show,video]
+tags: [magazine,show,video]
 vid: "ktbWhNvvhd8"
 redirect_from: /productive-magazine-4-video-intro-working-fro/
 ---

@@ -1,5 +1,5 @@
 ---
-tags: [computers]
+tags: [apple,computers]
 img: "new-macbook-air-seduces-me-again.jpg"
 redirect_from: /apple-fanboy-in-me-waiting-for-october-20/
 ---

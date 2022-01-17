@@ -1,5 +1,5 @@
 ---
-tags: [show,video,interviews]
+tags: [interviews,magazine,show,video]
 vid: "ztYIuC_7Iag"
 redirect_from: /productive-ninja-graham-allcott-in-an-intervi/
 ---

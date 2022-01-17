@@ -41,7 +41,7 @@ We launched the #publicNozbe feature in 24 hours but the community kept on going
 
 ## [PublicNozbe.jp](http://publicnozbe.jp)
 
-The folks from the community contributed in various ways - they set up **[publicnozbe.jp**](http://publicnozbe.jp) web site with the list of most useful public project lists.
+The folks from the community contributed in various ways - they set up **[publicnozbe.jp](http://publicnozbe.jp)** web site with the list of most useful public project lists.
 
 ## [Logo and Facebook](http://www.facebook.com/publicnozbe)
 

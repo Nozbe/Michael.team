@@ -1,5 +1,5 @@
 ---
-tags: [show,video,ipadonly]
+tags: [ipadonly,show,video]
 vid: "ncxgcWQ90_c"
 redirect_from: /my-ipad-only-accessories-vs-steve-wozniaks-ga/
 ---

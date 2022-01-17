@@ -1,5 +1,5 @@
 ---
-tags: [business]
+tags: [nozbe,nooffice]
 cover: "nozbe-retreat-how-to-recharge-batteries-of-yo.jpg"
 ---
 

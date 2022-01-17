@@ -1,5 +1,5 @@
 ---
-tags: [ipadonly,computers]
+tags: [apple,ipadonly,computers]
 img: "i-have-to-admit-this-5-reasons-why-ipad-is-th.jpg"
 ---
 

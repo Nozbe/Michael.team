@@ -1,5 +1,5 @@
 ---
-tags: [interviews,show,video]
+tags: [interviews,magazine,show,video]
 vid: "AgC6xwYAGrY"
 redirect_from: /video-interview-with-jason-fried-of-37signals/
 ---

@@ -1,5 +1,5 @@
 ---
-tags: [life,blogging]
+tags: [wrong,blogging]
 img: "rant-no-more.jpg"
 ---
 

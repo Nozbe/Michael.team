@@ -1,5 +1,5 @@
 ---
-tags: [business]
+tags: [travel,business]
 img: "enjoying-business-of-software.jpg"
 ---
 

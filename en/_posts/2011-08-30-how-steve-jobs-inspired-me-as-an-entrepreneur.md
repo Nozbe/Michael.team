@@ -1,5 +1,5 @@
 ---
-tags: [business]
+tags: [apple,business]
 img: "how-steve-jobs-inspired-me-as-an-entrepreneur.jpg"
 ---
 

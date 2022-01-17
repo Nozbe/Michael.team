@@ -1,5 +1,5 @@
 ---
-tags: [show,video]
+tags: [magazine,show,video]
 vid: "jEBLkEuR9jE"
 redirect_from: /video-interview-productive-magazine-5-preview/
 ---

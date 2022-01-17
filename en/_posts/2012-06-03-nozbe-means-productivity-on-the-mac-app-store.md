@@ -1,5 +1,5 @@
 ---
-tags: [productivity]
+tags: [nozbe,apple]
 img: "nozbe-means-productivity-on-the-mac-app-store.jpg"
 ---
 

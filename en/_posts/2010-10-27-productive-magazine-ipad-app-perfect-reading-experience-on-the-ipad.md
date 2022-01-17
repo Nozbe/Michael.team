@@ -1,5 +1,5 @@
 ---
-tags: [magazine,ipadonly]
+tags: [magazine,ipadonly,video]
 vid: "Xc12o7TMP3E"
 redirect_from: /how-productive-magazine-changes-publishing-in/
 ---

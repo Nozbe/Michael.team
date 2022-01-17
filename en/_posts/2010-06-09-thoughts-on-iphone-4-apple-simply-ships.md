@@ -1,5 +1,5 @@
 ---
-tags: [iphone,business]
+tags: [apple,iphone,business]
 img: "thoughts-on-iphone-4-apple-simply-ships.jpg"
 ---
 

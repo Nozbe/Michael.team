@@ -1,5 +1,5 @@
 ---
-tags: [iphone]
+tags: [iphone,apple]
 img: "ux-confessions-of-an-iphone-and-mac-paranoid.jpg"
 ---
 

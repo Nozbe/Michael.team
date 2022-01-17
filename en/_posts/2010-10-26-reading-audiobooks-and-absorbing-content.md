@@ -1,5 +1,5 @@
 ---
-tags: [productivity]
+tags: [books,productivity]
 img: "reading-audiobooks-and-absorbing-content.jpg"
 ---
 

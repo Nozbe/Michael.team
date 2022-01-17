@@ -1,5 +1,5 @@
 ---
-tags: [business]
+tags: [blogging]
 ---
 
 # Welcome to the Productive Firm - new home of Productive! Magazine and Show

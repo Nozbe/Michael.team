@@ -1,5 +1,5 @@
 ---
-tags: [life]
+tags: [life,draw]
 cover: "143-pieces-of-clothing.jpg"
 ---
 

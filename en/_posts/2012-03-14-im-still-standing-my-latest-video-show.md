@@ -1,5 +1,5 @@
 ---
-tags: [show,video,office]
+tags: [office,show,video]
 vid: "LBwOjjFaVy8"
 redirect_from: /still-standing-stand-up-desk-and-productivity-show-42/
 ---

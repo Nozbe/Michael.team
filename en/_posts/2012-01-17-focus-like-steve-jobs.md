@@ -1,5 +1,5 @@
 ---
-tags: [productivity,business]
+tags: [apple,productivity]
 img: "focus-like-steve-jobs.jpg"
 ---
 
