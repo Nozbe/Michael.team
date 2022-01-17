@@ -1,5 +1,5 @@
 ---
-tags: [applewatch,computers]
+tags: [apple,applewatch,computers]
 img: "applelive-watch.jpg"
 ---
 

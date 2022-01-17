@@ -1,5 +1,5 @@
 ---
-tags: [business]
+tags: [apple,business]
 img: "your-new-affiliate-partner-is-apple-thanks-to.jpg"
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: [business]
+tags: [apple,wrong]
 img: "apple.jpg"
 ---
 

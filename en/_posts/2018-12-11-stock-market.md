@@ -1,5 +1,5 @@
 ---
-tags: [business]
+tags: [apple,business]
 img: "stock-market.jpg"
 ---
 

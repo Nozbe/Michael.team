@@ -1,5 +1,5 @@
 ---
-tags: [ipadonly]
+tags: [apple,ipadonly]
 img: "7-ways-the-new-apple-ipad-will-increase-your.jpg"
 ---
 

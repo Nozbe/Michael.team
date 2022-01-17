@@ -1,5 +1,5 @@
 ---
-tags: [video,vlog]
+tags: [apple,video,vlog]
 vid: "davQOwmOvKQ"
 ---
 

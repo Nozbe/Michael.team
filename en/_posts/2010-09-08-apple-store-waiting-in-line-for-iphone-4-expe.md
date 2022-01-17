@@ -1,5 +1,5 @@
 ---
-tags: [iphone,travel]
+tags: [iphone,travel,apple]
 img: "apple-store-waiting-in-line-for-iphone-4-expe.jpg"
 ---
 
