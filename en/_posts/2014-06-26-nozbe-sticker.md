@@ -1,5 +1,5 @@
 ---
-tags: [show,video,nozbe]
+tags: [nozbe,show,video]
 vid: "bIwxyTY8Mx4"
 ---
 

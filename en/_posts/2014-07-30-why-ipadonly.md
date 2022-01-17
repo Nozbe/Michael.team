@@ -1,5 +1,5 @@
 ---
-tags: [show,video,ipadonly]
+tags: [ipadonly,show,video]
 vid: "8Vlu6W14buU"
 ---
 

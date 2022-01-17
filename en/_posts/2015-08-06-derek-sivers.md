@@ -1,5 +1,5 @@
 ---
-tags: [show,video,interviews]
+tags: [interviews,magazine,show,video]
 vid: "tz3Nh6q4FhM"
 ---
 
@@ -15,5 +15,3 @@ Today, he speaks to me about:
 More details in [Productive! Magazine 30](http://ProductiveMag.com/30)
 
 {% include video.html id=page.vid %}
-
-<!--More-->

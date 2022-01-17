@@ -1,5 +1,5 @@
 ---
-tags: [business,nozbe]
+tags: [travel,business,nozbe]
 img: passionbook-15.jpg
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: [productivity]
+tags: [magazine,productivity]
 img: "perfectionism.jpg"
 ---
 

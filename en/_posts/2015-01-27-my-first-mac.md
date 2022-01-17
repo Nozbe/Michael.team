@@ -1,5 +1,5 @@
 ---
-tags: [computers]
+tags: [apple,computers]
 img: "my-first-mac.jpg"
 ---
 

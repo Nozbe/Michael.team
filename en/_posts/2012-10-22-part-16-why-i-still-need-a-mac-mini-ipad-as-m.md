@@ -1,5 +1,5 @@
 ---
-tags: [ipadonly,draw]
+tags: [ipadonly,computers,draw]
 cover: "part-16-why-i-still-need-a-mac-mini-ipad-as-m.jpg"
 ---
 

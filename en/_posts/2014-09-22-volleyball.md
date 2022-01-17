@@ -1,5 +1,5 @@
 ---
-tags: [business,sports]
+tags: [sports,business]
 img: "volleyball.jpg"
 ---
 

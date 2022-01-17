@@ -1,5 +1,5 @@
 ---
-tags: [business]
+tags: [nozbe,business]
 img: "good-business.jpg"
 ---
 

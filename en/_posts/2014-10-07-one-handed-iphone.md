@@ -1,5 +1,5 @@
 ---
-tags: [iphone]
+tags: [wrong,iphone]
 img: "one-handed-iphone.jpg"
 ---
 

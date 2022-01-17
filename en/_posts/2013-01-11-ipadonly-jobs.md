@@ -1,6 +1,6 @@
 ---
-tags: [ipadonly,draw]
-img: "ipadonly-jobs.jpg"
+tags: [ipadonly,business,draw]
+cover: "ipadonly-jobs.jpg"
 ---
 
 # Who can do their day job effectively on the iPad?
@@ -9,7 +9,7 @@ img: "ipadonly-jobs.jpg"
 
 <!--More-->
 
-![{{ page.title }}](/img/{{ page.img }})
+![{{ page.title }}](/img/{{ page.cover }})
 
 I'm an entrepreneur running [Nozbe][n] so I wear many "hats" in my job. I write a lot... and then as the "product guy" I design my product, get and give feedback to my developers and designers... and as a CEO I do some spreadsheets, presentations, email, IM, calls... and I blog, do social media and more... and I travel a bit. If the iPad fits my lifestyle, it's probable that it will fit yours... let's dive a little deeper into this:
 

@@ -1,5 +1,5 @@
 ---
-tags: [show,video,productivity]
+tags: [nooffice,show,video]
 vid: "CIIo-W2u_8c"
 redirect_from:
  - /show-starbucks/

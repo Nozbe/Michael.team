@@ -58,9 +58,9 @@ Now, please get this book, and become a person you've always wanted to become th
 
 > The Disciplined Pursuit of Less, but Better
 
-And to get you started, check out [Greg's intro to his book](https://www.youtube.com/watch?v=T9x6D09AKBU), [Greg's presentation at Google](https://www.youtube.com/watch?v=sQKrt1-IDaE) or (my personal favorite) Greg's appearance on [Michael Hyatt's podcast](http://MichaelHyatt.com):
+And to get you started, check out Greg's intro to his book:
 
-{% include video.html id="EA33g9aI5UI" %}
+{% include video.html id="T9x6D09AKBU" %}
 
 ***Question:*** *Are you an Essentialist? Do you want to be?*
 

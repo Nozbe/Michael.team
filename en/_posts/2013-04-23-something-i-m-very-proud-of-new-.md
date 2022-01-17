@@ -1,5 +1,5 @@
 ---
-tags: [nozbe,links]
+tags: [nozbe,links,video]
 img: "something-i-m-very-proud-of-new-.jpg"
 ---
 

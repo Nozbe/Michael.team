@@ -1,5 +1,5 @@
 ---
-tags: [productivity]
+tags: [travel,nozbe,productivity]
 img: "team-meeting.jpg"
 ---
 

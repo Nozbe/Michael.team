@@ -1,5 +1,5 @@
 ---
-tags: [ipadonly]
+tags: [ipadonly,computers]
 img: "ipadpromac.jpg"
 ---
 

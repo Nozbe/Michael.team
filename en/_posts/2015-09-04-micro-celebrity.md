@@ -1,5 +1,5 @@
 ---
-tags: [business]
+tags: [nozbe]
 img: "micro-celebrity.jpg"
 ---
 
@@ -11,7 +11,7 @@ Imagine this situation: I'm in a bar on the beach in my home town, enjoying a qu
 
 ![{{ page.title }}](/img/{{ page.img }})
 
-**It's so nice to be recognized at all**, it really is. I'm pretty visible thanks to my [Productive Show](/podcast) and [10 Steps to Ultimate Productivity course][c] but I'm actually taking credit for a product that I founded, but is being developed by a 20+ person team: [Nozbe][n]. So it's not just me. It's actually my team that is being recognized here.
+**It's so nice to be recognized at all**, it really is. I'm pretty visible thanks to my [Productive Show](/show/) and [10 Steps to Ultimate Productivity course][c] but I'm actually taking credit for a product that I founded, but is being developed by a 20+ person team: [Nozbe][n]. So it's not just me. It's actually my team that is being recognized here.
 
 But it's really really nice on a personal level, too. It's just a great feeling.
 
@@ -24,8 +24,6 @@ I do this not just for me but mostly for you!
 So if you see me in real life somewhere, don't be shy, come say "hi". Thanks!
 
 ***Question:*** *Have you ever been recognized on the street by a stranger?*
-
-*[Sent from my iPhone 6 Plus](/6pluslove)*
 
 [c]: https://nozbe.com/course
 [i]: http://iMagazine.pl

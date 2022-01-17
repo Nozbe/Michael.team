@@ -1,5 +1,5 @@
 ---
-tags: [nozbe,applewatch,links]
+tags: [nozbe,applewatch,links,video]
 img: "nozbe-watch.jpg"
 ---
 

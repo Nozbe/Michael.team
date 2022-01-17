@@ -33,8 +33,6 @@ Time to embrace the new beginning!
 
 ***Question:*** *Have you had a chance to begin something new lately?*
 
-*[Sent from my iPhone 6 Plus](/6pluslove)*
-
 [I]: http://info.productivemag.com/go/es
 [G]: http://info.productivemag.com/go/esa
 [iMagazine]: http://iMagazine.pl

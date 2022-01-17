@@ -1,5 +1,5 @@
 ---
-tags: [show,video]
+tags: [sports,show,video]
 vid: "-9sRTU7vcPU"
 ---
 

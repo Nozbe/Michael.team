@@ -1,5 +1,5 @@
 ---
-tags: [show,video,interviews]
+tags: [interviews,magazine,show,video]
 vid: "82tZxPpPalA"
 ---
 

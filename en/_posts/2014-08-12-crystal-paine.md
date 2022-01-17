@@ -1,5 +1,5 @@
 ---
-tags: [show,video]
+tags: [magazine,show,video]
 vid: "_kI2m5eEFBA"
 ---
 
