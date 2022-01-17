@@ -5,7 +5,7 @@ img: "slow-carb-diet.jpg"
 
 # How I implemented Slow Carb Diet, lost 8kg/17lbs in 2 months - tips and tricks for beginners
 
-Wow, I'm overwhelmed how many of my friends started to ask me about my [diet/fitness transformation][f] earlier this year. I lost more than 10% of my body weight, I'm [very fit](https://sliwinski.com/triathlon) and people started to notice... and they want the same! I think it's great. This article is for anyone who wants to lose weight without feeling hungry (and no counting calories!) and who is capable of spending 2 months for that. Here's how I did it: 
+Wow, I'm overwhelmed how many of my friends started to ask me about my [diet/fitness transformation][f] earlier this year. I lost more than 10% of my body weight, I'm [very fit](/triathlon) and people started to notice... and they want the same! I think it's great. This article is for anyone who wants to lose weight without feeling hungry (and no counting calories!) and who is capable of spending 2 months for that. Here's how I did it: 
 
 <!--More-->
 
@@ -85,7 +85,7 @@ Actually, in the second month I started to cheat and have a "feast weekend" and 
 
 ## Fitness - keep exercising regularly
 
-In January I did just a few runs, but in February and March I picked up the pace and kept running. Keep doing exercises - your body will quicker learn to use fat for energy, especially if you do it in the morning before your breakfast. Now after the diet I did my first [triathlon](https://sliwinski.com/triathlon) and [keep exercising even more][f] and I'm loving it.
+In January I did just a few runs, but in February and March I picked up the pace and kept running. Keep doing exercises - your body will quicker learn to use fat for energy, especially if you do it in the morning before your breakfast. Now after the diet I did my first [triathlon](/triathlon) and [keep exercising even more][f] and I'm loving it.
 
 ## After the diet - try to have at least one "no carb day" a week
 
@@ -93,7 +93,7 @@ That's right, after you're finished with the diet and want to get back to eating
 
 ## Slow Carb Diet changed my life - thank you Tim!
 
-Big thanks to Timothy Ferriss for his fantastic new style of eating and for changing my life. Also big kudos to the author of [Why we get fat][fb] for explaining why Tim's way must work. Now I'm leaner and more fit than when I was in high-school, [and I just turned 35](https://sliwinski.com/passion). And as I can see, thanks to my example people are trying to change their lives, too. That's great, hope my article will help you start off and get to your dream body weight. Good luck!
+Big thanks to Timothy Ferriss for his fantastic new style of eating and for changing my life. Also big kudos to the author of [Why we get fat][fb] for explaining why Tim's way must work. Now I'm leaner and more fit than when I was in high-school, [and I just turned 35](/passion). And as I can see, thanks to my example people are trying to change their lives, too. That's great, hope my article will help you start off and get to your dream body weight. Good luck!
 
 ***Question:*** *Have you ever tried a diet? Have you tried slow-carb-diet? What were your results?*
 
@@ -108,8 +108,8 @@ Big thanks to Timothy Ferriss for his fantastic new style of eating and for chan
 [Productive! Show]: /show
 [Twitter]: http://twitter.com/MSliwinski
 
-[f]: http://michaelsliwinski.com/fitness2014
-[fb]: http://michaelsliwinski.com/book-why-fat
+[f]: /fitness2014
+[fb]: /book-why-fat
 [s]: https://en.wikipedia.org/wiki/Slow-Carb_Diet
 [sc]: http://www.robbwolf.com/wp/wp-content/uploads/2010/12/The-Slow-Carb-Cookbook.pdf
 [st]: http://fourhourworkweek.com/

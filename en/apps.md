@@ -15,7 +15,7 @@ cover: "noofficeappsbook.jpg"
 
 ### In this book I discuss the concept of "Pyramid of Communication" - which helps me and my team communicate effectively to get everything done. [See Table of Contents](#toc)
 
-This book is based on my company’s concept of [pyramid of communication](https://sliwinski.com/communication-pyramid/), which I also discussed on the [18th episode of The Podcast](/podcast-18/). I later [revisited the concept here](https://sliwinski.com/pyramid/) and [on the 65th episode of The Podcast](/podcast-65/). Based on all this, as well as frequent questions from readers about [apps I use and recommend](https://sliwinski.com/ama-apps/) and [apps I use at my company](https://sliwinski.com/noofficeapps) I decided to write this book.
+This book is based on my company’s concept of [pyramid of communication](/communication-pyramid/), which I also discussed on the [18th episode of The Podcast](/podcast-18/). I later [revisited the concept here](/pyramid/) and [on the 65th episode of The Podcast](/podcast-65/). Based on all this, as well as frequent questions from readers about [apps I use and recommend](/ama-apps/) and [apps I use at my company](/noofficeapps) I decided to write this book.
 
 ## Promo video - "Where are you based?"
 

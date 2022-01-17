@@ -29,7 +29,7 @@ Understanding that you're an artist changes the dynamic of your work. You apprec
 
 ## The concept of the "Infinate Game"
 
-This is something I've been trying to explain very often to people and couldn't. People ask me [why after 6 years of running Nozbe I'm still "just getting started"](https://sliwinski.com/interview) and I'd always go on and on about how many opportunities to improve productivity they were... and how I wanted to do it... but the best explanation is this: I'm playing the "infinite game".
+This is something I've been trying to explain very often to people and couldn't. People ask me [why after 6 years of running Nozbe I'm still "just getting started"](/interview) and I'd always go on and on about how many opportunities to improve productivity they were... and how I wanted to do it... but the best explanation is this: I'm playing the "infinite game".
 
 I love my job. I love the work we do at [Nozbe][n] and I'm in it for the long haul playing the "infinite game" - if I were to run this productivity service that hundreds of thousands (and then millions) of people and companies use every single day to get things done for the rest of my life... I'd be the luckiest man alive. It's a privilege to be able to serve my community and I can't imagine doing anything else.
 
@@ -43,16 +43,16 @@ Seth talks a lot more in this book and I listened to all of it but these two con
 
 ***Question:** What's your art? What is your infinite game? Are you in it for the long haul, with all your heart?*
 
-[cr]: http://www.michaelsliwinski.com/recorded-course
+[cr]: /recorded-course
 [sg]: http://sethgodin.typepad.com/
-[in]: http://www.michaelsliwinski.com/seth-godin-interview-for-productive-magazine-10/
+[in]: /seth-godin-interview-for-productive-magazine-10/
 [n]: http://www.nozbe.com/
 [ns]: http://www.nozbe.com/signup
-[p]: http://www.productivemagazine.com/
-[s]: http://www.michaelsliwinski.com/productive_show
+[p]: /magazine/
+[s]: /productive_show
 [t]: http://twitter.com/MSliwinski
-[i]: http://www.michaelsliwinski.com/tag/ipadonly
-[e]: http://www.michaelsliwinski.com/how-i-use-evernote
+[i]: /ipadonly
+[e]: /how-i-use-evernote
 [d]: http://db.tt/kD7Liux
 
 [n]: https://michael.gratis/nozbe

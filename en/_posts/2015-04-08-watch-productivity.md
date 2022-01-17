@@ -23,7 +23,7 @@ It's a very harsh assessment of this new device so as a productivity guy who bad
 
 ## 1. Sluggishness
 
-My interest in the Apple Watch is both from the developer standpoint (we're finishing our [Nozbe for Apple Watch][4]) as well as a user point of view - being on the cutting edge of technology with my [iPhone 6 Plus](https://sliwinski.com/6pluslove) and my [iPad][#iPadOnly] as my main computers, I really want the Apple Watch to fit my digital lifestyle. However, the reviewers have mentioned that the Watch was pretty sluggish. They say it sometimes takes a few moments to show you the time, that the apps are loading slowly (with the infamous spinner displaying all of the time)... and if that's the case, we have a productivity problem.
+My interest in the Apple Watch is both from the developer standpoint (we're finishing our [Nozbe for Apple Watch][4]) as well as a user point of view - being on the cutting edge of technology with my [iPhone 6 Plus](/6pluslove) and my [iPad][#iPadOnly] as my main computers, I really want the Apple Watch to fit my digital lifestyle. However, the reviewers have mentioned that the Watch was pretty sluggish. They say it sometimes takes a few moments to show you the time, that the apps are loading slowly (with the infamous spinner displaying all of the time)... and if that's the case, we have a productivity problem.
 
 The problem is that when something doesn't work... or works too slow... then you stop using it.
 

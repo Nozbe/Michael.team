@@ -5,7 +5,7 @@ img: "emailing-like-texting.jpg"
 
 # Emailing like texting - how to get back to inbox zero and make every email a GTD “2-minute rule”
 
-In the last years I had some [serious problems replying to emails from people.](https://sliwinski.com/email) Internally we don’t use email at [Nozbe][n], but people from the outside had serious problems emailing me - either because I was throwing my assistant at them, or because I really took lots of time (weeks or even months!) to reply. This all changed last month by introducing a new way of dealing with email - **“emailing like texting”** which I introduced inspired by [Katie's article from Buzzfeed](https://www.buzzfeednews.com/article/katienotopoulos/i-tried-emailing-like-your-boss). Now my email inbox is at zero most of the days and I don’t need an assistant as much as I used to. Here’s how it works:
+In the last years I had some [serious problems replying to emails from people.](/email) Internally we don’t use email at [Nozbe][n], but people from the outside had serious problems emailing me - either because I was throwing my assistant at them, or because I really took lots of time (weeks or even months!) to reply. This all changed last month by introducing a new way of dealing with email - **“emailing like texting”** which I introduced inspired by [Katie's article from Buzzfeed](https://www.buzzfeednews.com/article/katienotopoulos/i-tried-emailing-like-your-boss). Now my email inbox is at zero most of the days and I don’t need an assistant as much as I used to. Here’s how it works:
 
 <!--More-->
 
@@ -19,7 +19,7 @@ Rule 2. **Straight to the point - one sentence only** - just a one sentence repl
 
 Rule 3. **Reply once a day and go down to zero** - I open email only once a day, go down to inbox zero - send quick replies, unsubscribe from mailings, create quick filters if needed and archive the rest. Tomorrow is another day.
 
-Bonus rule. [**Don't use email internally with the team**](https://nooffice.org/how-banning-email-improves-team-productivity-f720a169a41d/#.hiyeju9zd) - only use email to contact people outside of your team. [I've written about that before already.](https://sliwinski.com/emailban)
+Bonus rule. [**Don't use email internally with the team**](https://nooffice.org/how-banning-email-improves-team-productivity-f720a169a41d/#.hiyeju9zd) - only use email to contact people outside of your team. [I've written about that before already.](/emailban)
 
 ## Emailing like texting - why?
 

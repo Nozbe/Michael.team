@@ -35,7 +35,7 @@ And that’s basically it. During the conversation, my room is locked, I record 
 
 ## My “iPadOnly” podcast recording travel setup
 
-Those who know me know it’s been a long time since I ditched the MacBook, and that I travel only with my iPad (currently, an iPad Pro 10.5” – you can read more about it and my impressions of it [in other blog post](https://sliwinski.com/ipadwork)) and [iPhone 7 Plus](https://sliwinski.com/iphone7plus-jetblack).
+Those who know me know it’s been a long time since I ditched the MacBook, and that I travel only with my iPad (currently, an iPad Pro 10.5” – you can read more about it and my impressions of it [in other blog post](/ipadwork)) and [iPhone 7 Plus](/iphone7plus-jetblack).
 
 Although these are two mobile devices, I think of them as two computers, and I use both of them for recording "The Podcast" while on the road. Long story short: I record audio on the iPhone, and use the iPad to connect with Radek.
 
@@ -64,7 +64,7 @@ Apart from the iPad and iPhone, which I always carry around, the small and cleve
 
 Another important part of recording a podcast is the location – I try to find a peaceful and quiet area or set up in my hotel room to reduce the echo... and the quality is quite good! Perhaps a bit worse than at my home office but still not that bad.
 
-While recording our 100th episode – which was a special one because we were both in the same physical place – Radek’s microphone broke down. We managed to record the entire episode with only this one microphone! [You can watch it here](https://sliwinski.com/100th) .
+While recording our 100th episode – which was a special one because we were both in the same physical place – Radek’s microphone broke down. We managed to record the entire episode with only this one microphone! [You can watch it here](/100th) .
 
 ## What podcasts do you listen to or record yourself?
 

@@ -16,7 +16,7 @@ I travel and fly quite a lot. Especially inside of the European Union. Traveling
 
 Just have a stroll through the check-in area and you'll see that each airline imposes each own dimensions ([see chart](http://www.dpsoftware.co.uk/airlines/)) for carry-on luggage. Length? 45-60 cm... Depth? 15-25 cm... Weight? 8-15 kg... it's a mess.
 
-As the most popular low-cost airline in Europe is Ryanair [I optimized my carry-on luggage](http://www.MichaelNozbe.com/how-i-pack-in-carry-on-for-1-2-weeks-producti) for its dimensions (55x40x20 at 10kg) and bought my pretty expensive (but light) carry-on bag and thought I was set.
+As the most popular low-cost airline in Europe is Ryanair [I optimized my carry-on luggage](/how-i-pack-in-carry-on-for-1-2-weeks-producti) for its dimensions (55x40x20 at 10kg) and bought my pretty expensive (but light) carry-on bag and thought I was set.
 
 ## There are no standards even in airline groups… yet they sell you the tickets!
 

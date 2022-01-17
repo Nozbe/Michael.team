@@ -6,7 +6,7 @@ img: "i-have-to-admit-this-5-reasons-why-ipad-is-th.jpg"
 # I have to admit this - 5 reasons why iPad is the future of computing
 
 
-OK, living in Europe is great, but has some issues - like you can't get your hands on the iPad as soon as my your American friends, even though [you've written posts how it will improve productivity](http://michaelnozbe.com/7-ways-the-new-apple-ipad-will-increase-your) and your inner geek has been waiting for this device since announcement. Today, courtesy of my friends from [Macoscope](http://macoscope.net), I could touch and play with this new kind of computing device, here's what I found out:
+OK, living in Europe is great, but has some issues - like you can't get your hands on the iPad as soon as my your American friends, even though [you've written posts how it will improve productivity](/7-ways-the-new-apple-ipad-will-increase-your) and your inner geek has been waiting for this device since announcement. Today, courtesy of my friends from [Macoscope](http://macoscope.net), I could touch and play with this new kind of computing device, here's what I found out:
 
 <!--More-->
 
@@ -22,11 +22,11 @@ It really is. I mean, you feel like you're in a sci-fi movie. Seriously. The exp
 
 ## 3. It makes you smile. Like all of the time.
 
-This is why I bought my [Macbook Air](http://michaelnozbe.com/macbook-air-rocks-5-things-pc-notebook-manufa) in the first place. No other computer has given that much of a feeling of excitement in my life. I've had my fist generation of Air and now I'm on the revision C (1.5 years with Airs now) and I'm still in love with the machine and it makes me smile working on it. I had similar feelings when I played with the iPad today. It's fun all of the time... even when you're not playing games.
+This is why I bought my [Macbook Air](/macbook-air-rocks-5-things-pc-notebook-manufa) in the first place. No other computer has given that much of a feeling of excitement in my life. I've had my fist generation of Air and now I'm on the revision C (1.5 years with Airs now) and I'm still in love with the machine and it makes me smile working on it. I had similar feelings when I played with the iPad today. It's fun all of the time... even when you're not playing games.
 
-## 4. It will make you [productive](http://michaelnozbe.com/7-ways-the-new-apple-ipad-will-increase-your). Seriously.
+## 4. It will make you [productive](/7-ways-the-new-apple-ipad-will-increase-your). Seriously.
 
-As I mentioned, even the [poorly designed web sites like IMDB](http://michaelnozbe.com/imdb-how-apples-iphone-or-ipad-interface-make) look great on the iPhone. The iPad app is even better. Same happens for the rest of the dedicated apps for the iPad. This is why we're building [Nozbe][n] for the iPad, too (due to be released in May). The productivity on this device will be pure fun. You won't procrastinate anymore... that is... if you don't launch any of the games :-)
+As I mentioned, even the [poorly designed web sites like IMDB](/imdb-how-apples-iphone-or-ipad-interface-make) look great on the iPhone. The iPad app is even better. Same happens for the rest of the dedicated apps for the iPad. This is why we're building [Nozbe][n] for the iPad, too (due to be released in May). The productivity on this device will be pure fun. You won't procrastinate anymore... that is... if you don't launch any of the games :-)
 
 ## 5. Some of the computer setups will have to perish
 

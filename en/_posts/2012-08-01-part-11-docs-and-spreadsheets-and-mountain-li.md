@@ -22,7 +22,7 @@ In the 90s and beginning of the 21st century the basic productivity suite on eac
 
 I don't do office anymore. I use plain text files to write stuff, I use email to write stuff, I use Numbers to do spreadsheets stuff. It's pretty (prettier than Excel) and flexible (in a "design" kind of way). I run my own company with my own product so I don't need those things. And I love Keynote for presentations much more than Powerpoint.
 
-As I mentioned before, I'm a [heavy Evernote user](http://michaelnozbe.com/how-i-use-evernote) so instead of writing yet another Word document I prefer to write a note in Evernote.
+As I mentioned before, I'm a [heavy Evernote user](/how-i-use-evernote) so instead of writing yet another Word document I prefer to write a note in Evernote.
 
 ## And there are some alternatives to the Microsoft kingdom anyway
 

@@ -14,7 +14,7 @@ Our professional life is busy, busy, busy… and we struggle to find time to do 
 
 ## I keep on trying new things every week
 
-Every week I aim at trying out something new. I was asked recently on an interview why do I use apps like [Foursquare](https://foursquare.com/michaelnozbe), [Instagram](http://instagr.am/p/NnTwQ/)… and even signed up for [Google+](https://plus.google.com/113487369268886623458/posts) although[ I don't like it all that much](http://michaelnozbe.com/google-plus-i-aint-bothered).
+Every week I aim at trying out something new. I was asked recently on an interview why do I use apps like [Foursquare](https://foursquare.com/michaelnozbe), [Instagram](http://instagr.am/p/NnTwQ/)… and even signed up for [Google+](https://plus.google.com/113487369268886623458/posts) although[ I don't like it all that much](/google-plus-i-aint-bothered).
 
 Well, I like to know how things work… and in order to keep developing my product ([Nozbe][n]) I need to see how other products work and what kind of approach they take to commonly known problems. I want to know, how these things feel.
 

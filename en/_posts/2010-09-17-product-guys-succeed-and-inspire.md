@@ -30,7 +30,7 @@ I've lived this scenario myself. When I finished college years ago I wanted to r
 
 ## ... then I created a product for myself... and succeeded and I'm just getting started!
 
-That's right. [I needed Nozbe](http://www.nozbe.com/) so I built it for myself. Then I built some more. Then I added some AJAX magic. Then I showed it to the world. The rest is history :-)
+That's right. [I needed Nozbe][n] so I built it for myself. Then I built some more. Then I added some AJAX magic. Then I showed it to the world. The rest is history :-)
 
 Fast forward three and a half years and I'm indeed running a successful software product that sells all over the world and brings me money. But this time around I'm truly passionate about this product and I'm working on it because I love it so much.
 

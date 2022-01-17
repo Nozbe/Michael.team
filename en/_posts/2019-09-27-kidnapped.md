@@ -17,7 +17,7 @@ img: "kidnapped.jpg"
 
 > Unfortunately iPad is not a real computer and iOS is not a real operating system. [Tweet](https://twitter.com/MSliwinski/status/1177247458772115458)
 
-Many people actually keep thinking that. My [iPad Pro](https://sliwinski.com/newdevice) is my [main computer](https://ipadonly.com)...
+Many people actually keep thinking that. My [iPad Pro](/newdevice) is my [main computer](https://ipadonly.com)...
 
 ## About the way I'm running [Nozbe][n]
 
@@ -25,9 +25,9 @@ Many people actually keep thinking that. My [iPad Pro](https://sliwinski.com/new
 
 > After 13 years of running @nozbe we’ve realized our mistake and are renting this beautiful office space in the heart of Warsaw for us to finally be able to work effectively. [Tweet](https://twitter.com/MSliwinski/status/1177183283676962821)
 
-Both statements could make sense... if I wasn't committed to building a [bootstrapped](https://sliwinski.com/investors) and all-remote [NoOffice](/nooffice) company...
+Both statements could make sense... if I wasn't committed to building a [bootstrapped](/investors) and all-remote [NoOffice](/nooffice) company...
 
-## About the way we're [communicating in Nozbe](https://sliwinski.com/pyramid)
+## About the way we're [communicating in Nozbe](/pyramid)
 
 > I think email is one of the best tools for efficient collaboration in a team. Real-time chat is the second best thing. [Tweet](https://twitter.com/MSliwinski/status/1177229089318625280)
 

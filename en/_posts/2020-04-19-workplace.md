@@ -5,7 +5,7 @@ img: "workplace.jpg"
 
 # I’ve seen the future of a modern office workplace and it is 💩
 
-I love documentaries. Just as last week I watched [Rams](https://sliwinski.com/designed) this week [I watched](https://www.ohyouprettythings.com/free) the [Workplace](https://www.hustwit.com/workplace) and boy, I have thoughts on this. I suffered through this film as I watched how a [wealthy design firm](https://en.wikipedia.org/wiki/R/GA) is creating their new offices with a help of a [famous architect firm](https://en.wikipedia.org/wiki/Foster_and_Partners). Basically they are building a design marvel that will achieve anything but help their team members get stuff done. I cringed throughout the movie, here's why:
+I love documentaries. Just as last week I watched [Rams](/designed) this week [I watched](https://www.ohyouprettythings.com/free) the [Workplace](https://www.hustwit.com/workplace) and boy, I have thoughts on this. I suffered through this film as I watched how a [wealthy design firm](https://en.wikipedia.org/wiki/R/GA) is creating their new offices with a help of a [famous architect firm](https://en.wikipedia.org/wiki/Foster_and_Partners). Basically they are building a design marvel that will achieve anything but help their team members get stuff done. I cringed throughout the movie, here's why:
 
 <!--More-->
 
@@ -29,7 +29,7 @@ Basically by designing the office like this, they believe that serendipity is th
 
 That these brilliant people who work for this important firm and earn huge salaries actually rarely come up with brilliant ideas... unless they bump at each other. So let's make sure that they do, right?
 
-Seriously, it's prioritizing chatting, "collaboration", serendipitous encounters... over good [2 hours of focused work](https://sliwinski.com/2hours) which give you a chance to start digging into an idea and shaping it up.
+Seriously, it's prioritizing chatting, "collaboration", serendipitous encounters... over good [2 hours of focused work](/2hours) which give you a chance to start digging into an idea and shaping it up.
 
 ## It's modern, because... it has an app and screens all over the place!
 
@@ -51,7 +51,7 @@ Natural light is... natural. Artificial light, as intelligent as you want to mak
 
 ## It's modern, because... there are stand-up desks!
 
-I love stand-up desks, so I totally get that part. I've been working standing for almost a decade. [I just recently updated it](https://sliwinski.com/desk), but I've had [a modern IKEA desk from 2016](https://sliwinski.com/homeoffice2016) and I've experimented with [different kinds of stand-up set-ups already back in 2012](https://sliwinski.com/im-still-standing-my-latest-video-show). So I applaud this choice (at least something, right?).
+I love stand-up desks, so I totally get that part. I've been working standing for almost a decade. [I just recently updated it](/desk), but I've had [a modern IKEA desk from 2016](/homeoffice2016) and I've experimented with [different kinds of stand-up set-ups already back in 2012](/im-still-standing-my-latest-video-show). So I applaud this choice (at least something, right?).
 
 ![I’ve seen the future of a modern office workplace and it is 💩 3](/img/workplace-3.jpg)
 
@@ -69,7 +69,7 @@ While completely disregarding the real needs of their knowledge workers, who pri
 
 This is sad. This is 💩.
 
-There is a better way - [just invert the pyramid of communication](https://sliwinski.com/pyramid) or better yet, [go #NoOffice](/nooffice) and check out my upcoming book - [#NoOffice - because work is not a place to go, it's a thing you do!](https://nooffice.org).
+There is a better way - [just invert the pyramid of communication](/pyramid) or better yet, [go #NoOffice](/nooffice) and check out my upcoming book - [#NoOffice - because work is not a place to go, it's a thing you do!](https://nooffice.org).
 
 [n]: https://michael.gratis/nozbe
 [p]: /podcast

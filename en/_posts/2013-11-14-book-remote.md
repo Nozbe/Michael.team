@@ -49,17 +49,17 @@ Totally. Even if you're a seasoned remote guy like myself, you'll find a few gem
 
 ***Question:*** *Are you working remotely? Have you ever tried it? Would you prefer to work in an office and commute... or work from home?*
 
-[r3]: http://www.michaelsliwinski.com/jason-fried-of-37signals-interviewed-for-productive-magazine-8
-[r2]: http://www.michaelsliwinski.com/my-visit-to-37signals-masterclass-in-chicago/
-[r1]: http://www.michaelsliwinski.com/review-of-37signals-cookbook-called-rework-ge/
+[r3]: /jason-fried-of-37signals-interviewed-for-productive-magazine-8
+[r2]: /my-visit-to-37signals-masterclass-in-chicago/
+[r1]: /review-of-37signals-cookbook-called-rework-ge/
 [d]: http://db.tt/kD7Liux
-[e]: http://www.michaelsliwinski.com/how-i-use-evernote
-[i]: http://www.michaelsliwinski.com/tag/ipadonly
+[e]: /how-i-use-evernote
+[i]: /ipadonly
 [n]: http://www.nozbe.com/
 [ns]: http://www.nozbe.com/signup
 [o]: http://ipadonly.net/
-[p]: http://www.productivemagazine.com/
-[s]: http://www.michaelsliwinski.com/productive_show
+[p]: /magazine/
+[s]: /productive_show
 [t]: http://twitter.com/MSliwinski
 
 

@@ -6,7 +6,7 @@ cover: "indestructibles-hermann-maier-and-robert-kubi.jpg"
 # Indestructibles - Hermann Maier and Robert Kubica
 
 
-If you [follow me on Twitter](http://twitter.com/MichaelNozbe/) you might know I'm following [Formula 1](http://www.formula1.com) pretty closely and I'm a big fan of car racing in general. The sports I also love watching (and sometimes playing) are basketball, skiing, ski-jumping (well, I wouldn't do that myself) and a few more. I'm a typical guy who likes watching sports in general. And I have a few heros of mine in each of these sports. I mentioned before [how I admire Adam Małysz](http://www.michaelnozbe.com/adam-malysz-my-perfect-humble-and-inspiring-r) for his great sportsmanship and for being a humble champion. In this post I'd like to talk about two more people I admire for their indestructible nature and persistence:
+If you [follow me on Twitter](http://twitter.com/MichaelNozbe/) you might know I'm following [Formula 1](http://www.formula1.com) pretty closely and I'm a big fan of car racing in general. The sports I also love watching (and sometimes playing) are basketball, skiing, ski-jumping (well, I wouldn't do that myself) and a few more. I'm a typical guy who likes watching sports in general. And I have a few heros of mine in each of these sports. I mentioned before [how I admire Adam Małysz](/adam-malysz-my-perfect-humble-and-inspiring-r) for his great sportsmanship and for being a humble champion. In this post I'd like to talk about two more people I admire for their indestructible nature and persistence:
 
 <!--More-->
 
@@ -14,7 +14,7 @@ If you [follow me on Twitter](http://twitter.com/MichaelNozbe/) you might know I
 
 ## [Hermann Maier](http://en.wikipedia.org/wiki/Hermann_Maier) - a.k.a. the "Herminator"
 
-I love skiing. I've been doing this for the last 20 years or so and every winter I try to go for a week at least to drive on beautiful Alpine slopes at amazing speeds... and [I even listen to audiobooks](http://www.michaelnozbe.com/reading-audiobooks-while-doing-sports-product) while doing that :-)
+I love skiing. I've been doing this for the last 20 years or so and every winter I try to go for a week at least to drive on beautiful Alpine slopes at amazing speeds... and [I even listen to audiobooks](/reading-audiobooks-while-doing-sports-product) while doing that :-)
 
 That's why I've been watching ski championships for many years now and the guy who stood out for me was Hermann Maier - a guy from Austria who apparently was indestructible. Well, he proved it when he had a motorbike accident in August 2001 and nearly had his leg amputated. The doctors said he wouldn't be able to walk in the future...
 

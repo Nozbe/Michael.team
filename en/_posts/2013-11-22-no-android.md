@@ -43,16 +43,16 @@ P.S. Having said that, [Nozbe has apps for Android phones and tablets][na] and w
 
 ***Question:*** *Do you use Android or iOS? Which do you prefer? Why?*
 
-[iphone]: http://www.michaelsliwinski.com/iphone-wallet/
+[iphone]: /iphone-wallet/
 [d]: http://db.tt/kD7Liux
-[e]: http://www.michaelsliwinski.com/how-i-use-evernote
-[i]: http://www.michaelsliwinski.com/tag/ipadonly
+[e]: /how-i-use-evernote
+[i]: /ipadonly
 [n]: http://www.nozbe.com/
 [na]: http://www.nozbe.com/apps/
 [ns]: http://www.nozbe.com/signup
 [o]: http://ipadonly.net/
-[p]: http://www.productivemagazine.com/
-[s]: http://www.michaelsliwinski.com/productive_show
+[p]: /magazine/
+[s]: /productive_show
 [t]: http://twitter.com/MSliwinski
 
 

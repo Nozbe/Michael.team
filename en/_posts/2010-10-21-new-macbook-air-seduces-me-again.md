@@ -7,7 +7,7 @@ redirect_from: /apple-fanboy-in-me-waiting-for-october-20/
 # New Macbook Air seduces me again...
 
 
-I watched yesterday's [Apple Keynote](http://www.apple.com/apple-events/october-2010/) anxiously waiting for the [new Macbook Air](http://www.apple.com/macbookair/) and Apple delivered again... and although I was hoping for a bigger breakthrough, the new Air is tempting enough to consider an **[upgrade from my current machine**](http://www.productivefirm.com/2009/07/my-productive-computer-unboxing-apple-macbook-air-2-13-ssd/)
+I watched yesterday's [Apple Keynote](http://www.apple.com/apple-events/october-2010/) anxiously waiting for the [new Macbook Air](http://www.apple.com/macbookair/) and Apple delivered again... and although I was hoping for a bigger breakthrough, the new Air is tempting enough to consider an **[upgrade from my current machine**](/my-productive-computer-unboxing-apple-macbook-air-2-13-ssd/)
 
 <!--More-->
 

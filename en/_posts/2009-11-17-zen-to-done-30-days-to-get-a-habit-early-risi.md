@@ -6,7 +6,7 @@ img: "zen-to-done-30-days-to-get-a-habit-early-risi.jpg"
 # Zen To Done - 30 days to get a habit - early rising and blogging
 
 
-It's been almost a month since [I started waking up at 5 am in the morning](http://michaelnozbe.com/early-risers-get-things-done-productiveshowco) to start off my day with at least 2-3 productive hours before my ladies (my wife and my 10-month baby daughter) woke up. It's been [more than 2 weeks when I started blogging regularly](http://michaelnozbe.com/a-blog-with-email-by-the-twitter-user-called) and if you're a subscriber to this blog you know that I only rest on Sundays. Other than that, I blog every day and I love it.
+It's been almost a month since [I started waking up at 5 am in the morning](/early-risers-get-things-done-productiveshowco) to start off my day with at least 2-3 productive hours before my ladies (my wife and my 10-month baby daughter) woke up. It's been [more than 2 weeks when I started blogging regularly](/a-blog-with-email-by-the-twitter-user-called) and if you're a subscriber to this blog you know that I only rest on Sundays. Other than that, I blog every day and I love it.
 
 <!--More-->
 
@@ -24,7 +24,7 @@ OK, it wasn't that easy. I'm not an early riser by design, I used to go to sleep
 
 My waking up time depends when I go to sleep, so when I went to sleep around midnight, I'd wake up at 6 am, but I'd try to go to sleep around 11 pm to be able to wake up at 5 am. Most of the time I succeed. The best part is, that right now I'm used to waking up early and I get really productive in the mornings with all my email, IM, Twitter etc. closed, focused only on tasks I planned the evening before. I sleep on average 5-6 hours per day and on weekends I sleep around 8 hours so I guess it's pretty good for my body too.
 
-To learn more about my new early riser habit, [watch this short 2-minute video](http://michaelnozbe.com/early-risers-get-things-done-productiveshowco).
+To learn more about my new early riser habit, [watch this short 2-minute video](/early-risers-get-things-done-productiveshowco).
 
 ## 2 weeks ago - blogging every day about stuff that matters (for me at least)
 

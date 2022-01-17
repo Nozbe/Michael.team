@@ -54,9 +54,9 @@ I'd like to thank Magda, my tireless magazine editor as she was the driving forc
 [r]: https://michael.gratis/radex
 [i]: https://michael.gratis/thepodcast
 [o]: https://michael.gratis/ipadonly
-[g]: https://sliwinski.com/greg-mckeown/
+[g]: /greg-mckeown/
 
 [bl]: https://nozbe.com/blog/
-[ess]: https://sliwinski.com/essentialism/
+[ess]: /essentialism/
 [pm]: http://productivemag.com/
 [34]: http://productivemag.com/34/

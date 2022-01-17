@@ -33,7 +33,7 @@ The thing is, that using communication medium like ads and PR actions... we can 
 
 ## I never thought about fascination that much before
 
-It's not something marketers think too much. We tend to focus on conversion rates and triggers that help people convert to paying customers... yet we underestimate the power of fascination and how a fascinating bond between the offering and the customer may lead to some great following and faithful advocates. Just think about [Apple fanboys like me](http://michaelnozbe.com/apple-fanboy-in-me-waiting-for-october-20) who can't wait what Steve Jobs has to show them every time.
+It's not something marketers think too much. We tend to focus on conversion rates and triggers that help people convert to paying customers... yet we underestimate the power of fascination and how a fascinating bond between the offering and the customer may lead to some great following and faithful advocates. Just think about [Apple fanboys like me](/apple-fanboy-in-me-waiting-for-october-20) who can't wait what Steve Jobs has to show them every time.
 
 _What do you find fascinating today?_
 

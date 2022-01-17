@@ -6,7 +6,7 @@ cover: "part-16-why-i-still-need-a-mac-mini-ipad-as-m.jpg"
 # Part 16 - why I (still need a Mac Mini - iPad as my main computer
 
 
-I received lots of positive responses to my [last blog post about my new 2012 home office](http://michaelnozbe.com/simplifying-productive-home-office-in-2012) where I highlighted how I had to redesign my home office to accommodate my two new working habits: [working most of the time standing](http://michaelnozbe.com/im-still-standing-my-latest-video-show) and [going iPad-only](/ipadonly). However there were a few questions about my setup - mainly why do I need a Mac Mini with a giant Thunderbolt Display when I'm usually working on my iPad... In this post you'll know why:
+I received lots of positive responses to my [last blog post about my new 2012 home office](/simplifying-productive-home-office-in-2012) where I highlighted how I had to redesign my home office to accommodate my two new working habits: [working most of the time standing](/im-still-standing-my-latest-video-show) and [going iPad-only](/ipadonly). However there were a few questions about my setup - mainly why do I need a Mac Mini with a giant Thunderbolt Display when I'm usually working on my iPad... In this post you'll know why:
 
 <!--More-->
 
@@ -24,11 +24,11 @@ Before we dive into my usage of Mini, let me explain this one - Mini is a deskto
 
 ## 1. Mini syncs my "clouds" locally
 
-My iPad only setup is a [cloud setup where I use Dropbox, Evernote, iCloud](http://michaelnozbe.com/part-1-the-clouds-ipad-as-my-main-computer) and other cloud services. It's all nice and sweet, but call me paranoid and I like to have a local copy of my "clouds" in my home. My Mini is on all of the time and has all these services turned on and syncs everything locally all of the time. I add an Evernote note? It syncs to my Mini. I upload something to Dropbox? Box? Google Drive? It syncs there. This way I have a local copy of everything I do on my iPad right there on my Mini. And the Mini is being [backed up to Time Capsule securely](http://michaelnozbe.com/mac-osx-lion-secure-backup-to-time-capsule-wi) every few hours every day so I even have a second local copy of everything.
+My iPad only setup is a [cloud setup where I use Dropbox, Evernote, iCloud](/part-1-the-clouds-ipad-as-my-main-computer) and other cloud services. It's all nice and sweet, but call me paranoid and I like to have a local copy of my "clouds" in my home. My Mini is on all of the time and has all these services turned on and syncs everything locally all of the time. I add an Evernote note? It syncs to my Mini. I upload something to Dropbox? Box? Google Drive? It syncs there. This way I have a local copy of everything I do on my iPad right there on my Mini. And the Mini is being [backed up to Time Capsule securely](/mac-osx-lion-secure-backup-to-time-capsule-wi) every few hours every day so I even have a second local copy of everything.
 
 ## 2. Mini runs "LogMeIn" with M$ Office for Mac and other apps
 
-Because my Mini is running all of the time, it has a LogMeIn session open all of the time, as well. This way I can log in to my Mini and see its desktop from anywhere in the world. I can fire up a fully-working MS Office Word or Excel file if it [renders so-so on my iPad](http://michaelnozbe.com/part-11-docs-and-spreadsheets-and-mountain-li) and other apps that still are not working well (or do not exist) on the iPad. I have also access to all of the files I have so I can copy something to the "cloud" if I don't have it there yet for some reason.
+Because my Mini is running all of the time, it has a LogMeIn session open all of the time, as well. This way I can log in to my Mini and see its desktop from anywhere in the world. I can fire up a fully-working MS Office Word or Excel file if it [renders so-so on my iPad](/part-11-docs-and-spreadsheets-and-mountain-li) and other apps that still are not working well (or do not exist) on the iPad. I have also access to all of the files I have so I can copy something to the "cloud" if I don't have it there yet for some reason.
 
 ## 3. GIT and Dropbox and Textasitc
 
@@ -36,13 +36,13 @@ Speaking of apps that still work poorly on the iPad, it's hard for me to get the
 
 ## 4. Heavy Lifting and scanning... and printing
 
-Although I try to edit all of my [Productive Show](http://www.productivemagazine.com/show/) videos on my iPhone or on my iPad directly, sometimes I need to edit them a little more on the Mac. My Mac Mini has 8GB of RAM and is powerful enough for such tasks. I use it for video editing, photo management and other tasks that still make it better than the iPad. I use it basically for all the "heavy lifting" tasks.
+Although I try to edit all of my [Productive Show](/magazine/) videos on my iPhone or on my iPad directly, sometimes I need to edit them a little more on the Mac. My Mac Mini has 8GB of RAM and is powerful enough for such tasks. I use it for video editing, photo management and other tasks that still make it better than the iPad. I use it basically for all the "heavy lifting" tasks.
 
 I have a multi-purpose printer and my Mini runs an "AirPrint" server on it so that I can print stuff directly from the iPad. The Mini is also connected to the scanner so that I can scan the documents using Image Capture app and put them in my Evernote or Dropbox (depending on the files). Mini is my "back-end" :-)
 
 ## 5. Background flows
 
-Apart from syncing my clouds, the Mini can later do something with these files. I have set up a number of "Automator tasks" (Automator is an amazing "batch creation" tool that helps you create automated scripts on the Mac) that run in the background. This way when I upload a video file to the Mini, it uploads it to appropriate folders and web servers without me clicking anything. In the background. It does a lot more, but the [flows I design for the Mini](http://michaelnozbe.com/part-3-designing-flows-ipad-as-my-main-comput) make my iPad even more powerful. It just works in the background and does all the magic there :-)
+Apart from syncing my clouds, the Mini can later do something with these files. I have set up a number of "Automator tasks" (Automator is an amazing "batch creation" tool that helps you create automated scripts on the Mac) that run in the background. This way when I upload a video file to the Mini, it uploads it to appropriate folders and web servers without me clicking anything. In the background. It does a lot more, but the [flows I design for the Mini](/part-3-designing-flows-ipad-as-my-main-comput) make my iPad even more powerful. It just works in the background and does all the magic there :-)
 
 ## 6. Mini is our "home computer"
 

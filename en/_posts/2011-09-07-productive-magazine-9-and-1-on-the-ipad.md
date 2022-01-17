@@ -6,7 +6,7 @@ img: "productive-magazine-9-and-1-on-the-ipad.jpg"
 # Productive! Magazine #9 and #1 on the iPad
 
 
-Chances are that if you follow [my Tweets](http://twitter.com/MichaelNozbe) you know by now that recently we launched a [new Productive! Magazine iPad](http://ProductiveFirm.com/MagazineApp) app with both - the old issue with [David Allen](http://twitter.com/gtdguy) (back from PDF from Nov 2008) and the newest issue with [Laura Stack](http://twitter.com/LauraStack). It's kind of a big deal for me. Let me explain.
+Chances are that if you follow [my Tweets](http://twitter.com/MichaelNozbe) you know by now that recently we launched a [new Productive! Magazine iPad](/magazine/) app with both - the old issue with [David Allen](http://twitter.com/gtdguy) (back from PDF from Nov 2008) and the newest issue with [Laura Stack](http://twitter.com/LauraStack). It's kind of a big deal for me. Let me explain.
 
 
 
@@ -14,7 +14,7 @@ Chances are that if you follow [my Tweets](http://twitter.com/MichaelNozbe) you 
 
 ![{{ page.title }}](/img/{{ page.img }})
 
-## [Issue #1 with David Allen on the iPad](http://ProductiveFirm.com/MagazineApp) and many many productivity bloggers
+## [Issue #1 with David Allen on the iPad](http://Productivemag.com/1) and many many productivity bloggers
 
 When my good friend [Maciej Budzich](http://www.mediafun.pl) approached me with an idea to do a productivity-oriented magazine I loved it right away. I just didn't know how to pull this off... 
 
@@ -22,7 +22,7 @@ When my good friend [Maciej Budzich](http://www.mediafun.pl) approached me with 
 
 Firstly I approached [Oliver Starr](http://twitter.com/owstarr) who was then working for [David Allen Company](http://www.davidco.com) and [David Allen](http://twitter.com/gtdguy) himself if they wanted to participate and do an interview with David for the issue #1. Guess what? They agreed!
 
-Then I started emailing the productivity bloggers I knew and respected to ask if they wanted to participate as well. Guess what? Many of them said yes! Finally when the magazine [was ready at the end of November 2008](http://www.productivefirm.com/2008/11/1st-productive-magazine-launched/) (almost three years ago!) we had an amazing lineup of articles and a great interview with David:
+Then I started emailing the productivity bloggers I knew and respected to ask if they wanted to participate as well. Guess what? Many of them said yes! Finally when the magazine [was ready at the end of November 2008](/1st-productive-magazine-launched/) (almost three years ago!) we had an amazing lineup of articles and a great interview with David:
 
 - **Interview with David Allen by Oliver Starr**
 

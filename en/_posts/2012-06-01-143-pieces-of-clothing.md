@@ -6,16 +6,16 @@ cover: "143-pieces-of-clothing.jpg"
 # 143 pieces of clothing
 
 
-The older I am the more I understand that it really does pay to buy less, but purchase only the quality stuff you really like. And use it. Don't save it for later. Use it now, today, as often as you can and enjoy it. That's why I was so attracted by the notion of "Minimalism" and one of my blog posts: ["Minimalism feels fantastic"](http://michaelnozbe.com/minimalism-feels-fantastic) is still one of the most popular on my blog. **Recently, I've taken a big step in my "minimalistic" journey** and drastically shrunk my wardrobe to **only 143 pieces of clothing**. Here's how (and why):
+The older I am the more I understand that it really does pay to buy less, but purchase only the quality stuff you really like. And use it. Don't save it for later. Use it now, today, as often as you can and enjoy it. That's why I was so attracted by the notion of "Minimalism" and one of my blog posts: ["Minimalism feels fantastic"](/minimalism-feels-fantastic) is still one of the most popular on my blog. **Recently, I've taken a big step in my "minimalistic" journey** and drastically shrunk my wardrobe to **only 143 pieces of clothing**. Here's how (and why):
 
 <!--More-->
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
 
-## It's not about the number, it's about [counting](http://michaelnozbe.com/the-importance-of-counting-things)
+## It's not about the number, it's about [counting](/the-importance-of-counting-things)
 
-When I was [cleaning up my home office](http://michaelnozbe.com/100-things-challenge-to-become-a-zen-minimali) I realized that making a spreadsheet with all the gadgets, cables and office appliances I own might look crazy, but it's not that stupid. I realized how many of these pieces of equipment I owned and never used. How tempted I was upon each visit to the Electronics store to buy some new shiny toy. When I made the list, I got down to 100 things in my home office and I was happy. It wasn't about the number but about really understanding what I need and what I use... and what really makes me productive when I work.
+When I was [cleaning up my home office](/100-things-challenge-to-become-a-zen-minimali) I realized that making a spreadsheet with all the gadgets, cables and office appliances I own might look crazy, but it's not that stupid. I realized how many of these pieces of equipment I owned and never used. How tempted I was upon each visit to the Electronics store to buy some new shiny toy. When I made the list, I got down to 100 things in my home office and I was happy. It wasn't about the number but about really understanding what I need and what I use... and what really makes me productive when I work.
 
 ## After my home office, I took care of my closet - several times
 

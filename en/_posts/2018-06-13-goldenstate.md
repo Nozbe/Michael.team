@@ -5,7 +5,7 @@ img: "goldenstate.jpg"
 
 # Golden State Warriors - how to keep eye on the prize and lead an unselfish team
 
-Another year and another NBA finals are done... and two years in the row [Golden State Warriors](https://sliwinski.com/warriors) won against Cleveland Cavaliers. I’ve been supporting this team for the last 4 years and I remember vividly when they lost the finals 2 years ago... and out of that loss they decided to recruit one of the best players of the league, and their main opponent - Kevin Durant. And now with Kevin they won two championships. I remember last year I was personally there to witness their greatness and it was an amazing moment:
+Another year and another NBA finals are done... and two years in the row [Golden State Warriors](/warriors) won against Cleveland Cavaliers. I’ve been supporting this team for the last 4 years and I remember vividly when they lost the finals 2 years ago... and out of that loss they decided to recruit one of the best players of the league, and their main opponent - Kevin Durant. And now with Kevin they won two championships. I remember last year I was personally there to witness their greatness and it was an amazing moment:
 
 <!--More-->
 

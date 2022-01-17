@@ -30,7 +30,7 @@ I try to avoid subjects like: weather (although you can start with that, the sub
 
 ## To learn from passion
 
-My best conversations have been when I managed to ask the right questions to find out what the other person was passionate about. From there it's really easy - the conversation flows naturally and you learn a lot of new things. As I wrote before, [passion attracts passion](http://michaelnozbe.com/passion-attracts-passion). If I just talked about myself all the time I'd miss that.
+My best conversations have been when I managed to ask the right questions to find out what the other person was passionate about. From there it's really easy - the conversation flows naturally and you learn a lot of new things. As I wrote before, [passion attracts passion](/passion-attracts-passion). If I just talked about myself all the time I'd miss that.
 
 ## Actively asking questions and directing conversation is not easy.
 

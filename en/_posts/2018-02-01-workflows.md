@@ -51,7 +51,7 @@ Now, my specific workflows that mix the planning and journaling together - they�
 
 ## Other templates for my reviews...
 
-I’ve posted in the past [my templates for daily, weekly and quaterly reviews](https://sliwinski.com/review).
+I’ve posted in the past [my templates for daily, weekly and quaterly reviews](/review).
 
 ***Question:*** *Care to share your workflows? Were these helpful?*
 

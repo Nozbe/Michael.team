@@ -14,7 +14,7 @@ Last week I had an unusual (for me) series of meetings - both online and offline
 
 ## Being organized has nothing to do with being on time. Not for me anyway.
 
-I read the [GTD book](http://www.amazon.com/gp/product/0142000280?tag=productive-20) 6 years ago for the first time (and since then re-read it like 10 times total in English, Polish, Spanish, German and audio....), I've been running [Nozbe for 4 years now](http://www.nozbe.com/gtd/blog/post-60a0e18/nozbe_turned_4-how_we_got_things_done_so_far) and editing [Productive! Magazine](/magazine/) for 2 years as well... and I can say that I've learned a lot about being productive. I'm an [early riser most of the days](http://www.productivefirm.com/2009/11/early-risers-get-things-done/), I have my [email inbox at zero](http://www.productivefirm.com/2008/10/my-simple-email-setup-with-imap/) most days, too... and I do a [weekly review](http://michaelnozbe.com/getting-weekly-review-done-after-2-months) at least once every two weeks now, not bad :-)
+I read the [GTD book](http://www.amazon.com/gp/product/0142000280?tag=productive-20) 6 years ago for the first time (and since then re-read it like 10 times total in English, Polish, Spanish, German and audio....), I've been running [Nozbe for 4 years now](http://www.nozbe.com/gtd/blog/post-60a0e18/nozbe_turned_4-how_we_got_things_done_so_far) and editing [Productive! Magazine](/magazine/) for 2 years as well... and I can say that I've learned a lot about being productive. I'm an [early riser most of the days](/early-risers-get-things-done/), I have my [email inbox at zero](/my-simple-email-setup-with-imap/) most days, too... and I do a [weekly review](/getting-weekly-review-done-after-2-months) at least once every two weeks now, not bad :-)
 
 ## Showing up late has a lot to do with optimism... and I'm a very optimistic person!
 
@@ -40,7 +40,7 @@ The last three days I aimed 15 minutes before. When I had a meeting at 6, I was 
 
 ## Secret no. 2 - waiting for someone is not unproductive. Not with an iPhone.
 
-Remember I always wanted to squeeze this last action before leaving for the meeting to make sure I use the time most effectively? Well, even if I arrive 15 or 10 minutes before the meeting, my "waiting time" is not wasted. I can just pull out my iPhone and catch up on RSS news, answer a few emails or process my email inbox to zero, [listen to podcasts](http://michaelnozbe.com/re-discovering-productivity-boosting-podcasti), [listen to audiobooks](http://michaelnozbe.com/reading-audiobooks-and-absorbing-content), browse the web... my time is never wasted when I have my iPhone (or any smartphone for that matter) with me. I don't even need my laptop (just like I presented this in my [Productive! Show episode from London](http://www.productivefirm.com/2010/11/smartphone-vs-laptop-on-weekend-trips-to-london-episode-28/))
+Remember I always wanted to squeeze this last action before leaving for the meeting to make sure I use the time most effectively? Well, even if I arrive 15 or 10 minutes before the meeting, my "waiting time" is not wasted. I can just pull out my iPhone and catch up on RSS news, answer a few emails or process my email inbox to zero, [listen to podcasts](/re-discovering-productivity-boosting-podcasti), [listen to audiobooks](/reading-audiobooks-and-absorbing-content), browse the web... my time is never wasted when I have my iPhone (or any smartphone for that matter) with me. I don't even need my laptop (just like I presented this in my [Productive! Show episode from London](/smartphone-vs-laptop-on-weekend-trips-to-london-episode-28/))
 
 ## Secret no. 3 - excuses don't affect you and you don't depend on them
 
@@ -52,7 +52,7 @@ When you arrive on time, you don't start off a conversation by saying: "I'm sorr
 
 ## Secret no. 5 - it's not easy to be on time, all of the time, but it's doable
 
-That's right, There is still a long way for me to go. But I've made [a new policy for 2011](http://michaelnozbe.com/a-new-policy-for-2011-is-better-than-a-resolu) for me: "I'm never late. Never. Period" and now I need to stick to it and I will not accept any excuses. It's going to be a tough journey but I believe I can change and become an "on-time" person this year.
+That's right, There is still a long way for me to go. But I've made [a new policy for 2011](/a-new-policy-for-2011-is-better-than-a-resolu) for me: "I'm never late. Never. Period" and now I need to stick to it and I will not accept any excuses. It's going to be a tough journey but I believe I can change and become an "on-time" person this year.
 
 I'm running a company with 11 people on board. I have a family that depends on me. I work with outside freelancers and other great people. To make sure these relationships work great, I need to make this extra effort and be on time for them. All of the time.
 

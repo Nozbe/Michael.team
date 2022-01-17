@@ -37,7 +37,7 @@ It’s hard for me to be proud to be Polish these days, because Polish governmen
 
 Polish government of 2021 is mainly composed of three parties: [PIS - Law and Justice](https://en.wikipedia.org/wiki/Law_and_Justice), [Konfederacja - Confederacy](https://en.wikipedia.org/wiki/Confederation_Liberty_and_Independence) and [Kukiz’15](https://en.wikipedia.org/wiki/Kukiz%2715). These parties form a government that can be described as a [Kakistocracy](https://en.wikipedia.org/wiki/Kakistocracy), which means *a government run by the worst, least qualified, or most unscrupulous citizens*.
 
-What’s even worse is that as a [Catholic](https://sliwinski.com/catholic/) I’m seeing how the Roman-Catholic church in Poland got involved in politics, too. In churches all over Poland the priests are promoting hate towards people who are different. Like they forgot the [Great Commandment](https://en.wikipedia.org/wiki/Great_Commandment) mentioned by Jesus Christ in   Matthew 22:35-40:
+What’s even worse is that as a [Catholic](/catholic/) I’m seeing how the Roman-Catholic church in Poland got involved in politics, too. In churches all over Poland the priests are promoting hate towards people who are different. Like they forgot the [Great Commandment](https://en.wikipedia.org/wiki/Great_Commandment) mentioned by Jesus Christ in   Matthew 22:35-40:
 
 > "'You shall love the Lord your God with all your heart, and with all your soul, and with all your mind.' This is the greatest and first commandment. And a second is like it: 'You shall love your neighbor as yourself.'
 

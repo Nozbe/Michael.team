@@ -45,16 +45,16 @@ Writing a book is a different beast than writing a blog post... but on the other
 
 ***Questions:** Have you ever wanted to write a book? Or have you written one? Do you practice writing? What's your favorite book on writing?*
 
-[sol]: http://www.michaelsliwinski.com/sol-stein-on-writing-audiobook-of-the-week/
+[sol]: /sol-stein-on-writing-audiobook-of-the-week/
 [tf]: http://twitter.com/tferriss
 [a]: http://twitter.com/apinaud
 [n]: http://www.nozbe.com/
 [ns]: http://www.nozbe.com/signup
-[p]: http://www.productivemagazine.com/
-[s]: http://www.michaelsliwinski.com/productive_show
+[p]: /magazine/
+[s]: /productive_show
 [t]: http://twitter.com/MSliwinski
-[i]: http://www.michaelsliwinski.com/tag/ipadonly
-[e]: http://www.michaelsliwinski.com/how-i-use-evernote
+[i]: /ipadonly
+[e]: /how-i-use-evernote
 [d]: http://db.tt/kD7Liux
 
 [n]: https://michael.gratis/nozbe

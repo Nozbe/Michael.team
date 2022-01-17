@@ -14,7 +14,7 @@ Last Friday was a "Black Friday" and I wasn't sure whether to prepare a special 
 
 ## We are in a transition period
 
-Transition periods are very tricky. We are in one with [Nozbe](http://www.nozbe.com/) where we are on the verge of launching our very own, new iPhone, iPad and Android apps... as well as a new Web app and these are all significant milestones. On most of these we've been working over a year now... we've poured our hearts and souls into these.
+Transition periods are very tricky. We are in one with [Nozbe][n] where we are on the verge of launching our very own, new iPhone, iPad and Android apps... as well as a new Web app and these are all significant milestones. On most of these we've been working over a year now... we've poured our hearts and souls into these.
 
 However, I totally understand if customers do not feel the way we do. They can go different directions... some will go away, tired of waiting for what we are going to offer next. Others will not upgrade, waiting for our next move, and others will support us all the way as they still get lots of value of our product even though some parts of it are "in transition".
 
@@ -46,7 +46,7 @@ This is why my gurus, the [37signals](http://www.37signals.com/) are so right. P
 
 If you're a small business trying to ask the potential customers what they think about the thing you're doing. When they say they love it, don't be afraid to ask for the money. They will tell you what the person really means.
 
-If you're one of my customers using [Nozbe](http://www.nozbe.com/) you have no idea how big of a compliment you've given me and my team this weekend. I'm so thankful for having you on board!
+If you're one of my customers using [Nozbe][n] you have no idea how big of a compliment you've given me and my team this weekend. I'm so thankful for having you on board!
 
 Now it's time to roll out these great apps we're finishing (completely new iPhone, iPad, Android and web apps!) and reward you guys for your vote of confidence. We will not let you down!
 

@@ -18,7 +18,7 @@ I built the first version of bare-bones [Nozbe][n] in late 2005 for myself to ge
 
 ## My initial "why?" hasn't changed
 
-I'm still passionate about productivity more than ever. Still happily [editing Productive! Magazine](http://www.productivemagazine.com/) (new issue soon + lots of new ideas for 2013!). With each year I can see new challenges for Nozbe and new opportunities where we can show what still can be done to make my customers more productive.
+I'm still passionate about productivity more than ever. Still happily [editing Productive! Magazine](/magazine/) (new issue soon + lots of new ideas for 2013!). With each year I can see new challenges for Nozbe and new opportunities where we can show what still can be done to make my customers more productive.
 
 ## Integrating with other apps... why?
 
@@ -40,7 +40,7 @@ I'm very excited for 2013 as we want to show you a lot more. Nozbe will go to a 
 
 Why is Nozbe so successful and so profitable? And why am I so happy running Nozbe? Because together with my team I focus on "why" and not on different things - I've seen so many competitors come and go, so many companies start because "to-do lists" is where it's at. My company (and we are 11 folks now full time with many collaborators) is focused on long term productivity - and the longer we work on it the more fun we have at it and the more productive our customers become. I can't ask for a better job :-)
 
-As [Simon Sinek in his book "Start with Why"](http://michaelnozbe.com/start-with-why-by-simon-sinek-audio-book-of-t) explains - when you know why you do something - people share your why and help you get to where you want to go. People don't buy what you do they buy why you do it. I'm privileged and honored to have my customers and my team share my "why" with me. _And what is your "why"?_
+As [Simon Sinek in his book "Start with Why"](/start-with-why-by-simon-sinek-audio-book-of-t) explains - when you know why you do something - people share your why and help you get to where you want to go. People don't buy what you do they buy why you do it. I'm privileged and honored to have my customers and my team share my "why" with me. _And what is your "why"?_
 
 _And what are you passionate about? Are you bored with your job? Why? Why not? Have you ever analyzed why you do what you do? Do people around you share your "why"?_
 

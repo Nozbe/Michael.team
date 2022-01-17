@@ -44,13 +44,13 @@ Although today is our National holiday, it's not a day to be nationalistic. It's
 ***Happy Independence Day everyone!***
 
 [d]: http://db.tt/kD7Liux
-[e]: http://www.michaelsliwinski.com/how-i-use-evernote
-[i]: http://www.michaelsliwinski.com/tag/ipadonly
+[e]: /how-i-use-evernote
+[i]: /ipadonly
 [n]: http://www.nozbe.com/
 [ns]: http://www.nozbe.com/signup
 [o]: http://ipadonly.net/
-[p]: http://www.productivemagazine.com/
-[s]: http://www.michaelsliwinski.com/productive_show
+[p]: /magazine/
+[s]: /productive_show
 [t]: http://twitter.com/MSliwinski
 
 

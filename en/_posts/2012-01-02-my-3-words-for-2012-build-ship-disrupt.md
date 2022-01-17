@@ -18,7 +18,7 @@ Here's why:
 
 ## Build
 
-I'm about to build fantastic new features for my [Nozbe](http://www.nozbe.com/) as well as great native apps for it. And I'm going to focus on building a new product as well. So I'll be building two products at a time. I'll be also building a team behind them to make sure we can... build the products in the first place. I started as a one-man shop and for too-many years held on to having a very small team and not building a bigger team. I've grown now. In 2012 I'm going to build a team to help me keep building my Nozbe product and the new product. Lot's of building ahead of us.
+I'm about to build fantastic new features for my [Nozbe][n] as well as great native apps for it. And I'm going to focus on building a new product as well. So I'll be building two products at a time. I'll be also building a team behind them to make sure we can... build the products in the first place. I started as a one-man shop and for too-many years held on to having a very small team and not building a bigger team. I've grown now. In 2012 I'm going to build a team to help me keep building my Nozbe product and the new product. Lot's of building ahead of us.
 
 ## Ship
 

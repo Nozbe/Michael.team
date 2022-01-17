@@ -14,7 +14,7 @@ If you're getting old as quickly as I am (I was in my 20s one year ago!) you sta
 
 ## What do I mean by "smart people re-inventing the wheel"?
 
-I'm a blogger myself and I read lots of blogs. [Every Friday](http://michaelnozbe.com/tag/followfriday) I post some of the coolest things I've learned from other bloggers and I really have learned a lot from them. These guys are really smart. However, what I've recently found out is that some of them are taking "new approach" to some rather explored and sound principles... and I caught myself believing that these smart guys have really discovered a new approach.
+I'm a blogger myself and I read lots of blogs. [Every Friday](/links/) I post some of the coolest things I've learned from other bloggers and I really have learned a lot from them. These guys are really smart. However, what I've recently found out is that some of them are taking "new approach" to some rather explored and sound principles... and I caught myself believing that these smart guys have really discovered a new approach.
 
 What they are actually doing is re-inventing the wheel. Why? Because after a while you see that their "new approach" was trying to find something that doesn't work for the problem they were solving. Solution was there the whole time and whether they liked it or not, there was no "better" or "other" solution so seeking new way of building the wheel was a simple waste of time.
 
@@ -24,7 +24,7 @@ Let me give you three real-life examples:
 
 Having an Internet company I meet lots of startups and they very often say things like "with our new model we don't need to charge people for our service, we'll serve ads in these very innovative ways and this will bring us great revenues". I even believed some of these statements as the guys running these companies were really sharp and smart people.
 
-When I met them 12 months later they'd ask me how to charge for a service, because the ads are not bringing in any money. The wheel remained round. My users [happily pay for Nozbe](http://www.nozbe.com/) because they know how much value and how big of an increase in their productivity it gives them... and they know we're running a profitable business that won't vanish anytime soon. Good old model that's worked for companies for ages... and works for me as well.
+When I met them 12 months later they'd ask me how to charge for a service, because the ads are not bringing in any money. The wheel remained round. My users [happily pay for Nozbe][n] because they know how much value and how big of an increase in their productivity it gives them... and they know we're running a profitable business that won't vanish anytime soon. Good old model that's worked for companies for ages... and works for me as well.
 
 ## 2. Venture Capital money will suddenly make our business great. No it won't. It will make you burn cash and fail.
 

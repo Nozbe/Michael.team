@@ -28,10 +28,10 @@ And on the side note... I just merged "Productive Firm" and "MichaelNozbe" blogs
 
 [i14]: http://issuu.com/nozbe/docs/productive_magazine_14
 [p14]: http://www.magcloud.com/browse/issue/484966
-[p]: http://www.michaelsliwinski.com/productive_magazine
+[p]: /productive_magazine
 [a]: http://www.augustopinaud.com
 [25]: http://www.amazon.com/gp/product/B009DJPVQM?tag=productive-20
-[n]: http://www.michaelsliwinski.com/newsletter/
+[n]: /newsletter/
 [appstore]: https://itunes.apple.com/app/productive!/id452699030
 
 

@@ -5,7 +5,7 @@ img: "applewatch.jpg"
 
 # Apple Watch Only – a day in my life with the Series 2 Nike Apple Watch
 
-I bought my first [Apple Watch][watch] in May 2015, right after its world release. Even though the first version of the watch wasn’t perfect – both the software and hardware left a lot to be desired – I saw a huge potential in this product. [It later became my gadget of the year](https://sliwinski.com/watch2015). I just really loved the way I could access lots information “straight from my wrist.” Today, after a year and a half, WatchOS 3 and Apple Watch Series 2 are available, meaning that the potential has increased significantly! In this post I want to show you how much impact this device has on my life in a simple day-to-day scenario.
+I bought my first [Apple Watch][watch] in May 2015, right after its world release. Even though the first version of the watch wasn’t perfect – both the software and hardware left a lot to be desired – I saw a huge potential in this product. [It later became my gadget of the year](/watch2015). I just really loved the way I could access lots information “straight from my wrist.” Today, after a year and a half, WatchOS 3 and Apple Watch Series 2 are available, meaning that the potential has increased significantly! In this post I want to show you how much impact this device has on my life in a simple day-to-day scenario.
 
 <!--More-->
 
@@ -79,7 +79,7 @@ Apple Watch still isn’t perfect. It still needs broader support for applicatio
 
 I see a huge potential in the Apple Watch and I’m convinced that expanding its functionality and areas of application is just a matter of time. And thanks to Workflow I’m already doing some of this myself.
 
-No, I’m definitely not going to work “Apple Watch Only”, I only chose this title to show that apart from my two computers – [iPhone 7 Plus](https://sliwinski.com/6pluslove) and [iPad Pro][ipad] – I also have a third micro-computer – [the Apple Watch][watch] – which is a perfect addition to this duet.
+No, I’m definitely not going to work “Apple Watch Only”, I only chose this title to show that apart from my two computers – [iPhone 7 Plus](/6pluslove) and [iPad Pro][ipad] – I also have a third micro-computer – [the Apple Watch][watch] – which is a perfect addition to this duet.
 
 ***Question:*** *Do you use Apple Watch? Do you like it? How do you use it?*
 

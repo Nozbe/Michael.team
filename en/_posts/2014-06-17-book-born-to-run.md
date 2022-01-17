@@ -5,7 +5,7 @@ img: "book-born-to-run.jpg"
 
 # Born To Run by Christopher McDougall - (audio) book of the week
 
-As you've been following my [Twitter][] and [Instagram][] posts recently, you know I just [ran my first triathlon](https://sliwinski.com/triathlon) and I keep running 2 times per week (~10km in ~50 minutes), riding my new street-bike every week and additionally thanks to [changing my eating habits](https://sliwinski.com/book-why-fat), now, [35 years young](https://sliwinski.com/passion), I'm in the best shape of my life. And it all started with the book that I'm going to review today: ["Born to Run - A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen" by Christopher McDougall][book]:
+As you've been following my [Twitter][] and [Instagram][] posts recently, you know I just [ran my first triathlon](/triathlon) and I keep running 2 times per week (~10km in ~50 minutes), riding my new street-bike every week and additionally thanks to [changing my eating habits](/book-why-fat), now, [35 years young](/passion), I'm in the best shape of my life. And it all started with the book that I'm going to review today: ["Born to Run - A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen" by Christopher McDougall][book]:
 
 <!--More-->
 
@@ -60,7 +60,7 @@ Well, I still bought a racing bike from a friend as I'm preparing for my next tr
 ***Question:*** *Have you ever tried running? Do you run? Do you also think you're born to run? What's stopping you?*
 
 [Dropbox]: http://db.tt/kD7Liux
-[Evernote]: http://www.michaelsliwinski.com/how-i-use-evernote
+[Evernote]: /how-i-use-evernote
 [Nozbe]: http://www.nozbe.com/
 [s]: http://www.nozbe.com/signup
 [#iPadOnly]: http://ipadonly.net/

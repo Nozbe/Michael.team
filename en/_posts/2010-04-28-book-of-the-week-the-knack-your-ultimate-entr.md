@@ -6,9 +6,9 @@ img: "book-of-the-week-the-knack-your-ultimate-entr.jpg"
 # Book of the Week: The Knack - your ultimate entrepreneurship bible
 
 
-If you've been following my blog closely lately, you know I've become a great fan of audio content, especially [podcasts](http://michaelnozbe.com/re-discovering-productivity-boosting-podcasti) and [audiobooks](http://michaelnozbe.com/power-of-e-readers-and-audiobooks-productivit). I even [listen to them while skiing](http://michaelnozbe.com/reading-audiobooks-while-doing-sports-product). This enabled me to consume not 1-2 books per year, but 1-2 books per week. It's incredible and I'm learning a lot every week. And Audible now has a great customer :-)
+If you've been following my blog closely lately, you know I've become a great fan of audio content, especially [podcasts](/re-discovering-productivity-boosting-podcasti) and [audiobooks](/power-of-e-readers-and-audiobooks-productivit). I even [listen to them while skiing](/reading-audiobooks-while-doing-sports-product). This enabled me to consume not 1-2 books per year, but 1-2 books per week. It's incredible and I'm learning a lot every week. And Audible now has a great customer :-)
 
-This is why I decided to do a weekly review of a book I've recently "read" (ahem, listened to). I've already covered [Rework](http://michaelnozbe.com/review-of-37signals-cookbook-called-rework-ge) and [Switch](http://michaelnozbe.com/book-review-switch-by-heath-brothers-a-positi) and today it's time for The Knack - How Street-Smart Entrepreneurs Learn to Handle Whatever Comes Up by Norm Brodsky and Bo Burlingham:
+This is why I decided to do a weekly review of a book I've recently "read" (ahem, listened to). I've already covered [Rework](/review-of-37signals-cookbook-called-rework-ge) and [Switch](/book-review-switch-by-heath-brothers-a-positi) and today it's time for The Knack - How Street-Smart Entrepreneurs Learn to Handle Whatever Comes Up by Norm Brodsky and Bo Burlingham:
 
 <!--More-->
 
@@ -30,7 +30,7 @@ They dedicate lots of attention to customer support, to the ethics in relationsh
 
 ## Great advice, all in one.
 
-This book is a complementary book to [Rework](http://michaelnozbe.com/review-of-37signals-cookbook-called-rework-ge) - tons of great advice in each chapter about how to run a business. Highly recommended to all current and would-be entrepreneurs.
+This book is a complementary book to [Rework](/review-of-37signals-cookbook-called-rework-ge) - tons of great advice in each chapter about how to run a business. Highly recommended to all current and would-be entrepreneurs.
 
 I'll surely be listening to this book again in a few months to make sure the ideas from this book stick with me for a long long time.
 

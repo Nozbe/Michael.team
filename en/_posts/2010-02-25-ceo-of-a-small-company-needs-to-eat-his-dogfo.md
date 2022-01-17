@@ -39,7 +39,7 @@ We launched the translation system, I've been using it, our customers have been 
 
 ## Bringing Nozbe to the folks in your country is something I'm excited about!
 
-I'm very psyched about this project. It's something I've always wanted to do: to bring the concept of [Simple Getting Things Done](http://www.nozbe.com/) to people all around the world who don't even know who [David Allen is (and what GTD is)](http://www.davidco.com). Nozbe will be the first truly global productivity app that will teach people the **_power of "Next Actions", "Contexts" and "Projects" and a regular "Review"_**. I can't wait to make it all happen!
+I'm very psyched about this project. It's something I've always wanted to do: to bring the concept of [Simple Getting Things Done][n] to people all around the world who don't even know who [David Allen is (and what GTD is)](http://www.davidco.com). Nozbe will be the first truly global productivity app that will teach people the **_power of "Next Actions", "Contexts" and "Projects" and a regular "Review"_**. I can't wait to make it all happen!
 
 ## Sidenote: Don't worry about my Spanish :-)
 

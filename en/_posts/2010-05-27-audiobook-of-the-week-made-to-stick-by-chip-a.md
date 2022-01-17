@@ -8,7 +8,7 @@ img: "audiobook-of-the-week-made-to-stick-by-chip-a.jpg"
 
 I have a long history with this book. I actually bought it like 2 years ago as a physical book and took it with me on virtually every trip I did... and never managed to read this book. What can I say... I'm a lousy reader... but good listener.
 
-That's why after I "read" in an audio kind of way[ Chip and Dan's second book, Switch](http://michaelnozbe.com/book-review-switch-by-heath-brothers-a-positi), I decided to just purchase the audio version of "Made to Stick" and listen to it. And boy was it great:
+That's why after I "read" in an audio kind of way[ Chip and Dan's second book, Switch](/book-review-switch-by-heath-brothers-a-positi), I decided to just purchase the audio version of "Made to Stick" and listen to it. And boy was it great:
 
 <!--More-->
 
@@ -38,7 +38,7 @@ Here's how. The idea needs to have these 6 features. Preferably all of them, in 
 
 ![{{ page.title }} 2](/img/audiobook-of-the-week-made-to-stick-by-chip-a-2.jpg)
 
-I highly recommend this book to anyone who has to communicate something to someone. Who needs to sell or convince... as with [Switch](http://michaelnozbe.com/book-review-switch-by-heath-brothers-a-positi), this book is relevant both to the business and to the real world.
+I highly recommend this book to anyone who has to communicate something to someone. Who needs to sell or convince... as with [Switch](/book-review-switch-by-heath-brothers-a-positi), this book is relevant both to the business and to the real world.
 
 _Do your ideas stick?_
 

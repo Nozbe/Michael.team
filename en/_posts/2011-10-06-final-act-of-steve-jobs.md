@@ -6,7 +6,7 @@ img: "final-act-of-steve-jobs.jpg"
 # Final Act of Steve Jobs
 
 
-Steve Jobs, a person I never got to know personally but who's been [my mentor, inspiration and product guru](http://michaelnozbe.com/how-steve-jobs-inspired-me-as-an-entrepreneur), died yesterday night at the age of 56. So early, so young… yet it all seems he's comeback to Apple has been all a great plan until his very death. He's known for planning everything carefully. Aware of the fact that the cancer is winning, he even seemed to have planned his death and timed it perfectly. I think it takes a great courage to plan a departure like Steve.
+Steve Jobs, a person I never got to know personally but who's been [my mentor, inspiration and product guru](/how-steve-jobs-inspired-me-as-an-entrepreneur), died yesterday night at the age of 56. So early, so young… yet it all seems he's comeback to Apple has been all a great plan until his very death. He's known for planning everything carefully. Aware of the fact that the cancer is winning, he even seemed to have planned his death and timed it perfectly. I think it takes a great courage to plan a departure like Steve.
 
 <!--More-->
 
@@ -64,7 +64,7 @@ He proved again that even his death can be planned perfectly and he knew how to 
 
 _Steve, God bless, may your soul rest in peace. I know it will._
 
-> "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart." **Steve Jobs** [Stanford Commencement Speech](http://michaelnozbe.com/how-steve-jobs-inspired-me-as-an-entrepreneur)
+> "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart." **Steve Jobs** [Stanford Commencement Speech](/how-steve-jobs-inspired-me-as-an-entrepreneur)
 
 
 

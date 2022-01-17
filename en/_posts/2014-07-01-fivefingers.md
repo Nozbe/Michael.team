@@ -43,7 +43,7 @@ On one hand, if you give FiveFingers shoes to a runner who's used to heel strike
 
 ***Side-note:*** *it's tricky to find your size of FiveFingers. My usual shoe size is 41 and I have size 40 of my FiveFingers and they fit perfectly but I strongly advise to try them first in a local shop if you can.*
 
-**Third. Enjoy the barefoot experience** - I ran my first [triathlon](https://sliwinski.com/triathlon) in FiveFingers. I'm running in them every other day. On the soft sands of my local beach... and on hard concrete of the boulevard close to my home. The surface doesn't matter (although I do prefer the beach) as long as you're running correctly. And I assure you, FiveFingers literally make you run better.
+**Third. Enjoy the barefoot experience** - I ran my first [triathlon](/triathlon) in FiveFingers. I'm running in them every other day. On the soft sands of my local beach... and on hard concrete of the boulevard close to my home. The surface doesn't matter (although I do prefer the beach) as long as you're running correctly. And I assure you, FiveFingers literally make you run better.
 
 ## Do I have any scientific evidence for my FiveFingers experience?
 
@@ -64,7 +64,7 @@ Your mileage may vary but I feel more in touch with the nature when I'm running 
 [chi]: http://www.chirunning.com
 [TesTeq]: http://twitter.com/testeq
 [Dropbox]: http://db.tt/kD7Liux
-[Evernote]: http://www.michaelsliwinski.com/how-i-use-evernote
+[Evernote]: /how-i-use-evernote
 [Nozbe]: http://www.nozbe.com/
 [s]: http://www.nozbe.com/signup
 [#iPadOnly]: http://ipadonly.net/

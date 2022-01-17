@@ -25,7 +25,7 @@ Interview with yours truly as well as articles by leading Dutch-speaking product
 
 As always - the idea is that our localized magazines are really local - written by local experts and for the local community... and in 2015 the Dutch version will be a quarterly magazine... and if it gains traction Fokke promised to prepare new issues more frequently, so make sure to [check it out, if you speak Dutch!][pn]
 
-**Fun fact:** When [I launched Nozbe back in 2007](https://sliwinski.com/interview) I posted about it on Frank Meeuwsen's blog *"What's the Next Action?"* and that post catapulted Nozbe's popularity. Now Frank is a good friend and one of the contributors to our magazine. World is indeed a small place... and a great (and productive!) one at that!
+**Fun fact:** When [I launched Nozbe back in 2007](/interview) I posted about it on Frank Meeuwsen's blog *"What's the Next Action?"* and that post catapulted Nozbe's popularity. Now Frank is a good friend and one of the contributors to our magazine. World is indeed a small place... and a great (and productive!) one at that!
 
 ***Question:** Have you checked our local versions of Productive! Magazine? Which ones? Do you read regularly our main magazine?*
 

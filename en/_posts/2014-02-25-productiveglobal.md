@@ -5,7 +5,7 @@ cover: "productiveglobal.jpg"
 
 # Productive! Magazine going regular, global and local
 
-Back in 2007 I launched [Nozbe][n] because I wanted to "scratch my own itch" and build a productivity tool that I'd want to use every day. Turns our I wasn't the only one. I felt it wasn't enough. I gave people a fantastic tool to get things done, but we all needed more than that. We needed inspiration and useful tips and tricks... and this is how the [Productive! Magazine](https://sliwinski.com/magazine) was born... and last week we've taken it to the next level:
+Back in 2007 I launched [Nozbe][n] because I wanted to "scratch my own itch" and build a productivity tool that I'd want to use every day. Turns our I wasn't the only one. I felt it wasn't enough. I gave people a fantastic tool to get things done, but we all needed more than that. We needed inspiration and useful tips and tricks... and this is how the [Productive! Magazine](/magazine) was born... and last week we've taken it to the next level:
 
 <!--More-->
 
@@ -13,7 +13,7 @@ Back in 2007 I launched [Nozbe][n] because I wanted to "scratch my own itch" and
 
 ## Productive! Magazine is now a "monthly"... and is going places
 
-When last year we [relaunched][re] the magazine we decided to make it a regular, monthly mag. I explained that in [one of my shows][pp]. Well, we missed January, mostly because of me being too busy and not making the interviews on time... but we've learned our lesson and now we're back with [issue #17 with Brian Tracy](https://sliwinski.com/pm17) for February and issue #18 with Scott Belsky for March... and we have a whole lineup of interviewees for the future issues...
+When last year we [relaunched][re] the magazine we decided to make it a regular, monthly mag. I explained that in [one of my shows][pp]. Well, we missed January, mostly because of me being too busy and not making the interviews on time... but we've learned our lesson and now we're back with [issue #17 with Brian Tracy](/pm17) for February and issue #18 with Scott Belsky for March... and we have a whole lineup of interviewees for the future issues...
 
 But that's not everything - we're converting Productive! Magazine into a global franchise with magazines in different languages! Now, that's really exciting:
 
@@ -60,7 +60,7 @@ This is why we [re-launched Productive! Magazine][re] last year, this is why we 
 [re]: /magazine-relaunch/
 [pp]: /productivemag-show/
 [Dropbox]: http://db.tt/kD7Liux
-[Evernote]: http://www.michaelsliwinski.com/how-i-use-evernote
+[Evernote]: /how-i-use-evernote
 [Nozbe]: http://www.nozbe.com/
 [s]: http://www.nozbe.com/signup
 [#iPadOnly]: http://ipadonly.net/

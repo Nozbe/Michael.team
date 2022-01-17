@@ -20,7 +20,7 @@ We're not used to counting anything at home apart from our home budget. But that
 
 OK, the concept of owning 50 things sounded to me a little extreme but when Leo actually admitted that it's [just a tool to ask questions](http://mnmlist.com/without/) I started asking them... and counting.
 
-## [Counting gadgets in my home office.](http://michaelnozbe.com/100-things-challenge-to-become-a-zen-minimali) Results:
+## [Counting gadgets in my home office.](/100-things-challenge-to-become-a-zen-minimali) Results:
 
 ## 1) Empty, clean space
 

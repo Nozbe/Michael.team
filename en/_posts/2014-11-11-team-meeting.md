@@ -5,7 +5,7 @@ img: "team-meeting.jpg"
 
 # Why we're so excited about our all-team meeting: 7 steps to an amazing week with my Nozbe team!
 
-I'm writing this on a plane high up above Europe heading towards an airport in Poland, where 3 members of my team will pick me up and we'll drive together to a small hotel in the middle of nowhere... to meet the rest of our [Nozbe][n] team and spend a week together. I can't wait! We don't have any office. [Everyone on my team, including the CEO - me, works from home](https://sliwinski.com/teleworking) - so we're really looking forward to this week! That's why I decided to share how we're approaching our all-team meeting. Here goes:
+I'm writing this on a plane high up above Europe heading towards an airport in Poland, where 3 members of my team will pick me up and we'll drive together to a small hotel in the middle of nowhere... to meet the rest of our [Nozbe][n] team and spend a week together. I can't wait! We don't have any office. [Everyone on my team, including the CEO - me, works from home](/teleworking) - so we're really looking forward to this week! That's why I decided to share how we're approaching our all-team meeting. Here goes:
 
 <!--More-->
 
@@ -13,13 +13,13 @@ I'm writing this on a plane high up above Europe heading towards an airport in P
 
 ## Yes, seriously, we all work from home. Really...
 
-I've been writing about [teleworking](https://sliwinski.com/teleworking) and showing off my [home office](https://sliwinski.com/show-home-office-2013) which actually is my MAIN office... and people still write to me and say: "why don't we meet at your office?"... or "where are you based?" like if it mattered. Well, it doesn't matter. Not to us at least... and most of all, it really doesn't matter to any of the [Nozbe][n] customers. We're a team of folks spread across Europe... and starting today we're going to spend a week together and we can't wait for it to start, here's why:
+I've been writing about [teleworking](/teleworking) and showing off my [home office](/show-home-office-2013) which actually is my MAIN office... and people still write to me and say: "why don't we meet at your office?"... or "where are you based?" like if it mattered. Well, it doesn't matter. Not to us at least... and most of all, it really doesn't matter to any of the [Nozbe][n] customers. We're a team of folks spread across Europe... and starting today we're going to spend a week together and we can't wait for it to start, here's why:
 
 
 
 ## When you don't work at the same place, you're looking forward to meet your co-workers
 
-In my [post about teleworking](https://sliwinski.com/teleworking) I explained our rationale behind working from home. This is our lifestyle choice and we love it. We have the liberty to work from any place and form a very productive and efficient team... while being spread across the continent. It works great for us, we communicate through tasks, chat, video calls... and we love it... but at least once a year we need to see each other in person. We're looking forward to it.
+In my [post about teleworking](/teleworking) I explained our rationale behind working from home. This is our lifestyle choice and we love it. We have the liberty to work from any place and form a very productive and efficient team... while being spread across the continent. It works great for us, we communicate through tasks, chat, video calls... and we love it... but at least once a year we need to see each other in person. We're looking forward to it.
 
 ## Recharging batteries while spending time together
 

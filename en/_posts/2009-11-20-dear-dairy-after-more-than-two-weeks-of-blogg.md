@@ -29,7 +29,7 @@ My blog is fairly new, I'm getting quite a good traffic of readers from various 
 
 ## Email is 50 years old, and is still in a good shape
 
-Yes, we have [Twitter](http://twitter.com/MichaelNozbe), [Facebook](http://www.facebook.com/michael.sliwinski), [Google Wave](http://michaelnozbe.com/is-google-wave-an-email-20-service-what-about) and the like, but Email is still the number 1 communication tool for each and every one of us. It is for me. This is why any startup or web application that plays nicely with email is a winner for me. My next startup will have a lot to do with email, but psst, it's still in alpha stages :-)
+Yes, we have [Twitter](http://twitter.com/MichaelNozbe), [Facebook](http://www.facebook.com/michael.sliwinski), [Google Wave](/is-google-wave-an-email-20-service-what-about) and the like, but Email is still the number 1 communication tool for each and every one of us. It is for me. This is why any startup or web application that plays nicely with email is a winner for me. My next startup will have a lot to do with email, but psst, it's still in alpha stages :-)
 
 So what does it take me to blog every day? All I do is just send one additional email message per day. That's all there is to it. This is my current cost of blogging every day - one more email message :-)
 

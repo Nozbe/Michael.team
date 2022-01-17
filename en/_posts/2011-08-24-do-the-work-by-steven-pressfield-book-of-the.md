@@ -6,7 +6,7 @@ img: "do-the-work-by-steven-pressfield-book-of-the.jpg"
 # Do the Work by Steven Pressfield - book of the week
 
 
-Two weeks ago I posted about [Al's Meeting Manifesto](http://michaelnozbe.com/the-modern-meeting-standard-book-of-the-week) and this week I'll continue with the manifestos from The Domino Project and this time around is a short book by Steven Pressfield about doing the actual work.
+Two weeks ago I posted about [Al's Meeting Manifesto](/the-modern-meeting-standard-book-of-the-week) and this week I'll continue with the manifestos from The Domino Project and this time around is a short book by Steven Pressfield about doing the actual work.
 
 <!--More-->
 
@@ -16,7 +16,7 @@ Two weeks ago I posted about [Al's Meeting Manifesto](http://michaelnozbe.com/th
 
 ## Consciously fight the resistance and do the work!
 
-The "[Lizard brain](http://michaelnozbe.com/friday-readership-seth-godin-says-we-should-s)", the resistance inside of yourself doesn't want you to do great work. It tells you that you shouldn't try because you might fail… Acknowledge it, fight it and do the work!
+The "[Lizard brain](/friday-readership-seth-godin-says-we-should-s)", the resistance inside of yourself doesn't want you to do great work. It tells you that you shouldn't try because you might fail… Acknowledge it, fight it and do the work!
 
 Here are some quotes I found refreshing and interesting the haven't been covered before on my blog:
 

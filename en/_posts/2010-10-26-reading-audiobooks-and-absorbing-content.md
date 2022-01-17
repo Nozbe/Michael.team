@@ -6,7 +6,7 @@ img: "reading-audiobooks-and-absorbing-content.jpg"
 # Reading audiobooks and absorbing content
 
 
-It's official - I love audiobooks. [Back in March this year I was considering listening to audiobooks](http://michaelnozbe.com/power-of-e-readers-and-audiobooks-productivit) rather than buying physical or electronic books. I decided to go the audio route... and I "read" more than 20 books in the last 6 months... that's a stunning achievement of almost 4 books per month... that's one book per week!
+It's official - I love audiobooks. [Back in March this year I was considering listening to audiobooks](/power-of-e-readers-and-audiobooks-productivit) rather than buying physical or electronic books. I decided to go the audio route... and I "read" more than 20 books in the last 6 months... that's a stunning achievement of almost 4 books per month... that's one book per week!
 
 <!--More-->
 
@@ -18,11 +18,11 @@ I speak really fast, I move really fast... but I read really slowly. I've never 
 
 ## "Made to Stick" convinced me to go the audio-route
 
-I bought lots of books off Amazon and they stood there lonely on my shelves collecting dust. I chose "Made to Stick" as a book I wanted to read and took it with me on all my business travels to read it when on the go... and after a year I gave up. My wife would even laugh at me saying: "you're still carrying the same book with you?" When I bought the audio version, [I read it in a week.](http://michaelnozbe.com/audiobook-of-the-week-made-to-stick-by-chip-a)
+I bought lots of books off Amazon and they stood there lonely on my shelves collecting dust. I chose "Made to Stick" as a book I wanted to read and took it with me on all my business travels to read it when on the go... and after a year I gave up. My wife would even laugh at me saying: "you're still carrying the same book with you?" When I bought the audio version, [I read it in a week.](/audiobook-of-the-week-made-to-stick-by-chip-a)
 
 ## Audio works great when you move fast and drive a lot
 
-I do move a lot. I like working from coffee-shops, I like driving. I like jogging. Now when I'm on the move I'm "reading" a book. I hardly listen to my music collection on my iPod anymore. I listen to books. And when I do, I feel I can digest the content better as my focus is not on the process of reading. [I even read books while skiing :-)](http://michaelnozbe.com/reading-audiobooks-while-doing-sports-product)
+I do move a lot. I like working from coffee-shops, I like driving. I like jogging. Now when I'm on the move I'm "reading" a book. I hardly listen to my music collection on my iPod anymore. I listen to books. And when I do, I feel I can digest the content better as my focus is not on the process of reading. [I even read books while skiing :-)](/reading-audiobooks-while-doing-sports-product)
 
 ## Turbo - reading at twice the speed
 

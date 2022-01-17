@@ -5,7 +5,7 @@ img: "noofficebook.jpg"
 
 # I’m writing my new book “#NoOffice” because work is not a place to go, it’s a thing you do
 
-[Two years ago][i] I co-wrote a book [#iPadOnly][] with my friend Augusto Pinaud. Last year, to celebrate my [35th birthday](https://sliwinski.com/its-all-about-passion/) I wrote a book [“It’s All About Passion!”](https://sliwinski.com/passion)… and this year I didn’t write a book… yet. It’s because the book I’m working on right now will be something special. Not only because it’s “three times a charm”. No. It’s bigger than that. I believe this third one will be “the one” message I was born to spread to the world. Here’s why:
+[Two years ago][i] I co-wrote a book [#iPadOnly][] with my friend Augusto Pinaud. Last year, to celebrate my [35th birthday](/its-all-about-passion/) I wrote a book [“It’s All About Passion!”](/passion)… and this year I didn’t write a book… yet. It’s because the book I’m working on right now will be something special. Not only because it’s “three times a charm”. No. It’s bigger than that. I believe this third one will be “the one” message I was born to spread to the world. Here’s why:
 
 <!--More-->
 
@@ -13,7 +13,7 @@ img: "noofficebook.jpg"
 
 ## The one question I get a lot: Where are you based?
 
-I’m writing these words from my home office. Which is the only office I have. Just like all the other 20+ members of my [Nozbe][n] team. We [all work from home](https://sliwinski.com/teleworking).
+I’m writing these words from my home office. Which is the only office I have. Just like all the other 20+ members of my [Nozbe][n] team. We [all work from home](/teleworking).
 
 Every time I’m on a conference, or I just talk about what I do with someone, they always ask: *“Where are you based?”*
 
@@ -53,7 +53,7 @@ While that book was a great manifesto for raising awareness of “remote working
 
 ## After all, I’m a productivity guy, right?
 
-My company is all-remote. My tool [Nozbe][n] helps us get things done remotely. No email, just task-based communication. We’re trying things out, we’re testing more tools, devices, ideas… that help us be productive and creative as a team of people working from their homes. I live and breathe this. This is a lifestyle I chose. This is one of the reasons I [love my work so much](https://sliwinski.com/5-loves). I shouldn’t be keeping this all to myself.
+My company is all-remote. My tool [Nozbe][n] helps us get things done remotely. No email, just task-based communication. We’re trying things out, we’re testing more tools, devices, ideas… that help us be productive and creative as a team of people working from their homes. I live and breathe this. This is a lifestyle I chose. This is one of the reasons I [love my work so much](/5-loves). I shouldn’t be keeping this all to myself.
 
 And it all started when I was in college and I wrote my final thesis on “teleworking”…
 

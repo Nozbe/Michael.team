@@ -6,7 +6,7 @@ img: "migrating-to-a-new-computer-is-too-easy-if-it.jpg"
 # Migrating to a new computer is too easy... if it's a Mac
 
 
-I bought my new Macbook Air two months ago and as you know, [I love it](http://michaelnozbe.com/finally-macbook-air-done-right-the-2010-model). I even showed it to [Michael Hyatt](http://twitter.com/MichaelHyatt) and [he got one and loves it](http://michaelhyatt.com/my-take-on-the-macbook-air-after-30-days.html), too. It's my 3rd Mac... (my 3rd Macbook Air by the way...) and every time I was migrating to a new Mac, the process was very simple... for a geek like me, too easy actually:
+I bought my new Macbook Air two months ago and as you know, [I love it](/finally-macbook-air-done-right-the-2010-model). I even showed it to [Michael Hyatt](http://twitter.com/MichaelHyatt) and [he got one and loves it](http://michaelhyatt.com/my-take-on-the-macbook-air-after-30-days.html), too. It's my 3rd Mac... (my 3rd Macbook Air by the way...) and every time I was migrating to a new Mac, the process was very simple... for a geek like me, too easy actually:
 
 <!--More-->
 

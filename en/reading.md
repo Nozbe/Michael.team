@@ -30,7 +30,7 @@ As a CEO of an established company [Nozbe][n] I need to keep growing as a leader
 * [It's all about Passion!](/passion) - *How 7 types of passion helped me achieve success with my productivity startup*
 * [#iPadOnly](https://michael.gratis/ipadonly) with Augusto Pinaud - The first real post-PC book - *How to use only your iPad to work, play and everything in between*
 
-*Note: Links to books point either to my reviews on this site or directly to Audible/Amazon (with my affiliate code). Links to authors point to my [video interviews with them](https://sliwinski.com/interviews) which I did for this blog or for the [Productive! Magazine][m]*
+*Note: Links to books point either to my reviews on this site or directly to Audible/Amazon (with my affiliate code). Links to authors point to my [video interviews with them](/interviews) which I did for this blog or for the [Productive! Magazine][m]*
 
 
 
@@ -42,112 +42,112 @@ As a CEO of an established company [Nozbe][n] I need to keep growing as a leader
 <a name="reviews"></a>
 ## 1. Books I've read and [reviewed on my site](/books):
 
-* [Essentialism](https://sliwinski.com/essentialism) by [Greg McKeown](https://sliwinski.com/greg-mckeown) ([Audible](https://www.audible.com/pd/B00IWZ6XGA?tag=sliwinski-20), [Amazon](https://www.amazon.com/dp/0804137382?tag=sliwinski-20)) *The Disciplined Pursuit of Less but Better* - [just added my favorite highlights from this book - a must read!](https://sliwinski.com/essentialist) and we also [discussed this book on The Podcast #112](/podcast-112)
-* [**The Life-Changing Magic of Tyding Up**](https://sliwinski.com/kondo) by Marie Kondo ([Audible](https://www.audible.com/pd/B01M03NLJY?tag=sliwinski-20), [Amazon](https://www.amazon.com/dp/1607747308?tag=sliwinski-20)) *A simple, effective way to banish clutter forever*
-* [Sleep Smarter](https://sliwinski.com/sleep) by Shawn Stevenson ([Amazon](https://www.amazon.com/dp/1623367395?tag=sliwinski-20), [Audible](https://www.audible.com/pd/B01J4BK4MY?tag=sliwinski-20)) *21 Essential Strategies to Sleep Your Way to a Better Body, Better Health, and Bigger Success*
-* [**Peak**](https://sliwinski.com/peak) by Anders Ericsson ([Audible](https://www.audible.com/pd/B01F4D6XKI?tag=sliwinski-20), [Amazon](https://www.amazon.com/dp/0544456238?tag=sliwinski-20)) *Secrets from the New Science of Expertise*
-* [Anything You Want](https://sliwinski.com/anything-you-want) by Derek Sivers
+* [Essentialism](/essentialism) by [Greg McKeown](/greg-mckeown) ([Audible](https://www.audible.com/pd/B00IWZ6XGA?tag=sliwinski-20), [Amazon](https://www.amazon.com/dp/0804137382?tag=sliwinski-20)) *The Disciplined Pursuit of Less but Better* - [just added my favorite highlights from this book - a must read!](/essentialist) and we also [discussed this book on The Podcast #112](/podcast-112)
+* [**The Life-Changing Magic of Tyding Up**](/kondo) by Marie Kondo ([Audible](https://www.audible.com/pd/B01M03NLJY?tag=sliwinski-20), [Amazon](https://www.amazon.com/dp/1607747308?tag=sliwinski-20)) *A simple, effective way to banish clutter forever*
+* [Sleep Smarter](/sleep) by Shawn Stevenson ([Amazon](https://www.amazon.com/dp/1623367395?tag=sliwinski-20), [Audible](https://www.audible.com/pd/B01J4BK4MY?tag=sliwinski-20)) *21 Essential Strategies to Sleep Your Way to a Better Body, Better Health, and Bigger Success*
+* [**Peak**](/peak) by Anders Ericsson ([Audible](https://www.audible.com/pd/B01F4D6XKI?tag=sliwinski-20), [Amazon](https://www.amazon.com/dp/0544456238?tag=sliwinski-20)) *Secrets from the New Science of Expertise*
+* [Anything You Want](/anything-you-want) by Derek Sivers
   [Audible](https://www.audible.com/pd/B00563HS4C?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/1591848261?tag=sliwinski-20)
-* [Born To Run](https://sliwinski.com/book-born-to-run) by Christopher McDougall
+* [Born To Run](/book-born-to-run) by Christopher McDougall
   [Audible](https://www.audible.com/pd/B002V8KTYG?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/0307279189?tag=sliwinski-20)
-* [Why We Get Fat?](https://sliwinski.com/book-why-fat) by Gary Taubes
+* [Why We Get Fat?](/book-why-fat) by Gary Taubes
   [Audible](https://www.audible.com/pd/B004D5K512?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/0307474259?tag=sliwinski-20)
-* [Online Business Productivity](https://sliwinski.com/book-timo) by Timo Kiander
+* [Online Business Productivity](/book-timo) by Timo Kiander
   [Amazon](https://www.amazon.com/dp/1492199869?tag=sliwinski-20)
-* [Remote](https://sliwinski.com/book-remote) by [Jason Fried][jf] and David Heinemeier Hansson
+* [Remote](/book-remote) by [Jason Fried][jf] and David Heinemeier Hansson
   [Audible](https://www.audible.com/pd/B00DJ5W592?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/0804137501?tag=sliwinski-20)
-* [The Start-Up of You](https://sliwinski.com/book-startup-of-you) by Reid Hoffmann
+* [The Start-Up of You](/book-startup-of-you) by Reid Hoffmann
   [Audible](https://www.audible.com/pd/B0072L46P0?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/0307888908?tag=sliwinski-20)
-* [Decisive](https://sliwinski.com/decisive) by Chip and Dan Heath
+* [Decisive](/decisive) by Chip and Dan Heath
   [Audible](https://www.audible.com/pd/B00B3YV3Z8?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/0307956393?tag=sliwinski-20)
-* [On writing well](https://sliwinski.com/books-bird-by-bird-on-writing-well) by William Zinsser
+* [On writing well](/books-bird-by-bird-on-writing-well) by William Zinsser
   [Audible](https://www.audible.com/pd/B002V8KQLC?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/0060891548?tag=sliwinski-20)
-* [Bird by Bird](https://sliwinski.com/books-bird-by-bird-on-writing-well) by Anne Larnott
+* [Bird by Bird](/books-bird-by-bird-on-writing-well) by Anne Larnott
   [Audible](https://www.audible.com/pd/B00DC8GCYK?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/0385480016?tag=sliwinski-20)
-* [Icarus Deception](https://sliwinski.com/book-icarus) by [Seth Godin][sg]
+* [Icarus Deception](/book-icarus) by [Seth Godin][sg]
   [Audible](https://www.audible.com/pd/B00AED6QWE?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/1591846072?tag=sliwinski-20)
-* [The Checklist Manifesto](https://sliwinski.com/checklist-manifesto) by Atul Gawande
+* [The Checklist Manifesto](/checklist-manifesto) by Atul Gawande
   [Audible](https://www.audible.com/pd/B0030ZYDD2?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/0312430000?tag=sliwinski-20)
-* [The Power of Habit](https://sliwinski.com/power-of-habit) by Charles Duhigg
+* [The Power of Habit](/power-of-habit) by Charles Duhigg
   [Audible](https://www.audible.com/pd/B007C64916?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/081298160X?tag=sliwinski-20)
-* [Insanely Simple](https://sliwinski.com/insanely-simple-by-ken-segall-audio-book-of-t) - Ken Segall
+* [Insanely Simple](/insanely-simple-by-ken-segall-audio-book-of-t) - Ken Segall
   [Audible](https://www.audible.com/pd/B007WV8XPY?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/1591846218?tag=sliwinski-20)
-* [Start with Why](https://sliwinski.com/start-with-why-by-simon-sinek-audio-book-of-t) by Simon Sinek
+* [Start with Why](/start-with-why-by-simon-sinek-audio-book-of-t) by Simon Sinek
   [Audible](https://www.audible.com/pd/B004DJCZUW?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/1591846447?tag=sliwinski-20)
-* [The Now Habit](https://sliwinski.com/the-now-habit-by-neil-fiore-overcoming-procra) by Nel Fiore
+* [The Now Habit](/the-now-habit-by-neil-fiore-overcoming-procra) by Nel Fiore
   [Audible](https://www.audible.com/pd/B002V8L1ES?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/1585425524?tag=sliwinski-20)
-* [The Power of the Positive No](https://sliwinski.com/the-power-of-the-positive-no-by-william-ury-b) by William Ury
+* [The Power of the Positive No](/the-power-of-the-positive-no-by-william-ury-b) by William Ury
   [Audible](https://www.audible.com/pd/B002V59VKC?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/0553384260?tag=sliwinski-20)
-* [The 10 Top Distinctions between Millionaires and the Middle Class](https://sliwinski.com/the-10-top-distinctions-between-millionaires) by Keith Cameron Smith
+* [The 10 Top Distinctions between Millionaires and the Middle Class](/the-10-top-distinctions-between-millionaires) by Keith Cameron Smith
   [Audible](https://www.audible.com/pd/B002V8MZIO?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/0345500229?tag=sliwinski-20)
-* [Steve Jobs Biography](https://sliwinski.com/thoughts-quotes-from-steve-jobs-biography-by) by Walter Isaacson
+* [Steve Jobs Biography](/thoughts-quotes-from-steve-jobs-biography-by) by Walter Isaacson
   [Audible](https://www.audible.com/pd/B005V0QI82?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/1501127624?tag=sliwinski-20)
-* [Blink](https://sliwinski.com/blink-by-malcolm-gladwell-audiobook-of-the-we) by Malcolm Gladwell
+* [Blink](/blink-by-malcolm-gladwell-audiobook-of-the-we) by Malcolm Gladwell
   [Audible](https://www.audible.com/pd/B002VAEK3K?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/0316010669?tag=sliwinski-20)
-* [Do the Work](https://sliwinski.com/do-the-work-by-steven-pressfield-book-of-the) by Steven Pressfield
+* [Do the Work](/do-the-work-by-steven-pressfield-book-of-the) by Steven Pressfield
   [Audible](https://www.audible.com/pd/B004XINMIC?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/1936891379?tag=sliwinski-20)
-* [The Modern Meeting Standard](https://sliwinski.com/the-modern-meeting-standard-book-of-the-week) by Al Pittampalli
+* [The Modern Meeting Standard](/the-modern-meeting-standard-book-of-the-week) by Al Pittampalli
   [Audible](https://www.audible.com/pd/B005E1GA8G?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/159184827X?tag=sliwinski-20)
-* [Stein on Writing](https://sliwinski.com/sol-stein-on-writing-audiobook-of-the-week) by Sol Stein
+* [Stein on Writing](/sol-stein-on-writing-audiobook-of-the-week) by Sol Stein
   [Audible](https://www.audible.com/pd/B002V59Z1M?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/0312254210?tag=sliwinski-20)
-* [The Steve Jobs Way: iLeadership for a New Generation](https://sliwinski.com/the-steve-jobs-way-ileadership-for-a-new-gene) by Jay Elliot
+* [The Steve Jobs Way: iLeadership for a New Generation](/the-steve-jobs-way-ileadership-for-a-new-gene) by Jay Elliot
   [Audible](https://www.audible.com/pd/B004QOOG2O?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/159315710X?tag=sliwinski-20)
-* [Outliers - the story of success](https://sliwinski.com/outliers-the-story-of-success-by-malcolm-glad) by Malcolm Gladwell
+* [Outliers - the story of success](/outliers-the-story-of-success-by-malcolm-glad) by Malcolm Gladwell
   [Audible](https://www.audible.com/pd/B002UZDRK8?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/0316017930?tag=sliwinski-20)
-* [Making Ideas Happen](https://sliwinski.com/making-ideas-happen-audiobook-of-the-week) by [Scott Belsky](https://sliwinski.com/scott-belsky)
+* [Making Ideas Happen](/making-ideas-happen-audiobook-of-the-week) by [Scott Belsky](/scott-belsky)
   [Audible](https://www.audible.com/pd/B003LZ2TL4?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/1591844118?tag=sliwinski-20)
-* [Fascinate](https://sliwinski.com/fascinate-by-sally-hogshead-audiobook-of-the) by Sally Hogshead
+* [Fascinate](/fascinate-by-sally-hogshead-audiobook-of-the) by Sally Hogshead
   [Audible](https://www.audible.com/pd/B01BLV9TPS?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/0062206486?tag=sliwinski-20)
-* [The Facebook Effect](https://sliwinski.com/the-facebook-effect-by-david-kirkpatrick-audi) by David Kirkpatrick
+* [The Facebook Effect](/the-facebook-effect-by-david-kirkpatrick-audi) by David Kirkpatrick
   [Audible](https://www.audible.com/pd/B003POLGDI?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/1439102120?tag=sliwinski-20)
-* [Eat that frog!](https://sliwinski.com/eat-that-frog-brian-tracys-take-on-procrastin/) by [Brian Tracy](https://sliwinski.com/brian-tracy)
+* [Eat that frog!](/eat-that-frog-brian-tracys-take-on-procrastin/) by [Brian Tracy](/brian-tracy)
   [Audible](https://www.audible.com/pd/B002V02HTE?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/1576754227?tag=sliwinski-20)
-* [The Little Big Things](https://sliwinski.com/the-little-big-things-by-tom-peters-audiobook) by Tom Peters
+* [The Little Big Things](/the-little-big-things-by-tom-peters-audiobook) by Tom Peters
   [Audible](https://www.audible.com/pd/B003A23WLY?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/B003A23WLY?tag=sliwinski-20)
-* [Delivering Happiness](https://sliwinski.com/delivering-happiness-by-tony-hsieh-audiobook) by Tony Hsieh
+* [Delivering Happiness](/delivering-happiness-by-tony-hsieh-audiobook) by Tony Hsieh
   [Audible](https://www.audible.com/pd/B003O5FNTG?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/0446576220?tag=sliwinski-20)
-* [Better than Good](https://sliwinski.com/audiobook-of-the-week-zig-ziglars-better-than) by Zig Ziglar
+* [Better than Good](/audiobook-of-the-week-zig-ziglars-better-than) by Zig Ziglar
   [Audible](https://www.audible.com/pd/B002V1LUVY?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/0785289194?tag=sliwinski-20)
-* [Made to Stick](https://sliwinski.com/audiobook-of-the-week-made-to-stick-by-chip-a) by Chip and Dan Heath
+* [Made to Stick](/audiobook-of-the-week-made-to-stick-by-chip-a) by Chip and Dan Heath
   [Audible](https://www.audible.com/pd/B002V0QVY6?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/1400064287?tag=sliwinski-20)
-* [The Knack](https://sliwinski.com/book-of-the-week-the-knack-your-ultimate-entr) by Norm Brodsky
+* [The Knack](/book-of-the-week-the-knack-your-ultimate-entr) by Norm Brodsky
   [Audible](https://www.audible.com/pd/B006LAKM1K?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/1591843200?tag=sliwinski-20)
-* [SWITCH](https://sliwinski.com/book-review-switch-by-heath-brothers-a-positi) by Chip and Dan Heath
+* [SWITCH](/book-review-switch-by-heath-brothers-a-positi) by Chip and Dan Heath
   [Audible](https://www.audible.com/pd/B0035C6SMO?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/0385528752?tag=sliwinski-20)
-* [REWORK](https://sliwinski.com/review-of-37signals-cookbook-called-rework-ge) by [Jason Fried][jf] and David Heinemeier Hansson
+* [REWORK](/review-of-37signals-cookbook-called-rework-ge) by [Jason Fried][jf] and David Heinemeier Hansson
   [Audible](https://www.audible.com/pd/B0036FLXLQ?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/0307463745?tag=sliwinski-20)
 
@@ -216,19 +216,19 @@ As a CEO of an established company [Nozbe][n] I need to keep growing as a leader
 
 > A blueprint of how to check if your idea "will fly" and make sense in the real world. Maybe I'm not the target audience of this one but I didn't like this book so much. If you're totally new to the building-your-business-online thing then maybe it's for you. It wasn't for me.
 
-* **Better Than Before** by [Gretchen Rubin](https://sliwinski.com/gretchen-rubin-in-the-upcoming-productive-magazine-11) ([Audible](https://www.audible.com/pd/B00R8KR28I?tag=sliwinski-20), [Amazon](https://www.amazon.com/dp/0385348630?tag=sliwinski-20)) *What I learned about making and breaking habits - to sleep more, quit sugar, procrastinate less, and generally build a happier life*
+* **Better Than Before** by [Gretchen Rubin](/gretchen-rubin-in-the-upcoming-productive-magazine-11) ([Audible](https://www.audible.com/pd/B00R8KR28I?tag=sliwinski-20), [Amazon](https://www.amazon.com/dp/0385348630?tag=sliwinski-20)) *What I learned about making and breaking habits - to sleep more, quit sugar, procrastinate less, and generally build a happier life*
 
 > Very good follow up to her previous book - The Happiness Project ([Audible](https://www.audible.com/pd/B0030MV7MU?tag=sliwinski-20), [Amazon](https://www.amazon.com/dp/0062414852?tag=sliwinski-20)) - and a good book to read after the Power of Habit by Charles Duhigg - because this book is about habits and understanding how they can help us be better and happier. I really liked it!
 
-* [**Sleep Smarter**](https://sliwinski.com/sleep) by Shawn Stevenson ([Amazon](https://www.amazon.com/dp/1623367395?tag=sliwinski-20), [Audible](https://www.audible.com/pd/B01J4BK4MY?tag=sliwinski-20)) *21 Essential Strategies to Sleep Your Way to a Better Body, Better Health, and Bigger Success*
+* [**Sleep Smarter**](/sleep) by Shawn Stevenson ([Amazon](https://www.amazon.com/dp/1623367395?tag=sliwinski-20), [Audible](https://www.audible.com/pd/B01J4BK4MY?tag=sliwinski-20)) *21 Essential Strategies to Sleep Your Way to a Better Body, Better Health, and Bigger Success*
 
-> Great book on the importance of sleeping well. [Reviewed it on this blog](https://sliwinski.com/sleep) and on [The Podcast - episode 87](/podcast-87).
+> Great book on the importance of sleeping well. [Reviewed it on this blog](/sleep) and on [The Podcast - episode 87](/podcast-87).
 
-* [**The Life-Changing Magic of Tyding Up**](https://sliwinski.com/kondo) by Marie Kondo ([Audible](https://www.audible.com/pd/B01M03NLJY?tag=sliwinski-20), [Amazon](https://www.amazon.com/dp/1607747308?tag=sliwinski-20)) *A simple, effective way to banish clutter forever*
+* [**The Life-Changing Magic of Tyding Up**](/kondo) by Marie Kondo ([Audible](https://www.audible.com/pd/B01M03NLJY?tag=sliwinski-20), [Amazon](https://www.amazon.com/dp/1607747308?tag=sliwinski-20)) *A simple, effective way to banish clutter forever*
   
-> Amazing book on tidying and cleaning and clutter-free places. This book completely changed the way I approach storing things. I'be already re-designed my home office and my wardrobe according to this method and it feels great! [Read my review](https://sliwinski.com/kondo)
+> Amazing book on tidying and cleaning and clutter-free places. This book completely changed the way I approach storing things. I'be already re-designed my home office and my wardrobe according to this method and it feels great! [Read my review](/kondo)
 
-* **The Coaching Habit** by [Michael Bungay Stanier](https://sliwinski.com/show-58-michael-bungay-stanier/) ([Amazon](https://www.amazon.com/dp/0978440749?tag=sliwinski-20), [Audible](https://www.audible.com/pd/B01HH7IORO?tag=sliwinski-20)) *Say Less, Ask More & Change the Way You Lead Forever*
+* **The Coaching Habit** by [Michael Bungay Stanier](/show-58-michael-bungay-stanier/) ([Amazon](https://www.amazon.com/dp/0978440749?tag=sliwinski-20), [Audible](https://www.audible.com/pd/B01HH7IORO?tag=sliwinski-20)) *Say Less, Ask More & Change the Way You Lead Forever*
 
 > Interesting book on coaching and how we should be asking our peers questions to learn from them and teach them at the same time. I'll probably elaborate on this more later. 
 
@@ -252,12 +252,12 @@ As a CEO of an established company [Nozbe][n] I need to keep growing as a leader
 
 > Great book on how ego influences our decisions. Have lots of notes on it, hope to publish a review soon. [Discussed this book on The Podcast - episode 77](/podcast-77).
 
-* [**Peak**](https://sliwinski.com/peak) by Anders Ericsson
+* [**Peak**](/peak) by Anders Ericsson
   [Audible](https://www.audible.com/pd/B01F4D6XKI?tag=sliwinski-20)
   [Amazon](https://www.amazon.com/dp/0544456238?tag=sliwinski-20)
   *Secrets from the New Science of Expertise*
 
-> Very important book on learning better through deliberate practice. [Read my review](https://sliwinski.com/peak)
+> Very important book on learning better through deliberate practice. [Read my review](/peak)
 
 * **The Subtle Art of Not Giving a Fuck** by Mark Manson
   [Audible](https://www.audible.com/pd/B01I28NFEE?tag=sliwinski-20)
@@ -505,7 +505,7 @@ As a CEO of an established company [Nozbe][n] I need to keep growing as a leader
 
 * **Crossing the Chasm** by Geoffrey Moore ([Amazon](https://www.amazon.com/dp/0062292986?tag=sliwinski-20), [Audible](https://www.audible.com/pd/B009P51M4O?tag=sliwinski-20))
 * **Innovation Secrets of Steve Jobs** by Carmine Gallo ([Amazon](https://www.amazon.com/dp/007174875X?tag=sliwinski-20), [Audible](https://www.audible.com/pd/B0055D5TT4?tag=sliwinski-20)) *Insanely Different Principles for Breakthrough Success*
-* Execution Is The Strategy by [Laura Stack](https://sliwinski.com/laura-stack-productivity-pro-is-on-the-cover-of-the-productive-magazine-9/) ([Amazon](https://www.amazon.com/dp/1609949684?tag=sliwinski-20), [Audible](https://www.audible.com/pd/B00K55FO8S?tag=sliwinski-20))
+* Execution Is The Strategy by [Laura Stack](/laura-stack-productivity-pro-is-on-the-cover-of-the-productive-magazine-9/) ([Amazon](https://www.amazon.com/dp/1609949684?tag=sliwinski-20), [Audible](https://www.audible.com/pd/B00K55FO8S?tag=sliwinski-20))
 * **Eat Move Sleep** by Tom Rath ([Amazon](https://www.amazon.com/dp/1491513551?tag=sliwinski-20), [Audible](https://www.audible.com/pd/B00FGADU56?tag=sliwinski-20))
 * Hooked - How to Build Habit Forming Products by Nir Eyal
 * Traction by Gabriel Weinberg and Justin Mares
@@ -582,7 +582,7 @@ As I've read all of the books above, feel free to ask me about them in the comme
 
 [Nozbe]: https://nozbe.com
 [Remag]: https://remag.me
-[a]: https://sliwinski.com/reading-audiobooks-and-absorbing-content
+[a]: /reading-audiobooks-and-absorbing-content
 [p]: http://michaelsliwinski.com/re-discovering-productivity-boosting-podcasti
 [m]: http://productivemag.com
 [gr]: /gretchen-rubin-in-the-upcoming-productive-magazine-11/

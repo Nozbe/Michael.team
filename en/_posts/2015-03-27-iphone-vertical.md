@@ -25,7 +25,7 @@ Yes, I'm using the screen lock button to make sure my iPhone screen remains vert
 
 ***Question:*** *How's your iPhone 6 Plus so far? Or if you have a big android device, how's your experience?*
 
-*[Sent from my iPhone 6 Plus](https://sliwinski.com/6pluslove)*
+*[Sent from my iPhone 6 Plus](/6pluslove)*
 
 [I]: http://info.productivemag.com/go/es
 [G]: http://info.productivemag.com/go/esa

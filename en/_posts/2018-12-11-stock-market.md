@@ -15,7 +15,7 @@ This has been an interesting year. Apple was the first company to break the 1 tr
 
 Let’s start with a disclaimer: I own quite a few units of Apple stock and I use Apple devices daily, so I’m obviously emotionally involved here.
 
-Here’t the proof: I just bought the new [iPhone XS](https://sliwinski.com/newdevice), the [new iPad Pro 11”](https://sliwinski.com/ipadretro) and the [new Apple Watch series 4](https://sliwinski.com/watch4)... so their products obviously don’t suck...
+Here’t the proof: I just bought the new [iPhone XS](/newdevice), the [new iPad Pro 11”](/ipadretro) and the [new Apple Watch series 4](/watch4)... so their products obviously don’t suck...
 
 Yet there’s a question of growth... Apple, apparently is doomed as they’re not going to sell as many iPhones as they should be, right?
 
@@ -33,7 +33,7 @@ Whereas Apple’s iPhone is one of the two dominant mobile platforms, they’re 
 
 Where’s the logic here? What gives?
 
-## Luckily [Nozbe](https://nozbe.com) is not on a stock exchange and won’t be!
+## Luckily [Nozbe][n] is not on a stock exchange and won’t be!
 
 I really don’t get the stock market. I won’t be buying any more stock, I’ll just keep the Apple Stock I have and that’s it.
 

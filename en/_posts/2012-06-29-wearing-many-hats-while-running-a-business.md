@@ -6,7 +6,7 @@ cover: "wearing-many-hats-while-running-a-business.jpg"
 # Wearing many hats while running a business
 
 
-Last week I reviewed yet another book about Steve Jobs and Apple, the ["Insanely Simple"](http://michaelnozbe.com/insanely-simple-by-ken-segall-audio-book-of-t) and as you remember, we discussed the idea of simplifying everything when running a business... and the importance of the "key decision-maker" to be taking part in product meetings. In line with this thinking I'm wearing two... actually three different hats in my company which on one hand sounds complicated but on the other is simplifying many aspects of running my business and makes perfect sense... if you make the distinction pretty clear.  
+Last week I reviewed yet another book about Steve Jobs and Apple, the ["Insanely Simple"](/insanely-simple-by-ken-segall-audio-book-of-t) and as you remember, we discussed the idea of simplifying everything when running a business... and the importance of the "key decision-maker" to be taking part in product meetings. In line with this thinking I'm wearing two... actually three different hats in my company which on one hand sounds complicated but on the other is simplifying many aspects of running my business and makes perfect sense... if you make the distinction pretty clear.  
 
 
 <!--More-->
@@ -30,7 +30,7 @@ I love [Nozbe][n] and designing it (especially when I have a talented designer R
 
 As a boss I plan the product with CTO (who plans the execution) but immediately after that I stop being the boss and now my CTO is my boss as I report to him as the "product guy". This way he knows he has to demand from me great work, feedback on time, and product decisions on time, just like he demands the same excellent work from his developers. The situation is clear and I need to do a great job like everyone else.
 
-This ties well with the [Insanely Simple rule](http://michaelnozbe.com/insanely-simple-by-ken-segall-audio-book-of-t) that the key decision maker (me being both the CEO and product guy) is always there at the key product meetings and decisions. It might produce a kind of double-personality disorder but I don't mind and I think it does make sense.
+This ties well with the [Insanely Simple rule](/insanely-simple-by-ken-segall-audio-book-of-t) that the key decision maker (me being both the CEO and product guy) is always there at the key product meetings and decisions. It might produce a kind of double-personality disorder but I don't mind and I think it does make sense.
 
 Similarly I'm also the "marketing guy" in my company. I mean, as the boss and CEO I plan with our head of Support (Delfina) our marketing campaign and she's responsible for the execution of it. She has to get other support gals and the designer involved to deliver the marketing message on time. In this relationship I'm also the "marketing guy" very often writing the copy of the blog post or email messages or something - and again, I report to her and need to do my job so that she can do her job better... and again, I'm on her team, so she manages me.
 

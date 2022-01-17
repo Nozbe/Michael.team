@@ -41,7 +41,7 @@ I was confused, but this didn’t feel right to me.
 
 ## We don’t need more time, we need more focused time…
 
-Over the years I’ve tested many ways of working. I usually work from home, [but sometimes I switch offices](https://sliwinski.com/5-offices). I visit friends. I ask around. I talk to people. I read some books by people smarter than me:
+Over the years I’ve tested many ways of working. I usually work from home, [but sometimes I switch offices](/5-offices). I visit friends. I ask around. I talk to people. I read some books by people smarter than me:
 
 > “After all, your folks are intellect workers — they need to have their brains in gear to do their work, and noise does affect their ability to concentrate.” **Peopleware**
 
@@ -73,7 +73,7 @@ That’s it, Mark Zuckenberg is proud to “house” as many engineers as he can
 
 ## And you’re laughing that in Nozbe we all work from home?
 
-Today we’re 24 people at Nozbe. We all work from our 24 remote offices spread across 2 continents and 5 countries. And we’re growing rapidly. And we’re not even thinking of “getting an office”. We work anytime we want, from an office we designed and we feel best at… and [working from home is the best](https://sliwinski.com/nooffice-best).
+Today we’re 24 people at Nozbe. We all work from our 24 remote offices spread across 2 continents and 5 countries. And we’re growing rapidly. And we’re not even thinking of “getting an office”. We work anytime we want, from an office we designed and we feel best at… and [working from home is the best](/nooffice-best).
 
 We serve more than 300,000 happy users from all around the world by brining them the best productivity tool we can build… and we can pull it off with such a small team, because we get our focused time, we enter our “flow” or “zone” easily… and we trust each other to get our work done.
 

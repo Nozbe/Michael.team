@@ -18,11 +18,11 @@ We know subscriptions very well: our phone plan, our insurance policy, our cable
 
 ## Subscriptions in software
 
-In software, when you'd download a shareware program, you'd buy it once and that'd be it. With web-based applications (like my very own [Nozbe](http://www.nozbe.com/)) you pay for a monthly access to the program - your benefit - you can access it from anywhere you want, you don't have to worry about updates, backups, etc. and the company collects a small subscription fee every month or year. This model was new 10 years ago, but now it's very common. I've written [a small guide to subscriptions for startups a while ago on this blog](http://michaelnozbe.com/5-tips-on-creating-subscription-plans-in-a-st).
+In software, when you'd download a shareware program, you'd buy it once and that'd be it. With web-based applications (like my very own [Nozbe][n]) you pay for a monthly access to the program - your benefit - you can access it from anywhere you want, you don't have to worry about updates, backups, etc. and the company collects a small subscription fee every month or year. This model was new 10 years ago, but now it's very common. I've written [a small guide to subscriptions for startups a while ago on this blog](/5-tips-on-creating-subscription-plans-in-a-st).
 
 ## Subscribification in action = example of books
 
-While selling access to web-based software for a monthly fee is a normal practice now, selling books like this isn't. Amazon is still not doing it but its daughter company is - Audible. I'm a very big fan of this service ([as you very well know](http://www.MichaelNozbe.com/tag/books)) and I was surprised by their model - you can buy the books from them one at a time, but to encourage "audio" reading they prefer you went with a subscription from them so every month you'd get a "credit" that gives you one book guaranteed. I think this model is brilliant and I'm wondering why Amazon is not doing it yet. (they are sort-of with "prime" but that's not what I mean)
+While selling access to web-based software for a monthly fee is a normal practice now, selling books like this isn't. Amazon is still not doing it but its daughter company is - Audible. I'm a very big fan of this service ([as you very well know](/books)) and I was surprised by their model - you can buy the books from them one at a time, but to encourage "audio" reading they prefer you went with a subscription from them so every month you'd get a "credit" that gives you one book guaranteed. I think this model is brilliant and I'm wondering why Amazon is not doing it yet. (they are sort-of with "prime" but that's not what I mean)
 
 ## Selling a product "experience" instead of a product
 

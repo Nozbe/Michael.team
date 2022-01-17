@@ -15,7 +15,7 @@ Christmas is coming along very quickly and many partners of us geeks have hard t
 
 ## 1. Portable 2.5" Hard Disk Drive (WD 1TB)
 
-My Macbook Air has "only" 256GB of SSD space, so when I need to work in iMovie on my [Productive! Show](http://ProductiveFirm.com/Show/) or want to backup my Air when on a longer business trip, this drive does the job perfectly.
+My Macbook Air has "only" 256GB of SSD space, so when I need to work in iMovie on my [Productive! Show](/Show/) or want to backup my Air when on a longer business trip, this drive does the job perfectly.
 
 ## 2. VGA Adapter
 

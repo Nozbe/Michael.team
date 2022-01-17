@@ -5,7 +5,7 @@ cover: "nozbe-story.jpg"
 
 # Nozbe story - interview with me for "Stories of the best Polish apps"
 
-*This is an interview that I granted at the end of 2014. It [was published on Spidersweb.pl][wyw] - one of the most popular Polish tech-blogs platform. It was a part o a series on Polish apps used internationally authored by [Hubert Taler][h]. If you want to dig deeper about my story, check out my [Interview about Nozbe](https://sliwinski.com/interview) and [my "about" page on this blog](https://sliwinski.com/about) and [my recent blog post about our 8th anniversary](https://sliwinski.com/8nozbe).*
+*This is an interview that I granted at the end of 2014. It [was published on Spidersweb.pl][wyw] - one of the most popular Polish tech-blogs platform. It was a part o a series on Polish apps used internationally authored by [Hubert Taler][h]. If you want to dig deeper about my story, check out my [Interview about Nozbe](/interview) and [my "about" page on this blog](/about) and [my recent blog post about our 8th anniversary](/8nozbe).*
 
 <!--More-->
 
@@ -55,7 +55,7 @@ It used to be 20/80 before, but now the proportion is 50/50. I presume that the 
 
 **9. What were the major obstacles you faced while working on the app for particular platforms?**
 
-There were plenty of them, but for us they seemed to be more of cool challenges rather than problems. As I've mentioned, we want each of our apps to be as much integrated with a given platform as it is possible and to take advantage of the options it offers. That's why we've worked really hard to be able to support the new functions of iOS8, Yosemite... or new Android and Windows 8.1. We still don't have the Windows Modern UI app but we should be releasing it soon. We've also started working on Nozbe for Apple Watch. We really love this kind of challenges. They prevent the IT guys from getting bored. We also have to buy new toys all the time :) I bought [iPhone 6 Plus](https://sliwinski.com/6pluslove), for example, although I thought it was way too big for me. But that is a trend so I needed to follow it. I can't afford to be lagging behind. These are the sacrifices we have to make :)
+There were plenty of them, but for us they seemed to be more of cool challenges rather than problems. As I've mentioned, we want each of our apps to be as much integrated with a given platform as it is possible and to take advantage of the options it offers. That's why we've worked really hard to be able to support the new functions of iOS8, Yosemite... or new Android and Windows 8.1. We still don't have the Windows Modern UI app but we should be releasing it soon. We've also started working on Nozbe for Apple Watch. We really love this kind of challenges. They prevent the IT guys from getting bored. We also have to buy new toys all the time :) I bought [iPhone 6 Plus](/6pluslove), for example, although I thought it was way too big for me. But that is a trend so I needed to follow it. I can't afford to be lagging behind. These are the sacrifices we have to make :)
 
 **10. Did you run the whole development process yourself or you outsourced some parts of it?**
 

@@ -6,7 +6,7 @@ img: "gtd-notetaker-wallet-why-pen-and-paper-is-sti.jpg"
 # GTD Notetaker Wallet - why pen and paper is still cool in high-tech world
 
 
-Yesterday many [Twitterers noticed my video on ProductiveShow.com about my capture tools](http://www.productiveshow.com/2009/04/capture-tools-help-get-stuff-done/) and asked about my GTD notetaker wallet designed by the GTD father, David Allen himself. This year in March when I was speaking at the GTDsummit in San Francisco I decided to get me one of these:
+Yesterday many [Twitterers noticed my video on Productive! Show about my capture tools](/capture-tools-help-get-stuff-done/) and asked about my GTD notetaker wallet designed by the GTD father, David Allen himself. This year in March when I was speaking at the GTDsummit in San Francisco I decided to get me one of these:
 
 <!--More-->
 

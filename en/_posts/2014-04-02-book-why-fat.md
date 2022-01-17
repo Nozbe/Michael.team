@@ -57,7 +57,7 @@ Check out this book and see for yourself. If you've been counting calories all a
 [author]: http://en.wikipedia.org/wiki/Gary_Taubes
 [su]: /summary2013
 [Dropbox]: http://db.tt/kD7Liux
-[Evernote]: http://www.michaelsliwinski.com/how-i-use-evernote
+[Evernote]: /how-i-use-evernote
 [Nozbe]: http://www.nozbe.com/
 [s]: http://www.nozbe.com/signup
 [#iPadOnly]: http://ipadonly.net/

@@ -5,7 +5,7 @@ img: "tablet-works.jpg"
 
 # This tablet "works" - why iPad is perfect for work, study and entertainment
 
-Recently, [I wrote about my love for my first MacBook Air](https://sliwinski.com/my-first-mac) and, as I said, despite that brief love affair, right now I mainly use my iPad Air 2 for work. Some people still find that "This Tablet doesn't work". As the author of the "[#iPadOnly][]" book and someone who's spent the last 2,5 years working mainly on the iPad, I decided to write this article to convince readers that, especially now, the iPad can be very helpful for both work and study... and play!
+Recently, [I wrote about my love for my first MacBook Air](/my-first-mac) and, as I said, despite that brief love affair, right now I mainly use my iPad Air 2 for work. Some people still find that "This Tablet doesn't work". As the author of the "[#iPadOnly][]" book and someone who's spent the last 2,5 years working mainly on the iPad, I decided to write this article to convince readers that, especially now, the iPad can be very helpful for both work and study... and play!
 
 <!--More-->
 
@@ -17,7 +17,7 @@ Recently, [I wrote about my love for my first MacBook Air](https://sliwinski.com
 
 It seems to me that many people perceive the iPad as a kind of small computer without a keyboard, which makes them believe that it should work like a computer. They think: if I've got all of my files on my Mac, where will I put them on the iPad? If I'm used to doing things in a particular way on my Mac, why can't I do them the same way on the iPad? After all, everything should be the same or even better, shouldn't it?
 
-Well, no. That's why many people who begin their adventure with iPad feel disappointed. When writing about [my first Mac](https://sliwinski.com/my-first-mac) in the previous issue of iMagazine, I mentioned that during my transition from a Windows PC to Mac I had to completely change my habits. I had to learn many things from scratch, and learn to operate new software for doing the same things. The transition from Mac or Windows to iPad is even more painful... but looking back - it's great... and so worth it!
+Well, no. That's why many people who begin their adventure with iPad feel disappointed. When writing about [my first Mac](/my-first-mac) in the previous issue of iMagazine, I mentioned that during my transition from a Windows PC to Mac I had to completely change my habits. I had to learn many things from scratch, and learn to operate new software for doing the same things. The transition from Mac or Windows to iPad is even more painful... but looking back - it's great... and so worth it!
 
 
 
@@ -39,7 +39,7 @@ There are many educational apps designed especially for the iPad. Just take a lo
 
 ## Work? I mainly use my iPad!
 
-That's right. As I've already said, to me, the basis for effective operation is my trio of apps: [Nozbe, Evernote, and Dropbox](https://sliwinski.com/productivity-apps/). I also have iWork and iCloud for writing texts and working with sheets or presentations. In addition to that, I use GoodReader, as well as some apps for content management on social media (Twitter, Facebook, Pinterest), reading (Pocket, Kindle, iBooks) and communication (Skype, FaceTime, Hangouts). There are lots of them and they work perfectly.
+That's right. As I've already said, to me, the basis for effective operation is my trio of apps: [Nozbe, Evernote, and Dropbox](/productivity-apps/). I also have iWork and iCloud for writing texts and working with sheets or presentations. In addition to that, I use GoodReader, as well as some apps for content management on social media (Twitter, Facebook, Pinterest), reading (Pocket, Kindle, iBooks) and communication (Skype, FaceTime, Hangouts). There are lots of them and they work perfectly.
 
 My iPad is online 24 hours a day. Thanks to 3G/LTE I don't ever have to worry about Internet connection: at home - I have WiFi, and when I'm out - I'm always online. It just works. With a laptop you have to plug it to a USB modem or find a hot-spot... 
 
@@ -69,7 +69,7 @@ iOS8 offers enhanced cooperation capabilities between apps, share sheets, extens
 
 All in all, if you don't expect iPad to be like Mac, it can be great for productivity. You have to change habits, learn new things and be open to new apps... and the experience is amazing.
 
-*written on my iPad Air2 with the help of my [iPhone 6 Plus](https://sliwinski.com/6pluslove) on the side...*
+*written on my iPad Air2 with the help of my [iPhone 6 Plus](/6pluslove) on the side...*
 
 ***Question:*** *Does the iPad work for you just like it works for me?*
 

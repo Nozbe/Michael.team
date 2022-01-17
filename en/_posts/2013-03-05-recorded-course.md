@@ -64,8 +64,8 @@ As I mentioned before, [our crew][3] did an amazing job recording the course but
 
 ***Question:** Have you ever done anything that required combating the Resistance the whole time? When was that moment you wanted to give up altogether?*
 
-[1]: http://www.michaelsliwinski.com/10-steps-to-ultimate-productivity-course-to-b/
-[2]: http://www.michaelsliwinski.com/scary-resistance/
+[1]: /10-steps-to-ultimate-productivity-course-to-b/
+[2]: /scary-resistance/
 [3]: http://filmpoint.pl
 
 [n]: https://michael.gratis/nozbe

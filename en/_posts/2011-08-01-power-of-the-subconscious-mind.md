@@ -6,7 +6,7 @@ img: "power-of-the-subconscious-mind.jpg"
 # Power of the subconscious mind
 
 
-I recently wrote about [preparing your next day before going to sleep](http://michaelnozbe.com/prepare-your-next-day-in-the-evening). I'd like to add more to it. I challenge you to start exploring the power of your subconscious mind. Your mind is really powerful. Uncover it.
+I recently wrote about [preparing your next day before going to sleep](/prepare-your-next-day-in-the-evening). I'd like to add more to it. I challenge you to start exploring the power of your subconscious mind. Your mind is really powerful. Uncover it.
 
 <!--More-->
 
@@ -14,7 +14,7 @@ I recently wrote about [preparing your next day before going to sleep](http://mi
 
 ## "Sleep over it"
 
-In my [other post](http://michaelnozbe.com/prepare-your-next-day-in-the-evening) I focused on preparing a list of things to do for tomorrow… so that our subconscious mind can "digest" it overnight while we sleep. It's amazing how much clarity we have the next morning.
+In my [other post](/prepare-your-next-day-in-the-evening) I focused on preparing a list of things to do for tomorrow… so that our subconscious mind can "digest" it overnight while we sleep. It's amazing how much clarity we have the next morning.
 
 But it's more than that - the same goes to any problem we have. The saying to "sleep over it" applies to almost any tough decision, that's why it's crucial not to let the emotions take charge and really "sleep over" some of the most important decisions in your life.
 

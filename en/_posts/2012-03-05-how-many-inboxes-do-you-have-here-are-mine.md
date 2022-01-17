@@ -32,7 +32,7 @@ I use three places in my Gmail account: Inbox, Reply-Later, All Mail (Archive) -
 
 All of the stuff I download from the Internet, all the attachments from emails that need my attention later go to my "Downloads" folder. Again, need to clear it up at least once a week. This folder is my "digital Inbox" on my Mac. It grows pretty quickly and when it does, I know I need to process it to zero.
 
-## Inbox in [Nozbe](http://www.nozbe.com/)
+## Inbox in [Nozbe][n]
 
 Tasks that pop into my head on random basis are being placed in my Nozbe Inbox. Again, need to clear them up once a week during my weekly review. This Inbox is a typical "action inbox" and all my tasks are going there. When processing my previous inboxes I see a task, I put it there... and when the "weekly review" comes this inbox needs to be cleared out.
 

@@ -5,7 +5,7 @@ img: "commandments.jpg"
 
 # Jesus was right. Love is all you need to answer what’s right or wrong!
 
-This last Monday was the last day of our [catholic families retreat](https://sliwinski.com/when). Over the past days we’ve been discussing [10 commandments](https://en.m.wikipedia.org/wiki/Ten_Commandments). (In the meantime I was also listening to [Szustak’s commentary in Polish][10]). In the end they can be simplified to only 2 commandments which are all about love:
+This last Monday was the last day of our [catholic families retreat](/when). Over the past days we’ve been discussing [10 commandments](https://en.m.wikipedia.org/wiki/Ten_Commandments). (In the meantime I was also listening to [Szustak’s commentary in Polish][10]). In the end they can be simplified to only 2 commandments which are all about love:
 
 > “Teacher, which is the great commandment in the law?” Jesus said to him, *“‘You shall love the LORD your God with all your heart, with all your soul, and with all your mind.’* This is the first and great commandment. And the second is like it: *‘You shall love your neighbor as yourself.’* On these two commandments hang all the Law and the Prophets.” (Matthew 22,36-40)
 

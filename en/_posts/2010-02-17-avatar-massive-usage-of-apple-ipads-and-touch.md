@@ -16,7 +16,7 @@ OK, these were not really iPads Steve Jobs unveiled on their Apple special event
 
 ## Touch interface is everything
 
-I've got an iPhone for a few years now and I've written [how iPad will improve your productivity](http://michaelnozbe.com/7-ways-the-new-apple-ipad-will-increase-your) and I strongly believe the touch interface will make a huge difference on the way we use our computers in the future.
+I've got an iPhone for a few years now and I've written [how iPad will improve your productivity](/7-ways-the-new-apple-ipad-will-increase-your) and I strongly believe the touch interface will make a huge difference on the way we use our computers in the future.
 
 ## Touch means flexibility
 
@@ -24,7 +24,7 @@ Touchable (is that a word?) interface will be ultimately flexible because it wil
 
 ## Touch is natural
 
-We love touching. [I'm using a Magic Mouse](http://michaelnozbe.com/removing-features-noise-and-buttons-to-make-y) now and I love it. No buttons, just gestures and a surface I can touch. Same for the iPhone. We love touching things, not pressing them.
+We love touching. [I'm using a Magic Mouse](/removing-features-noise-and-buttons-to-make-y) now and I love it. No buttons, just gestures and a surface I can touch. Same for the iPhone. We love touching things, not pressing them.
 
 ## Touch is cool
 

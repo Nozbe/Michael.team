@@ -11,6 +11,6 @@ I'm in a very stressful moment right now. Lots of work, big marketing strategy f
 
 <!--More-->
 
-[ps]: http://michaelsliwinski.com/show
-[itunesv]: http://michaelsliwinski.com/go/itunesvideo
-[itunesa]: http://michaelsliwinski.com/go/itunesaudio
+[ps]: /show
+[itunesv]: /go/itunesvideo
+[itunesa]: /go/itunesaudio

@@ -5,7 +5,7 @@ img: "iphone7plus-jetblack.jpg"
 
 # 3 reasons why I'm enjoying my jet black iPhone 7 Plus so much?
 
-I've been writing on this blog for a while about [my iPhones](/iphone) and my special [love for the "Plus size" iPhone](https://sliwinski.com/6pluslove) but now that I've had the latest iPhone 7 Plus Jet Black, my love grew even stronger for this particular device and I'm enjoying it even more. Here's why:
+I've been writing on this blog for a while about [my iPhones](/iphone) and my special [love for the "Plus size" iPhone](/6pluslove) but now that I've had the latest iPhone 7 Plus Jet Black, my love grew even stronger for this particular device and I'm enjoying it even more. Here's why:
 
 <!--More-->
 

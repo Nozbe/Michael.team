@@ -6,7 +6,7 @@ img: "i-still-prefer-to-have-goals.jpg"
 # I still prefer to have goals
 
 
-I'm a big fan of [Leo Babauta](http://zenhabits.net) and I like reading about [minimalism](http://michaelnozbe.com/minimalism-feels-fantastic), [simplifying life](http://michaelnozbe.com/single-tasking-is-good-for-you), [de-cluttering homes](http://michaelnozbe.com/100-things-challenge-to-become-a-zen-minimali) and heck, I try to do the same with my life and I'm happy with my first results. But there is one thing these guys are preaching which I'm not comfortable with, which is the idea of a goal-less life - meaning to live without goals and just to do every day what you're most excited about.
+I'm a big fan of [Leo Babauta](http://zenhabits.net) and I like reading about [minimalism](/minimalism-feels-fantastic), [simplifying life](/single-tasking-is-good-for-you), [de-cluttering homes](/100-things-challenge-to-become-a-zen-minimali) and heck, I try to do the same with my life and I'm happy with my first results. But there is one thing these guys are preaching which I'm not comfortable with, which is the idea of a goal-less life - meaning to live without goals and just to do every day what you're most excited about.
 
 <!--More-->
 

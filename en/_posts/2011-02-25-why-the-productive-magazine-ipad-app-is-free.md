@@ -8,7 +8,7 @@ redirect_from:
 # Why the Productive! Magazine iPad app is free
 
 
-Yesterday we launched [Productive! Magazine #7 on the iPad](http://ProductiveFirm.com/MagazineApp) and last week the [same issue on PDF](/magazine/). It's been a crazy ride and we're hoping to have next issue (#8) ready in the first weeks of April on both the iPad and PDF simultaneously. The iPad version of the magazine has been created with good folks from [Macoscope](http://www.macoscope.net/) with their [iPublisher](http://getipublisher.com) platform. We initially charged for the iPad magazine $0.99 but now decided to leave it free. Why?
+Yesterday we launched [Productive! Magazine #7 on the iPad](http://Productivemag.com/7) and last week the [same issue on PDF](/magazine/). It's been a crazy ride and we're hoping to have next issue (#8) ready in the first weeks of April on both the iPad and PDF simultaneously. The iPad version of the magazine has been created with good folks from [Macoscope](http://www.macoscope.net/) with their [iPublisher](http://getipublisher.com) platform. We initially charged for the iPad magazine $0.99 but now decided to leave it free. Why?
 
 <!--More-->
 
@@ -30,7 +30,7 @@ I've decided to do the magazine and now even commit to do it every two months so
 
 ## The platform is a long term investment
 
-[Today we hit #15 spot in free apps in Lifestyle category](http://www.productivefirm.com/2011/02/productive-magazine-ipad-app-tops-appstore-charts-thank-you/) in the Appstore and with each new magazine the readers will receive a push notification to get the new issue of the magazine. With each new issue we're building a great readership and fantastic audience and although now the iPad downloads amount to a lot less than PDF downloads, it's worth investing in the iPad.
+[Today we hit #15 spot in free apps in Lifestyle category](/productive-magazine-ipad-app-tops-appstore-charts-thank-you/) in the Appstore and with each new magazine the readers will receive a push notification to get the new issue of the magazine. With each new issue we're building a great readership and fantastic audience and although now the iPad downloads amount to a lot less than PDF downloads, it's worth investing in the iPad.
 
 ## I'm a geek and I love gadgets and cutting-edge technology... and productivity
 

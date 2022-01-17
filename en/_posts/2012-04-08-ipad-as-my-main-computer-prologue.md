@@ -6,7 +6,7 @@ img: "ipad-as-my-main-computer-prologue.jpg"
 # iPad as my main computer - prologue
 
 
-Two years ago when the first iPad arrived [I wrote a post about how it will increase your productivity](http://michaelnozbe.com/7-ways-the-new-apple-ipad-will-increase-your). I believe it's even more relevant today than it was then. Let me explain: I bought the first iPad right after it was on sale and I've loved playing with it, reading stuff on it, consuming content on it... and I've been using it as an "additional" device until today when my new new iPad (3rd generation - I skipped iPad2) arrived. I decided to give it a shot and start using it as my main computing device for the next 30 days and I will document it on this blog - here's my thesis:
+Two years ago when the first iPad arrived [I wrote a post about how it will increase your productivity](/7-ways-the-new-apple-ipad-will-increase-your). I believe it's even more relevant today than it was then. Let me explain: I bought the first iPad right after it was on sale and I've loved playing with it, reading stuff on it, consuming content on it... and I've been using it as an "additional" device until today when my new new iPad (3rd generation - I skipped iPad2) arrived. I decided to give it a shot and start using it as my main computing device for the next 30 days and I will document it on this blog - here's my thesis:
 
 ## iPad as it is today can beautifully cover 80% of my computing needs...
 
@@ -22,7 +22,7 @@ With this setup I'll be seeing how I can do computing in a totally different way
 
 ## 1. Light, connected, always online, working from anywhere
 
-My current MacBook Air is 3 lbs and it's a 13" size, meaning it's quite light and quite portable... but the iPad is half the size and half the weight, lasts a good 10 hours on battery, is always connected to the Internet (4G model with flat rate Internet) meaning I can take it anywhere with me and nobody will even notice I have my entire "office" in a small bag. My dream has always been to work remotely from anywhere and I've been doing it my whole professional career running [Nozbe](http://www.nozbe.com/) but now I can go even more mobile with the iPad. It's inspiring and I want to see how far I can take it.
+My current MacBook Air is 3 lbs and it's a 13" size, meaning it's quite light and quite portable... but the iPad is half the size and half the weight, lasts a good 10 hours on battery, is always connected to the Internet (4G model with flat rate Internet) meaning I can take it anywhere with me and nobody will even notice I have my entire "office" in a small bag. My dream has always been to work remotely from anywhere and I've been doing it my whole professional career running [Nozbe][n] but now I can go even more mobile with the iPad. It's inspiring and I want to see how far I can take it.
 
 I've also seen some friends of mine use iPad a lot more and these are guys who I admire and who get serious stuff done with their iPads, so why not me? I'm a productivity guy after all, right?
 
@@ -40,7 +40,7 @@ I'll have to rely even more on Dropbox, Evernote, maybe use VNC to my home PC or
 
 Most of the apps on the iPad are beautiful, focused and easy to use. They embrace the constraints of the device making them totally perfect for my focused productivity trial. And boy there are apps for almost everything. Seriously, the "there is an app for that" slogan fits perfectly here. Over the course of the next few weeks I'll be uncovering which apps I use, which make me productive and which make me miserable... this is going to be fun!
 
-The only serious drawback I see in the iPad design is the "writing problem" - meaning, you can't touch-type on the iPad and it's essential for me[ not to think when I'm typing](http://michaelnozbe.com/why-touch-typing-is-important-productive-show). That's why I bought myself a ZaggKeys Flex keyboard (actually got it as a gift from my parents, thanks folks! :-) - as far as I heard it's the lightest, smallest and slickest Bluetooth keyboard money can buy. I'll use it when I'll need to write more. I didn't want to settle for a "cover+keyboard" combo like ZaggFolio or other similar solutions as I simply don't want the bulk - I don't want a kinda-netbook thingy - I want an iPad with keyboard when I need it. I'll usually not carry it with me, only at times when I'll be getting some serious writing done.
+The only serious drawback I see in the iPad design is the "writing problem" - meaning, you can't touch-type on the iPad and it's essential for me[ not to think when I'm typing](/why-touch-typing-is-important-productive-show). That's why I bought myself a ZaggKeys Flex keyboard (actually got it as a gift from my parents, thanks folks! :-) - as far as I heard it's the lightest, smallest and slickest Bluetooth keyboard money can buy. I'll use it when I'll need to write more. I didn't want to settle for a "cover+keyboard" combo like ZaggFolio or other similar solutions as I simply don't want the bulk - I don't want a kinda-netbook thingy - I want an iPad with keyboard when I need it. I'll usually not carry it with me, only at times when I'll be getting some serious writing done.
 
 ## 5. Zen, simplicity and focus on productivity
 

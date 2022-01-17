@@ -5,7 +5,7 @@ img: "part-2-writing-ipad-as-my-main-computer.jpg"
 
 # Part 2 - Writing - iPad as my main computer
 
-It's been almost a week since I [got my new iPad and decided to work iPad-only](http://michaelnozbe.com/ipad-as-my-main-computer-prologue) and I've been enjoying the experience very much. I started with setting up my [7 cloud services](http://michaelnozbe.com/part-1-the-clouds-ipad-as-my-main-computer) which not only help me keep only the relevant stuff on my iPad but also sync beautifully with both my iPhone and my Mac. Today I finished compiling the #12 issue of the Productive! Magazine entirely on the iPad and wrote several articles so I'll focus on how the iPad works as a writer's machine.  
+It's been almost a week since I [got my new iPad and decided to work iPad-only](/ipad-as-my-main-computer-prologue) and I've been enjoying the experience very much. I started with setting up my [7 cloud services](/part-1-the-clouds-ipad-as-my-main-computer) which not only help me keep only the relevant stuff on my iPad but also sync beautifully with both my iPhone and my Mac. Today I finished compiling the #12 issue of the Productive! Magazine entirely on the iPad and wrote several articles so I'll focus on how the iPad works as a writer's machine.  
 
 
 <!--More-->
@@ -15,7 +15,7 @@ It's been almost a week since I [got my new iPad and decided to work iPad-only](
 
 ## The hardware: iPad + keyboard
 
-Most of the time I type using the on-screen keyboard and funny enough it works pretty well. I can "almost" [touch-type](http://michaelnozbe.com/why-touch-typing-is-important-productive-show) which is actually surprising. I can type pretty fast on this thing.
+Most of the time I type using the on-screen keyboard and funny enough it works pretty well. I can "almost" [touch-type](/why-touch-typing-is-important-productive-show) which is actually surprising. I can type pretty fast on this thing.
 
 However, for some serious typing (like this blog post) I tend to use an external Bluetooth keyboard for two reasons:
 
@@ -34,7 +34,7 @@ When I check emails and process them to zero, I actually like to have my iPad fl
 
 ## Writer's apps and the cloud.
 
-Just like I mentioned in [my last post](http://michaelnozbe.com/part-1-the-clouds-ipad-as-my-main-computer) most of my writing is done in Simplenote and stored in its cloud there. Simplenote is an elegant writer as such. However sometimes I need to write "richer" articles and this post I'm writing in "Markdown" so I decided to use a different setup.
+Just like I mentioned in [my last post](/part-1-the-clouds-ipad-as-my-main-computer) most of my writing is done in Simplenote and stored in its cloud there. Simplenote is an elegant writer as such. However sometimes I need to write "richer" articles and this post I'm writing in "Markdown" so I decided to use a different setup.
 
 1) I set up Nebulous and AI Writer to use Dropbox and have a folder there called "MarkedTexts" where I save Markdown-powered text files.  
 2) I like to write in AI Writer 'cos it's more elegant than Nebulous and has the "focus-mode" which I love.  

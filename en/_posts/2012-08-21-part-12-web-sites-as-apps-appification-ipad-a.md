@@ -18,7 +18,7 @@ We've covered many aspects of my [iPad-only journey](/ipadonly) in this series o
 
 ## The apps are made-for and thought-about the iPad
 
-Many web sites from established players just collected so much dust over the years that they really suck. I mean seriously, they look bad. Just go to IMDB, eBay, Amazon... and many others. They seem like they're stuck in the 90s enjoying the first Internet gold rush. We're in 2012 people, where's HTML5, CSS3, people, [responsive web design?](http://michaelnozbe.com/why-responsive-web-design-matters) Well, it's not there.
+Many web sites from established players just collected so much dust over the years that they really suck. I mean seriously, they look bad. Just go to IMDB, eBay, Amazon... and many others. They seem like they're stuck in the 90s enjoying the first Internet gold rush. We're in 2012 people, where's HTML5, CSS3, people, [responsive web design?](/why-responsive-web-design-matters) Well, it's not there.
 
 ## But... they have dedicated iPad apps that rock!
 
@@ -26,7 +26,7 @@ I am a movie-freak so I naturally looooove the IMDB (the Internet Movie Database
 
 Here are some advantages of these apps:
 
-  * **iPad-like navigation** \- swipe, scroll, tap... perfect browsing experience on the iPad. Although I'd love all the web sites to adapt [responsive web design](http://michaelnozbe.com/why-responsive-web-design-matters) (like we do at [Nozbe][n]) they usually don't - but their apps do :-)
+  * **iPad-like navigation** \- swipe, scroll, tap... perfect browsing experience on the iPad. Although I'd love all the web sites to adapt [responsive web design](/why-responsive-web-design-matters) (like we do at [Nozbe][n]) they usually don't - but their apps do :-)
   * **retina-ready** \- unlike their web sites, the graphics are already retina-ready for my new iPad and look completely stunning.
   * **one-tap access** \- no bookmarking - they are on my home screen, with easy access, usually even support app-switching very nicely. Great stuff. Use them more and more.
 

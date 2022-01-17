@@ -11,13 +11,13 @@ Imagine this situation: I'm in a bar on the beach in my home town, enjoying a qu
 
 ![{{ page.title }}](/img/{{ page.img }})
 
-**It's so nice to be recognized at all**, it really is. I'm pretty visible thanks to my [Productive Show](https://sliwinski.com/podcast) and [10 Steps to Ultimate Productivity course][c] but I'm actually taking credit for a product that I founded, but is being developed by a 20+ person team: [Nozbe][n]. So it's not just me. It's actually my team that is being recognized here.
+**It's so nice to be recognized at all**, it really is. I'm pretty visible thanks to my [Productive Show](/podcast) and [10 Steps to Ultimate Productivity course][c] but I'm actually taking credit for a product that I founded, but is being developed by a 20+ person team: [Nozbe][n]. So it's not just me. It's actually my team that is being recognized here.
 
 But it's really really nice on a personal level, too. It's just a great feeling.
 
 **There's lots of responsibility on my part**. When others can recognize you, you have to behave well. You can be goofy but you can't do stupid things. You have to make sure you never leave your integrity out of the door. People look up to you. And that's good. 
 
-**It feels so great to be recognized for what you love**. [And I love my job.](https://sliwinski.com/5-loves) And I believe we're making the world a more organized place. One happy and productive user at a time. So I'm really looking forward to shaking hands with any Nozbe user I meet.
+**It feels so great to be recognized for what you love**. [And I love my job.](/5-loves) And I believe we're making the world a more organized place. One happy and productive user at a time. So I'm really looking forward to shaking hands with any Nozbe user I meet.
 
 I do this not just for me but mostly for you!
 
@@ -25,7 +25,7 @@ So if you see me in real life somewhere, don't be shy, come say "hi". Thanks!
 
 ***Question:*** *Have you ever been recognized on the street by a stranger?*
 
-*[Sent from my iPhone 6 Plus](https://sliwinski.com/6pluslove)*
+*[Sent from my iPhone 6 Plus](/6pluslove)*
 
 [c]: https://nozbe.com/course
 [i]: http://iMagazine.pl

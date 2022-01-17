@@ -5,7 +5,7 @@ cover: "part-10-they-keyboard-or-the-lack-of-it-ipad.jpg"
 
 # Part 10 - They Keyboard, or the lack of it - iPad as my main computer
 
-As I started my [iPad-only journey](http://michaelnozbe.com/ipad-as-my-main-computer-prologue) I didn't know what to expect and if I can really be productive on my iPad... What I have found out is that it's really [great fun to work on the iPad](http://michaelnozbe.com/part-6-portability-and-fun-ipad-as-my-main-co) and I'm less likely to use my laptop now... and actually less likely to use my keyboard. iPad is not a netbook, it's a tablet so you should [design your flows](http://michaelnozbe.com/part-3-designing-flows-ipad-as-my-main-comput) in such a way that you don't use keyboard anymore as much. Here's how I work.  
+As I started my [iPad-only journey](/ipad-as-my-main-computer-prologue) I didn't know what to expect and if I can really be productive on my iPad... What I have found out is that it's really [great fun to work on the iPad](/part-6-portability-and-fun-ipad-as-my-main-co) and I'm less likely to use my laptop now... and actually less likely to use my keyboard. iPad is not a netbook, it's a tablet so you should [design your flows](/part-3-designing-flows-ipad-as-my-main-comput) in such a way that you don't use keyboard anymore as much. Here's how I work.  
 
 
 <!--More-->
@@ -43,7 +43,7 @@ What would be interesting for me would be support for other languages like Spani
 
 ## Physical Keyboard
 
-As I [mentioned in the past posts](http://michaelnozbe.com/ipad-as-my-main-computer-prologue) I'm using the Zagg Flex Keyboard and I love it. I'm using it mostly when I need to type the blog posts like this one or write a longer email. The keyboard supports dedicated keys to copying, pasting and other iOS-specific buttons and the keyboard also work with Android devices (haven't tried it with my Nexus S yet). It's very nicely laid out and I can touch-type easily on this keyboard. Again, I type faster than I dictate or even think, so a great keyboard is essential for me when I'm into writing.
+As I [mentioned in the past posts](/ipad-as-my-main-computer-prologue) I'm using the Zagg Flex Keyboard and I love it. I'm using it mostly when I need to type the blog posts like this one or write a longer email. The keyboard supports dedicated keys to copying, pasting and other iOS-specific buttons and the keyboard also work with Android devices (haven't tried it with my Nexus S yet). It's very nicely laid out and I can touch-type easily on this keyboard. Again, I type faster than I dictate or even think, so a great keyboard is essential for me when I'm into writing.
 
 What I really like about this keyboard is that its "cover" changes into an iPad "stand" and this way I can easily put the iPad in vertical mode. It's a great writing experience - having just a screen that looks like a blank sheet of paper in natural, vertical orientation and a keyboard next to it - it's a better typing experience than on the panoramic screens of the laptops. The writing is a lot more "focused".
 

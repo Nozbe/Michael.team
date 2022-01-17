@@ -60,6 +60,6 @@ In the next few months I’ll be traveling a lot, and I’ll surely take my iPad
 [n]: https://michael.gratis/nozbe
 [ipadonly]: https://michael.gratis/ipadonly/
 [prod]: /productivity
-[pro-key]: https://sliwinski.com/ipadprokey/
-[pro-mac]: https://sliwinski.com/ipadpromac/
-[pro1]: https://sliwinski.com/ipadpro1/
+[pro-key]: /ipadprokey/
+[pro-mac]: /ipadpromac/
+[pro1]: /ipadpro1/

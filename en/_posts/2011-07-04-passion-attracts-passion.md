@@ -18,7 +18,7 @@ That's actually the title of the presentation I'll be delivering tonight at the 
 
 ## Passion attracts Passion
 
-When you're so passionate about your stuff, other passionate people notice that. They get attracted to you and you get attracted to them. Just look at the photo above - [@shigotano ](http://twitter.com/shigotano)and [@zonostyle](http://twitter.com/zonostyle) - my two very good friends helped us out with the event here in Tokyo (and support everything we do so much) because we share the same passions. We just "clicked" and connected. [They are amazing.](http://michaelnozbe.com/why-japanese-people-are-so-productive)
+When you're so passionate about your stuff, other passionate people notice that. They get attracted to you and you get attracted to them. Just look at the photo above - [@shigotano ](http://twitter.com/shigotano)and [@zonostyle](http://twitter.com/zonostyle) - my two very good friends helped us out with the event here in Tokyo (and support everything we do so much) because we share the same passions. We just "clicked" and connected. [They are amazing.](/why-japanese-people-are-so-productive)
 
 I also had lots of business meetings with some really "big fish" in the industry. Many influential bloggers, alpha-twitterers... as well as some key executives in very big companies. I was humbled they all wanted to get to know me as I really wanted to get to know them so much. Most of the time they reached out first (and [@torumori](http://twitter.com/torumori) with [@voodoovamp](http://twitter.com/voodoovamp) helped set the meetings up). Again, I was surprised and humbled. But then we met... and listening to them I understood how it works - they are just folks passionate about their stuff... and they know I'm the same way.
 

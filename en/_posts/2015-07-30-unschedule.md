@@ -22,7 +22,7 @@ One of the most popular posts on my site is the one I did on [Pomodoro technique
 ### [Jump to read the entire article »][s] 
 
 [Nozbe blog]: https://nozbe.com/blog
-[q]: https://sliwinski.com/power-of-unschedule-and-pomodoro-technique/
+[q]: /power-of-unschedule-and-pomodoro-technique/
 [s]: https://nozbe.com/blog/unschedule/
 [iMagazine]: http://iMagazine.pl
 [Nozbe]: http://nozbe.com/

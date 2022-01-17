@@ -18,7 +18,7 @@ After [a recommendation](http://biz.blox.pl/2011/05/Jobsomania.html) (in Polish)
 
 Steve is like this mob boss. He doesn't listen to the word "No". He asked several times his engineers that the iPhone should have only one button. Every time they said "this can't be done" he asked them again. Well, look at the iPhone now. And there are even rumors that this only "Home" button will be removed in iPhone5. Time will tell.
 
-It relates a lot to [my last blog post about pushing people](http://michaelnozbe.com/leaders-need-to-push-people-more). I think Steve does it really well. He knows how to push his engineers to make great stuff. How to push his designers and his talented Jonny Ive to create even more beautiful products. (I should know, I'm typing this on my [beautiful Macbook Air](http://michaelnozbe.com/macbook-air-rocks-5-things-pc-notebook-manufa)).
+It relates a lot to [my last blog post about pushing people](/leaders-need-to-push-people-more). I think Steve does it really well. He knows how to push his engineers to make great stuff. How to push his designers and his talented Jonny Ive to create even more beautiful products. (I should know, I'm typing this on my [beautiful Macbook Air](/macbook-air-rocks-5-things-pc-notebook-manufa)).
 
 ## Prototype Cars and tough reality
 
@@ -28,7 +28,7 @@ Steve explains: The designers show the prototype to the engineers and they say "
 
 ## What we can learn from Steve
 
-[To push ourselves and push people we work with](http://michaelnozbe.com/leaders-need-to-push-people-more). To dream fantastic products and focus on the details. We are about to ship the new beta version of our Nozbe desktop app and there are still many details to be worked on… and our team can't let them be like this. We love this product and we want it to be as close to perfection as possible. And we want it to be something so much different to what you've seen until now. So we push ourselves and we hope to make this happen. The Steve Jobs way.
+[To push ourselves and push people we work with](/leaders-need-to-push-people-more). To dream fantastic products and focus on the details. We are about to ship the new beta version of our Nozbe desktop app and there are still many details to be worked on… and our team can't let them be like this. We love this product and we want it to be as close to perfection as possible. And we want it to be something so much different to what you've seen until now. So we push ourselves and we hope to make this happen. The Steve Jobs way.
 
 By the way, can't wait for the OSX Lion from Apple :-)
 

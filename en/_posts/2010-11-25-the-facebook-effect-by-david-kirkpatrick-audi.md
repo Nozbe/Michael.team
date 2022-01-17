@@ -6,7 +6,7 @@ img: "the-facebook-effect-by-david-kirkpatrick-audi.jpg"
 # The Facebook Effect by David Kirkpatrick - audiobook of the week
 
 
-It's time for [this week's book](http://www.MichaelNozbe.com/tag/books). Last week on my trip to Chicago I read (listened to) the "Facebook Effect" by David Kirkpatrick and I really enjoyed it. After seeing the movie "The Social Network" it was a very good idea to learn more about the Facebook phenomenon through this book.
+It's time for [this week's book](/books). Last week on my trip to Chicago I read (listened to) the "Facebook Effect" by David Kirkpatrick and I really enjoyed it. After seeing the movie "The Social Network" it was a very good idea to learn more about the Facebook phenomenon through this book.
 
 <!--More-->
 

@@ -26,7 +26,7 @@ Whenever there are new episodes, they are downloaded right away and synced seaml
 
 I know, I know, most of you have already tried podcasting and I'm kind of new to it, but unlike radio, where there are more ads or irrelevant news, or music which I don't always feel like listening, with podcasting I'm always exposed to new and fresh content where I usually learn something new with each new episode.
 
-## I even created a video podcast using iLife (iMovie + Garageband + iWeb) of my [Productive! Show](http://www.ProductiveShow.com)
+## I even created a video podcast using iLife (iMovie + Garageband + iWeb) of my [Productive! Show](/show/)
 
 Video podcasting is really cool. I thought I should only use YouTube to distribute my Productive! Show but I created a video podcast and the episodes look really great on my iPhone:
 

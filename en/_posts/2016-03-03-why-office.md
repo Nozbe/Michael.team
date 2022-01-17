@@ -5,7 +5,7 @@ img: "why-office.jpg"
 
 # I don’t have an office. Why should I anyway?
 
-Running a business has become synonymous with owning an office. While planning to start a company, almost every entrepreneur’s main concern is where to set up the office. The question is: will our clients visit us there? Most likely not but we mainly need the office for ourselves. To have a sense that our new company is “serious”. [But in reality, it’s not the office that gets the work done, it’s you!](https://sliwinski.com/spoon)
+Running a business has become synonymous with owning an office. While planning to start a company, almost every entrepreneur’s main concern is where to set up the office. The question is: will our clients visit us there? Most likely not but we mainly need the office for ourselves. To have a sense that our new company is “serious”. [But in reality, it’s not the office that gets the work done, it’s you!](/spoon)
 
 <!--More-->
 

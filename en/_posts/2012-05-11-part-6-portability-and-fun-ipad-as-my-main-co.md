@@ -6,7 +6,7 @@ img: "part-6-portability-and-fun-ipad-as-my-main-co.jpg"
 # Part 6 - Portability and Fun - iPad as my main computer
 
 
-I'm back from my holiday trip and back after a long and tiring week of work (we just launched new [Nozbe Desktop](http://www.nozbe.com/gtd/blog/post-39d0229f/the_fastest_nozbe_for_desktop_-mac_and_windows-_is_there_-version_11-) and new [Productive! Magazine issue!](http://www.productivefirm.com/2012/05/jason-womack-in-the-productive-magazine-12-on-pdf-and-ipad/) Yay! :-) and it's time to get back to posting about my workflow and my new toy, I mean, "work device" called the iPad. This time we'll focus on iPad's real strengths - portability and fun.  
+I'm back from my holiday trip and back after a long and tiring week of work (we just launched new [Nozbe Desktop](http://www.nozbe.com/gtd/blog/post-39d0229f/the_fastest_nozbe_for_desktop_-mac_and_windows-_is_there_-version_11-) and new [Productive! Magazine issue!](/jason-womack-in-the-productive-magazine-12-on-pdf-and-ipad/) Yay! :-) and it's time to get back to posting about my workflow and my new toy, I mean, "work device" called the iPad. This time we'll focus on iPad's real strengths - portability and fun.  
 
 
 <!--More-->
@@ -18,7 +18,7 @@ I'm back from my holiday trip and back after a long and tiring week of work (we 
 
 ## A month has passed...
 
-It's been more than a month since [I picked up my new shiny iPad 3](http://michaelnozbe.com/ipad-as-my-main-computer-prologue) and decided to do most of my work on this new device instead of my trusty Macbook Air. It was also the first time I went for a two-week trip without my laptop. Here are some thoughts on that.
+It's been more than a month since [I picked up my new shiny iPad 3](/ipad-as-my-main-computer-prologue) and decided to do most of my work on this new device instead of my trusty Macbook Air. It was also the first time I went for a two-week trip without my laptop. Here are some thoughts on that.
 
 ## iPad is very portable... duh!
 
@@ -30,9 +30,9 @@ It's just not clumsy when I want to pull it up from my bag and use it. I take it
 
 ## iPad means more "fun" than "work"
 
-When I pick up my laptop, I tend to think "work" and start opening up web sites, checking email, etc. When I pick up my iPad I firstly ask myself this question: "Is there anything I absolutely need to do now?" As I have my [flows for work nicely designed](http://michaelnozbe.com/part-3-designing-flows-ipad-as-my-main-comput) on the iPad, if I don't need to work at this moment I simply open up Kindle app (for ebooks), Reeder app (for news) or Pocket app (for the articles I've saved) and start reading. And I usually use it in portrait mode, without keyboard and stuff. It just naturally transforms itself from a "work machine" to a "play machine" or simply a very versatile "reader device".
+When I pick up my laptop, I tend to think "work" and start opening up web sites, checking email, etc. When I pick up my iPad I firstly ask myself this question: "Is there anything I absolutely need to do now?" As I have my [flows for work nicely designed](/part-3-designing-flows-ipad-as-my-main-comput) on the iPad, if I don't need to work at this moment I simply open up Kindle app (for ebooks), Reeder app (for news) or Pocket app (for the articles I've saved) and start reading. And I usually use it in portrait mode, without keyboard and stuff. It just naturally transforms itself from a "work machine" to a "play machine" or simply a very versatile "reader device".
 
-This was especially convenient on a plane. I'd use it at times with my [Zagg keyboard](http://michaelnozbe.com/ipad-as-my-main-computer-prologue) to write things (i.e. "create") and then I'd just pick it up to read. A real Transformer :-)
+This was especially convenient on a plane. I'd use it at times with my [Zagg keyboard](/ipad-as-my-main-computer-prologue) to write things (i.e. "create") and then I'd just pick it up to read. A real Transformer :-)
 
 ## I tend to use the iPad more now
 

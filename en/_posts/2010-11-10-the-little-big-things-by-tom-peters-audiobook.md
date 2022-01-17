@@ -20,7 +20,7 @@ This age-old saying kept on popping in my head when I was reading (aka "listenin
 
 ## It's all about the little things
 
-Little things make huge impact. Apple cares about the little things - this is why their packaging is so fantastic and there are so many unboxing videos of Apple's products. Heck, [I even made mine, too.](http://www.productivefirm.com/2009/07/my-productive-computer-unboxing-apple-macbook-air-2-13-ssd/)
+Little things make huge impact. Apple cares about the little things - this is why their packaging is so fantastic and there are so many unboxing videos of Apple's products. Heck, [I even made mine, too.](/my-productive-computer-unboxing-apple-macbook-air-2-13-ssd/)
 
 ## Time to correct these little things as soon as possible.
 

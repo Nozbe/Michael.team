@@ -13,9 +13,9 @@ I'm on my way to [Wordcamp London](http://london.wordcamp.org/2015/) to get feed
 
 ## Why I'm scared
 
-I've been running [Nozbe][n] for the [last 8 years](https://sliwinski.com/8nozbe) with amazing success. We have hundreds of thousands of users from all over the world and we're highly profitable with an amazing team which only this year will grow from 20-30 people.
+I've been running [Nozbe][n] for the [last 8 years](/8nozbe) with amazing success. We have hundreds of thousands of users from all over the world and we're highly profitable with an amazing team which only this year will grow from 20-30 people.
 
-I'm scared to divide my attention between two companies. I'm scared to start something new when the thing I already have has achieved so much success. I'm scared to be a beginner again when I'm already one of the most [influential productivity people](https://sliwinski.com/iamnumberfour) out there. I'm scared to fail. I'm scared this new venture is ahead of its time and nobody will get it... I'm really really scared. 
+I'm scared to divide my attention between two companies. I'm scared to start something new when the thing I already have has achieved so much success. I'm scared to be a beginner again when I'm already one of the most [influential productivity people](/iamnumberfour) out there. I'm scared to fail. I'm scared this new venture is ahead of its time and nobody will get it... I'm really really scared. 
 
 ## Why I'm excited
 
@@ -33,7 +33,7 @@ Time to embrace the new beginning!
 
 ***Question:*** *Have you had a chance to begin something new lately?*
 
-*[Sent from my iPhone 6 Plus](https://sliwinski.com/6pluslove)*
+*[Sent from my iPhone 6 Plus](/6pluslove)*
 
 [I]: http://info.productivemag.com/go/es
 [G]: http://info.productivemag.com/go/esa

@@ -11,6 +11,6 @@ Grace Marshall is a naturally disorganised productivity coach, chief encourager 
 
 <!--More-->
 
-[ps]: http://michaelsliwinski.com/show
-[itunesv]: http://michaelsliwinski.com/go/itunesvideo
-[itunesa]: http://michaelsliwinski.com/go/itunesaudio
+[ps]: /show
+[itunesv]: /go/itunesvideo
+[itunesa]: /go/itunesaudio

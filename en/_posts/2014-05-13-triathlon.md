@@ -77,9 +77,9 @@ The Resistance will tell you to give up. Voices in your head will try to convinc
 
 ***Question:*** *Have you ever done a triathlon? Did you also want to give up but pushed anyway? Where did you get your motivation from?*
 
-[1]: http://www.michaelsliwinski.com/book-why-fat
+[1]: /book-why-fat
 [Dropbox]: http://db.tt/kD7Liux
-[Evernote]: http://www.michaelsliwinski.com/how-i-use-evernote
+[Evernote]: /how-i-use-evernote
 [Nozbe]: http://www.nozbe.com/
 [s]: http://www.nozbe.com/signup
 [#iPadOnly]: http://ipadonly.net/

@@ -22,9 +22,9 @@ The cool think about this book is that it's authentic - the author based the 10 
 
 When I told my wife about this book, she looked at me and asked me if I thought I was Donald Trump or something... but I explained that it's not the point of this book - the whole clue is to think differently - to change your mindset - only then you can learn something new, become financially independent and live a happy life.
 
-I've already explained in many [other](http://michaelnozbe.com/just-because-you-can-doesnt-mean-you-should) [blog](http://michaelnozbe.com/feed-your-curiosity-try-things-out-learn-grow) [posts](http://michaelnozbe.com/labor-day-a-reason-to-celebrate-love-for-work) how the mindset change of pursuing what I loved made me happy. Many people don't make the shift and they say they need to work to earn money and only then they can be happy. They can't understand that you can love your work and do what you love for a living. The same mindset changes are shown in this book.
+I've already explained in many [other](/just-because-you-can-doesnt-mean-you-should) [blog](/feed-your-curiosity-try-things-out-learn-grow) [posts](/labor-day-a-reason-to-celebrate-love-for-work) how the mindset change of pursuing what I loved made me happy. Many people don't make the shift and they say they need to work to earn money and only then they can be happy. They can't understand that you can love your work and do what you love for a living. The same mindset changes are shown in this book.
 
-## Distinction 7 - Millionaires take risks: [Decisions and Consequences - taking calculated risks](http://michaelnozbe.com/decisions-and-consequences-taking-calculated)
+## Distinction 7 - Millionaires take risks: [Decisions and Consequences - taking calculated risks](/decisions-and-consequences-taking-calculated)
 
 In my other blog post I already mentioned one of the distinctions - Millionaires take calculated risks. It's so true and it helped me many times over to make the correct decision. It's only one of the 10 distinctions and it helped me so much.
 

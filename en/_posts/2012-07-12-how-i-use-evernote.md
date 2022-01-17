@@ -29,7 +29,7 @@ Now that I'm [working a lot more on my iPad](/ipadonly) I use Skitch for iPad an
 
 ## 2. I scan business cards to Evernote
 
-I have special Notebooks: "Contacts" and "ContactsJP" (for my Japanese friends) where I scan all the business cards. [Here's a video showing you how I do it](http://michaelnozbe.com/scanning-business-cards-show-45).
+I have special Notebooks: "Contacts" and "ContactsJP" (for my Japanese friends) where I scan all the business cards. [Here's a video showing you how I do it](/scanning-business-cards-show-45).
 
 ## 3. I scan documents to Evernote
 

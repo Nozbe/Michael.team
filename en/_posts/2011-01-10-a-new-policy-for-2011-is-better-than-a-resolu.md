@@ -6,7 +6,7 @@ img: "a-new-policy-for-2011-is-better-than-a-resolu.jpg"
 # A New Policy for 2011 is better than a Resolution
 
 
-I don't like [corporate talk and corporate world](http://michaelnozbe.com/serious-corporations-use-serious-business-lan). I prefer [small-business world](http://michaelnozbe.com/enjoying-lifestyle-business). But I do like mocking the way corporations work in my daily life. In our struggle to a [Zen and Minimalist life](http://michaelnozbe.com/minimalism-feels-fantastic) my wife and I decided to introduce to our family life something normally practiced in the big corporations: **policies**.
+I don't like [corporate talk and corporate world](/serious-corporations-use-serious-business-lan). I prefer [small-business world](/enjoying-lifestyle-business). But I do like mocking the way corporations work in my daily life. In our struggle to a [Zen and Minimalist life](/minimalism-feels-fantastic) my wife and I decided to introduce to our family life something normally practiced in the big corporations: **policies**.
 
 <!--More-->
 

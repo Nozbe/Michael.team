@@ -14,7 +14,7 @@ As every Apple fanboy, I was watching [Monday's Apple WWDC10 keynote by Steve J
 
 Some people like the new device, some don't. Some laugh at FaceTime (the new face-to-face video calling) and others praise it... but...
 
-The point is - Apple [ships](http://michaelnozbe.com/friday-readership-seth-godin-says-we-should-s) something that works. Every time.
+The point is - Apple [ships](/friday-readership-seth-godin-says-we-should-s) something that works. Every time.
 
 Remember the original iPhone back in 2007? **The mobile Internet just worked!**
 

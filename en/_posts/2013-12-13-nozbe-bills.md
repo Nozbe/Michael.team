@@ -51,12 +51,12 @@ As you can see I'm "eating my own dog-food" as the say and use my [Nozbe][n] tim
 ***Question:*** *And what do you do to make sure you don't forget your bills? Was this tip helpful for you?*
 
 [Dropbox]: http://db.tt/kD7Liux
-[Evernote]: http://www.michaelsliwinski.com/how-i-use-evernote
-[iPadOnly]: http://www.michaelsliwinski.com/tag/ipadonly
+[Evernote]: /how-i-use-evernote
+[iPadOnly]: /ipadonly
 [#iPadOnly]: http://ipadonly.net/
 [Nozbe]: http://www.nozbe.com/
 [Productive! Magazine]: http://www.productivemag.com/
-[Productive! Show]: http://www.michaelsliwinski.com/productive_show
+[Productive! Show]: /productive_show
 [@MSliwinski]: http://twitter.com/MSliwinski
 
 

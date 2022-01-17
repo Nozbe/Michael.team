@@ -64,7 +64,7 @@ The second screen is still filled with quite a few apps which I use most of the 
 1. Settings, [1Password](https://1password.com) where I store passwords, [Copied](https://copiedapp.com) where I save multiple clipboard items and [Authy](https://authy.com) for all two-factor authentication needs.
 2. [Hey](https://hey.com) for email, [Telegram](https://telegram.org) as a WhatsApp alternative, [Working Copy](https://workingcopyapp.com) for my [GitHub](/github) access and Files.
 3. [Overcast](https://overcast.fm) for podcasts, Music, Photos and a document Scanner app.
-4. [Audible](https://sliwinski.com/reading-audiobooks-and-absorbing-content/) for listening to books, folder with apps I use for prayer, [Dropbox Paper](https://www.dropbox.com/paper) where we store all of our team's documentation and Home app to control all of my [HomeKit devices](/podcast-159/).
+4. [Audible](/reading-audiobooks-and-absorbing-content/) for listening to books, folder with apps I use for prayer, [Dropbox Paper](https://www.dropbox.com/paper) where we store all of our team's documentation and Home app to control all of my [HomeKit devices](/podcast-159/).
 
 ## Compared to my Home Screen from 2020 I think it looks way better!
 

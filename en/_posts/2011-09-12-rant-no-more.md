@@ -22,7 +22,7 @@ When you rant, you re-live the incident and give it a bigger significance than i
 
 ## When you put it "out there"… it's there forever
 
-Back in 2009 I wasn't quite happy with how one of the startup hubs (Seedcamp) worked and [wrote a rant about it](http://michaelnozbe.com/y-combinator-vs-seedcamp-paul-graham-nailed-i). It's been one of my most successful posts ever, but in a bad way. It stirred a good discussion ([check the comments there](http://michaelnozbe.com/y-combinator-vs-seedcamp-paul-graham-nailed-i)) but the blog post is now irrelevant as I don't really feel the way I felt then anymore and I might have hurt folks at [Seedcamp](http://www.seedcamp.com) in some way without real merit. I shouldn't have written that rant.
+Back in 2009 I wasn't quite happy with how one of the startup hubs (Seedcamp) worked and [wrote a rant about it](/y-combinator-vs-seedcamp-paul-graham-nailed-i). It's been one of my most successful posts ever, but in a bad way. It stirred a good discussion ([check the comments there](/y-combinator-vs-seedcamp-paul-graham-nailed-i)) but the blog post is now irrelevant as I don't really feel the way I felt then anymore and I might have hurt folks at [Seedcamp](http://www.seedcamp.com) in some way without real merit. I shouldn't have written that rant.
 
 ## Instead of being critical, pro-actively focus on solutions
 

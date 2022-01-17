@@ -5,7 +5,7 @@ vid: "bTLPYh_LTVc"
 
 # How to do a Weekly Review explained in 3 minutes (video)
 
-Today is [Friday](https://sliwinski.com/tgif) so it’s time for a [weekly review](https://sliwinski.com/review) and as I was playing on my [instagram account](https://instagram.com/michaelsliwinski) I decided to record a short vertical video about it, where I feature my [template for a weekly review](https://nozbe.how/vynaO), here goes:
+Today is [Friday](/tgif) so it’s time for a [weekly review](/review) and as I was playing on my [instagram account](https://instagram.com/michaelsliwinski) I decided to record a short vertical video about it, where I feature my [template for a weekly review](https://nozbe.how/vynaO), here goes:
 
 {% include video.html id=page.vid %}
 
@@ -28,4 +28,4 @@ Hope you’ve enjoyed this short video and hope you’ll take your time to do yo
 [o]: https://ipadonly.com
 
 [pm]: http://productivemag.com/
-*[Sent from my iPhone X](https://sliwinski.com/iphonex)*
+*[Sent from my iPhone X](/iphonex)*

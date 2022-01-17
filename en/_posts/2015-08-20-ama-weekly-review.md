@@ -15,7 +15,7 @@ AMA (Ask Michael Anything) - is a series of posts I'm running on this blog inspi
 
 ## Weekly review is hard at first, but necessary and gets easier with time!
 
-I've also had [my share of problems](https://sliwinski.com/getting-weekly-review-done-after-2-months) with forcing myself to regular weekly reviews but it is so important. Without it your system looses its value and strength. Try this:
+I've also had [my share of problems](/getting-weekly-review-done-after-2-months) with forcing myself to regular weekly reviews but it is so important. Without it your system looses its value and strength. Try this:
 
 ## Schedule a 2-hour review next Monday
 
@@ -25,7 +25,7 @@ After you are done - reward yourself with 30 minutes of something you like - a t
 
 Try also to think why is it like that? What stops you? Are you afraid to spend so much time and not push your projects forward or maybe it is boring for you? Or you just don't want to face reality of the state of some of your projects?
 
-If you find it hard to focus on this, go somewhere. Change your scenery. [I go to a cafeteria and don't leave until I'm done](https://sliwinski.com/show-starbucks). My friend [Augusto does the same thing](https://sliwinski.com/prodchat-weekly-review). 
+If you find it hard to focus on this, go somewhere. Change your scenery. [I go to a cafeteria and don't leave until I'm done](/show-starbucks). My friend [Augusto does the same thing](/prodchat-weekly-review). 
 
 ## Starting Priority tasks
 

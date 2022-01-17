@@ -15,7 +15,7 @@ Don't get me wrong, it's not the fanboy in me talking... I actually like Google'
 
 ## iPhone re-invented the way we use mobile phones.
 
-[In one of my past posts I wrote that iPhone](http://michaelnozbe.com/ux-confessions-of-an-iphone-and-mac-paranoid) re-invented the way we use and interact with the mobile phones. iPhone brought real Internet to our phones, created Appstore, made us fall in love with the multi-touch etc. What did Google's phone bring? Faster processor. Big deal. Specs don't matter. User Experience does.
+[In one of my past posts I wrote that iPhone](/ux-confessions-of-an-iphone-and-mac-paranoid) re-invented the way we use and interact with the mobile phones. iPhone brought real Internet to our phones, created Appstore, made us fall in love with the multi-touch etc. What did Google's phone bring? Faster processor. Big deal. Specs don't matter. User Experience does.
 
 ## Google knows how to innovate... they forgot this time around?
 
@@ -33,7 +33,7 @@ I think Google just wants to be in the mobile phone market and they believe it's
 
 ## Passion is everything. You need to be passionate in order to succeed.
 
-I've seen many entrepreneurs or startup owners going for business that they thought was just a right thing to do and even though they had the skills, they failed. I created [Nozbe](http://nozbe.com) because I needed this app and I keep on using it every day and love improving it. Apple created the iPod or iPhone for the same reasons, and this month they'll change the industry again with a rumored iSlate...
+I've seen many entrepreneurs or startup owners going for business that they thought was just a right thing to do and even though they had the skills, they failed. I created [Nozbe][n] because I needed this app and I keep on using it every day and love improving it. Apple created the iPod or iPhone for the same reasons, and this month they'll change the industry again with a rumored iSlate...
 
 ## Passion makes the difference. Passion inspires people. Passion is love. And love is all we need.
 

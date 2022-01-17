@@ -6,7 +6,7 @@ img: "recording-voice-memos-while-reading-audiobook.jpg"
 # Recording Voice memos while Reading Audiobooks
 
 
-When [I'm listening to audiobooks](http://michaelnozbe.com/reading-audiobooks-and-absorbing-content) (also [when skiing](http://michaelnozbe.com/reading-audiobooks-while-doing-sports-product)) I'm also making notes using the iPhone's built-in voice memo application. It's a fantastic way to make sure no thought gets away and it hardly requires touching the iPhone thanks to the versatility of the iPhone's headphones and their built-in microphone switch. Here's how I do it:
+When [I'm listening to audiobooks](/reading-audiobooks-and-absorbing-content) (also [when skiing](/reading-audiobooks-while-doing-sports-product)) I'm also making notes using the iPhone's built-in voice memo application. It's a fantastic way to make sure no thought gets away and it hardly requires touching the iPhone thanks to the versatility of the iPhone's headphones and their built-in microphone switch. Here's how I do it:
 
 <!--More-->
 
@@ -42,7 +42,7 @@ Again our trusty microphone-remote button can be used to resume listening to the
 
 I listen to the audiobooks while driving and I put the right headphone into my right ear and thus have also my headphone microphone button handy right below my right ear. When I drive, I can listen to the audiobook, pause playback, record note and resume playback hardly looking at the iPhone's screen thanks to the extensive usage of the iPhone's microphone button. It's brilliant and very practical.
 
-This way I've read the ["Switch" book by Dan and Chip Heath](http://michaelnozbe.com/book-review-switch-by-heath-brothers-a-positi) on my way back from Ski holidays while on a 1000 mile drive home. The drive would have been a boring one... but with my audiobook it was really great.
+This way I've read the ["Switch" book by Dan and Chip Heath](/book-review-switch-by-heath-brothers-a-positi) on my way back from Ski holidays while on a 1000 mile drive home. The drive would have been a boring one... but with my audiobook it was really great.
 
 _How do you take notes when reading audiobooks?_
 

@@ -6,7 +6,7 @@ img: "insanely-simple-by-ken-segall-audio-book-of-t.jpg"
 # Insanely Simple by Ken Segall - audio book of the week
 
 
-I've always been a big fan of Apple, even before I ever owned an actual product from them. I admired Steve Jobs and was [shocked and sad](http://michaelnozbe.com/final-act-of-steve-jobs) when he died. I read many books about him, like the "iCon", "iWoz" (about Steve Wozniak and his relationship with Jobs)... and of course the [official biography](http://michaelnozbe.com/thoughts-quotes-from-steve-jobs-biography-by) that came out after Steve's death. As Steve [inspired not only me](http://michaelnozbe.com/how-steve-jobs-inspired-me-as-an-entrepreneur) but also many more folks, the new books by people who knew Steve personally started popping up and I read [iLeadership](http://michaelnozbe.com/the-steve-jobs-way-ileadership-for-a-new-gene) and now the newest one: **Insanely Simple** and I must say I loved it.  
+I've always been a big fan of Apple, even before I ever owned an actual product from them. I admired Steve Jobs and was [shocked and sad](/final-act-of-steve-jobs) when he died. I read many books about him, like the "iCon", "iWoz" (about Steve Wozniak and his relationship with Jobs)... and of course the [official biography](/thoughts-quotes-from-steve-jobs-biography-by) that came out after Steve's death. As Steve [inspired not only me](/how-steve-jobs-inspired-me-as-an-entrepreneur) but also many more folks, the new books by people who knew Steve personally started popping up and I read [iLeadership](/the-steve-jobs-way-ileadership-for-a-new-gene) and now the newest one: **Insanely Simple** and I must say I loved it.  
 
 
 <!--More-->

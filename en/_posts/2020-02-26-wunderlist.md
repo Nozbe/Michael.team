@@ -15,7 +15,7 @@ One of Nozbe’s main competitors - Wunderlist - is going away in a few months -
 
 ## From Evernote... to Wunderlist - how a cloud-based app became viable and could go mainstream...
 
-As I explained in my first [Michael's team productivity vlog](https://sliwinski.com/michaelteam) Nozbe was born as a web-app first... and initially the iPhone, iPad or Android apps were an afterthought. Especially when I saw how Evernote was struggling to make this work back in 2010 and 2011 - having different teams responsible for different platforms. I thought I'd never be able to do this with my small team... and besides, the native apps were passé anyway, right?
+As I explained in my first [Michael's team productivity vlog](/michaelteam) Nozbe was born as a web-app first... and initially the iPhone, iPad or Android apps were an afterthought. Especially when I saw how Evernote was struggling to make this work back in 2010 and 2011 - having different teams responsible for different platforms. I thought I'd never be able to do this with my small team... and besides, the native apps were passé anyway, right?
 
 Wrong. In 2011 Wunderlist launched using a technology called AppCelerator - which helped their small team of 6 people build apps for all the platforms in a very short time. They launched on the web, iOS, Android and also Mac and Windows.
 
@@ -45,9 +45,9 @@ That's one of the reasons I love my job in the technology industry - because it 
 
 ## ...and long live Nozbe and Nozbe Teams!
 
-The main difference between Wunderlist and Nozbe has always been the fact that we [haven't taken and investment from VCs](https://sliwinski.com/investors) and we don't accept it - our investors are our customers - and we're a small profitable company hopefully making a big global impact.
+The main difference between Wunderlist and Nozbe has always been the fact that we [haven't taken and investment from VCs](/investors) and we don't accept it - our investors are our customers - and we're a small profitable company hopefully making a big global impact.
 
-When you have investors and bigger companies want to acquire you - the investors decide if you sell or not. In our case - I decide - and even though we've had acquisition offers in the past, I never wanted to sell because [I love this job](https://sliwinski.com/5-loves) and after 13 years of doing it I'm not bored - quite the contrary - I'm excited!
+When you have investors and bigger companies want to acquire you - the investors decide if you sell or not. In our case - I decide - and even though we've had acquisition offers in the past, I never wanted to sell because [I love this job](/5-loves) and after 13 years of doing it I'm not bored - quite the contrary - I'm excited!
 
 So if you support this and want your small team do great things, make sure to sign up for [Nozbe Teams](https://nozbe.com/teams) and boost your team's productivity and join me on this journey forward!
 

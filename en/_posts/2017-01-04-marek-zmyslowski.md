@@ -13,7 +13,7 @@ Marek Zmyslowski is a long-time [Nozbe user][n] and he's been using our app thro
 
 This interview was originally published on [Nozbe blog][b].
 
-After you've watched this video, make sure to [check out my podcasts and the entire Productive! Show archive](https://sliwinski.com/show).
+After you've watched this video, make sure to [check out my podcasts and the entire Productive! Show archive](/show).
 
 [b]: https://nozbe.com/blog/interview-marek-zmyslowski/
 [n]: https://nozbe.com

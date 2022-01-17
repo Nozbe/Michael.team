@@ -5,7 +5,7 @@ img: "reunion-virtual.jpg"
 
 # Here’s how we organized a virtual team reunion in pandemic times
 
-In an all-remote team, getting together every now and then in “real life” is key. Every year we try to organize a [Nozbe Reunion](https://sliwinski.com/reunion) in Spring and in Fall. This year is different. Our Spring reunion got cancelled due to [covid-19 pandemic](/covid) and we hoped we’d get to see each other this Fall. This didn’t happen so we decided to go ahead and we organized a virtual reunion. [Here’s how it went down][nb].
+In an all-remote team, getting together every now and then in “real life” is key. Every year we try to organize a [Nozbe Reunion](/reunion) in Spring and in Fall. This year is different. Our Spring reunion got cancelled due to [covid-19 pandemic](/covid) and we hoped we’d get to see each other this Fall. This didn’t happen so we decided to go ahead and we organized a virtual reunion. [Here’s how it went down][nb].
 
 <!--More-->
 

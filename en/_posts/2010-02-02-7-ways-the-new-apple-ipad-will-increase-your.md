@@ -55,7 +55,7 @@ The iPad is to serve as an eBook reader and from what I'm seeing on the video, i
 
 ## Elegance helps getting things done
 
-I've highlighted many times in this post the iPad's aesthetics and the fact that the apps coming with it also look gorgeous and I'm telling you - interacting with pretty tools makes you want to use them more. I should know, I'm [using the Macbook Air](http://michaelnozbe.com/macbook-air-rocks-5-things-pc-notebook-manufa) and enjoy working on it every day.
+I've highlighted many times in this post the iPad's aesthetics and the fact that the apps coming with it also look gorgeous and I'm telling you - interacting with pretty tools makes you want to use them more. I should know, I'm [using the Macbook Air](/macbook-air-rocks-5-things-pc-notebook-manufa) and enjoy working on it every day.
 
 How will the iPad improve our productivity? Will the apps really deliver on the iPad? Time will tell, but since it's just a bigger iPhone/iPod Touch, I'm sure this device can be a real productivity booster for everyone. What do you think?
 

@@ -5,7 +5,7 @@ img: "how-many-emails-are-you-not-receiving.jpg"
 
 # How many emails are you NOT receiving?
 
-After my two posts on email, [handling email on business trips](http://michaelnozbe.com/handling-email-on-business-trips) and [clearing a pile of emails after the trip](http://michaelnozbe.com/clearing-pile-of-email-after-business-trip), let me comment on a common problem with email - Email has become an indicator of how busy or important one is. That's silly and counter-productive.
+After my two posts on email, [handling email on business trips](/handling-email-on-business-trips) and [clearing a pile of emails after the trip](/clearing-pile-of-email-after-business-trip), let me comment on a common problem with email - Email has become an indicator of how busy or important one is. That's silly and counter-productive.
 
 <!--More-->
 

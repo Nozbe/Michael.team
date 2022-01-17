@@ -7,7 +7,7 @@ redirect_from: /productive-magazine-13-with-graham-allcott-become-a-productivity
 # Productive! Magazine 13 with Graham Allcott
 
 
-Last week we launched the latest issue of the **[Productive! Magazine](http://www.productivemagazine.com/magazine)** with Graham Allcott on the cover and my interview with him about the concepts behind his new book where he explains how to become a "Productivity Ninja" :-)  
+Last week we launched the latest issue of the **[Productive! Magazine](/magazine/)** with Graham Allcott on the cover and my interview with him about the concepts behind his new book where he explains how to become a "Productivity Ninja" :-)  
 
 
 Here's the cover:

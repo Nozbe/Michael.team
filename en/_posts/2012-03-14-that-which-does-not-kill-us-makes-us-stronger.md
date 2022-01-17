@@ -21,7 +21,7 @@ In the beginning of this year one of our developers working on a key project dec
 
 You're forced to think outside of the box. To shift, change attitude and get outside of your comfort zone and do something different. Actually, come to think about it, drawbacks should be treated as indicators that you're doing something well, but should fix the direction you're going. Instead of asking: "Why does it always happen to me?" we should be saying: "Well, this didn't work well, what does it mean? What should I do next to change course and do something even better? Maybe I wasn't aiming high enough?"
 
-It reminds me of [Seth Godin - who when talking with me](http://www.productivefirm.com/2011/11/seth-godin-interview-for-productive-magazine-10/) said that his lizard brain is like an indicator... the same I think applies to drawbacks.
+It reminds me of [Seth Godin - who when talking with me](/seth-godin-interview-for-productive-magazine-10/) said that his lizard brain is like an indicator... the same I think applies to drawbacks.
 
 
 [n]: https://michael.gratis/nozbe

@@ -23,7 +23,7 @@ This is a new desk from Ikea. It's amazing. It goes up and down with a push of a
 
 ## iMac 5K
 
-My new Mac. Bought it last summer. Gave my [Macbook Pro](https://sliwinski.com/my-last-pc/) to my wife. Love the big 27" screen. Love the power of this thing. Amazing.
+My new Mac. Bought it last summer. Gave my [Macbook Pro](/my-last-pc/) to my wife. Love the big 27" screen. Love the power of this thing. Amazing.
 
 I have sold the Apple keyboard that comes with it and bought the Microsoft Sculpt keyboard (recommendation from [Marco][m]). I've been using natural keyboards in the past and this one is very comfy and light on my wrists.
 
@@ -31,7 +31,7 @@ I use both the Magic Mouse and the Magic Trackpad. I'm right-handed but I learne
 
 ## iPad Pro
 
-[My newest iPad](https://sliwinski.com/ipadpro/). Still adjusting to this thing. It's really big but very comfortable - especially the split-screen on it is fantastic. On this photo you see I've been brainstorming my 2016 goals on a mind map in iThoughts application. It works great on a 13" screen.
+[My newest iPad](/ipadpro/). Still adjusting to this thing. It's really big but very comfortable - especially the split-screen on it is fantastic. On this photo you see I've been brainstorming my 2016 goals on a mind map in iThoughts application. It works great on a 13" screen.
 
 As an external keyboard in my home office I use Logitech Ultrathin (from my old iPad Air) and when I'm on the go with my iPad I use the Zagg Flex Keys.
 
@@ -41,7 +41,7 @@ I have the Apple Pencil and I love it so far. Like drawing on paper - just digit
 
 ## iPhone 6S Plus
 
-[My phone of choice. Love it and get lots done on it](https://sliwinski.com/6pluslove)
+[My phone of choice. Love it and get lots done on it](/6pluslove)
 
 The "S" version has 2GB of RAM which is a great improvement and I do love Live Photos of my daughters.
 

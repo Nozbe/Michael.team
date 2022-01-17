@@ -5,13 +5,13 @@ img: "interpersonal.jpg"
 
 # Effective Communication in a Team [part 2]: my 7 rules for improving interpersonal relations
 
-In my [last article on communication](https://sliwinski.com/communication) I've discussed about my 5 general rules of communicating within a team. We talked about the importance of being prepared, of writing clearly, choosing the right communication channel... and also body language.. and even spicing it up with emoticons or memes. Now let's talk about the importance of building strong interpersonal relations with your team in order to communicate even better.
+In my [last article on communication](/communication) I've discussed about my 5 general rules of communicating within a team. We talked about the importance of being prepared, of writing clearly, choosing the right communication channel... and also body language.. and even spicing it up with emoticons or memes. Now let's talk about the importance of building strong interpersonal relations with your team in order to communicate even better.
 
 <!--More-->
 
 ![{{ page.title }}](/img/{{ page.img }})
 
-As you know, my entire [Nozbe][n] team works remotely - [we all work from home](https://sliwinski.com/teleworking). That's why we decided to have an all-company meeting in person every 6 months. We've just been to one earlier this month. I'll write about it later, but suffice to say, it's great to be able to meet in person everyone you're working with every single day and spend some quality time with them. It helps of course, that we do have an amazing team :-)
+As you know, my entire [Nozbe][n] team works remotely - [we all work from home](/teleworking). That's why we decided to have an all-company meeting in person every 6 months. We've just been to one earlier this month. I'll write about it later, but suffice to say, it's great to be able to meet in person everyone you're working with every single day and spend some quality time with them. It helps of course, that we do have an amazing team :-)
 
 This is one of the moments we can build stronger relationships with each other and these help us communicate through tasks better throughout the year:
 
@@ -59,7 +59,7 @@ As somebody once said:
 
 **7. Keep improving communication**
 
-If you do adhere to the rules [I wrote about in my last post](https://sliwinski.com/communication), you'll build stronger interpersonal relations, too. People appreciate when someone takes good care of the way they communicate together. And you should especially try to improve it with people you work closest with. With my assistant we constantly review the way we communicate and do things, to make sure we're the most effective and we help each other the most.
+If you do adhere to the rules [I wrote about in my last post](/communication), you'll build stronger interpersonal relations, too. People appreciate when someone takes good care of the way they communicate together. And you should especially try to improve it with people you work closest with. With my assistant we constantly review the way we communicate and do things, to make sure we're the most effective and we help each other the most.
 
 *Question: What do you do to improve interpersonal relations with folks in your team?*
 

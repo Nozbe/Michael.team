@@ -6,7 +6,7 @@ img: "part-5-traveling-ipad-as-my-main-computer.jpg"
 # Part 5 - Traveling - iPad as my main computer
 
 
-On Monday we landed in Los Angeles for our two-week vacation with my wife visiting West-Coast, Grand Canyon and other spectacular sites nearby. It's the first trip ever that I didn't take my laptop with me. Normally even though I wouldn't work too much (as I really want to spend this time with my wife), but as my laptop is (was) the center of my digital life (and I am a geek), I'd take it anyway. Now that I'm on my [iPad only trial](http://michaelnozbe.com/ipad-as-my-main-computer-prologue) I just took my iPad. And nothing more. And I even planned the whole trip on the iPad. Here's how:  
+On Monday we landed in Los Angeles for our two-week vacation with my wife visiting West-Coast, Grand Canyon and other spectacular sites nearby. It's the first trip ever that I didn't take my laptop with me. Normally even though I wouldn't work too much (as I really want to spend this time with my wife), but as my laptop is (was) the center of my digital life (and I am a geek), I'd take it anyway. Now that I'm on my [iPad only trial](/ipad-as-my-main-computer-prologue) I just took my iPad. And nothing more. And I even planned the whole trip on the iPad. Here's how:  
 
 
 <!--More-->
@@ -22,7 +22,7 @@ First let me tell you that iPad as such is ideal for traveling. Weights a lot le
 
 Traveling with an iPad? There are apps for that! Here are the ones I used:
 
-  * **TripIt!** - thanks to the suggestion by David Pogue of the NYT, this is the "mother of all travel apps". When I ordered our plane ticket, rented car, hotel... whatever, I'd always receive a confirmation email. Forward it to TripIt and it beautifully parses the emails and adds them to the app. Perfect. [In my last post](http://michaelnozbe.com/part-4-email-clouds-and-apis-ipad-as-my-main) I mentioned why I love how the apps work with email.
+  * **TripIt!** - thanks to the suggestion by David Pogue of the NYT, this is the "mother of all travel apps". When I ordered our plane ticket, rented car, hotel... whatever, I'd always receive a confirmation email. Forward it to TripIt and it beautifully parses the emails and adds them to the app. Perfect. [In my last post](/part-4-email-clouds-and-apis-ipad-as-my-main) I mentioned why I love how the apps work with email.
 
   * **Booking** - I've been always using [Booking.com](http://Booking.com) for booking hotels and the iPad app works beautifully, too. I stopped using the web site, only use the app now.
 

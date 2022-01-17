@@ -22,7 +22,7 @@ My high expectations were met. Of course there were better and a little "less go
 
 ## Passion is infectious
 
-It really is. My [GTD notetaker wallet](http://michaelnozbe.com/gtd-notetaker-wallet-why-pen-and-paper-is-sti) was full of notes after the whole day. The passion coming from speakers resulted in my brain working overtime... I could relate what they were saying to my work, my ideas, my industry... I had new ideas attacking me from all over the place... It was exhausting... and inspiring. And I learned a lot about stuff I normally knew nothing about.
+It really is. My [GTD notetaker wallet](/gtd-notetaker-wallet-why-pen-and-paper-is-sti) was full of notes after the whole day. The passion coming from speakers resulted in my brain working overtime... I could relate what they were saying to my work, my ideas, my industry... I had new ideas attacking me from all over the place... It was exhausting... and inspiring. And I learned a lot about stuff I normally knew nothing about.
 
 ## Can't wait for next TEDx event
 

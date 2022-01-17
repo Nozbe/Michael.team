@@ -5,7 +5,7 @@ img: "power-of-e-readers-and-audiobooks-productivit.jpg"
 
 # Power of e-readers and audiobooks - productivity for the impatient
 
-The [Productive Magazine](http://productivemagazine.com) is almost ready, we'll be compiling it this week, and we'll be working on an iPhone friendly version too. When talking about the magazine, [someone asked me](http://michaelnozbe.com/getting-the-productive-magazine-ready-finally) about my take on Productivity and e-readers (kindle, ebooks, audio) and my usage of those. Here goes:
+The [Productive Magazine](/magazine/) is almost ready, we'll be compiling it this week, and we'll be working on an iPhone friendly version too. When talking about the magazine, [someone asked me](/getting-the-productive-magazine-ready-finally) about my take on Productivity and e-readers (kindle, ebooks, audio) and my usage of those. Here goes:
 
 <!--More-->
 
@@ -29,9 +29,9 @@ I'm an impatient person and when I'm on the move, in the car, I still try to be 
 
 When I drive, I get a lot stuff done, while I have my iPhone plugged into car audio system:
 
-- I [call people in my @Phone](http://www.productiveshow.com/2008/09/i-phone-people-in-my-car/) context in Nozbe
+- I [call people in my @Phone](/i-phone-people-in-my-car/) context in Nozbe
 
-- I listen to [podcasts](http://michaelnozbe.com/re-discovering-productivity-boosting-podcasti)
+- I listen to [podcasts](/re-discovering-productivity-boosting-podcasti)
 
 - I listen to audiobooks
 
@@ -45,7 +45,7 @@ Another thing is the fact that it's all in one device - my iPhone - my phone - s
 
 ## Considering audio content even more
 
-Since I'm going to gym more often now, travel a lot more by car and by subway, the audio content becomes my main way of consuming content now. That's why [I recently blogged about it](http://michaelnozbe.com/re-discovering-productivity-boosting-podcasti) and that's why [Productive Show](http://www.productiveshow.com/) is now available in a form of a [video podcast](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=352259932).
+Since I'm going to gym more often now, travel a lot more by car and by subway, the audio content becomes my main way of consuming content now. That's why [I recently blogged about it](/re-discovering-productivity-boosting-podcasti) and that's why [Productive Show](/show/) is now available in a form of a [video podcast](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=352259932).
 
 Currently I have an extensive list of books I want to purchase from Amazon... and I may choose the audio route instead and by them from Audible. Still struggling but the audio content makes it more probable that I'll eventually consume these books...
 

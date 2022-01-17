@@ -19,7 +19,7 @@ That's correct. I'm not. I realized it even more yestreday when I took a 50km bi
 
 ## To really be in an "Ironman" shape one needs lots of training!
 
-What I like about my triathlon training is that it's very casual. I swim in a pool once or twice a week. I run on a beautiful beach nearby. I ride the bike in the mountains around my town. I sometimes run 10km, sometimes 5 or 15... depending on how I feel. I ride for 1 hour, sometimes 2... or sometimes I go with my buddies on a longer 3-4 hour bike ride. And in between I play [tennis](https://sliwinski.com/tennis). I try to do one sport a day. Usually only on weekdays because I want to leave weekends for family time. There's no real structure here, no "training plan", I'm just in a good shape and I'm enjoying it!
+What I like about my triathlon training is that it's very casual. I swim in a pool once or twice a week. I run on a beautiful beach nearby. I ride the bike in the mountains around my town. I sometimes run 10km, sometimes 5 or 15... depending on how I feel. I ride for 1 hour, sometimes 2... or sometimes I go with my buddies on a longer 3-4 hour bike ride. And in between I play [tennis](/tennis). I try to do one sport a day. Usually only on weekdays because I want to leave weekends for family time. There's no real structure here, no "training plan", I'm just in a good shape and I'm enjoying it!
 
 This is not an "Ironman" attitude.
 
@@ -27,7 +27,7 @@ For an Ironman I'd need a training plan. I'd need to do 2 sports in one day very
 
 ## Do I really want to be an "Ironman"?
 
-If it takes so much more dedication to become one, I honestly don't want it! I like my casual training sessions and doing a sport I feel like doing every day. If I feel like running, I run, if I want to cycle, I do just that... and the same goes with swimming! And I like my shorter [Olympic-distance triathlons](https://sliwinski.com/triathlon-list/) which last below 3 hours for me and while still challenging, they're so much more fun! Also ["drafting"](https://en.m.wikipedia.org/wiki/Drafting_(aerodynamics)) is allowed which makes it more of a group sport at times!
+If it takes so much more dedication to become one, I honestly don't want it! I like my casual training sessions and doing a sport I feel like doing every day. If I feel like running, I run, if I want to cycle, I do just that... and the same goes with swimming! And I like my shorter [Olympic-distance triathlons](/triathlon-list/) which last below 3 hours for me and while still challenging, they're so much more fun! Also ["drafting"](https://en.m.wikipedia.org/wiki/Drafting_(aerodynamics)) is allowed which makes it more of a group sport at times!
 
 That's why I just signed up for an Olympic distance triathlon (1.5km swim, 40km bike and 10km run) at the end of September with one of my friends and I'm going to enjoy it a lot!
 

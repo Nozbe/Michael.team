@@ -45,7 +45,7 @@ I was excited and started enjoying and using my new machine intensively. And the
 
 Fortunately, I'm a geek and I know how to read the message boards. I managed to find a solution. A little 10-dollar app called CoolBook and a script to lower the fan's speed... and suddenly my Air rocked. Finally!
 
-I was so happy with my Air that [I wrote a blog post about how it's superior to other laptops on the market there...](https://sliwinski.com/macbook-air-rocks-5-things-pc-notebook-manufa)
+I was so happy with my Air that [I wrote a blog post about how it's superior to other laptops on the market there...](/macbook-air-rocks-5-things-pc-notebook-manufa)
 
 ## Then we had our honey moon... and honey years...
 

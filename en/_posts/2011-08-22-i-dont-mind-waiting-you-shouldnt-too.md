@@ -14,7 +14,7 @@ With everything we need to get done, we are becoming increasingly impatient. We 
 
 ## Impatience causes lateness
 
-In [my past blog post about the problem with being on time for meetings](http://michaelnozbe.com/the-art-of-being-on-time) I highlighted the need to shoot for being 15 minutes before the scheduled appointment. But how can I tell you to be a quarter of an hour before something when you could get so much done in 15 minutes and with your increasing pace you need all the minutes you can get!
+In [my past blog post about the problem with being on time for meetings](/the-art-of-being-on-time) I highlighted the need to shoot for being 15 minutes before the scheduled appointment. But how can I tell you to be a quarter of an hour before something when you could get so much done in 15 minutes and with your increasing pace you need all the minutes you can get!
 
 ## The epiphany: your smartphone is your friend.
 

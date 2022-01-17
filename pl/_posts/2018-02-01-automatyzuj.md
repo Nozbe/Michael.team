@@ -51,7 +51,7 @@ Są pewne nawyki, które z mieszanym skutkiem próbowałem sobie wyrobić w cią
 
 Aby ułatwić sobie życie, skupiłem się na redukcji „barier wejścia” dzięki aplikacjom na iOS i Mac, oraz wykorzystaniem automatyzacji zadań za pomocą Workflow na iOS lub Automator na Mac.
 
-Poniżej przedstawiam listę z przykładami, która mam nadzieję zainspiruje do stworzenia swoich własnych nawyków na nowy rok. Wszystkie te sposoby przetestowałem na sobie z bardzo dobrym rezultatem, a „workflowy” i szablony wykorzystywane w tym artykule dostępne są do [pobrania  z mojej strony](https://sliwinski.com/workflows)
+Poniżej przedstawiam listę z przykładami, która mam nadzieję zainspiruje do stworzenia swoich własnych nawyków na nowy rok. Wszystkie te sposoby przetestowałem na sobie z bardzo dobrym rezultatem, a „workflowy” i szablony wykorzystywane w tym artykule dostępne są do [pobrania  z mojej strony](/workflows)
 
 ### Pamiętniczek rano i wieczorem z Workflow i Ulysses
 

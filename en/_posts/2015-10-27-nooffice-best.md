@@ -5,7 +5,7 @@ cover: "nooffice-best.jpg"
 
 # It’s official: working from home is the best
 
-In Nozbe we’re a small team of 24 people in the core team and 10+ cooperating people and companies. Altogether a bunch of more than 30 people. And we all work from home. Yet many “management gurus” still find it hard to embrace this kind of working arrangement and that’s why articles with titles like this one are being written every now and then: [it’s official, working from home is the worst](http://fusion.net/story/212971/working-from-home-telecommuting-sucks/). At first I totally dismissed that article but then I found it quite inspiring as it represents most of the urban legends about working from home so in this post I’d like to go through that very article and give arguments for future discussion about working remotely. [Something Silicon Valley still has to embrace.](https://sliwinski.com/sv-remote) Here are a few typical remote working myths I found in the above mentioned article:
+In Nozbe we’re a small team of 24 people in the core team and 10+ cooperating people and companies. Altogether a bunch of more than 30 people. And we all work from home. Yet many “management gurus” still find it hard to embrace this kind of working arrangement and that’s why articles with titles like this one are being written every now and then: [it’s official, working from home is the worst](http://fusion.net/story/212971/working-from-home-telecommuting-sucks/). At first I totally dismissed that article but then I found it quite inspiring as it represents most of the urban legends about working from home so in this post I’d like to go through that very article and give arguments for future discussion about working remotely. [Something Silicon Valley still has to embrace.](/sv-remote) Here are a few typical remote working myths I found in the above mentioned article:
 
 <!--More-->
 
@@ -30,7 +30,7 @@ And by the way, there are many different ways of collaborating than just talking
 
 ## Myth 4: despite the panoply of tools that facilitate remote work, communicating digitally will always be less efficient than talking face-to-face.
 
-Seriously? Talking is more efficient for tracking a complex project? For getting all the feedback from all the stakeholders, for following up and making sure things don’t fall through the cracks? Talking is the least effective, right next to email or post-it notes. Actually people in the offices should be using these collaboration tools and stop relying on their “talking time” to get things done. [Go read “Checklist manifesto”](https://sliwinski.com/checklist-manifesto/) if you don’t believe me.
+Seriously? Talking is more efficient for tracking a complex project? For getting all the feedback from all the stakeholders, for following up and making sure things don’t fall through the cracks? Talking is the least effective, right next to email or post-it notes. Actually people in the offices should be using these collaboration tools and stop relying on their “talking time” to get things done. [Go read “Checklist manifesto”](/checklist-manifesto/) if you don’t believe me.
 
 ## Myth 5: quick feedback, or: “If I want to ask my editor about an edit while working from home, I have to write an email or message him, wait for him to see it and respond, and then respond again if I have any questions. If we’re right across the office, I can swivel my chair over and talk about it right away.”
 
@@ -42,7 +42,7 @@ Yes, those famous inspiring “corridor” chats. Rather than let random chats i
 
 ## Myth 7: It makes sense that some of the biggest tech companies in Silicon Valley, including Google, Facebook and Apple, have discouraged working from home…
 
-[I’ve posted about it a week ago.](https://sliwinski.com/sv-remote) But let’s repeat here: it makes no sense at all. Have you seen their offices? [Their open spaces where it’s hard to get anything done?](/podcast-5) It makes sense for them as much as it makes sense for the banks to build headquarters in the centers of big cities. Just because they do it doesn’t mean it’s right. The SV companies have the resources to do it and they hire lots of developers. If any company had so many engineers, they’d also eventually come up with something useful. But our small team does so much with just that, a small, effectively-working remote team.
+[I’ve posted about it a week ago.](/sv-remote) But let’s repeat here: it makes no sense at all. Have you seen their offices? [Their open spaces where it’s hard to get anything done?](/podcast-5) It makes sense for them as much as it makes sense for the banks to build headquarters in the centers of big cities. Just because they do it doesn’t mean it’s right. The SV companies have the resources to do it and they hire lots of developers. If any company had so many engineers, they’d also eventually come up with something useful. But our small team does so much with just that, a small, effectively-working remote team.
 
 ## Myth 8: When you have a really tight-knit group of co-workers, those people tend to be a lot happier.
 
@@ -56,7 +56,7 @@ Our team is tight. We love spending time with each other. At least twice a year.
 
 This makes no sense at all.
 
-[I do exercise more because I work from home.](https://sliwinski.com/fitness2014/) I can get out and go for a run at 2 pm when I see my energy level has dropped dramatically. When do people who commute find time to exercise? Can they take a break in the middle of a work day? Or do they exercise after a long day in the office when they finally arrived at home with their loved ones? Or do you count commuting by sitting in a car in a traffic jam as “exercise”?
+[I do exercise more because I work from home.](/fitness2014/) I can get out and go for a run at 2 pm when I see my energy level has dropped dramatically. When do people who commute find time to exercise? Can they take a break in the middle of a work day? Or do they exercise after a long day in the office when they finally arrived at home with their loved ones? Or do you count commuting by sitting in a car in a traffic jam as “exercise”?
 
 ## Myth 10: while we will have earned some cost savings for our companies, we will have lost an essential part of work: the sense of belonging.
 

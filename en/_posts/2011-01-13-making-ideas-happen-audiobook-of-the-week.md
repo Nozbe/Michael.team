@@ -5,7 +5,7 @@ img: "making-ideas-happen-audiobook-of-the-week.jpg"
 
 # Making Ideas Happen - Audiobook of the week
 
-My first post this year in my [weekly book series](/tag/books) is perfect for the New Year - it's about making ideas happen.
+My first post this year in my [weekly book series](/books) is perfect for the New Year - it's about making ideas happen.
 
 <!--More-->
 

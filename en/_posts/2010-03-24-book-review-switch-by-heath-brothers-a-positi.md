@@ -6,7 +6,7 @@ img: "book-review-switch-by-heath-brothers-a-positi.jpg"
 # Book review: SWITCH by Heath brothers - a positive way to change
 
 
-If you've been following my [Twitter stream](http://twitter.com/MichaelNozbe) and my blog lately, you may have realized I'm on an audiobook frenzy right now... and last week I "read" two books this way, [Rework by 37signals](http://michaelnozbe.com/review-of-37signals-cookbook-called-rework-ge) founders and now the Switch by Chip and Dan Heath:
+If you've been following my [Twitter stream](http://twitter.com/MichaelNozbe) and my blog lately, you may have realized I'm on an audiobook frenzy right now... and last week I "read" two books this way, [Rework by 37signals](/review-of-37signals-cookbook-called-rework-ge) founders and now the Switch by Chip and Dan Heath:
 
 <!--More-->
 

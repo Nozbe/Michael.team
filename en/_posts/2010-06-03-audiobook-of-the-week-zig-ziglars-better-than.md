@@ -6,7 +6,7 @@ img: "audiobook-of-the-week-zig-ziglars-better-than.jpg"
 # Audiobook of the week: Zig Ziglar's Better than Good
 
 
-As you know, [I don't read books, I listen to them](http://michaelnozbe.com/power-of-e-readers-and-audiobooks-productivit), or better yet, [people read them to me](http://michaelnozbe.com/reading-audiobooks-while-doing-sports-product) :-) Thanks to this I'm now listening to at least one book per week, when I used to read one book per year... Recently [I also listen to podcasts](http://michaelnozbe.com/re-discovering-productivity-boosting-podcasti) and one of my readers suggested I listened to [Zig Ziglar's Inspire podcast](http://zigziglar.libsyn.com/) and it's great. I never knew Zig before. After listening to his podcast for two months, I really got to like Zig and bought his book: ["Better Than Good"](http://www.audible.com/adbl/site/products/ProductDetail.jsp?productID=BK_OASI_000223&BV_UseBVCookie=Yes):
+As you know, [I don't read books, I listen to them](/power-of-e-readers-and-audiobooks-productivit), or better yet, [people read them to me](/reading-audiobooks-while-doing-sports-product) :-) Thanks to this I'm now listening to at least one book per week, when I used to read one book per year... Recently [I also listen to podcasts](/re-discovering-productivity-boosting-podcasti) and one of my readers suggested I listened to [Zig Ziglar's Inspire podcast](http://zigziglar.libsyn.com/) and it's great. I never knew Zig before. After listening to his podcast for two months, I really got to like Zig and bought his book: ["Better Than Good"](http://www.audible.com/adbl/site/products/ProductDetail.jsp?productID=BK_OASI_000223&BV_UseBVCookie=Yes):
 
 <!--More-->
 
@@ -24,7 +24,7 @@ Zig says, to have a "better than good" life you need to follow three Ps:
 
 - **Purpose** - you need to find your purpose. I'm a Christian so I can relate to Zig's words of trusting God and following and loving Jesus Christ and I also believe that my purpose on this planet is to serve my lord and be better than good to others.
 
-- **Peak Performance** - only if you have passion and know your purpose, you can achieve peak performance - you can be better than good at what you do. I know I found my calling in [productivity](http://www.MichaelNozbe.com/tag/productivity) and [online tools](http://www.nozbe.com/) and [other materials](http://ProductiveShow.com) (including [a magazine](http://ProductiveMagazine.com/)) that help others be more productive and I'm trying to make those "better than good".
+- **Peak Performance** - only if you have passion and know your purpose, you can achieve peak performance - you can be better than good at what you do. I know I found my calling in [productivity](/productivity) and [online tools][n] and [other materials](/show/) (including [a magazine](/magazine//)) that help others be more productive and I'm trying to make those "better than good".
 
 ## Zig walks his talk at 79 and "he's just getting started"
 

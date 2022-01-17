@@ -45,8 +45,8 @@ If you want to achieve your goals, get your habits in order. It's not a coincide
 
 [a]: http://www.audible.com/pd?asin=B007C64916
 [z]: http://zenhabits.net/
-[e]: http://www.michaelsliwinski.com/fitness-for-busy-professionals-productive-show-36/
-[p]: /tag/productivity
+[e]: /fitness-for-busy-professionals-productive-show-36/
+[p]: /productivity
 [i]: http://Instagr.am/p/UgAdodJ_WI/
 
 

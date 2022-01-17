@@ -5,7 +5,7 @@ img: "essentialist.jpg"
 
 # Highlights from Greg McKeown’s book Essentialism - the disciplined pursuit of less... but better - how to become an essentialist?
 
-I’ve first written about this book [over two years ago](https://sliwinski.com/essentialism) as I’ve [listened to it twice since then][au] and now I’ve [read it in a physical form][am] at the beginning of this year just after [I’ve interviewed the author](https://sliwinski.com/greg-mckeown) for [last issue of the Productive! Magazine](https://sliwinski.com/productivemag). I’ve highlighted many parts of the book and decided to write them down and share them with you all. Hope you’ll add your favorite bits and pieces in the comments - and if you haven’t read the book yet, get it from [Audible][au] or [Amazon][am] or anyplace else. Enjoy my essential highlights:
+I’ve first written about this book [over two years ago](/essentialism) as I’ve [listened to it twice since then][au] and now I’ve [read it in a physical form][am] at the beginning of this year just after [I’ve interviewed the author](/greg-mckeown) for [last issue of the Productive! Magazine](/productivemag). I’ve highlighted many parts of the book and decided to write them down and share them with you all. Hope you’ll add your favorite bits and pieces in the comments - and if you haven’t read the book yet, get it from [Audible][au] or [Amazon][am] or anyplace else. Enjoy my essential highlights:
 
 <!--More-->
 
@@ -31,7 +31,7 @@ Here’s more:
 
 ## Essentialism is a disciplined pursuit like deliberate practice from the book “Peak”
 
-I’ve reviewed the book [“Peak” by Anders Ericsson](https://sliwinski.com/peak) on my blog before and [on the podcast](/podcast-80) and the concept of deliberate practice is very similar to the disciplined pursuit of becoming an essentialist - you have to practice consciously, create habits that support this and really enjoy the journey and not just think of the destination.
+I’ve reviewed the book [“Peak” by Anders Ericsson](/peak) on my blog before and [on the podcast](/podcast-80) and the concept of deliberate practice is very similar to the disciplined pursuit of becoming an essentialist - you have to practice consciously, create habits that support this and really enjoy the journey and not just think of the destination.
 
 > We have to create a system for removing obstacles and making execution as easy as possible.
 
@@ -113,7 +113,7 @@ I still think I should be spending more time playing with my kids... and I’m n
 
 ## Sleep to protect the asset
 
-When I read the book ["Sleep Smarter" by Shawn Stevenson](https://sliwinski.com/sleep) I understood it even better:
+When I read the book ["Sleep Smarter" by Shawn Stevenson](/sleep) I understood it even better:
 
 > A good night's sleep actually makes us more productive not less.
 
@@ -155,7 +155,7 @@ Because if we don’t say it clear - people will take it one way or the other...
 
 ## Joy - no joy - how to uncommit...
 
-Just like in [Marie Kondo’s guide to decluttering](https://sliwinski.com/kondo) we should learn to uncommit from things and possessions by practicing our decision-making muscles. I like her approach to choosing clothes to keep: *"does it bring me joy?"* - which helps us fight our internal urge to keep everything we’ve got.
+Just like in [Marie Kondo’s guide to decluttering](/kondo) we should learn to uncommit from things and possessions by practicing our decision-making muscles. I like her approach to choosing clothes to keep: *"does it bring me joy?"* - which helps us fight our internal urge to keep everything we’ve got.
 
 > We have a bias when it comes to non-essential activities as well as belongings. When we feel we own an activity it becomes harder to uncommit. Only when we admit we have made a mistake in committing to something, can we make a mistake a part of our past.
 
@@ -277,7 +277,7 @@ This is not easy, but it’s focused:
 
 ## Work on your "essential skills"
 
-Again, just like in the book [Peak](https://sliwinski.com/peak), it’s not always about reaching goals but about developing skills that make you a better version of you:
+Again, just like in the book [Peak](/peak), it’s not always about reaching goals but about developing skills that make you a better version of you:
 
 > Learning essential new skill is never easy but once we master them and make them automatic, we have won an enormous victory because the skill remains with us for the rest of our lives.
 
@@ -308,8 +308,8 @@ I’ve written these notes and highlights for myself - hope they’ll serve you,
 Further reading:
 
 * Get "Essentialism - the disciplined pursuit of less but better" by Greg McKeown on [Audible][au] or [Amazon][am]
-* Read my previous [short review of this book](https://sliwinski.com/essentialism)
-* Watch my [interview with Greg McKeown](https://sliwinski.com/greg-mckeown)
+* Read my previous [short review of this book](/essentialism)
+* Watch my [interview with Greg McKeown](/greg-mckeown)
 * Or [read the interview in the last issue of the Productive! Magazine](http://productivemag.com/34/interview-with-greg-mckeown)
 
 
@@ -334,4 +334,4 @@ Further reading:
 [au]: https://www.audible.com/pd/B00IWZ6XGA?tag=sliwinski-20
 [am]: https://www.amazon.com/dp/0804137382?tag=sliwinski-20
 
-Looking for more books to read? **[Check out complete and updated list of books I recommend](https://sliwinski.com/reading/)**
+Looking for more books to read? **[Check out complete and updated list of books I recommend](/reading/)**

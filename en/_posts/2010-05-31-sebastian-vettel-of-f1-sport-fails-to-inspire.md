@@ -38,7 +38,7 @@ Sport is supposed to inspire people. Is supposed to show we can be great athlete
 
 Is this an example we should be showing to our children? Winning no matter what?
 
-Great we still have examples like [Adam Malysz](http://michaelnozbe.com/adam-malysz-my-perfect-humble-and-inspiring-r), sportsmen with true integrity and spirit.
+Great we still have examples like [Adam Malysz](/adam-malysz-my-perfect-humble-and-inspiring-r), sportsmen with true integrity and spirit.
 
 Shame on you Mr Vettel - hope young German drivers will still learn fair play from bad examples like yourself.
 

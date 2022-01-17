@@ -6,7 +6,7 @@ img: "lucky-number-7-for-magazine-and-nozbe.jpg"
 # Lucky number 7 for Magazine and Nozbe
 
 
-Today is a great day for me personally and marks several milestones in my career. And this day has lots of "seven" in it. It's February 17 and we've just launched [issue #7 of Productive Magazine](/magazine/) and [Nozbe now officially supports 7 languages](http://www.nozbe.com/)... read on:
+Today is a great day for me personally and marks several milestones in my career. And this day has lots of "seven" in it. It's February 17 and we've just launched [issue #7 of Productive Magazine](/magazine/) and [Nozbe now officially supports 7 languages][n]... read on:
 
 <!--More-->
 

@@ -29,16 +29,16 @@ This is my Weekly Review in nutshell. In the template I give more details and a 
 
 ***Question:*** *When do you do your weekly review? How often?*
 
-Bonus tip: some people do weekly reviews on Mondays, others on Fridays and some on the weekends. I used to be a Monday kind of guy but [after we've introduced a TGIF policy](https://sliwinski.com/tgif), I've switched to Fridays. Today is Friday and as I'm writing this I'm in the middle of my weekly review :-)
+Bonus tip: some people do weekly reviews on Mondays, others on Fridays and some on the weekends. I used to be a Monday kind of guy but [after we've introduced a TGIF policy](/tgif), I've switched to Fridays. Today is Friday and as I'm writing this I'm in the middle of my weekly review :-)
 
 *[Powered by Nozbe.how][how]*
 
-[da]: https://sliwinski.com/david-allen-on-getting-things-done-in-2011-in/
-[wr]: https://sliwinski.com/getting-weekly-review-done-after-2-months
-[wrs]: https://sliwinski.com/show-starbucks/
-[wra]: https://sliwinski.com/ama-weekly-review
-[wrap]: https://sliwinski.com/prodchat-weekly-review
-[wrm]: https://sliwinski.com/mindmapping-for-weekly-review-and-brainstormi/
+[da]: /david-allen-on-getting-things-done-in-2011-in/
+[wr]: /getting-weekly-review-done-after-2-months
+[wrs]: /show-starbucks/
+[wra]: /ama-weekly-review
+[wrap]: /prodchat-weekly-review
+[wrm]: /mindmapping-for-weekly-review-and-brainstormi/
 [wrp]: https://help.nozbe.com/bonus/lesson-8/
 [wr1]: http://nozbe.com/p/1g19
 [wr2]: https://nozbe.how/aak4E

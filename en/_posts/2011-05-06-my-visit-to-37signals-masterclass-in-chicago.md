@@ -6,7 +6,7 @@ img: "my-visit-to-37signals-masterclass-in-chicago.jpg"
 # My visit to 37signals Masterclass in Chicago
 
 
-Earlier this week I posted my [video interview with Jason Fried](http://www.productivefirm.com/2011/05/jason-fried-of-37signals-interviewed-for-productive-magazine-8/), founder of [37signals](http://www.37signals.com). It generated lots of interest and people kept asking me "how it was to meet Jason and the rest of 37signals crew" so I decided to write this. 37signals have inspired me to start my own web app Nozbe, they run a [very popular blog](http://www.37signals.com/svn/) and have some really cool business web apps. Let's start from the beginning:
+Earlier this week I posted my [video interview with Jason Fried](/jason-fried-of-37signals-interviewed-for-productive-magazine-8/), founder of [37signals](http://www.37signals.com). It generated lots of interest and people kept asking me "how it was to meet Jason and the rest of 37signals crew" so I decided to write this. 37signals have inspired me to start my own web app Nozbe, they run a [very popular blog](http://www.37signals.com/svn/) and have some really cool business web apps. Let's start from the beginning:
 
 <!--More-->
 
@@ -48,11 +48,11 @@ When Masterclass ended we were given copies of Rework and guys gladly signed the
 
 After the Masterclass I had another great chat with David and Ryan and asked Jason when I can come to do an interview with him for the Productive Magazine (he already agreed in our email exchange before) - it was Friday and the guys were exhausted after the Masterclass so we decided to meet on Tuesday.
 
-On Tuesday [I met with Jason and we did the interview and enjoyed it immensely](http://www.productivefirm.com/2011/05/jason-fried-of-37signals-interviewed-for-productive-magazine-8/) (I think you can tell from the video), later I had a great chat with my Javascript guru - Sam Stephenson and thanked him personally for "teaching me Javascript" through his Prototype.js framework. And as my last bonus I managed to convince Ryan to help me with some UX decision in my new startup idea. As it turned out I had one of the best web-app consulting/mentoring sessions in my life. Thanks Ryan!
+On Tuesday [I met with Jason and we did the interview and enjoyed it immensely](/jason-fried-of-37signals-interviewed-for-productive-magazine-8/) (I think you can tell from the video), later I had a great chat with my Javascript guru - Sam Stephenson and thanked him personally for "teaching me Javascript" through his Prototype.js framework. And as my last bonus I managed to convince Ryan to help me with some UX decision in my new startup idea. As it turned out I had one of the best web-app consulting/mentoring sessions in my life. Thanks Ryan!
 
 ## I left Chicago empowered and inspired beyond belief
 
-Don't get me wrong - it wasn't cheap to travel to Chicago, pay for the Masterclass fee and hotel (and [my new Macbook Air](http://michaelnozbe.com/finally-macbook-air-done-right-the-2010-model) - ok, this one wasn't mandatory :-) but it was so worth it. A lot more than any tech conference (which don't come cheap these days). I learned a lot from 37signals guys and when they do offer another Masterclass this year and you're in the startup game, don't even blink and secure your seat. Reading about 37signals on their blog doesn't compare to actually being with them and following their thought process. It is a real deal and is worth a lot more than their asking price :-)
+Don't get me wrong - it wasn't cheap to travel to Chicago, pay for the Masterclass fee and hotel (and [my new Macbook Air](/finally-macbook-air-done-right-the-2010-model) - ok, this one wasn't mandatory :-) but it was so worth it. A lot more than any tech conference (which don't come cheap these days). I learned a lot from 37signals guys and when they do offer another Masterclass this year and you're in the startup game, don't even blink and secure your seat. Reading about 37signals on their blog doesn't compare to actually being with them and following their thought process. It is a real deal and is worth a lot more than their asking price :-)
 
 Again, I'd like to thank Jason, David, Ryan, Sam and the rest of 37signals crew for this opportunity.
 

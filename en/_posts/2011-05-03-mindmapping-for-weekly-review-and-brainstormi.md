@@ -6,7 +6,7 @@ img: "mindmapping-for-weekly-review-and-brainstormi.jpg"
 # Mindmapping for Weekly Review and brainstorming
 
 
-A few months ago I posted my [GTD (Getting Things Done) Weekly Review](http://michaelnozbe.com/getting-weekly-review-done-after-2-months) routine and recently I even posted it as a [#publicNozbe project](http://nozbe.com/p/1g19) for you to enjoy and use every week. Got some really nice feedback from my readers and Twitter followers with a recurring question: how do I use Mindmaps in my weekly review? Well, here's how...
+A few months ago I posted my [GTD (Getting Things Done) Weekly Review](/getting-weekly-review-done-after-2-months) routine and recently I even posted it as a [#publicNozbe project](http://nozbe.com/p/1g19) for you to enjoy and use every week. Got some really nice feedback from my readers and Twitter followers with a recurring question: how do I use Mindmaps in my weekly review? Well, here's how...
 
 <!--More-->
 
@@ -30,7 +30,7 @@ I have identified several roles for me (inspired by Anthony Robbins' Rapid Plann
 
 ## Mindmapping gives me a big picture
 
-Every week when I do [my weekly review](http://michaelnozbe.com/getting-weekly-review-done-after-2-months), I go through my roles to see how my goals around these roles are aligned. If I'm going forward, backwards or if I'm standing still. It gives me time to reflect on my projects and actions in [Nozbe][n] and if they are going in the right direction. I do this before I go to Nozbe and review my projects and actions.
+Every week when I do [my weekly review](/getting-weekly-review-done-after-2-months), I go through my roles to see how my goals around these roles are aligned. If I'm going forward, backwards or if I'm standing still. It gives me time to reflect on my projects and actions in [Nozbe][n] and if they are going in the right direction. I do this before I go to Nozbe and review my projects and actions.
 
 Mind maps are so cool because I can collapse/expand certain areas of a map (roles, goals) and see the bigger or smaller picture. It's great and helps me have a clear view and kick in the 10k-50k level thinking - it just gives me perspective - that's why it's so important in my life to use a mindmap.
 

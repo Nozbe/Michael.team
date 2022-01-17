@@ -17,13 +17,13 @@ This new free video series will be divided into three parts:
 
 **Part 2 - Projects and Categories** because only after we've learned how to clear our minds we can really learn to organize things into projects and categories. This is where we take productivity to a whole new level. 
 
-**Part 3 - Collaboration** plus additional tips and tricks. This time we'll look at [how I work with my assistant](https://sliwinski.com/assistant). How we share projects, work on deadlines, get things done together. 
+**Part 3 - Collaboration** plus additional tips and tricks. This time we'll look at [how I work with my assistant](/assistant). How we share projects, work on deadlines, get things done together. 
 
 There it is. My new free video course is launching soon so stay tuned if you want to learn how to **create Your Perfect Digital Productivity System**. [Follow me on Twitter][t] and I'll let you know when it launches. 
 
 ***Question:*** *how did you start with your digital productivity system?*
 
-*[Sent from my iPhone 6 Plus](https://sliwinski.com/6pluslove)*
+*[Sent from my iPhone 6 Plus](/6pluslove)*
 
 [c]: https://nozbe.com/course
 [i]: http://iMagazine.pl

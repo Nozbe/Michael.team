@@ -37,7 +37,7 @@ That's the thing. We agree to things we shouldn't agree to, because something is
 
 > Every event you get invited to. Every request to start a new project. If you're not saying “HELL YEAH!” about it, say “no.”
 
-## Derek's book is kinda similar to my book: [It's All About Passion!](https://sliwinski.com/passion)
+## Derek's book is kinda similar to my book: [It's All About Passion!](/passion)
 
 But he's been through more than I have so you should totally check his book fist. It's a great read and an amazing source of inspiration. Just the final quote I want to leave you with:
 

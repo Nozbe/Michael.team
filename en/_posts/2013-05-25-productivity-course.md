@@ -58,18 +58,18 @@ We're preparing a special "Introduction to Nozbe" video screencast showing you t
 ***Question:** How did you like the course? Did you enjoy it? What is missing? What can be enhanced? What would you like to learn more about?*
 
 [yt]: http://www.youtube.com/watch?v=SrgV1X9q3ys
-[p1]: http://www.michaelsliwinski.com/10-steps-to-ultimate-productivity-course-to-b/
-[p2]: http://www.michaelsliwinski.com/recorded-course/
-[p3]: http://www.michaelsliwinski.com/scary-resistance/
+[p1]: /10-steps-to-ultimate-productivity-course-to-b/
+[p2]: /recorded-course/
+[p3]: /scary-resistance/
 [n]: http://www.nozbe.com/
 [ns]: http://www.nozbe.com/signup/
 [nc]: http://www.nozbe.com/course
 [ncold]: http://www.youtube.com/playlist?list=PL0B8C402DFE7BA70E
-[p]: http://www.productivemagazine.com/
-[s]: http://www.michaelsliwinski.com/productive_show
+[p]: /magazine/
+[s]: /productive_show
 [t]: http://twitter.com/MSliwinski
-[i]: http://www.michaelsliwinski.com/tag/ipadonly
-[e]: http://www.michaelsliwinski.com/how-i-use-evernote
+[i]: /ipadonly
+[e]: /how-i-use-evernote
 [d]: http://db.tt/kD7Liux
 
 [n]: https://michael.gratis/nozbe

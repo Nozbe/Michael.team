@@ -6,7 +6,7 @@ img: "simple-camcoders-help-me-simply-record-stuff.jpg"
 # Simple camcoders help me simply record stuff. In HD, too.
 
 
-Today I was recording a new episode of my [Productive! Show video podcast](http://ProductiveShow.com) where I was talking about the contents of the new 4th issue of the [Productive! Magazine](http://ProductiveMagazine.com) and it struck me how easy it is now to record a video in HD and have it up and running on Youtube....
+Today I was recording a new episode of my [Productive! Show video podcast](/show/) where I was talking about the contents of the new 4th issue of the [Productive! Magazine](/magazine/) and it struck me how easy it is now to record a video in HD and have it up and running on Youtube....
 
 <!--More-->
 

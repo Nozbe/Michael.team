@@ -6,7 +6,7 @@ img: "finally-macbook-air-done-right-the-2010-model.jpg"
 # Finally Macbook Air done right. The 2010 model rocks
 
 
-I've been a long time Macbook Air fan. I've had the first generation 64GB SSD model (1.8 GHz) and later third generation 128GB SSD (2,13 GHz) model. My [first blog post about how it rocks](http://michaelnozbe.com/macbook-air-rocks-5-things-pc-notebook-manufa) still generates lots of traffic to this blog and [I even recorded a geeky unboxing video](http://www.productivefirm.com/2009/07/my-productive-computer-unboxing-apple-macbook-air-2-13-ssd/) of my second Macbook Air. Before the Air I was a PC. Macbook Air convinced me to switch to the Mac. One month ago, after [lots of hesitation](http://michaelnozbe.com/new-macbook-air-seduces-me-again) I decided to give it a shot and [bought the new 2010 13" Macbook Air](http://twitter.com/#!/MichaelNozbe/status/5559443513155584) and I believe it's the best laptop on the planet at this point for a mobile businessman. Here's my one-month review:
+I've been a long time Macbook Air fan. I've had the first generation 64GB SSD model (1.8 GHz) and later third generation 128GB SSD (2,13 GHz) model. My [first blog post about how it rocks](/macbook-air-rocks-5-things-pc-notebook-manufa) still generates lots of traffic to this blog and [I even recorded a geeky unboxing video](/my-productive-computer-unboxing-apple-macbook-air-2-13-ssd/) of my second Macbook Air. Before the Air I was a PC. Macbook Air convinced me to switch to the Mac. One month ago, after [lots of hesitation](/new-macbook-air-seduces-me-again) I decided to give it a shot and [bought the new 2010 13" Macbook Air](http://twitter.com/#!/MichaelNozbe/status/5559443513155584) and I believe it's the best laptop on the planet at this point for a mobile businessman. Here's my one-month review:
 
 <!--More-->
 
@@ -14,7 +14,7 @@ I've been a long time Macbook Air fan. I've had the first generation 64GB SSD mo
 
 ## Why it's the first Macbook Air done right? It's not underpowered. Has no heat issues. It's light and fast. Finally.
 
-My previous-generation Macbook Air and the one before that were "underpowered". I didn't mind all that much since I mostly have been using my computer for web-related stuff. However when I started recording my [Productive! Show](http://ProductiveFirm.com/Show/) in HD, my Air started choking when I was producing video clips in iMovie.
+My previous-generation Macbook Air and the one before that were "underpowered". I didn't mind all that much since I mostly have been using my computer for web-related stuff. However when I started recording my [Productive! Show](/Show/) in HD, my Air started choking when I was producing video clips in iMovie.
 
 I also had to use two apps: Coolbook and SMCfanControl to lower the voltage on the processor and lower the speed of the fans to make sure I could work on a silent computer most of the time.
 
@@ -30,7 +30,7 @@ Same goes to booting (although I hardly boot with the newest sleeping mode and i
 
 ## More RAM and bigger drive. Finally room to breathe.
 
-I wrote about [how the limit of 2 GIGs of RAM helps me single-task](http://michaelnozbe.com/single-tasking-is-good-for-you)... but 4 GIGs of RAM helps me not think about RAM anymore. My Air is no longer choking at all. The same applies to hard disk space. I managed to work with my first Air and 64G SSD, but 128GB SSD was already OK, but now with 256GB SSD I have enough space for most of my stuff. And I put bigger videos on the 1TB MyPassport WD hard drive which is small, stylish, matches the looks of my Air... and was on sale in Best Buy for just $129. Just look at the picture above.
+I wrote about [how the limit of 2 GIGs of RAM helps me single-task](/single-tasking-is-good-for-you)... but 4 GIGs of RAM helps me not think about RAM anymore. My Air is no longer choking at all. The same applies to hard disk space. I managed to work with my first Air and 64G SSD, but 128GB SSD was already OK, but now with 256GB SSD I have enough space for most of my stuff. And I put bigger videos on the 1TB MyPassport WD hard drive which is small, stylish, matches the looks of my Air... and was on sale in Best Buy for just $129. Just look at the picture above.
 
 ## Battery life is no longer a problem. 7+ hours is what I get out of it.
 

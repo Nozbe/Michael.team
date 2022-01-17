@@ -13,7 +13,7 @@ I started [Productive! Magazine][p] back in the Autumn of 2008 with the first is
 
 **Fast forward 14 magazine issues later...**
 
-I love doing the magazine. I get to hang out with great people like [David, Seth, Jason and others](https://sliwinski.com/interviews) and I get to connect with fantastic contributors - all ueber-productive people. However, my day job is to run [Nozbe][n] and as a CEO of a growing company in a very competitive environment I don't get to have as much time as I'd want for the magazine... and that's why it took me 5 years to create 14 issues... and this year there was none. Until now. I decided to re-launch it and make it bigger, better and more regular. And different... and still free. Here's why:
+I love doing the magazine. I get to hang out with great people like [David, Seth, Jason and others](/interviews) and I get to connect with fantastic contributors - all ueber-productive people. However, my day job is to run [Nozbe][n] and as a CEO of a growing company in a very competitive environment I don't get to have as much time as I'd want for the magazine... and that's why it took me 5 years to create 14 issues... and this year there was none. Until now. I decided to re-launch it and make it bigger, better and more regular. And different... and still free. Here's why:
 
 
 
@@ -63,12 +63,12 @@ From now on, the magazine will be available as an app and not as a PDF but it's 
 [ns]: http://www.nozbe.com/signup
 [na]: http://www.nozbe.com/about
 [p]: http://www.productivemag.com/
-[s]: http://www.michaelsliwinski.com/productive_show
+[s]: /productive_show
 [t]: http://twitter.com/MSliwinski
-[i]: http://www.michaelsliwinski.com/tag/ipadonly
-[e]: http://www.michaelsliwinski.com/how-i-use-evernote
+[i]: /ipadonly
+[e]: /how-i-use-evernote
 [d]: http://db.tt/kD7Liux
-[mn]: http://www.michaelsliwinski.com/newsletter
+[mn]: /newsletter
 [email]: mailto:editor@productivemagazine.com
 [pf]: http://www.facebook.com/ProductiveMag
 [pt]: http://twitter.com/ProductiveMag

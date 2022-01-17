@@ -5,7 +5,7 @@ tags: [productivity,short]
 
 # Essentialism is easier when you’re forced to choose what’s really important
 
-I’m a big fan of [Greg McKeown](https://sliwinski.com/greg-mckeown)’s book, [Essentialism - the pursuit of less but better](https://sliwinski.com/essentialism) - I’ve read the book three times, [took lots of notes](https://sliwinski.com/essentialist) and keep trying (and failing) to follow Greg’s advice... and today unexpectedly I had a tough day that taught me a lesson or two on essentialism.
+I’m a big fan of [Greg McKeown](/greg-mckeown)’s book, [Essentialism - the pursuit of less but better](/essentialism) - I’ve read the book three times, [took lots of notes](/essentialist) and keep trying (and failing) to follow Greg’s advice... and today unexpectedly I had a tough day that taught me a lesson or two on essentialism.
 
 ## A personal situation changed my day completely...
 
@@ -35,7 +35,7 @@ Maybe I just need to be better at editing my life... and when I have a plan, pra
 
 > *“Great plan for next week, but what would I do, if I only had half that time next week? What would I focus on? What would be essential to move forward?”*
 
-Yes, that’s what I have to ask myself at the end of my each [weekly review](https://sliwinski.com/weekly-review)... and edit the plan again. Let’s try to do it this [Friday.](https://sliwinski.com/tgif)
+Yes, that’s what I have to ask myself at the end of my each [weekly review](/weekly-review)... and edit the plan again. Let’s try to do it this [Friday.](/tgif)
 
 
 [n]: https://michael.gratis/nozbe

@@ -12,7 +12,7 @@ This blog is not about software but is about [productivity tips](/productivity) 
 ![{{ page.title }}](/img/{{ page.img }})
 
 
-Quite frankly, I use Skype a lot - both for cheap Internet-to-telephony calling (I live in Europe and need to make calls to the States every now and then) and (mostly) for online voice and chat collaboration with my team. It works great for us, I don't even use headphones, only the built in mic and speakers of my [Macbook Air](http://michaelnozbe.com/macbook-air-rocks-5-things-pc-notebook-manufa), so my hands are free. It's really cool. And costs nothing if you call other Skype users.
+Quite frankly, I use Skype a lot - both for cheap Internet-to-telephony calling (I live in Europe and need to make calls to the States every now and then) and (mostly) for online voice and chat collaboration with my team. It works great for us, I don't even use headphones, only the built in mic and speakers of my [Macbook Air](/macbook-air-rocks-5-things-pc-notebook-manufa), so my hands are free. It's really cool. And costs nothing if you call other Skype users.
 
 ## Why is this "screen sharing" feature a big deal to me?
 
@@ -20,7 +20,7 @@ Quite frankly, I use Skype a lot - both for cheap Internet-to-telephony calling 
 
 - **Because it's cross-platform**. I'm the only Mac user on the team. Rest are using Windows laptops - I'm a recent Mac convert and most of my team is used to Windows status quo so it's ok. And now it's great we can share screens with a click of the button.
 
-- **Because it's good enough**. Of course, I cannot take control of the other computer's screen or do any of the "advanced stuff" but I found myself that in most of the cases I don't need any of those. I just want to share my screen or see the other screen. [It's good enough](http://michaelnozbe.com/ikea-is-good-enough-power-of-instant-furnitur). (and for more advanced stuff I can always use [YuuGuu](http://www.yuuguu.com))
+- **Because it's good enough**. Of course, I cannot take control of the other computer's screen or do any of the "advanced stuff" but I found myself that in most of the cases I don't need any of those. I just want to share my screen or see the other screen. [It's good enough](/ikea-is-good-enough-power-of-instant-furnitur). (and for more advanced stuff I can always use [YuuGuu](http://www.yuuguu.com))
 
 There you go - my productivity tip for you - if you're using Skype and want to share screen with someone or want to see their screen, it's right there built in and makes the project collaboration so much easier! We're using this frequently now with my team and it's a great productivity boost for us.
 

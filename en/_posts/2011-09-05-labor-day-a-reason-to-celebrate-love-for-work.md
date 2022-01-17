@@ -6,7 +6,7 @@ img: "labor-day-a-reason-to-celebrate-love-for-work.jpg"
 # Labor Day - a reason to celebrate love for work
 
 
-Today is Labor Day in the United States and though I'm not American, most of the people I interact nowadays are either American or Japanese so their holidays affect me as well. And since today is the day of labor in the USA, I thought to write more about work on my blog today. Enhancing a little the last paragraphs of [my last week's post.](http://michaelnozbe.com/how-steve-jobs-inspired-me-as-an-entrepreneur)
+Today is Labor Day in the United States and though I'm not American, most of the people I interact nowadays are either American or Japanese so their holidays affect me as well. And since today is the day of labor in the USA, I thought to write more about work on my blog today. Enhancing a little the last paragraphs of [my last week's post.](/how-steve-jobs-inspired-me-as-an-entrepreneur)
 
 <!--More-->
 

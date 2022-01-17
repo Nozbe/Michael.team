@@ -27,7 +27,7 @@ Same applies to the TV series... and in most cases we in Europe are far behind t
 
 We love convenience. iTunes made it convenient for people to get their music directly to their digital players and people bought it. Although they could've downloaded it free off a peer2peer network. If you make something convenient for the customers - they will pay, and they'll be happy about the warm fuzzy feeling of staying legal.
 
-As you know, [I love audiobooks](http://michaelnozbe.com/power-of-e-readers-and-audiobooks-productivit), I even [listen to them while skiing](http://michaelnozbe.com/reading-audiobooks-while-doing-sports-product), and although I could have downloaded them off a P2P networks, I actually subscribed to Audible and I'm paying for them. Audible makes my purchases convenient, offers great prices and promos... and gives me that fuzzy feeling of staying on a legal side and supporting the content creators.
+As you know, [I love audiobooks](/power-of-e-readers-and-audiobooks-productivit), I even [listen to them while skiing](/reading-audiobooks-while-doing-sports-product), and although I could have downloaded them off a P2P networks, I actually subscribed to Audible and I'm paying for them. Audible makes my purchases convenient, offers great prices and promos... and gives me that fuzzy feeling of staying on a legal side and supporting the content creators.
 
 C'mon guys, nobody wants to rob you publishers and authors... but not giving us the content they way we want, you're asking to be robbed. And we are your customers. And you should serve us, not penalize us. And customers are always right. Don't you think?
 

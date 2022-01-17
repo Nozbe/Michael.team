@@ -44,7 +44,7 @@ Seriously, being singled out as the app for this one day out of the entire App S
 
 Well, that patience really pays off. We’ve been featured in many markets and hopefully we’ll be featured even more - and that we should just keep doing what we’re doing and we will eventually get noticed.
 
-Also, it’s perfect timing, because it’s January and you should not only do your [annual review](https://sliwinski.com/annual), but also think about everything you want to get done this year.
+Also, it’s perfect timing, because it’s January and you should not only do your [annual review](/annual), but also think about everything you want to get done this year.
 
 > Forget New Year’s Resolutions - just get [Nozbe][n] (as Apple suggests) and create a project for each “resolution” and add tasks that will help you achieve it... and track it all weekly. That’s all there’s to it.
 

@@ -6,7 +6,7 @@ img: "friday-links-travel-remote-working-and-pirate.jpg"
 # Friday links: Travel, Remote Working and Pirates
 
 
-Let's get back with the [Friday's tradition](http://michaelnozbe.com/tag/followfriday) of sending you some of the most interesting things I read about this week and this time they relate to traveling, distance and ... yes, startups.
+Let's get back with the [Friday's tradition](/links/) of sending you some of the most interesting things I read about this week and this time they relate to traveling, distance and ... yes, startups.
 
 <!--More-->
 
@@ -25,7 +25,7 @@ I really dig how these guys work. My team is all working remotely and we've grow
 
 I love traveling and learning new languages and I've always been traveling a lot without spending too much money on it... this is an eye-opening guide :-)
 
-Talking about me traveling, did you see my yesterday's [Productive! Show video](http://www.productivefirm.com/2010/11/smartphone-vs-laptop-on-weekend-trips-to-london-episode-28/) recorded over my recent weekend trip to London?
+Talking about me traveling, did you see my yesterday's [Productive! Show video](/smartphone-vs-laptop-on-weekend-trips-to-london-episode-28/) recorded over my recent weekend trip to London?
 
 Have a great weekend!  
 

@@ -5,7 +5,7 @@ cover: "iphoneonly.jpg"
 
 # Will a new 5,5" iPhone convert people to not only #iPadOnly, but more #iPhoneOnly?
 
-I'm a big fan of working on iOS devices. I [co-wrote a book about working ont the iPad][#iPadOnly] and I'm actually writing this blog post on my iPad. I've gotten used to working on both the iPhone and the iPad - I really use these two "computers" all of the time. I carry my iPhone with me at all times... and my iPad most of the times. [I hardly ever use my Mac](https://sliwinski.com/my-last-pc). Now, tonight Apple will supposedly unvail two new iPhones. According to John Gruber, [one will be 4.7" and the other 5.5"][jg] and the bigger one [might have kinda iPad-like features][big]. Will it mean people will use the iPhone even more for their every day computing?
+I'm a big fan of working on iOS devices. I [co-wrote a book about working ont the iPad][#iPadOnly] and I'm actually writing this blog post on my iPad. I've gotten used to working on both the iPhone and the iPad - I really use these two "computers" all of the time. I carry my iPhone with me at all times... and my iPad most of the times. [I hardly ever use my Mac](/my-last-pc). Now, tonight Apple will supposedly unvail two new iPhones. According to John Gruber, [one will be 4.7" and the other 5.5"][jg] and the bigger one [might have kinda iPad-like features][big]. Will it mean people will use the iPhone even more for their every day computing?
 
 <!--More-->
 
@@ -23,7 +23,7 @@ I've been hardly missing my PC anymore. [I write all about it in my #iPadOnly bo
 
 Most of all - more content - better reading experience, better [Nozbe][n] app on the iPhone with lots of tasks at once to go through.
 
-The only concern I have is that the phone might be just too big... you know... when you put it in your pocket it might feel like it's just too cumbersome... especially that I like to have my [iPhone as my wallet](https://sliwinski.com/iphone-wallet). I know I'll have to see and feel it before I decide.
+The only concern I have is that the phone might be just too big... you know... when you put it in your pocket it might feel like it's just too cumbersome... especially that I like to have my [iPhone as my wallet](/iphone-wallet). I know I'll have to see and feel it before I decide.
 
 ## Bigger screen = better second screen for my iPad
 

@@ -5,7 +5,7 @@ img: "learnings.jpg"
 
 # Why “lessons learned” is better than just “lessons” - or how I edit my writing...
 
-On the first day of this year [I wrote about my best nine IG photos.](https://sliwinski.com/2018bestnine) I really liked how the photos turned out so I decided to report on them and describe them briefly on this blog... and when I wrote and published the post I was happy that I’ve done just that... but _I wasn’t quite happy_ how it turned out. Now I know why: 
+On the first day of this year [I wrote about my best nine IG photos.](/2018bestnine) I really liked how the photos turned out so I decided to report on them and describe them briefly on this blog... and when I wrote and published the post I was happy that I’ve done just that... but _I wasn’t quite happy_ how it turned out. Now I know why: 
 
 <!--More-->
 
@@ -19,9 +19,9 @@ After all why am I writing stuff on this blog? Because I want to grow!
 
 ## I want to write more - to become a better person - and hopefully share some of these learnings with you!
 
-[Two months ago I wrote about new habits](https://sliwinski.com/newhabits) I wanted to form... and I think I did. One of them was writing on this blog daily. Later I revised this goal to writing at least 5 blog posts a week (as in: weekday daily - I wanted to have an option to have a weekend off) and I mostly succeeded.
+[Two months ago I wrote about new habits](/newhabits) I wanted to form... and I think I did. One of them was writing on this blog daily. Later I revised this goal to writing at least 5 blog posts a week (as in: weekday daily - I wanted to have an option to have a weekend off) and I mostly succeeded.
 
-[If you look at the blog archive](https://sliwinski.com/archive), you’ll see I’ve been blogging a lot more than before. Almost daily.
+[If you look at the blog archive](/archive), you’ll see I’ve been blogging a lot more than before. Almost daily.
 
 Now here comes the **big why** - why I want to blog more frequently?
 

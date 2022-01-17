@@ -5,7 +5,7 @@ cover: "power-of-unschedule-and-pomodoro-technique.jpg"
 
 # Power of Unschedule and Pomodoro Technique
 
-I've written time and time again on my blog about how I love the [Pomodoro Technique](http://michaelnozbe.com/pomodoro-technique-and-other-simple-ways-to-g) (do something for 25 minutes and take a 5-minute break) and recently, after reading ["The Now Habit" I love the concept of an Unschedule](http://michaelnozbe.com/the-now-habit-by-neil-fiore-overcoming-procra) calendar. In this post I'll show you how they work together beautifully to help me improve and get things done.
+I've written time and time again on my blog about how I love the [Pomodoro Technique](/pomodoro-technique-and-other-simple-ways-to-g) (do something for 25 minutes and take a 5-minute break) and recently, after reading ["The Now Habit" I love the concept of an Unschedule](/the-now-habit-by-neil-fiore-overcoming-procra) calendar. In this post I'll show you how they work together beautifully to help me improve and get things done.
 
 <!--More-->
 

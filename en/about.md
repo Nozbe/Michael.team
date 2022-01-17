@@ -11,7 +11,7 @@ redirect_from: /About/
 
 ## Your host - founder and CEO of Nozbe
 
-Hi, I'm [Michael Sliwinski](https://sliwinski.com/){:target='_blank'} and I'm the [founder and CEO](https://michael.gratis/nozbemichael){:target='_blank'} of [Nozbe and Nozbe Teams](https://michael.gratis/nozbe){:target='_blank'} - to-do apps for busy professionals and teams. I'm <leading></leading> a team of [20+ people who work completely remotely from their "home offices"](https://nozbe.com/about?a=mike){:target='_blank'} and we've been doing this for the last 13+ years now. Nozbe and Nozbe Teams have more than 700K users from all over the world.
+Hi, I'm [Michael Sliwinski](/){:target='_blank'} and I'm the [founder and CEO](https://michael.gratis/nozbemichael){:target='_blank'} of [Nozbe and Nozbe Teams](https://michael.gratis/nozbe){:target='_blank'} - to-do apps for busy professionals and teams. I'm <leading></leading> a team of [20+ people who work completely remotely from their "home offices"](https://nozbe.com/about?a=mike){:target='_blank'} and we've been doing this for the last 13+ years now. Nozbe and Nozbe Teams have more than 700K users from all over the world.
 
 ## I'm on a mission to help small teams do great things!
 
@@ -38,7 +38,7 @@ You can copy and share any part of this site, but just give back credits to me. 
 ## My additional projects:
 
 * I'm currently writing a book on working better in a modern and more remote and flexible way: [#NoOffice](https://nooffice.org){:target='_blank'}.
-* I'm [blogging](/blogging) on [this site](/archive/) now and I used to do it on my [old site: sliwinski.com](https://sliwinski.com){:target='_blank'}.
+* I'm [blogging](/blogging) on [this site](/archive/) now and I used to do it on my [old site: sliwinski.com](){:target='_blank'}.
 * [I chat with Radek on "The Podcast . FM"](/podcast) - it's a semi-weekly podcast on "technology, productivity tips, business, publishing, and whatever else comes to mind..." - more than 200 episodes recorded to date!
 * I do all that from my iPad - I'm ([#iPadOnly](https://iPadOnly.com){:target='_blank'}).
 
@@ -66,11 +66,11 @@ Here's what people say about me speaking:
 
 ## My story
 
-To learn more about my Nozbe story, [please read this interview with me](https://sliwinski.com/interview).
+To learn more about my Nozbe story, [please read this interview with me](/interview).
 
 ### Born Polish, I'm European and I think globally
 
-I was born in Gdynia, northern Poland (in Europe) and spent my childhood there. My mom started teaching me English when I was 6 and thus she fostered my interest in languages... and my father, who was an "electronics technician" got me interested in computers. [My parents are really amazing](https://sliwinski.com/parents). Together as a family (along with my younger brother [Przemek](http://smart-mod.pl)) we traveled every year somewhere for holidays... and that's why I still love traveling so much. Now, apart from Polish and English I also speak fluently two other European languages: Spanish and German... and I'm currently learning Japanese and French.
+I was born in Gdynia, northern Poland (in Europe) and spent my childhood there. My mom started teaching me English when I was 6 and thus she fostered my interest in languages... and my father, who was an "electronics technician" got me interested in computers. [My parents are really amazing](/parents). Together as a family (along with my younger brother [Przemek](http://smart-mod.pl)) we traveled every year somewhere for holidays... and that's why I still love traveling so much. Now, apart from Polish and English I also speak fluently two other European languages: Spanish and German... and I'm currently learning Japanese and French.
 
 ### I studied in 3 Universities
 
@@ -86,13 +86,13 @@ Initially I started Nozbe because I wanted to better manage my time and I was in
 
 ### I love my work, sports and books
 
-[I love what I do](https://sliwinski.com/5-loves/) so it doesn't feel like work. But apart from that I try to remain fit, especially as [I lost weight](https://sliwinski.com/fitness2014/) thanks to ["slow carb diet"](https://sliwinski.com/slow-carb-diet/) and started running [triathlons](https://sliwinski.com/triathlon) (I do 3-4 [olympic distance](https://sliwinski.com/triathlon-list/) a year: 1500m swim, 40km bike and 10km run). And recently [I picked up tennis](https://sliwinski.com/tennis).
+[I love what I do](/5-loves/) so it doesn't feel like work. But apart from that I try to remain fit, especially as [I lost weight](/fitness2014/) thanks to ["slow carb diet"](/slow-carb-diet/) and started running [triathlons](/triathlon) (I do 3-4 [olympic distance](/triathlon-list/) a year: 1500m swim, 40km bike and 10km run). And recently [I picked up tennis](/tennis).
 
-I also [read about 30 books](https://sliwinski.com/reading) per year (actually [I’m listening to them](https://sliwinski.com/reading-audiobooks-and-absorbing-content)). I am a geek who likes technology gadgets (I'm an Apple fanboy) and cars. I am a [Christian](https://sliwinski.com/catholic) (Roman Catholic) and believe Jesus Christ to be my savior.
+I also [read about 30 books](/reading) per year (actually [I’m listening to them](/reading-audiobooks-and-absorbing-content)). I am a geek who likes technology gadgets (I'm an Apple fanboy) and cars. I am a [Christian](/catholic) (Roman Catholic) and believe Jesus Christ to be my savior.
 
 ### I work in "No Office"
 
-[I work from home](https://sliwinski.com/office) and everyone on [my team works remotely](https://sliwinski.com/teleworking). I believe that *"job is not a place to go but a thing you do"*. I live in a very beautiful place in Europe with my wife Ewelina (who is a lawyer and you can see her on the photo above) and my three amazing daughters: Milena, Emilia and Liliana.
+[I work from home](/office) and everyone on [my team works remotely](/teleworking). I believe that *"job is not a place to go but a thing you do"*. I live in a very beautiful place in Europe with my wife Ewelina (who is a lawyer and you can see her on the photo above) and my three amazing daughters: Milena, Emilia and Liliana.
 
 Here's a video that I recorded a while back that illustrates what I'm about:
 

@@ -15,7 +15,7 @@ Today I read the new book by [37signals](http://www.37signals.com) founders, [Da
 
 ## I'm a big fan of Jason and David
 
-First off, I'm a big fan of 37signals and a regular reader to their blog "[Signal vs Noise](http://svn.37signals.com)". I've been following them for more than 4 years now. They actually inspired me to build [Nozbe](http://www.nozbe.com) which initially was nicknamed by some as "Backpack for GTD".
+First off, I'm a big fan of 37signals and a regular reader to their blog "[Signal vs Noise](http://svn.37signals.com)". I've been following them for more than 4 years now. They actually inspired me to build [Nozbe][n] which initially was nicknamed by some as "Backpack for GTD".
 
 ## For everyone who's followed 37signals - the book's core messages are known to me 
 
@@ -33,7 +33,7 @@ I wrote I knew their approach and shared it. I know it, because I've been follow
 
 Jason said he liked looking at great chefs releasing their cookbooks and they say [Rework](http://www.amazon.com/gp/product/0307463745?tag=productive-20) is their cookbook. I guess it's true. It feels like one. And a very good one at that. One of the best business book around.
 
-Now it's time for my cookbook. I've been running [Nozbe](http://www.nozbe.com) for three years now, I've been growing my company, my revenues and been making lots of mistakes (and successes) along the way and learning a lot from them. It's time for my cookbook which will be a lot different from Rework, but also share a similar approach. I'll focus more on productivity, tele-working and other aspects of running a startup. Stay tuned.
+Now it's time for my cookbook. I've been running [Nozbe][n] for three years now, I've been growing my company, my revenues and been making lots of mistakes (and successes) along the way and learning a lot from them. It's time for my cookbook which will be a lot different from Rework, but also share a similar approach. I'll focus more on productivity, tele-working and other aspects of running a startup. Stay tuned.
 
 _**Question:** Did you get your copy of [Rework](http://www.amazon.com/gp/product/0307463745?tag=productive-20)? Get it, tell me what you think about it. I'm loving it. Very inspiring._
 

@@ -11,7 +11,7 @@ Yesterday was a big day, the ["Apple Watch"][a] day... Apple finally explained a
 
 ![{{ page.title }}](/img/{{ page.img }})
 
-The main problem of my [day job][Nozbe] is that I need to have all the newest gadgets every year... You see, I need to "sacrifice" for all of you in order to make sure we deliver the best app possible to operate on your device. And so, I had to buy the [iPhone 6 plus](https://sliwinski.com/6pluslove), I change my iPhone and iPad every year, and yes - I will absolutely need to buy the  Watch... Yeah, life is tough on me in this regard... oh wait... no it's not. I love my job and I love "having to" upgrade my devices so often :-P
+The main problem of my [day job][Nozbe] is that I need to have all the newest gadgets every year... You see, I need to "sacrifice" for all of you in order to make sure we deliver the best app possible to operate on your device. And so, I had to buy the [iPhone 6 plus](/6pluslove), I change my iPhone and iPad every year, and yes - I will absolutely need to buy the  Watch... Yeah, life is tough on me in this regard... oh wait... no it's not. I love my job and I love "having to" upgrade my devices so often :-P
 
 And even though I'm [#iPadOnly][] these days, I love Macs. The very first [Macbook Air][b] became my [first Mac ever][c] and I loved it. So when Apple unveiled the new Macbook yesterday I fell in love with it... and enjoyed the moment where everyone started complaining about the lack of ports on this device... this happens *every time* Apple makes a device that good. Here's why:
 

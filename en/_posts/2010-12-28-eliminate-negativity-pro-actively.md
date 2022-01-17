@@ -6,7 +6,7 @@ img: "eliminate-negativity-pro-actively.jpg"
 # Eliminate negativity pro-actively
 
 
-... and it's already after Christmas. A very stressful (shopping, preparation, family logistics... etc.) but on the other hand a very joyful (family reunion, gift giving and gift receiving...etc) time of the year. And on Sunday, at the end of all of it, while catching up with reading some news and some blogs one idea struck me that I'm going to keep implementing over and over throughout the next year. On my path to more "[zen and minimalist-oriented life](http://michaelnozbe.com/minimalism-feels-fantastic)" I will be eliminating negativity from my life a lot more pro-actively than I used to... and I believe it will bring me more happiness in the long run:
+... and it's already after Christmas. A very stressful (shopping, preparation, family logistics... etc.) but on the other hand a very joyful (family reunion, gift giving and gift receiving...etc) time of the year. And on Sunday, at the end of all of it, while catching up with reading some news and some blogs one idea struck me that I'm going to keep implementing over and over throughout the next year. On my path to more "[zen and minimalist-oriented life](/minimalism-feels-fantastic)" I will be eliminating negativity from my life a lot more pro-actively than I used to... and I believe it will bring me more happiness in the long run:
 
 <!--More-->
 
@@ -48,7 +48,7 @@ At [Nozbe][n] we have 60-days money-back guarantee which means the clients can c
 
 ## 5. Seek positivity and build stuff on it
 
-In my posts about [Steve Jobs' comeback](http://michaelnozbe.com/3-lessons-learned-from-steve-jobs-coming-back) or the ["Switch" book](http://michaelnozbe.com/book-review-switch-by-heath-brothers-a-positi) I highlighted how it's important to find good things and build upon these. That's why, if we want our lives to be happy, we should pro-actively eliminate negativity from our lives and seek positivity or at least where we can help and build positivity.
+In my posts about [Steve Jobs' comeback](/3-lessons-learned-from-steve-jobs-coming-back) or the ["Switch" book](/book-review-switch-by-heath-brothers-a-positi) I highlighted how it's important to find good things and build upon these. That's why, if we want our lives to be happy, we should pro-actively eliminate negativity from our lives and seek positivity or at least where we can help and build positivity.
 
 I believe we shouldn't be blind or ignorant to all the bad that's happening in the world, but let's focus on things we can help, let's create charities and support the ones who can't support themselves and convert negativity into positivity.
 

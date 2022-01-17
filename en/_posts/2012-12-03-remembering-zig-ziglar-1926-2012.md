@@ -6,7 +6,7 @@ img: "remembering-zig-ziglar-1926-2012.jpg"
 # Remembering Zig Ziglar 1926-2012
 
 
-This year two of the most important contributors to productivity and personal development died. First it was Stephen Covey (the author of "The 7 Habits of Highly Effective People") who passed away in July. Last week it was Zig Ziglar - a legendary motivational speaker and a person that influenced so many people with his character, integrity, values, advice and charisma. While I got to know the work of Stephen more than 10 years ago when I read his books, Zig appeared on my radar thanks to [a comment one of my friends left on this blog](http://michaelnozbe.com/re-discovering-productivity-boosting-podcasti). I'm so glad he did.
+This year two of the most important contributors to productivity and personal development died. First it was Stephen Covey (the author of "The 7 Habits of Highly Effective People") who passed away in July. Last week it was Zig Ziglar - a legendary motivational speaker and a person that influenced so many people with his character, integrity, values, advice and charisma. While I got to know the work of Stephen more than 10 years ago when I read his books, Zig appeared on my radar thanks to [a comment one of my friends left on this blog](/re-discovering-productivity-boosting-podcasti). I'm so glad he did.
 
 <!--More-->
 
@@ -14,7 +14,7 @@ This year two of the most important contributors to productivity and personal de
 
 ## I didn't like Zig's Texan accent at first
 
-When I started listening to Zig's podcast [Inspiring words of encouragement](http://zigziglar.libsyn.com/) I was immediately put off by Zig's strong Texan accent. I'm not English native so his accent was kind of strange and hard to listen to at first. Listening to what Zig is really saying convinced me to keep on getting new episodes and I really liked Zig's approach to selling, productivity, life and values... and God. After listening for a few months to Zig I decided to buy his book: [Better Than Good](http://michaelnozbe.com/audiobook-of-the-week-zig-ziglars-better-than) \- which I reviewed on this blog. Loved it and was ready for more Zig content so I bought his ultimate book about selling: [The Secrets of Closing the Sale](http://www.audible.com/pd?asin=B002V5BNFS) and I loved it, too. In the world of selling it's great to listen to someone teach you how to close a sale with integrity and ethics and not in a way to deceive anyone.
+When I started listening to Zig's podcast [Inspiring words of encouragement](http://zigziglar.libsyn.com/) I was immediately put off by Zig's strong Texan accent. I'm not English native so his accent was kind of strange and hard to listen to at first. Listening to what Zig is really saying convinced me to keep on getting new episodes and I really liked Zig's approach to selling, productivity, life and values... and God. After listening for a few months to Zig I decided to buy his book: [Better Than Good](/audiobook-of-the-week-zig-ziglars-better-than) \- which I reviewed on this blog. Loved it and was ready for more Zig content so I bought his ultimate book about selling: [The Secrets of Closing the Sale](http://www.audible.com/pd?asin=B002V5BNFS) and I loved it, too. In the world of selling it's great to listen to someone teach you how to close a sale with integrity and ethics and not in a way to deceive anyone.
 
 ## We are all in the business of selling
 
@@ -26,7 +26,7 @@ Zig was a loving family man. He was married to the same "red head" woman (as he'
 
 ## Zig influenced many great people
 
-[Laura Stack](http://www.theproductivitypro.com/blog/) who is a regular contributor to our [Productive! Magazine](http://www.productivemagazine.com/) and was on the cover of issue #9 said she decided to become a public speaker when she saw Zig on stage at the age of 14 (!). [Seth Godin wrote a great thank you post](http://sethgodin.typepad.com/seths_blog/2012/11/thank-you-zig.html) last week (and this is how I first found out about Zig's passing). Many "online friends" of mine confessed their lives were greatly influenced by Zig.
+[Laura Stack](http://www.theproductivitypro.com/blog/) who is a regular contributor to our [Productive! Magazine](/magazine/) and was on the cover of issue #9 said she decided to become a public speaker when she saw Zig on stage at the age of 14 (!). [Seth Godin wrote a great thank you post](http://sethgodin.typepad.com/seths_blog/2012/11/thank-you-zig.html) last week (and this is how I first found out about Zig's passing). Many "online friends" of mine confessed their lives were greatly influenced by Zig.
 
 ## Zig was an exception and he didn't like exceptions!
 

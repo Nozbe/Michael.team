@@ -6,7 +6,7 @@ img: "handling-email-on-business-trips.jpg"
 # Handling email on business trips
 
 
-As I mentioned before, [I was touring Poland](http://michaelnozbe.com/enjoying-lifestyle-business), talking about productivity and [localized versions of Nozbe](http://www.nozbe.com/)... and this meant a very hectic day, always traveling (usually by train) and checking in and checking out of hotels. And lots of after-parties with local friends. This all meant less productive work and a huge email backlog. How did I handle email during my business trips? Here goes:
+As I mentioned before, [I was touring Poland](/enjoying-lifestyle-business), talking about productivity and [localized versions of Nozbe][n]... and this meant a very hectic day, always traveling (usually by train) and checking in and checking out of hotels. And lots of after-parties with local friends. This all meant less productive work and a huge email backlog. How did I handle email during my business trips? Here goes:
 
 <!--More-->
 
@@ -14,7 +14,7 @@ As I mentioned before, [I was touring Poland](http://michaelnozbe.com/enjoying-l
 
 ## 1. Always process to ZERO
 
-I always process my inbox to zero. Every day. If I can reply to something in less than 2 minutes, I do it right away and if I need more time for an email, I move it to my [REPLY] folder. If you want to learn more about my email system, [watch this short 2-minute video](http://www.productiveshow.com/2008/10/my-simple-email-setup-with-imap/).
+I always process my inbox to zero. Every day. If I can reply to something in less than 2 minutes, I do it right away and if I need more time for an email, I move it to my [REPLY] folder. If you want to learn more about my email system, [watch this short 2-minute video](/my-simple-email-setup-with-imap/).
 
 ## 2. Clean the REPLY folder selectively
 

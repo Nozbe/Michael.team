@@ -25,7 +25,7 @@ My team is all-remote and we all work from our "home offices" (just like the one
 
 I post stuff mostly here in English, but I do sometimes [write or do interviews in Polish](/pl) or do webinars or public speaking in [Spanish](/es). I also speak German, for the record.
 
-BTW, this is my new site, which [I just launched](/new). My previous site is here: [Sliwinski.com](https://sliwinski.com){:target='_blank'}.
+BTW, this is my new site, which [I just launched](/new). My previous site is here: [Sliwinski.com](){:target='_blank'}.
 
 Also - [this site is free and open source](/license). Copy anything you want, just credit me back, thanks!
 

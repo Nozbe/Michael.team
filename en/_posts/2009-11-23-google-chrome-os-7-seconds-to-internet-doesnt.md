@@ -45,16 +45,6 @@ While I like that Google Chrome OS boots so fast, doesn't look for floppy and al
 
 _What do you think?_
 
-  
-
-
---> ![me](../images/me.png)   
-  
-.. Editor of [Productive! Magazine](http://productivemagazine.com) - a global PDF publication on productivity  
-.. and a [blogger](http://michaelnozbe.com) as well as a producer of a weekly 2-minute [Productive! show](http://productiveshow.com). 
-
-  
-
 
 
 [n]: https://michael.gratis/nozbe

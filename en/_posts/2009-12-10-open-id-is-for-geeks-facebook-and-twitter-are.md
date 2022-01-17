@@ -30,7 +30,7 @@ MySpace lost their momentum last year and this is why they lost to Facebook and 
 
 OpenID is for geeks. A no-geek will not understand it and this is why the adoption of this "standard" failed in the long run. Mum and Dad will understand Facebook login, they do it every day. OpenID is not for them.
 
-## Facebook Connect or Twitter login coming to [Nozbe](http://nozbe.com)?
+## Facebook Connect or Twitter login coming to [Nozbe][n]?
 
 Probably, I'll have to test it and see how it works for us but I'm considering it now. If it makes the barrier of entry lower for non-geeky users, I'll be happy to give it a shot. We don't have the timeline for this yet, but watch out as we make it happen over the course of next months.
 

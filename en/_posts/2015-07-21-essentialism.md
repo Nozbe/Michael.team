@@ -5,7 +5,7 @@ img: "essentialism.jpg"
 
 # Essentialism - The Disciplined Pursuit of Less by Greg McKeown - (audio) book of the week
 
-There are [a lot of books I read](https://sliwinski.com/reading), but only some of them [I review](/books) on this blog and only few of them really are life-changing for me. Just like the original "Getting Things Done" book by David Allen was my initiation to better organization and also sparked a business idea in [Nozbe][n], I think the book "Essentialism" by Greg McKeown will help me take my business and life to a whole new level. Here's why:
+There are [a lot of books I read](/reading), but only some of them [I review](/books) on this blog and only few of them really are life-changing for me. Just like the original "Getting Things Done" book by David Allen was my initiation to better organization and also sparked a business idea in [Nozbe][n], I think the book "Essentialism" by Greg McKeown will help me take my business and life to a whole new level. Here's why:
 
 <!--More-->
 
@@ -36,7 +36,7 @@ Now, why this book is so powerful? In 4 steps it forces you to:
 
 ## 1. Explore the very critical things you want to pursue
 
-This is what I've done. Focus on your biggest **contribution** to the world. Where you can make a difference. This is key. Limit the choices and find your calling. Find not only your [passion](https://sliwinski.com/passion) but also the very essence of your life at this moment in time.
+This is what I've done. Focus on your biggest **contribution** to the world. Where you can make a difference. This is key. Limit the choices and find your calling. Find not only your [passion](/passion) but also the very essence of your life at this moment in time.
 
 ## 2. Eliminate the rest
 
@@ -44,13 +44,13 @@ That's huge. I always thought I could do it all. I've been always pretending the
 
 ## 3. Build a platform for "effortless execution"
 
-I have it already. I have a great team behind me. Now I just need to steer them at a right direction and make sure they help me maintain our course. I need to keep building habits of [consistency](https://sliwinski.com/consistency), work in my [distraction-free environment](https://sliwinski.com/homeoffice2015/) and create boundaries for me and my team.
+I have it already. I have a great team behind me. Now I just need to steer them at a right direction and make sure they help me maintain our course. I need to keep building habits of [consistency](/consistency), work in my [distraction-free environment](/homeoffice2015/) and create boundaries for me and my team.
 
 ## 4. Doing what is essential becomes a default position
 
 That's the thing. We're living in 2015 where doing what others want of us is the default position. Where reacting instead of proactively doing is the default. We have to change that. We need to work on making the default position - our position.
 
-## Bonus: now I need to revise [my goals for this year](https://sliwinski.com/goals2015)
+## Bonus: now I need to revise [my goals for this year](/goals2015)
 
 Yes, after the first half of the year has passed, it's time to revise my goals and focus on what's essential for me. There are a few goals I've outlined that no longer are the core of what I should be doing.
 

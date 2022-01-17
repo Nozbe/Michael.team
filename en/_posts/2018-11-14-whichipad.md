@@ -23,7 +23,7 @@ The thing is, that with the new iPad Pros Apple did something really cool - they
 
 As I was struggling to decide and kept switching between all three iPads and  didn’t know what to do, I had this nagging feeling that the bigger iPad, despite it’s smaller footprint, is still too big...
 
-[And then I re-read my blog post from more than 2 years ago about the smaller iPad Pro - the “baby iPad” as I called it](https://sliwinski.com/babyipad)
+[And then I re-read my blog post from more than 2 years ago about the smaller iPad Pro - the “baby iPad” as I called it](/babyipad)
 
 And it all made sense now - the smaller iPad just feels better for me. It’s more joyful, it’s more fun... and still is plenty big and of course powerful enough.
 

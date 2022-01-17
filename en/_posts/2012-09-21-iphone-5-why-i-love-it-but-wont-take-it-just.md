@@ -22,7 +22,7 @@ Just like [MG Siegler posted on Techcrunch](http://techcrunch.com/2012/09/13/the
 
 ## Reason 1. iPhone 4s is still an amazing phone and portable computer
 
-There's nothing wrong with my iPhone 4s. It's fast (and definitely not sluggish), it looks great, works great and [syncs well with my iPad](http://michaelnozbe.com/part-15-why-iphone-matters-ipad-as-my-main-co) to help me get my job done. I trust [Gruber when he says the new iPhone is the nicest one ever](http://daringfireball.net/2012/09/iphone_5) but my iPhone 4s is also very nice and simply put, works. And I still love it.
+There's nothing wrong with my iPhone 4s. It's fast (and definitely not sluggish), it looks great, works great and [syncs well with my iPad](/part-15-why-iphone-matters-ipad-as-my-main-co) to help me get my job done. I trust [Gruber when he says the new iPhone is the nicest one ever](http://daringfireball.net/2012/09/iphone_5) but my iPhone 4s is also very nice and simply put, works. And I still love it.
 
 ## Reason 2. The "amazing" Lightning connector
 
@@ -30,17 +30,17 @@ Yep, the connector. I know Apple had to do it, I know they needed to finally tak
 
 ## _Lot's of docks_
 
-We have three docks for music on each level of our house, we have lots of old iPod/iPhone cables we use for charging our devices, and I own lots of [retractable cables](http://michaelnozbe.com/my-ipad-only-accessories-vs-steve-wozniaks-ga) (which I love and are great when I travel) to charge my iDevices. I just don't want to use non-retractable cables anymore. I don't want to walk around with a $29 "converter". It's bulky, ugly and expensive. And I'd need at least three of those ($100 bucks? seriously?) I don't want to add more [cables to my travel bag](http://michaelnozbe.com/my-ipad-only-accessories-vs-steve-wozniaks-ga).
+We have three docks for music on each level of our house, we have lots of old iPod/iPhone cables we use for charging our devices, and I own lots of [retractable cables](/my-ipad-only-accessories-vs-steve-wozniaks-ga) (which I love and are great when I travel) to charge my iDevices. I just don't want to use non-retractable cables anymore. I don't want to walk around with a $29 "converter". It's bulky, ugly and expensive. And I'd need at least three of those ($100 bucks? seriously?) I don't want to add more [cables to my travel bag](/my-ipad-only-accessories-vs-steve-wozniaks-ga).
 
-And did I say I really [love retractable cables](http://michaelnozbe.com/my-ipad-only-accessories-vs-steve-wozniaks-ga) and I'm not using the original Apple cables at all?
+And did I say I really [love retractable cables](/my-ipad-only-accessories-vs-steve-wozniaks-ga) and I'm not using the original Apple cables at all?
 
 I'm not saying Apple made a mistake with the new connector. It's the moment to change it, for them, but not for me. Once I decide to switch to iPad 4 with new connector and buy my wife and myself new iPhones (5s?) I'll take the plunge. For now, it's too much of a hassle for me.
 
 ## Reason 3. Minimalism and "hiring tools for the job to get done"
 
-Sometimes it's just good to get back to [minimalism](http://michaelnozbe.com/minimalism-feels-fantastic) and use the tools we have at our disposal. [My iPhone and iPad work great](http://michaelnozbe.com/part-15-why-iphone-matters-ipad-as-my-main-co) with the old connector and they work great overall. I'm very tempted to change but I it would be just for the sake of owning the latest thing.
+Sometimes it's just good to get back to [minimalism](/minimalism-feels-fantastic) and use the tools we have at our disposal. [My iPhone and iPad work great](/part-15-why-iphone-matters-ipad-as-my-main-co) with the old connector and they work great overall. I'm very tempted to change but I it would be just for the sake of owning the latest thing.
 
-I also know it'll just add hassle to my life with the new dock connector, converters and all. And the speed bump might be noticable **but it won't increase my productivity much**. I like my setup and my [iPhone 4S and iPad](http://michaelnozbe.com/part-15-why-iphone-matters-ipad-as-my-main-co) which work together in harmony. And both will receive the latest iOS6 goodies (uhm, and the "improved" Maps app).
+I also know it'll just add hassle to my life with the new dock connector, converters and all. And the speed bump might be noticable **but it won't increase my productivity much**. I like my setup and my [iPhone 4S and iPad](/part-15-why-iphone-matters-ipad-as-my-main-co) which work together in harmony. And both will receive the latest iOS6 goodies (uhm, and the "improved" Maps app).
 
 Maybe I'll change my mind when the (rumored) iPad mini shows up. Or the new new new iPad next year. I don't know. For now my setup works and my [iPadonly crusade](/ipadonly) is on the right track. I'm not buying, at least until next year/month/week... :-)
 

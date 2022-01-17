@@ -6,7 +6,7 @@ img: "nozbe-means-productivity-on-the-mac-app-store.jpg"
 # Nozbe means Productivity on the Mac App Store
 
 
-Normally on this blog (being my personal blog and all) I try not to promote my business too much to you. Yes, I do mention [Nozbe][n] or [Productive! Magazine](http://www.productivemagazine.com) every now and then, but they are not the point of this blog. Well, today I'm so proud I just have to talk about [Nozbe][n] and especially our [desktop version for the Mac](http://www.nozbe.com/i/3p) which is the **top "Productivity" app** on the Polish Mac App Store and top 3 free app overall :-)
+Normally on this blog (being my personal blog and all) I try not to promote my business too much to you. Yes, I do mention [Nozbe][n] or [Productive! Magazine](/magazine/) every now and then, but they are not the point of this blog. Well, today I'm so proud I just have to talk about [Nozbe][n] and especially our [desktop version for the Mac](http://www.nozbe.com/i/3p) which is the **top "Productivity" app** on the Polish Mac App Store and top 3 free app overall :-)
 
 <!--More-->
 
@@ -15,7 +15,7 @@ Normally on this blog (being my personal blog and all) I try not to promote my b
 
 ## Man, it was a long journey
 
-More than [two months ago I posted](http://michaelnozbe.com/that-which-does-not-kill-us-makes-us-stronger) about our struggle to get our app accepted to the Mac App Store in the first place. After a long struggle, changing technologies two times (seriously!) and testing lots of solutions. We got in. And boy we did with a splash!
+More than [two months ago I posted](/that-which-does-not-kill-us-makes-us-stronger) about our struggle to get our app accepted to the Mac App Store in the first place. After a long struggle, changing technologies two times (seriously!) and testing lots of solutions. We got in. And boy we did with a splash!
 
 ## Top 3. free app and top "Productivity" app
 

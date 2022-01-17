@@ -6,7 +6,7 @@ img: "mcdonalds-my-remote-office-of-choice.jpg"
 # McDonald's - my remote office of choice
 
 
-Last week [I posted a detailed overview of my "Zen Home Office"](http://michaelnozbe.com/zen-in-my-new-2010-clutter-free-home-office) and I'm glad you liked it. I love working there, that's for sure. Yet, I'm not always there - I sometimes need to run errands, travel to a different city or just work outside of my home... and this may sound strange to you, but to work remotely I work at... McDonalds. Here's why:
+Last week [I posted a detailed overview of my "Zen Home Office"](/zen-in-my-new-2010-clutter-free-home-office) and I'm glad you liked it. I love working there, that's for sure. Yet, I'm not always there - I sometimes need to run errands, travel to a different city or just work outside of my home... and this may sound strange to you, but to work remotely I work at... McDonalds. Here's why:
 
 <!--More-->
 
@@ -38,15 +38,6 @@ I love Starbucks, too, but in Europe we don't have so many of them and as far as
 
 _What is your remote office of choice?_
 
-  
-
-
---> ![me](../images/me.png)   
-  
-.. Editor of [Productive! Magazine](http://productivemagazine.com) - a global PDF publication on productivity  
-.. and a [blogger](http://michaelnozbe.com) as well as a producer of a weekly 2-minute [Productive! show](http://productiveshow.com). 
-
-  
 
 
 

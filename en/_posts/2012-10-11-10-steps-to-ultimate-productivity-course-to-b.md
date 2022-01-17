@@ -6,7 +6,7 @@ cover: "10-steps-to-ultimate-productivity-course-to-b.jpg"
 # 10 Steps to Ultimate Productivity Course to be launched soon!
 
 
-Back in 2008 when [Nozbe](http://www.nozbe.com/) was gaining traction I decided to prepare a [10 step productivity course](http://www.youtube.com/playlist?list=PL0B8C402DFE7BA70E&feature=view_all) which I delivered as a speech to a great group of [Aula Polska](http://www.aulapolska.pl) in Warsaw. My friend, [Maciek "Mediafun"](http://blog.mediafun.pl) recorded it (thank you!) and I recorded a series of screencasts and mixed it together for people to learn productivity principles and comprehend how to use Nozbe to help them get things done. [This course has been viewed more than 100K times on YouTube to this date](http://www.youtube.com/playlist?list=PL0B8C402DFE7BA70E&feature=view_all).
+Back in 2008 when [Nozbe][n] was gaining traction I decided to prepare a [10 step productivity course](http://www.youtube.com/playlist?list=PL0B8C402DFE7BA70E&feature=view_all) which I delivered as a speech to a great group of [Aula Polska](http://www.aulapolska.pl) in Warsaw. My friend, [Maciek "Mediafun"](http://blog.mediafun.pl) recorded it (thank you!) and I recorded a series of screencasts and mixed it together for people to learn productivity principles and comprehend how to use Nozbe to help them get things done. [This course has been viewed more than 100K times on YouTube to this date](http://www.youtube.com/playlist?list=PL0B8C402DFE7BA70E&feature=view_all).
 
 <!--More-->
 
@@ -14,7 +14,7 @@ Back in 2008 when [Nozbe](http://www.nozbe.com/) was gaining traction I decided 
 
 ## Preparing to launch The all-new course version 2012
 
-Fast forward to today, I'm close to 6 years of running Nozbe with amazing success (thanks to my fantastic customers!), I've published 13 issues of the [Productive! Magazine](http://www.productivemagazine.com/magazine/) and close to [50 episodes of my Productive! Show](http://www.productivemagazine.com/show/) and I'm more passionate about productivity than ever. And I've learned seriously a lot in these last years... and I decided it was time to update the course and release it again in a new format, with some great information and a lot more tips and tricks. **The course will be released in November** in a written format, as well as with an audio and video version. Each video of each step will be of ~ 6 minutes delivered in a [pecha-kucha style](http://michaelnozbe.com/pecha-kucha-style-presentations-rock) by yours truly.
+Fast forward to today, I'm close to 6 years of running Nozbe with amazing success (thanks to my fantastic customers!), I've published 13 issues of the [Productive! Magazine](/magazine/) and close to [50 episodes of my Productive! Show](/magazine/) and I'm more passionate about productivity than ever. And I've learned seriously a lot in these last years... and I decided it was time to update the course and release it again in a new format, with some great information and a lot more tips and tricks. **The course will be released in November** in a written format, as well as with an audio and video version. Each video of each step will be of ~ 6 minutes delivered in a [pecha-kucha style](/pecha-kucha-style-presentations-rock) by yours truly.
 
 To give you a sneak peek, here's a short introduction to the course:
 
@@ -22,7 +22,7 @@ To give you a sneak peek, here's a short introduction to the course:
 
 Welcome to my "10 Steps to Ultimate Productivity" course. Over the course of next 10 lessons I'll try to teach you everything I've learned so far that helps me stay productive, get a lot done and have a happy life.
 
-My name is Michael Sliwinski, I'm the founder of [Nozbe.com](http://Nozbe.com) \- one of the leading productivity applications on the Internet. Every day, thousands upon thousands of busy professionals and teams are getting things done using Nozbe's web application as well as our native apps for the Mac, Windows, iPhone, iPad and Android.
+My name is Michael Sliwinski, I'm the founder of [Nozbe.com][n] \- one of the leading productivity applications on the Internet. Every day, thousands upon thousands of busy professionals and teams are getting things done using Nozbe's web application as well as our native apps for the Mac, Windows, iPhone, iPad and Android.
 
 I'm also the editor of the Productive! Magazine - a completely free PDF and iPad magazine where I get a chance to interview some real overachievers and where many people wiser than me post fantastic articles. Be sure to check it out and read past issues. You'll be inspired.
 

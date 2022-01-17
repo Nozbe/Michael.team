@@ -54,7 +54,7 @@ As much as I respect my peers in the industry, some folks are losing their objec
 
 Will I have problems integrating new Apple's model into my own? Yes. Will it cause more work for me? Definitey. Am I not happy sharing 30% with Apple? Well, I'd rather share less.... but it's their house and I respect that. If they bring me new customers I'll happily pay their cut for as long as the customer stays with me. If they bring me 1M new customers, I will not complain. Nor should you.
 
-HTML5? I love it, but native apps are just better and users seem to [vote (with their money) ](http://michaelnozbe.com/forget-crunchies-let-people-vote-with-money)on these and although [the call is tough](http://michaelnozbe.com/playing-where-the-puck-is-going-to-be), we're leaning towards native experiences over web-based in our developments of [Nozbe](http://www.nozbe.com/blog) for this year.
+HTML5? I love it, but native apps are just better and users seem to [vote (with their money) ](/forget-crunchies-let-people-vote-with-money)on these and although [the call is tough](/playing-where-the-puck-is-going-to-be), we're leaning towards native experiences over web-based in our developments of [Nozbe](http://www.nozbe.com/blog) for this year.
 
   
 

@@ -7,7 +7,7 @@ redirect_from:
 
 # This is something I've been struggling with recently: Getting Your Family On Board with Life Changes
 
-Very cool post by Leo. On this blog I've repeated many times over how [living a more minimalistic life is better](http://www.michaelsliwinski.com/minimalism-feels-fantastic ) and just feels great... and  how I travel [very light with a carry-on only](http://www.michaelsliwinski.com/travel-light-with-carry-on-only-show-32/ ) but my family is very often not onboard with my "minimalist passion" and when we travel together there is always chaos with bags, strollers and stuff (we have two children now). **[Getting Your Family On Board...](http://zenhabits.net/family-changes/)**
+Very cool post by Leo. On this blog I've repeated many times over how [living a more minimalistic life is better](/minimalism-feels-fantastic ) and just feels great... and  how I travel [very light with a carry-on only](/travel-light-with-carry-on-only-show-32/ ) but my family is very often not onboard with my "minimalist passion" and when we travel together there is always chaos with bags, strollers and stuff (we have two children now). **[Getting Your Family On Board...](http://zenhabits.net/family-changes/)**
 
 <!--More-->
 

@@ -39,8 +39,8 @@ That's what I think - you can "give productivity" by giving someone the right to
 
 [n]: http://www.nozbe.com/
 [ns]: http://www.nozbe.com/signup
-[p]: http://www.productivemagazine.com/
-[s]: http://www.michaelsliwinski.com/productive_show
+[p]: /magazine/
+[s]: /productive_show
 [t]: http://twitter.com/MSliwinski
 
 [n]: https://michael.gratis/nozbe

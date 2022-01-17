@@ -75,11 +75,11 @@ Nope. Not anymore. After a month of using the [Quirky Crossover minimalist iPhon
 [qc]: http://www.quirky.com/products/447?r=7daef120224e277c16518b0e0c9c44b6
 [n]: http://www.nozbe.com/
 [ns]: http://www.nozbe.com/signup
-[p]: http://www.productivemagazine.com/
-[s]: http://www.michaelsliwinski.com/productive_show
+[p]: /magazine/
+[s]: /productive_show
 [t]: http://twitter.com/MSliwinski
-[i]: http://www.michaelsliwinski.com/tag/ipadonly
-[e]: http://www.michaelsliwinski.com/how-i-use-evernote
+[i]: /ipadonly
+[e]: /how-i-use-evernote
 [d]: http://db.tt/kD7Liux
 
 [n]: https://michael.gratis/nozbe

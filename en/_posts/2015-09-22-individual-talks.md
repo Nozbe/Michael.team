@@ -5,7 +5,7 @@ img: "individual-talks.jpg"
 
 # Individual talks on a Team meeting - why it's important to us
 
-[I mentioned recently][r] that we're currently on a [Nozbe team reunion][nr] where our [remotely working team](https://sliwinski.com/teleworking) gets together in the same place for an entire week. Today I'd like to share how each day looks like and why it starts with me... talking to people one-on-one. Well, here goes, we start each day with a breakfast at 8 am, and then...
+[I mentioned recently][r] that we're currently on a [Nozbe team reunion][nr] where our [remotely working team](/teleworking) gets together in the same place for an entire week. Today I'd like to share how each day looks like and why it starts with me... talking to people one-on-one. Well, here goes, we start each day with a breakfast at 8 am, and then...
 
 <!--More-->
 
@@ -47,7 +47,7 @@ And what's really amazing is that very often thanks to these conversations we ma
 
 ## Will I do these conversations on each reunion?
 
-I hope I will be able to. We're 20+ people now. We'll be 30+ sometime next year. I'm not sure how much I want my team to grow but I want to keep my relationships with my team members as personal as possible. So I'll try to keep it up. This is one of the things that really make me [love my work](https://sliwinski.com/5-loves)
+I hope I will be able to. We're 20+ people now. We'll be 30+ sometime next year. I'm not sure how much I want my team to grow but I want to keep my relationships with my team members as personal as possible. So I'll try to keep it up. This is one of the things that really make me [love my work](/5-loves)
 
 *P.S. On the photo above we play football. We do it after lunch between presentations.*
 

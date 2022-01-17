@@ -12,7 +12,7 @@ I couldn't attend this year's [LeWeb conference](http://leweb.net) but I'm defin
 
 ![{{ page.title }}](/img/{{ page.img }})
 
-I personally don't care about being a millionaire. I care about running a [successful Internet startup](http://nozbe.com) and having tens of thousands of happy and productive users, but I'm not doing it to make millions or to sell out or whatever, I just like this lifestyle and it makes me really happy and gives me enough money to feed and maintain my family.
+I personally don't care about being a millionaire. I care about running a [successful Internet startup][n] and having tens of thousands of happy and productive users, but I'm not doing it to make millions or to sell out or whatever, I just like this lifestyle and it makes me really happy and gives me enough money to feed and maintain my family.
 
 ## Where are the ultra-successful startup owners in Europe?
 
@@ -24,7 +24,7 @@ While I don't have all the answers, I think it's because of the following reason
 
 ## 1. We're Europeans, we prefer jobs, not risky startups
 
-Not me, I've set up my company right after college (and it took me a while until I nailed it with [Nozbe](http://nozbe.com)), but most of my friends wanted a nice steady job and started climbing their career path in a big company after studies.
+Not me, I've set up my company right after college (and it took me a while until I nailed it with [Nozbe][n]), but most of my friends wanted a nice steady job and started climbing their career path in a big company after studies.
 
 Already during my studies I found out that most of my friends where dreaming of great jobs with great salaries, company car, mobile phone, laptop and all the benefits that come from working for a giant corporation.
 
@@ -46,7 +46,7 @@ My mum once called me on the phone asking what should she say to her friends whe
 
 It's because of the fact that we have small Europe with really small countries with lots of language and cultural differences. So most startups start at home and provide solutions only locally.
 
-It amazes me each time I'm talking about [Nozbe](http://nozbe.com) with fellow startup owners as they would always ask me, why I didn't first start locally in our country and later went for the US market. They find it really amazing that for me it was an obvious choice - I read "Getting Things Done" by David Allen in English, I was reading US-based (mostly) GTD blogs, I knew GTD is most popular in the States, so why would I start a GTD app in my country where hardly anyone knew GTD? For me it was a no-brainer... See Apple's tagline: Think Different.
+It amazes me each time I'm talking about [Nozbe][n] with fellow startup owners as they would always ask me, why I didn't first start locally in our country and later went for the US market. They find it really amazing that for me it was an obvious choice - I read "Getting Things Done" by David Allen in English, I was reading US-based (mostly) GTD blogs, I knew GTD is most popular in the States, so why would I start a GTD app in my country where hardly anyone knew GTD? For me it was a no-brainer... See Apple's tagline: Think Different.
 
 I'm already seeing a significant change and surge of entrepreneurship in Europe, specially thanks to all the "Barcamp meetings" being held throughout Europe. Things are looking up.
 

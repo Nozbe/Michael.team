@@ -6,7 +6,7 @@ img: "leaders-need-to-push-people-more.jpg"
 # Leaders need to push people more
 
 
-Recently I gave several inspirational talks to young entrepreneurs and students [about passion](http://michaelnozbe.com/passion-attracts-passion) and how it's the key ingredient to everything we do. I quoted a story from my company where I explained how I was learning to manage my company… by pushing people beyond their limits.
+Recently I gave several inspirational talks to young entrepreneurs and students [about passion](/passion-attracts-passion) and how it's the key ingredient to everything we do. I quoted a story from my company where I explained how I was learning to manage my company… by pushing people beyond their limits.
 
 <!--More-->
 

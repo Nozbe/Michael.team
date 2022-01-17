@@ -26,7 +26,7 @@ We are just humans... and we like easy rewards - we like the small wins rather t
 
 ## 30-minute sprints - the Pomodoro Technique I love
 
-The book also covers the [Pomodoro Technique](http://michaelnozbe.com/pomodoro-technique-and-other-simple-ways-to-g) I use and recommend - to put a clock to 30 minutes and just do the thing! The ticking clock will help you stay focused and rush you to finally do the thing right away... and you'll make sure there is a reward for you soon after.
+The book also covers the [Pomodoro Technique](/pomodoro-technique-and-other-simple-ways-to-g) I use and recommend - to put a clock to 30 minutes and just do the thing! The ticking clock will help you stay focused and rush you to finally do the thing right away... and you'll make sure there is a reward for you soon after.
 
 ## Power of the un-schedule... meaning to schedule the good stuff only!
 

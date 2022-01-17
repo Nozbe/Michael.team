@@ -6,7 +6,7 @@ cover: "part-9-social-media-ipad-as-my-main-computer.jpg"
 # Part 9 - Social Media - iPad as my main computer
 
 
-Going [iPad-only](http://michaelnozbe.com/ipad-as-my-main-computer-prologue) is pretty fun if you think about the social media. Most of the apps for that purpose are just done very well, much better than their web sites so the iPad is a perfect device for managing your social media presence. Here's how I do it.  
+Going [iPad-only](/ipad-as-my-main-computer-prologue) is pretty fun if you think about the social media. Most of the apps for that purpose are just done very well, much better than their web sites so the iPad is a perfect device for managing your social media presence. Here's how I do it.  
 
 
 <!--More-->

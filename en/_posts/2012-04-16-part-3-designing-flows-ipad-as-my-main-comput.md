@@ -5,7 +5,7 @@ img: "part-3-designing-flows-ipad-as-my-main-comput.jpg"
 
 # Part 3 - Designing Flows and a HomeScreen - iPad as my main computer
 
-Many people have asked me why I'm trying to go [iPad-only](http://michaelnozbe.com/ipad-as-my-main-computer-prologue) when I'm so productive on the Mac and don't really need to go so far. Well, apart from being excited by the challenge and the new gadget, the other thing is to really re-think how I use my computer and why I do things I do the same way. I've already discovered in my last posts that [I need to use different cloud services](http://michaelnozbe.com/part-1-the-clouds-ipad-as-my-main-computer) and also [need to change the way I write](http://michaelnozbe.com/part-2-writing-ipad-as-my-main-computer) which brings me to the real deal here: **I'm really re-designing my "flows" or processes**  
+Many people have asked me why I'm trying to go [iPad-only](/ipad-as-my-main-computer-prologue) when I'm so productive on the Mac and don't really need to go so far. Well, apart from being excited by the challenge and the new gadget, the other thing is to really re-think how I use my computer and why I do things I do the same way. I've already discovered in my last posts that [I need to use different cloud services](/part-1-the-clouds-ipad-as-my-main-computer) and also [need to change the way I write](/part-2-writing-ipad-as-my-main-computer) which brings me to the real deal here: **I'm really re-designing my "flows" or processes**  
 
 
 <!--More-->
@@ -17,14 +17,14 @@ _The work is not a place to go, it's a thing you do_ - was my favorite quote whe
 
 ## My iPad-only work imposes constraints that make me re-think how I use computer every day
 
-As you have seen in my post about [writing](http://michaelnozbe.com/part-2-writing-ipad-as-my-main-computer) - I have to "design" the way I do writing on the iPad and the Mac. I have to make sure there's almost no friction there and I focus on writing and not on "setting up to write". I want to get my writing done as easily as possible.
+As you have seen in my post about [writing](/part-2-writing-ipad-as-my-main-computer) - I have to "design" the way I do writing on the iPad and the Mac. I have to make sure there's almost no friction there and I focus on writing and not on "setting up to write". I want to get my writing done as easily as possible.
 
 ## There are more processes to come
 
 What I'm saying here is that over the course of next weeks you'll see more "flows" or "processes" on this blog where I'll be explaining how I do stuff on the iPad with the apps at hand. I'll be posting how I:
 
   * do photo management and sharing with m family
-  * do videos for my [show](http://www.productivemagazine.com/show/) and for my family
+  * do videos for my [show](/magazine/) and for my family
   * do coding
   * do feedback loops with my team
   * do email

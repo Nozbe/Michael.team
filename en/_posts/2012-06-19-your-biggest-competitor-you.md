@@ -20,7 +20,7 @@ If you are in a business that makes at least some money, chances are you are not
 
 When I launched [Nozbe][n] a little **over 5 years ago** I showed it to the world because I thought that maybe there are more people on this planet who could benefit from a tool that I was building for myself. A tool that helped me organize my projects and my time.
 
-[Last week I reviewed the book "Start with Why"](http://michaelnozbe.com/start-with-why-by-simon-sinek-audio-book-of-t) and if we go back to its ideas, we can very easily discover that my Nozbe story is a great example of starting with a "Why?". I didn't need a new business. I was doing fairly OK with my consultancy work - I just needed to "get things done" better. And for an entire year Nozbe was my side-project which I kept improving because I loved working on it and fell in love with the community around it. Only when it started bringing in more money than my day job I decided to focus on Nozbe full time (around January 2008).
+[Last week I reviewed the book "Start with Why"](/start-with-why-by-simon-sinek-audio-book-of-t) and if we go back to its ideas, we can very easily discover that my Nozbe story is a great example of starting with a "Why?". I didn't need a new business. I was doing fairly OK with my consultancy work - I just needed to "get things done" better. And for an entire year Nozbe was my side-project which I kept improving because I loved working on it and fell in love with the community around it. Only when it started bringing in more money than my day job I decided to focus on Nozbe full time (around January 2008).
 
 ## Reality check: does Nozbe have competitors?
 

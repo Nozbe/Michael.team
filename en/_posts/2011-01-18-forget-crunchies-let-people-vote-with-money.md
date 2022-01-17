@@ -22,7 +22,7 @@ Does winning an award give you more customers? Does it bring value to your compa
 
 ## Voting for awards costs nothing. Paying for a great service costs real money. And means a lot.
 
-Vote for awards are like thousands of users of a free service. It means that there is a crowd that's interested in something... but it doesn't say about that something's real worth. That's why I know my [web application Nozbe](http://www.nozbe.com/) is worth a lot more to tens of thousands of happy people. Because they didn't only show up on my web site and say: "Michael, your app is great". They actually confirmed it with their hard-earned cash by [paying for a Nozbe account](http://www.nozbe.com/signup). This award means a lot to me.
+Vote for awards are like thousands of users of a free service. It means that there is a crowd that's interested in something... but it doesn't say about that something's real worth. That's why I know my [web application Nozbe][n] is worth a lot more to tens of thousands of happy people. Because they didn't only show up on my web site and say: "Michael, your app is great". They actually confirmed it with their hard-earned cash by [paying for a Nozbe account](http://www.nozbe.com/signup). This award means a lot to me.
 
 ## When people award you with money - they mean confidence and trust.
 

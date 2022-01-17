@@ -13,9 +13,9 @@ Andrea Feinberg, a coach working mostly with small business owners, explains why
 <!--More-->
 
 
-[ps]: http://michaelsliwinski.com/show
-[itunesv]: http://michaelsliwinski.com/go/itunesvideo
-[itunesa]: http://michaelsliwinski.com/go/itunesaudio
+[ps]: /show
+[itunesv]: /go/itunesvideo
+[itunesa]: /go/itunesaudio
 
 
 [n]: https://michael.gratis/nozbe

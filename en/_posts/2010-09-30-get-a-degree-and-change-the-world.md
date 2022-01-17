@@ -45,7 +45,7 @@ The last benefit is that taking the University route gives you around 5 addition
 
 ## University is a way to go
 
-That's what I did and what I recommend you to do. OK, you don't get to be that prodigy Mark Z. who at age twenty-something is worth more than Steve Jobs, but is it really what you're dreaming of? Is it even probable? Or do you just want a happy life with a passionate work that helps you make a dent in the universe? [I chose the latter and I'm loving it.](http://michaelnozbe.com/enjoying-lifestyle-business)
+That's what I did and what I recommend you to do. OK, you don't get to be that prodigy Mark Z. who at age twenty-something is worth more than Steve Jobs, but is it really what you're dreaming of? Is it even probable? Or do you just want a happy life with a passionate work that helps you make a dent in the universe? [I chose the latter and I'm loving it.](/enjoying-lifestyle-business)
 
 
 [n]: https://michael.gratis/nozbe

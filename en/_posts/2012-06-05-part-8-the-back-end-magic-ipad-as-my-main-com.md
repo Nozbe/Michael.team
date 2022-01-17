@@ -6,7 +6,7 @@ cover: "part-8-the-back-end-magic-ipad-as-my-main-com.jpg"
 # Part 8 - The back-end magic - iPad as my main computer
 
 
-After more than two months [working mostly on my iPad](http://michaelnozbe.com/ipad-as-my-main-computer-prologue) I discovered gradually how different it is to work on this small device than to work on a PC. As I mentioned in my [last post](http://michaelnozbe.com/part-7-simplifications-and-annoyances-ipad-as) - iPad is not a PC. Which means many things need to be done differently... but they do make me more productive and make the process more fun. What I recently discovered is how I like stuff happening **behind the back** in the back-end when working on an iPad. Today we'll dive deeper into this concept.  
+After more than two months [working mostly on my iPad](/ipad-as-my-main-computer-prologue) I discovered gradually how different it is to work on this small device than to work on a PC. As I mentioned in my [last post](/part-7-simplifications-and-annoyances-ipad-as) - iPad is not a PC. Which means many things need to be done differently... but they do make me more productive and make the process more fun. What I recently discovered is how I like stuff happening **behind the back** in the back-end when working on an iPad. Today we'll dive deeper into this concept.  
 
 
 <!--More-->
@@ -26,7 +26,7 @@ Recently I discovered that there is a free service called [SendToDropbox](http:/
 
 ## Automatic feedback loop thanks to sync and email
 
-Another suggestion I got was from [Jakub Krzych](http://about.me/jakub.krzych) - a friend of mine who initially inspired me to go [iPad-only](http://michaelnozbe.com/ipad-as-my-main-computer-prologue) (when I saw him doing most of his work on his iPad on one of the conferences we attended). He sent me a great "flow" how he's working with his designer:
+Another suggestion I got was from [Jakub Krzych](http://about.me/jakub.krzych) - a friend of mine who initially inspired me to go [iPad-only](/ipad-as-my-main-computer-prologue) (when I saw him doing most of his work on his iPad on one of the conferences we attended). He sent me a great "flow" how he's working with his designer:
 
 1) His designer draws something and saves the picture in their shared Box folder (Box is like Dropbox, but more for enterprise use).
 
@@ -50,7 +50,7 @@ The iPad in these situations **serves as a trigger** for the stuff to happen beh
 
 I know you can do similar stuff on a regular computer or laptop... but the thing is, we are lazy and when we work on a powerful computer, we don't set up these things as we prefer to do it all ourselves "because we can". When you're on an iPad you start evaluating how much of your work have you been doing manually and how much can be done "behind the scenes" and don't require your management.
 
-That's why I'm enjoying so much my [iPad-only](http://michaelnozbe.com/ipad-as-my-main-computer-prologue) experiment and I'd say it's a radical move between "PC-centric" work and "iPad-with-computers-in-the-back" work where you really feel the computer is doing stuff for you. And you get to carry this small device and you're just **touching the results**.
+That's why I'm enjoying so much my [iPad-only](/ipad-as-my-main-computer-prologue) experiment and I'd say it's a radical move between "PC-centric" work and "iPad-with-computers-in-the-back" work where you really feel the computer is doing stuff for you. And you get to carry this small device and you're just **touching the results**.
 
 _Sweet, right?_
 

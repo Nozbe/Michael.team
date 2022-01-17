@@ -83,7 +83,7 @@ The first and my most important browsing app is:
 More services I subscribe to:
 
 - [Dropbox](http://db.tt/kD7Liux) - I still use it to sync all of the files on my iOS devices and Mac
-- [Evernote](https://sliwinski.com/how-i-use-evernote) - I don't use it anymore but I'm still a Premium subscriber until March of this year. I'm planning to export everything away from it. The app definitely has lost its way. I'll blog more about how I've replaced it soon, but the short story is that I use Notes for rich notes with photos and scans, iA Writer for written notes and ScanPro for longer scans of documents. I know, three apps to replace one, but I like it that way and have more control over my content.
+- [Evernote](/how-i-use-evernote) - I don't use it anymore but I'm still a Premium subscriber until March of this year. I'm planning to export everything away from it. The app definitely has lost its way. I'll blog more about how I've replaced it soon, but the short story is that I use Notes for rich notes with photos and scans, iA Writer for written notes and ScanPro for longer scans of documents. I know, three apps to replace one, but I like it that way and have more control over my content.
 - [ScanPro+](https://scanbot.io) - formerly "ScanBot", I scan all of my paper documents with this app as it also does OCR of my photos and stores them as PDFs securely on my iCloud Drive.
 
 Other apps in this folder are: Books, Kindle, Apple Store, Developer as well as some notable mentions:

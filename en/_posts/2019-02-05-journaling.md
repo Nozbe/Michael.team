@@ -5,7 +5,7 @@ img: "journaling.jpg"
 
 # How intermittent journaling and some smart Siri shortcuts help me enjoy more intentional and productive days
 
-I love journaling. [I’ve blogged about it in the past](https://sliwinski.com/journal) and the same rules basically apply today. I’ve also been more conscious about planning my days and I’ve also [blogged about my workflows](https://sliwinski.com/workflows) for it in the past. Today I’ll be joining both concepts together, with my up-to-date workflows (Siri shortcuts) and a new concept I’ve been trying lately - intermittent journaling. Here goes:
+I love journaling. [I’ve blogged about it in the past](/journal) and the same rules basically apply today. I’ve also been more conscious about planning my days and I’ve also [blogged about my workflows](/workflows) for it in the past. Today I’ll be joining both concepts together, with my up-to-date workflows (Siri shortcuts) and a new concept I’ve been trying lately - intermittent journaling. Here goes:
  
 <!--More-->
 
@@ -13,7 +13,7 @@ I love journaling. [I’ve blogged about it in the past](https://sliwinski.com/j
 
 ## Using Siri Shortcuts and Bear app
 
-Because I’m using iOS devices to get my stuff done - [I’m iPadOnly](/ipadonly) with the [new 11” iPad Pro](https://sliwinski.com/whichipad) and [I use an iPhoneXS](https://sliwinski.com/newdevice) - I do all of my planning an journaling on either of these devices using Siri Shortcuts and the [Bear note-taking app](https://itunes.apple.com/us/app/bear/id1016366447?mt=8&uo=4&at=1l3vvCJ&ct=sliwinski). I don’t use Bear for anything else - just for planning my days and for journaling.
+Because I’m using iOS devices to get my stuff done - [I’m iPadOnly](/ipadonly) with the [new 11” iPad Pro](/whichipad) and [I use an iPhoneXS](/newdevice) - I do all of my planning an journaling on either of these devices using Siri Shortcuts and the [Bear note-taking app](https://itunes.apple.com/us/app/bear/id1016366447?mt=8&uo=4&at=1l3vvCJ&ct=sliwinski). I don’t use Bear for anything else - just for planning my days and for journaling.
 
 You’ll find below my Siri shortcuts for both planning the days and journaling:
 

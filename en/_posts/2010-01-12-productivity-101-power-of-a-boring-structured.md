@@ -5,7 +5,7 @@ img: "productivity-101-power-of-a-boring-structured.jpg"
 
 # Productivity 101: Power of a "boring" structured day
 
-Recently many of my friends started asking me questions about my [habit of rising early at 5 am](http://michaelnozbe.com/zen-to-done-30-days-to-get-a-habit-early-risi). After that they'd continue inquiring about how the rest of my day looks like. To many of them, regular habits and early rising seems impossible... and they claim it's boring and not spontaneous...
+Recently many of my friends started asking me questions about my [habit of rising early at 5 am](/zen-to-done-30-days-to-get-a-habit-early-risi). After that they'd continue inquiring about how the rest of my day looks like. To many of them, regular habits and early rising seems impossible... and they claim it's boring and not spontaneous...
 
 <!--More-->
 
@@ -13,7 +13,7 @@ Recently many of my friends started asking me questions about my [habit of risin
 
 ## So I wake up at 5 am. And I don't have to. Nobody makes me.
 
-As [I wrote before](http://michaelnozbe.com/zen-to-done-30-days-to-get-a-habit-early-risi) (even [recorded a video about it](http://www.productiveshow.com/2009/11/early-risers-get-things-done/)) I wake up at 5 am on weekdays (on weekends I usually sleep a little longer). Why am I doing that? Because I can start my day early and get a lot done before my wife and my daughter wake up.
+As [I wrote before](/zen-to-done-30-days-to-get-a-habit-early-risi) (even [recorded a video about it](/early-risers-get-things-done/)) I wake up at 5 am on weekdays (on weekends I usually sleep a little longer). Why am I doing that? Because I can start my day early and get a lot done before my wife and my daughter wake up.
 
 Was it easy? No. Hell no. I'm not a morning person. I used to love staying late... but when I found out that between Midnight and 2 am time passes by without me doing anything productive... or anything at all... just staring at the TV... I decided to switch patterns and wake up early.
 

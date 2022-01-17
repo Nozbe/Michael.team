@@ -5,4 +5,5 @@ redirect_from:
  - /tag/magazine/
  - /Magazine/
  - /would-you-recommend-productive-magazine-to-a-friend/
+ - /productive_magazine/_
 ---

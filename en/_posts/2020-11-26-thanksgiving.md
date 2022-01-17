@@ -45,7 +45,7 @@ And as a "thank you" we launched a special [Black Friday offer](https://nozbe.co
 
 ## I'm thankful I can contribute here!
 
-I'm thankful that you're reading this and I can write on this blog. I've had my blog at [Sliwinski.com](https://sliwinski.com/) for more than a decade and this year I've made this switch to this [new domain and new blog](/new) and I love it. I'm slowly [migrating past posts](/archive) and adding the missing ones. It all brings me lots of joy and I'm thankful I can write here and people like to read it.
+I'm thankful that you're reading this and I can write on this blog. I've had my blog at [Sliwinski.com](/) for more than a decade and this year I've made this switch to this [new domain and new blog](/new) and I love it. I'm slowly [migrating past posts](/archive) and adding the missing ones. It all brings me lots of joy and I'm thankful I can write here and people like to read it.
 
 Writing this, makes me thankful!
 

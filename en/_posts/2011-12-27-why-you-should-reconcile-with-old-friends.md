@@ -6,7 +6,7 @@ img: "why-you-should-reconcile-with-old-friends.jpg"
 # Why you should reconcile with old friends
 
 
-It's after Christmas and we're all in a happy mood right now (hopefully) and we're even more hopeful for the upcoming new year. It's time for New Year's Resolutions ([I call them "policies"](http://michaelnozbe.com/a-new-policy-for-2011-is-better-than-a-resolu) and [I wrote how to get them done earlier](http://michaelnozbe.com/new-years-resolutions-as-gtd-projects-product)) and connecting with people we know and love... and reconciling with old friends. Yes, let's talk about that as it's really, truly important.
+It's after Christmas and we're all in a happy mood right now (hopefully) and we're even more hopeful for the upcoming new year. It's time for New Year's Resolutions ([I call them "policies"](/a-new-policy-for-2011-is-better-than-a-resolu) and [I wrote how to get them done earlier](/new-years-resolutions-as-gtd-projects-product)) and connecting with people we know and love... and reconciling with old friends. Yes, let's talk about that as it's really, truly important.
 
 <!--More-->
 

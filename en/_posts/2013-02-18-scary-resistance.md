@@ -46,17 +46,17 @@ This week I will record this course. And nothing can't stop me now.
 ***Question:** What has scared you lately?*
 
 
-[c]: http://www.michaelsliwinski.com/10-steps-to-ultimate-productivity-course-to-b
+[c]: /10-steps-to-ultimate-productivity-course-to-b
 [n]: http://www.nozbe.com/
 [ns]: http://www.nozbe.com/signup
-[p]: http://www.productivemagazine.com/
-[pr]: http://www.michaelsliwinski.com/tag/productivity
-[s]: http://www.michaelsliwinski.com/productive_show
+[p]: /magazine/
+[pr]: /productivity
+[s]: /productive_show
 [t]: http://twitter.com/MSliwinski
-[i]: http://www.michaelsliwinski.com/tag/ipadonly
-[e]: http://www.michaelsliwinski.com/how-i-use-evernote
+[i]: /ipadonly
+[e]: /how-i-use-evernote
 [d]: http://db.tt/kD7Liux
 [a]: http://www.nozbe.com/apps
-[sg]: http://www.michaelsliwinski.com/seth-godin-interview-for-productive-magazine-
+[sg]: /seth-godin-interview-for-productive-magazine-
 
 [n]: https://michael.gratis/nozbe

@@ -62,7 +62,7 @@ I think I have to re-read the "Checklist Manifesto" again (I read it a few month
 [n]: http://www.nozbe.com/
 [c]: http://www.nozbe.com/blog/rich_comments_windows_mac/
 [p]: http://www.nozbe.com/blog/templates/
-[i]: http://www.michaelsliwinski.com/tag/ipadonly
-[f]: http://www.michaelsliwinski.com/part-3-designing-flows-ipad-as-my-main-comput/
+[i]: /ipadonly
+[f]: /part-3-designing-flows-ipad-as-my-main-comput/
 
 [n]: https://michael.gratis/nozbe

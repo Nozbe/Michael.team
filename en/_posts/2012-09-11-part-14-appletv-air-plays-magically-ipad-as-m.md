@@ -6,7 +6,7 @@ cover: "part-14-appletv-air-plays-magically-ipad-as-m.jpg"
 # Part 14 - AppleTV air-plays magically - iPad as my main computer
 
 
-Over the course of my [iPad only](/ipadonly) trip I've found many other "peripherals" help me get the job done. You've seen my [iPad gadget bag](http://michaelnozbe.com/my-ipad-only-accessories-vs-steve-wozniaks-ga) with all of my cables and stuff I take on every business trip. But there is a small (and relatively cheap) device from Apple that makes the iPad shine even more:  
+Over the course of my [iPad only](/ipadonly) trip I've found many other "peripherals" help me get the job done. You've seen my [iPad gadget bag](/my-ipad-only-accessories-vs-steve-wozniaks-ga) with all of my cables and stuff I take on every business trip. But there is a small (and relatively cheap) device from Apple that makes the iPad shine even more:  
 
 
 <!--More-->
@@ -18,7 +18,7 @@ Over the course of my [iPad only](/ipadonly) trip I've found many other "periphe
 
 ## The AppleTV - your external iPad only monitor
 
-I've highlighted many times over that [having two monitors](http://michaelnozbe.com/video-of-my-dual-monitor-setup-for-twice-the) can double your productivity and while I've stayed single-monitor only for the last few months because I enjoy "focused" productive work on a single screen of my iPad, I very often need additional screen estate. This is where AppleTV comes in.
+I've highlighted many times over that [having two monitors](/video-of-my-dual-monitor-setup-for-twice-the) can double your productivity and while I've stayed single-monitor only for the last few months because I enjoy "focused" productive work on a single screen of my iPad, I very often need additional screen estate. This is where AppleTV comes in.
 
 ## AppleTV - not only for shows, Netflix, Hulu and iTunes
 

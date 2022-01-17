@@ -32,19 +32,10 @@ The only problem I see here is if... well... you don't have a garden. Other than
 
 ## Congratulations to creators of this office space for this fantastic business idea. Hope it spreads the idea of working remotely from home.
 
-By the way, the new [Productive! Magazine](http://ProductiveMagazine.com) is all about working from home, so grab your free PDF issue.
+By the way, the new [Productive! Magazine](/magazine/) is all about working from home, so grab your free PDF issue.
 
 What do you think? Would you like to work in a home office like this?
 
-  
-
-
---> ![me](../images/me.png)   
-  
-.. Editor of [Productive! Magazine](http://productivemagazine.com) - a global PDF publication on productivity  
-.. and a [blogger](http://michaelnozbe.com) as well as a producer of a weekly 2-minute [Productive! show](http://productiveshow.com). 
-
-  
 
 
 

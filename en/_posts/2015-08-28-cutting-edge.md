@@ -17,11 +17,11 @@ In less than couple of weeks Apple will unveil the latest iPhone and together wi
 
 **I love technology** - I can't wait to see what's new on the market and how our lives can be improved by technology. That's why I love this time of year to be able to really test the latest and greatest. 
 
-[**I really love my job!**](https://sliwinski.com/5-loves)
+[**I really love my job!**](/5-loves)
 
 ***Question:*** *are you a gadget person?*
 
-*[Sent from my iPhone 6 Plus](https://sliwinski.com/6pluslove)*
+*[Sent from my iPhone 6 Plus](/6pluslove)*
 
 [c]: https://nozbe.com/blog/ios9-sneak-peek/
 [i]: http://iMagazine.pl

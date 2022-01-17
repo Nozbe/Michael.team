@@ -5,7 +5,7 @@ img: "jenson-button.jpg"
 
 # What I learned about productivity, perseverance and long-term thinking from Jenson Button’s win in F1 2011 Canada GP
 
-First off, this article is about productivity. You don’t have to know anything about F1. So stay with me. Before we start, I’m a huge Formula 1 fan and every year I’m watching most of the ~20 Grand Prix races. I’m also a [triathlete](https://sliwinski.com/triathlon). That’s why I really like [Jenson Button][], the 2009 Formula 1 champion. He’s also competing in triathlons and he’s a really good driver. This season he’s not having the best of luck as he’s racing in an uncompetitive McLaren Honda, but I remember some really great races he’s done in the past and there was one particular race which Jenson himself calls “the best of his career”. He won that race… even though he was last in the middle of the race! There’s so much we can learn from this story:
+First off, this article is about productivity. You don’t have to know anything about F1. So stay with me. Before we start, I’m a huge Formula 1 fan and every year I’m watching most of the ~20 Grand Prix races. I’m also a [triathlete](/triathlon). That’s why I really like [Jenson Button][], the 2009 Formula 1 champion. He’s also competing in triathlons and he’s a really good driver. This season he’s not having the best of luck as he’s racing in an uncompetitive McLaren Honda, but I remember some really great races he’s done in the past and there was one particular race which Jenson himself calls “the best of his career”. He won that race… even though he was last in the middle of the race! There’s so much we can learn from this story:
 
 <!--More-->
 

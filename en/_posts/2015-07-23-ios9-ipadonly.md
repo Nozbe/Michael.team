@@ -50,7 +50,7 @@ The second and most important thing is that now the iPad will become a much more
 ***Question:*** *Are you an iPadOnly skeptic or fan? Will the new features change your attitude?* 
 
 
-[iphone6]: https://sliwinski.com/6pluslove/
+[iphone6]: /6pluslove/
 [iMagazine]: http://iMagazine.pl
 [Dropbox]: http://db.tt/kD7Liux
 [Evernote]: /how-i-use-evernote

@@ -6,7 +6,7 @@ img: "blink-by-malcolm-gladwell-audiobook-of-the-we.jpg"
 # Blink by Malcolm Gladwell - audiobook of the week
 
 
-This is my third book by Malcolm Gladwell - before this one I read ["Outliers"](http://michaelnozbe.com/outliers-the-story-of-success-by-malcolm-glad) and the "Tipping Point" (not reviewed on my blog yet) and I must say I liked this book less than the Outliers but it still gave me lots to think about. This author knows how to stir my mind.
+This is my third book by Malcolm Gladwell - before this one I read ["Outliers"](/outliers-the-story-of-success-by-malcolm-glad) and the "Tipping Point" (not reviewed on my blog yet) and I must say I liked this book less than the Outliers but it still gave me lots to think about. This author knows how to stir my mind.
 
 <!--More-->
 
@@ -24,7 +24,7 @@ A great example was a case study when professionals where judging students' char
 
 ## Thin-slicing - a new name for "intuition" that is hard to explain
 
-When we "blink" and make a decision quickly we choose what "feels right". It's our intuition, everything that we learned and that our subconscious mind was working on all these years we're living on this planet (I talked about [the power of the subconscious mind earlier](http://michaelnozbe.com/power-of-the-subconscious-mind)). After we make this quick decision we very often don't even know why we chose like that. We just know. We can't explain it. We feel our decision but we don't understand it.
+When we "blink" and make a decision quickly we choose what "feels right". It's our intuition, everything that we learned and that our subconscious mind was working on all these years we're living on this planet (I talked about [the power of the subconscious mind earlier](/power-of-the-subconscious-mind)). After we make this quick decision we very often don't even know why we chose like that. We just know. We can't explain it. We feel our decision but we don't understand it.
 
 The author calls these quick decisions "thin-slicing" - slicing the problem into a thin thingy and making the decision based on our initial reaction without analyzing it too much.
 

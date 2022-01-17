@@ -16,5 +16,5 @@ What motivates people in No Office company? People work for money but not becaus
 - [Watch all the episodes of the Productive! Show](/show/)
 
 [ps]: /show/
-[itunesv]: http://michaelsliwinski.com/go/itunesvideo
-[itunesa]: http://michaelsliwinski.com/go/itunesaudio
+[itunesv]: /go/itunesvideo
+[itunesa]: /go/itunesaudio

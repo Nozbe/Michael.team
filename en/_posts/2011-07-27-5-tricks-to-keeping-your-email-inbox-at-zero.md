@@ -6,7 +6,7 @@ img: "5-tricks-to-keeping-your-email-inbox-at-zero.jpg"
 # 5 tricks to keeping your email inbox at zero
 
 
-Many busy folks have problems with email these days. Some announce email [bankruptcy](http://www.avc.com/a_vc/2011/07/forced-email-bankruptcy.html). I've always managed to have my email inbox very close to zero. I've [blogged](http://michaelnozbe.com/how-many-emails-are-you-not-receiving) [about](http://michaelnozbe.com/clearing-pile-of-email-after-business-trip) [email](http://michaelnozbe.com/handling-email-on-business-trips) [before](http://www.MichaelNozbe.com/tag/email) and even recorded a [few](http://www.productivefirm.com/2008/10/my-simple-email-setup-with-imap/) [video](http://www.productivefirm.com/2008/08/processing-email-to-zero/) [shows](http://www.productivefirm.com/2008/07/get-a-life-outside-of-email/), too. But for the last few weeks I've finally managed to keep email inbox at zero consistently every single day. Here's how:
+Many busy folks have problems with email these days. Some announce email [bankruptcy](http://www.avc.com/a_vc/2011/07/forced-email-bankruptcy.html). I've always managed to have my email inbox very close to zero. I've [blogged](/how-many-emails-are-you-not-receiving) [about](/clearing-pile-of-email-after-business-trip) [email](/handling-email-on-business-trips) [before](/email) and even recorded a [few](/my-simple-email-setup-with-imap/) [video](/processing-email-to-zero/) [shows](/get-a-life-outside-of-email/), too. But for the last few weeks I've finally managed to keep email inbox at zero consistently every single day. Here's how:
 
 <!--More-->
 

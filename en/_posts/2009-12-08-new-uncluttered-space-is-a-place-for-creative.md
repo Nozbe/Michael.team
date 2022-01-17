@@ -12,7 +12,7 @@ As I've already mentioned on my blog, we've moved to a new apartment where I'll 
 
 ![{{ page.title }}](/img/{{ page.img }})
 
-If you've been following my blog for a while know, you might know [my cool clutter-free cabinet.](http://michaelnozbe.com/declutter-your-desk-why-i-love-my-clutter-fre)
+If you've been following my blog for a while know, you might know [my cool clutter-free cabinet.](/declutter-your-desk-why-i-love-my-clutter-fre)
 
 It's a thing I've been really proud of - takes the least amount of space and manages to pack my laptop, external monitor and another laptop (that acts as my home server)
 

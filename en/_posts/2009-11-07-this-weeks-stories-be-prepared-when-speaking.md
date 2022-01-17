@@ -31,7 +31,7 @@ It's also important to learn to take a deep breath when someone is offending you
 
 [Does Slow Growth Equal Slow Death](http://www.inc.com/magazine/20091101/does-slow-growth-equal-slow-death.html?partner=fogcreek) - from Joel Spolsky made me think about my business which at this point is indeed in a very "comfortable" state with a "comfortable" growth rate and although we're working hard on giving more value to our users every day, we might be not doing enough to ensure a more rapid growth.
 
-Although I also liked and agree to a certain degree [with David's response](http://37signals.com/svn/posts/2002-bug-tracking-isnt-a-network-effect-business), this is something I will be revisiting with my [Nozbe team](http://nozbe.com) and checking where we can improve and make sure we can "handle success" staying "hungry and foolish" just like Steve Jobs said.
+Although I also liked and agree to a certain degree [with David's response](http://37signals.com/svn/posts/2002-bug-tracking-isnt-a-network-effect-business), this is something I will be revisiting with my [Nozbe team][n] and checking where we can improve and make sure we can "handle success" staying "hungry and foolish" just like Steve Jobs said.
 
 _**Question: **Are you always prepared for your presentations? Do you like it when someone is not prepared and they make fun about it? Can you handle trolls? Can you handle critique? Is your company / startup developing fast enough?_
 

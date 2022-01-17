@@ -36,7 +36,7 @@ Weekly review is just that - a new project that you have to complete every week.
 
 ### 1. Clear physical inbox
 
-I have a regular inbox tray where I put my receipts, snail mail and physical notes - and I empty it every day practically ([I even empty my inbox after travel fairly quickly](http://www.productivefirm.com/2010/10/processing-big-inbox-after-travel/)),so this takes me about 15 minutes to empty my current inbox before the review.
+I have a regular inbox tray where I put my receipts, snail mail and physical notes - and I empty it every day practically ([I even empty my inbox after travel fairly quickly](/processing-big-inbox-after-travel/)),so this takes me about 15 minutes to empty my current inbox before the review.
 
 ### 2. Inbox Zero + REPLY without fires, meaning…
 
@@ -44,7 +44,7 @@ I need to have my Email inbox at ZERO (no biggie, I have it at zero every day) b
 
 ### 3. Review Mindmap
 
-I keep a mind map of all my life (the 50k level and below), meaning I have all my business and private roles there and the paths I'm going in these roles. I have all my strategic decisions for [Nozbe][n], [Productive! Firm](http://ProductiveFirm.com/) and other projects there and every week I review it to make sure I know where I'm going.
+I keep a mind map of all my life (the 50k level and below), meaning I have all my business and private roles there and the paths I'm going in these roles. I have all my strategic decisions for [Nozbe][n], **Productive! Firm** and other projects there and every week I review it to make sure I know where I'm going.
 
 If some direction changes, I update the mind map and if it's irrelevant I update it, too. This mind map review helps me decide my actions for next week (as well as assess last week's actions). I also review my past week's calendar to make sure nothing sleeps my mind.
 

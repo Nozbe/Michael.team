@@ -44,7 +44,7 @@ Anyway, I loved the book - it was short and to the point and left we with some c
 
 ## What I also loved - the size of Al's book / manifesto
 
-Just like I loved [Rework by 37signals](http://michaelnozbe.com/review-of-37signals-cookbook-called-rework-ge), I loved this book, too. I spent 2 hours reading it and felt I got some really cool ideas out of it. I actually read it on my iPhone's Kindle app during my last-week's travels. Who said business books need to be 300 pages that you need an entire day to read? I definitely like the new format better. Hope for more manifestos like this in the future :-)
+Just like I loved [Rework by 37signals](/review-of-37signals-cookbook-called-rework-ge), I loved this book, too. I spent 2 hours reading it and felt I got some really cool ideas out of it. I actually read it on my iPhone's Kindle app during my last-week's travels. Who said business books need to be 300 pages that you need an entire day to read? I definitely like the new format better. Hope for more manifestos like this in the future :-)
 
   
   

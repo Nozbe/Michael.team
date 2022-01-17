@@ -29,7 +29,7 @@ Additionally, this year Apple introduced a smaller iPad Pro with a 10-inch displ
 
 **Or perhaps three musketeers?**
 
-To this “team” I’ll add a third tablet, namely... [iPhone 6S Plus](https://sliwinski.com/6pluslove) – a phone that's so huge that you can do almost anything on it. Since I started using my plus-sized phone, I've been often leaving the iPad at home, because I know I have everything I need to work quite effectively. In fact, some of my blog posts and articles for this magazine were created on the phone.
+To this “team” I’ll add a third tablet, namely... [iPhone 6S Plus](/6pluslove) – a phone that's so huge that you can do almost anything on it. Since I started using my plus-sized phone, I've been often leaving the iPad at home, because I know I have everything I need to work quite effectively. In fact, some of my blog posts and articles for this magazine were created on the phone.
 
 ## There’s more power now!
 
@@ -37,7 +37,7 @@ Thanks to these three portable devices that boast the performance of a  PC, we c
 
 ## Is the keyboard optional?
 
-One of the main chapters of my [“#iPadOnly” book][ipadonly] was devoted to the keyboard and [how optional it is](https://sliwinski.com/part-10-they-keyboard-or-the-lack-of-it-ipad), how rarely we use it, and how easily you can learn to use the one on the screen.
+One of the main chapters of my [“#iPadOnly” book][ipadonly] was devoted to the keyboard and [how optional it is](/part-10-they-keyboard-or-the-lack-of-it-ipad), how rarely we use it, and how easily you can learn to use the one on the screen.
 
 I still think that’s true. Thanks to TapTyping, I learned to touch-type on iPad’s on-screen keyboard and I’m actually quite good at it.
 
@@ -47,7 +47,7 @@ Yes, keyboards were available from the start... but only Bluetooth ones. You had
 
 ## Smart Keyboard – ugly but effective!
 
-When the Smart Keyboard was released along with iPad Pro, I didn’t like it. It was ugly, gray and oddly designed. As [I mentioned in one of my previous articles](https://sliwinski.com/ipadprokeyboard), I couldn’t get used to the keyboard. However, after tests at the Apple Store I decided to buy it and I’m using it right now to write this article.
+When the Smart Keyboard was released along with iPad Pro, I didn’t like it. It was ugly, gray and oddly designed. As [I mentioned in one of my previous articles](/ipadprokeyboard), I couldn’t get used to the keyboard. However, after tests at the Apple Store I decided to buy it and I’m using it right now to write this article.
 
 The success of this device lies in the fact that it’s always at hand because it “hides” itself in the Smart Cover. It connects with the device by means of a special port called a “Smart connector,” so you don’t have to charge it. It snaps on quickly and significantly simplifies work on the iPad. You don’t even have to think about it – it always works everywhere. And typing is quite smooth.
 
@@ -97,7 +97,7 @@ Full professionalism... on iPad Pro. Now, when such tools are finally becoming a
 
 In 2012 I started the [#iPadOnly era][ipad] on iPad 3 with Retina display. Everyone was either laughing at me or looking at me with pity.
 
-Along the way were iPad 4, iPad Air, iPad Air 2 and finally - iPad Pro. And also iOS7, 8, 9 and soon - 10, which [I tested and reviewed in my last article](https://sliwinski.com/sierra). Both hardware and software have matured, finally enabling real work.
+Along the way were iPad 4, iPad Air, iPad Air 2 and finally - iPad Pro. And also iOS7, 8, 9 and soon - 10, which [I tested and reviewed in my last article](/sierra). Both hardware and software have matured, finally enabling real work.
 
 ## Users also matured...
 

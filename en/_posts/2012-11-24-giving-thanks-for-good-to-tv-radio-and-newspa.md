@@ -42,7 +42,7 @@ When I'm running or driving I prefer to listen to the audiobooks as I can focus 
 
 ## 5. I read RSS and digital magazines
 
-I'm the publisher of the [Productive! Magazine](http://www.productivemagazine.com/) after all so I like digital magazines but most of all I like RSS - where I can subscribe to many of my favorite blogs and read them daily using the fantastic Reeder app on my iPhone or iPad. And if I really want some more up-to-date news'y kind of stuff - I check my Twitter timeline.
+I'm the publisher of the [Productive! Magazine](/magazine/) after all so I like digital magazines but most of all I like RSS - where I can subscribe to many of my favorite blogs and read them daily using the fantastic Reeder app on my iPhone or iPad. And if I really want some more up-to-date news'y kind of stuff - I check my Twitter timeline.
 
 ## This is how content-on-demand changed my habits
 

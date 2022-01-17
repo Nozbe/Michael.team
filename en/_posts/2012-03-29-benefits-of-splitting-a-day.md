@@ -6,7 +6,7 @@ img: "benefits-of-splitting-a-day.jpg"
 # Benefits of splitting a day
 
 
-I've mentioned several times already that [I split my day into two different halves](http://michaelnozbe.com/first-thing-you-do-in-the-morning). In the morning I focus on creating stuff and only after 12 pm I start replying to emails and responding to everybody. It's been working very good for me.
+I've mentioned several times already that [I split my day into two different halves](/first-thing-you-do-in-the-morning). In the morning I focus on creating stuff and only after 12 pm I start replying to emails and responding to everybody. It's been working very good for me.
 
 <!--More-->
 
@@ -33,7 +33,7 @@ The rest of the day I spend replying to email and calling people and taking phon
 
 ## Working standing vs working sitting
 
-The noon also usually changes my working style - in the mornings [I'm working standing](http://michaelnozbe.com/im-still-standing-my-latest-video-show) and at noon I take my laptop, get a cup of coffee and go sit on a terrace or in the living room. This way I can benefit from sitting nicely and start replying to people :-)
+The noon also usually changes my working style - in the mornings [I'm working standing](/im-still-standing-my-latest-video-show) and at noon I take my laptop, get a cup of coffee and go sit on a terrace or in the living room. This way I can benefit from sitting nicely and start replying to people :-)
 
 ## The benefit of splitting the day is FOCUS
 

@@ -6,7 +6,7 @@ img: "friday-readership-seth-godin-says-we-should-s.jpg"
 # Friday Readership: Seth Godin says we should ship now, ship often
 
 
-This week's [Friday Readership](http://www.MichaelNozbe.com/tag/followfriday) will be all about shipping - I listened to Seth's Godin presentation at the 99% Conference and it really hit home, as I'm about to ship our new online web app that and my "lizard brain" is not helping me much with getting the product ready. But this month we'll definitely ship the beta version. I encourage you to listen to Seth now:
+This week's [Friday Readership](/links/) will be all about shipping - I listened to Seth's Godin presentation at the 99% Conference and it really hit home, as I'm about to ship our new online web app that and my "lizard brain" is not helping me much with getting the product ready. But this month we'll definitely ship the beta version. I encourage you to listen to Seth now:
 
 {% include vimeo.html id="5895898" %}
 

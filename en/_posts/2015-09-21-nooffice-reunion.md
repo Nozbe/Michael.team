@@ -5,7 +5,7 @@ img: "nooffice-reunion.jpg"
 
 # How we get our reunions done. Meeting my entire Nozbe team
 
-Today our [Nozbe reunion][nr] starts and it means that all of [us remote workers](https://sliwinski.com/teleworking) get to one hotel and spend a week here. To enjoy quality time together, to strategize, to brainstorm, to strengthen our team. This is how we do it:
+Today our [Nozbe reunion][nr] starts and it means that all of [us remote workers](/teleworking) get to one hotel and spend a week here. To enjoy quality time together, to strategize, to brainstorm, to strengthen our team. This is how we do it:
 
 <!--More-->
 

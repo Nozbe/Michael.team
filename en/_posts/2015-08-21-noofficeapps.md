@@ -5,7 +5,7 @@ img: "noofficeapps.jpg"
 
 # The apps and services we use at our remotely-working company
 
-At [Nozbe][] we all work [remotely](https://sliwinski.com/teleworking) and to communicate and work effectively we use a few apps and services that help us get things done. The other day someone asked me about it on Twitter and I [tweeted back][T] but in this short post I'd like to elaborate a little more on our choice of apps:
+At [Nozbe][] we all work [remotely](/teleworking) and to communicate and work effectively we use a few apps and services that help us get things done. The other day someone asked me about it on Twitter and I [tweeted back][T] but in this short post I'd like to elaborate a little more on our choice of apps:
 
 <!--More-->
 
@@ -33,7 +33,7 @@ Two bonus apps:
 
 ***Question:*** *What's missing on this list? What do you use?*
 
-P.S. No email here. My [assistant checks mine](https://sliwinski.com/assistant). Why? Because [my team has my highest priority](https://sliwinski.com/site), and with them I'm in touch through Nozbe. 
+P.S. No email here. My [assistant checks mine](/assistant). Why? Because [my team has my highest priority](/site), and with them I'm in touch through Nozbe. 
 
 [s]: http://slack.com
 [g]: http://github.com

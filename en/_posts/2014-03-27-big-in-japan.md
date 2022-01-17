@@ -51,7 +51,7 @@ Greetings from Tokyo, Japan!
 [zono]: http://www.zonostyle.com/
 [zono1]: http://www.zonostyle.com/interview
 [zono2]: http://www.zonostyle.com/book
-[jp]: http://www.michaelsliwinski.com/publicnozbe-simply-help-someone-in-japan
+[jp]: /publicnozbe-simply-help-someone-in-japan
 [jp1]: http://www.nozbe.com/blog/post-2bce1065=#publicnozbe-public_nozbe_projects_for_japanese_people_and_everyone_else
 [jp2]: http://www.nozbe.com/blog/post-b1bc16b4=native_nozbe_application_for_the_mac_-early_beta-
 [lagrange]: http://lagrange-pr.com
@@ -59,7 +59,7 @@ Greetings from Tokyo, Japan!
 [pj]: http://www.productivemag.jp/
 [i]: http://pics.sliwinski.com
 [Dropbox]: http://db.tt/kD7Liux
-[Evernote]: http://www.michaelsliwinski.com/how-i-use-evernote
+[Evernote]: /how-i-use-evernote
 [Nozbe]: http://www.nozbe.com/
 [s]: http://www.nozbe.com/signup
 [#iPadOnly]: http://ipadonly.net/

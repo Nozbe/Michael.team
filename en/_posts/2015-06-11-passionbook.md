@@ -5,7 +5,7 @@ img: "passionbook.jpg"
 
 # What did you think about my book "It's all about passion!"?
 
-*Note: This post is a transcript of my "Passionate Productivity" newsletter which I sent to people who read my book "It's all about Passion!" - if you want to be receiving emails from me in the future, [get the book by signing up](https://sliwinski.com/passion) - thank you! I received lots of amazing replies and I'll try to share some gems with you here later!*
+*Note: This post is a transcript of my "Passionate Productivity" newsletter which I sent to people who read my book "It's all about Passion!" - if you want to be receiving emails from me in the future, [get the book by signing up](/passion) - thank you! I received lots of amazing replies and I'll try to share some gems with you here later!*
 
 Hi there, I'm Michael Sliwinski and a little over a year ago, to celebrate my 35th birthday, I published a book about 7 types of passion I discovered when running my productivity startup - [Nozbe][n].
 

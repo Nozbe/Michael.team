@@ -6,7 +6,7 @@ cover: "dont-disturb-genius-at-work.jpg"
 # Don't disturb - genius at work
 
 
-Starting this September we moved to a new home with my family and I had to set up my new home office all over again. It's my third home office in 3 years, I previously featured [my first one based on Ikea cabinet](http://michaelnozbe.com/declutter-your-desk-why-i-love-my-clutter-fre), later in a new apartment I had a[ separate room with a big wide desk](http://michaelnozbe.com/christmas-cleaning-clutter-free-productive-ho), and this time I also have a separate room, but for many practical reasons I focused on building it as minimalistic as possible and with mostly IKEA furniture - here's a sneak peak of the work-in-progress:
+Starting this September we moved to a new home with my family and I had to set up my new home office all over again. It's my third home office in 3 years, I previously featured [my first one based on Ikea cabinet](/declutter-your-desk-why-i-love-my-clutter-fre), later in a new apartment I had a[ separate room with a big wide desk](/christmas-cleaning-clutter-free-productive-ho), and this time I also have a separate room, but for many practical reasons I focused on building it as minimalistic as possible and with mostly IKEA furniture - here's a sneak peak of the work-in-progress:
 
 <!--More-->
 

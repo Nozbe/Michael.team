@@ -21,7 +21,7 @@ Please help us spread the word to achieve our goal of 60K downloads! Thanks! Her
   * [Qlubb](http://blog.qlubb.com/2009/04/managing-group-when-youre-not-really-in.html)
   * [Antyweb](http://antyweb.pl/nozbe-przepytal-kawasakiego-czyli-nowy-productive-magazine/)
   * [DuTudu](http://www.dutudu.mideann.net/productividad/2009/04/28/productive-magazine-2/)
-  * [My personal blog](http://www.sliwinski.biz/2009/04/productive-magazine-2-with-guy-kawasaki/)
+  * [My personal blog](/productive-magazine-2-with-guy-kawasaki/)
   * and many many Twitter users....
 I invite you to [follow me on twitter](http://twitter.com/michaelnozbe), blog and tweet about the magazine and help us spread the word! After all we're doing the magazine for your, for free and we're hoping you'll find it useful. Thanks!
 

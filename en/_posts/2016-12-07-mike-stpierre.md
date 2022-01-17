@@ -13,7 +13,7 @@ Mike is a great friend. I originally did this interview with him for the [Nozbe 
 
 This interview was originally published on [Nozbe blog][b].
 
-After you've watched this video, make sure to [check out my podcasts and the entire Productive! Show archive](https://sliwinski.com/show).
+After you've watched this video, make sure to [check out my podcasts and the entire Productive! Show archive](/show).
 
 [b]: https://nozbe.com/blog/user-mike-st-pierre
 [n]: https://michael.gratis/nozbe

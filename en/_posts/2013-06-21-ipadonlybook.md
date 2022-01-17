@@ -80,7 +80,7 @@ So there it is. I wrote my first book. Feels great. [Check it out][io].
 
 ***Question:** Have you tried working mainly on your iPad? What has been your experience so far?*
 
-[i1]: http://www.michaelsliwinski.com/part-1-the-clouds-ipad-as-my-main-computer
+[i1]: /part-1-the-clouds-ipad-as-my-main-computer
 [ap]: http://www.augustopinaud.com/
 [a1]: http://augustopinaud.com/category/working-on-my-ipad/
 [a2]: http://augustopinaud.com/exploring-outside-of-the-comfort-zone-or-should-we-called-the-dangerous-zone/
@@ -88,11 +88,11 @@ So there it is. I wrote my first book. Feels great. [Check it out][io].
 [it]: http://www.ipadonly.net/book/
 [n]: http://www.nozbe.com/
 [ns]: http://www.nozbe.com/signup
-[p]: http://www.productivemagazine.com/
-[s]: http://www.michaelsliwinski.com/productive_show
+[p]: /magazine/
+[s]: /productive_show
 [t]: http://twitter.com/MSliwinski
-[i]: http://www.michaelsliwinski.com/tag/ipadonly
-[e]: http://www.michaelsliwinski.com/how-i-use-evernote
+[i]: /ipadonly
+[e]: /how-i-use-evernote
 [d]: http://db.tt/kD7Liux
 
 [n]: https://michael.gratis/nozbe

@@ -5,7 +5,7 @@ tags: [productivity]
 
 # Once a week to create a long-lasting habit
 
-Today I’d like to remind myself and you that to start a good habit of doing something consistently you should commit to doing it just once a week. And for best results, same day every week. This helped me start running and eventually doing [triathlons](https://sliwinski.com/tri11). This will hopefully help me blog more regularly and reply to emails. From now on I’m committed to writing **a new blog post every week on a Thursday** and reviewing all my **email backlog every week on a Friday**. Details below. 
+Today I’d like to remind myself and you that to start a good habit of doing something consistently you should commit to doing it just once a week. And for best results, same day every week. This helped me start running and eventually doing [triathlons](/tri11). This will hopefully help me blog more regularly and reply to emails. From now on I’m committed to writing **a new blog post every week on a Thursday** and reviewing all my **email backlog every week on a Friday**. Details below. 
 
 <!--More--> 
 
@@ -25,7 +25,7 @@ And if I'd go for a run on a Thursday or Friday, it was like a nice bonus. Somet
 
 ## Same goes to blogging. I have things to say but sometimes I'm just busy...
 
-[I've just launched this new blog](/new) to be able to blog more. This blog brings me joy. I love writing here, I love controlling this environment, and I'd love to re-import all my blog posts from [Sliwinski.com](https://sliwinski.com/) and also the posts that I saved on my iPad but never posted.
+[I've just launched this new blog](/new) to be able to blog more. This blog brings me joy. I love writing here, I love controlling this environment, and I'd love to re-import all my blog posts from [Sliwinski.com](/) and also the posts that I saved on my iPad but never posted.
 
 But life happens. I'm busy. Now [I'll be writing the #NoOffice book](https://NoOffice.org/) for the entire month of August. Just wrote the [chapter 6 on banning email today][no].
 
@@ -49,7 +49,7 @@ Why do I have so many problems with answering personal email? Well, it's simple,
 
 Again, [re-read chapter 6 of "No Office" book][no].
 
-And yes, I'll still be [emailing like texting](https://sliwinski.com/emailing-like-texting).
+And yes, I'll still be [emailing like texting](/emailing-like-texting).
 
 ## Go weekly and nail your habits!
 

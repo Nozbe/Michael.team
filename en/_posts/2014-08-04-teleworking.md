@@ -5,14 +5,14 @@ cover: "teleworking.jpg"
 
 # Teleworking in Nozbe - why we all work from home, from anywhere, without any office...
 
-Every year I'm posting pictures and videos of my home office. If you feel nostalgic, feel free to check it out: [2008](https://sliwinski.com/declutter-your-desk-why-i-love-my-clutter-fre),
-[2009](https://sliwinski.com/christmas-cleaning-clutter-free-productive-ho),
-[2010](https://sliwinski.com/zen-in-my-new-2010-clutter-free-home-office)
-([video](https://sliwinski.com/show-30-clutter-free-home-office-optimized-for-gtd)),
-[2011](https://sliwinski.com/cable-management-in-my-home-office),
-[2012](https://sliwinski.com/simplifying-productive-home-office-in-2012)
+Every year I'm posting pictures and videos of my home office. If you feel nostalgic, feel free to check it out: [2008](/declutter-your-desk-why-i-love-my-clutter-fre),
+[2009](/christmas-cleaning-clutter-free-productive-ho),
+[2010](/zen-in-my-new-2010-clutter-free-home-office)
+([video](/show-30-clutter-free-home-office-optimized-for-gtd)),
+[2011](/cable-management-in-my-home-office),
+[2012](/simplifying-productive-home-office-in-2012)
 and
-[2013](https://sliwinski.com/show-home-office-2013). Why home office? Well, because my home office is indeed my only real office. Even when running a company of over a dozen of full time people.
+[2013](/show-home-office-2013). Why home office? Well, because my home office is indeed my only real office. Even when running a company of over a dozen of full time people.
 
 <!--More-->
 
@@ -20,7 +20,7 @@ and
 
 ## I always wanted to work from anywhere...
 
-Back in the day when I was in college I was amazed how much I could get done together with my friend. We built a web app together in early 2000s. He was living and studying in Poland and I just moved to study in Germany. There was no Skype back then, no Github, he was on a dial-up connection... it was crazy, yet we built something ([you can read more about it in my book "It's all about passion"](https://sliwinski.com/passion)).
+Back in the day when I was in college I was amazed how much I could get done together with my friend. We built a web app together in early 2000s. He was living and studying in Poland and I just moved to study in Germany. There was no Skype back then, no Github, he was on a dial-up connection... it was crazy, yet we built something ([you can read more about it in my book "It's all about passion"](/passion)).
 
 I was so amazed by it that I wrote my master thesis on virtual companies and teleworking in 2003... and the main premise of it was: 
 
@@ -64,7 +64,7 @@ Let me end this with something Delfina, my Chief (Customer) Happiness Officer, t
 
 > "Michael, if you ever intend to set up a nice office somewhere downtown with nice office equipment and all the perks... that's all great and all, just don't make me go there!"
 
-And yes, we're a small team, running a small Internet company and people keep telling me that when we "grow up" we'll need to have one central office... but as I remember while talking to [Marten Mickos](https://sliwinski.com/marten-mickos) - MySQL had 500 full time employees and most working remotely... so I still have room to scale :-)
+And yes, we're a small team, running a small Internet company and people keep telling me that when we "grow up" we'll need to have one central office... but as I remember while talking to [Marten Mickos](/marten-mickos) - MySQL had 500 full time employees and most working remotely... so I still have room to scale :-)
 
 ***Question:*** *Have you been working from home? Do you have any tips, tricks, ideas for teleworking? Would you want to try working from home?*
 

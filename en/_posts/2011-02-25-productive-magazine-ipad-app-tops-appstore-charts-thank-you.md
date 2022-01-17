@@ -9,7 +9,7 @@ redirect_from:
 # Productive! Magazine iPad app tops Appstore charts! Thank you!
 
 
-Wow, I suspected that releasing the [Productive! Magazine iPad app](http://ProductiveFirm.com/MagazineApp) for free would boost our readership but I never suspected that we'd get that far! Just checked our stats on the US Appstore and we're no. 15 on the Free iPad apps list in "Lifestyle" category - the most crowded magazine-specific category on the Appstore! Here you go: 
+Wow, I suspected that releasing the [Productive! Magazine iPad app](http://productivemag.com) for free would boost our readership but I never suspected that we'd get that far! Just checked our stats on the US Appstore and we're no. 15 on the Free iPad apps list in "Lifestyle" category - the most crowded magazine-specific category on the Appstore! Here you go: 
 
 <!--More-->
 

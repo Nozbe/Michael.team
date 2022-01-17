@@ -11,7 +11,7 @@ Last month I was kindly invited to one of the biggest mobile conferences in Euro
 
 <!--More-->
 
-## My presentation at Mobiconf was about the [apps](https://sliwinski.com/apps) we use to do our [#NoOffice](/nooffice) work and the way we communicate- specifically our [pyramid of communication](https://sliwinski.com/pyramid)
+## My presentation at Mobiconf was about the [apps](/apps) we use to do our [#NoOffice](/nooffice) work and the way we communicate- specifically our [pyramid of communication](/pyramid)
 
 [Here's the link to all the resources mentioned in this presentation.](/mobiconf/)
 

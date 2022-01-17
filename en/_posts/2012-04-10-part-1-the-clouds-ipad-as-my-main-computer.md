@@ -6,7 +6,7 @@ img: "part-1-the-clouds-ipad-as-my-main-computer.jpg"
 # Part 1 - the Clouds - iPad as my main computer
 
 
-Today is my first day of working entirely on the iPad. [As I mentioned in my last blog post](http://michaelnozbe.com/ipad-as-my-main-computer-prologue) over the course of the next weeks I will try to make this very iPad my only computer, actually spending 80%+ of my time working on the iPad. The last two days I've been setting it up and made a few discoveries... about the clouds and the significant part they'll play in my "iPad only" journey. Here we go:  
+Today is my first day of working entirely on the iPad. [As I mentioned in my last blog post](/ipad-as-my-main-computer-prologue) over the course of the next weeks I will try to make this very iPad my only computer, actually spending 80%+ of my time working on the iPad. The last two days I've been setting it up and made a few discoveries... about the clouds and the significant part they'll play in my "iPad only" journey. Here we go:  
 
 
 <!--More-->
@@ -16,7 +16,7 @@ Today is my first day of working entirely on the iPad. [As I mentioned in my las
 
 ## Life in the cloud... and there are more clouds than we think
 
-Lots of companies are talking about moving to the cloud and how it can be accomplished and there are many "cloud" services out there... and what I have found out is that in order for my [ipad experiment](http://michaelnozbe.com/ipad-as-my-main-computer-prologue) to work I really need to use several cloud services and balance between storing data in the cloud and locally on my iPad. Luckily I have 64GB of storage so plenty to go by... but I need to go away from just storing everything here. It's not possible... and it's stupid. iPad is a post-PC device and needs a different approach. And it's very exciting :-)
+Lots of companies are talking about moving to the cloud and how it can be accomplished and there are many "cloud" services out there... and what I have found out is that in order for my [ipad experiment](/ipad-as-my-main-computer-prologue) to work I really need to use several cloud services and balance between storing data in the cloud and locally on my iPad. Luckily I have 64GB of storage so plenty to go by... but I need to go away from just storing everything here. It's not possible... and it's stupid. iPad is a post-PC device and needs a different approach. And it's very exciting :-)
 
 ## 7 Clouds to rule them all
 
@@ -36,7 +36,7 @@ I'm a big Evernote fan and I've been using them for three years now. That's why 
 
 ## Cloud #4 - Kindle for eBooks and... PDFs
 
-As I prefer audiobooks, I tend to directly use Audible app on my iPhone, but some books are not available in audio so I use Kindle... and recently I discovered that Kindle gives you 5GIG of storage for PDFs... and as a [Productive! Magazine](http://www.productivemagazine.com) editor I get lots of PDFs to read. I used to keep some of these in Dropbox and others in Evernote... now I've removed them from both and sent everything to my [free.kindle.com](http://free.kindle.com) email address. Now I can read them in Kindle on my iPad and it remebers my last-read position... and it's a real joy to use. Great iPad-friendly discovery.
+As I prefer audiobooks, I tend to directly use Audible app on my iPhone, but some books are not available in audio so I use Kindle... and recently I discovered that Kindle gives you 5GIG of storage for PDFs... and as a [Productive! Magazine](/magazine/) editor I get lots of PDFs to read. I used to keep some of these in Dropbox and others in Evernote... now I've removed them from both and sent everything to my [free.kindle.com](http://free.kindle.com) email address. Now I can read them in Kindle on my iPad and it remebers my last-read position... and it's a real joy to use. Great iPad-friendly discovery.
 
 ## Cloud #5 - Simplenote for text-only notes
 
@@ -52,7 +52,7 @@ Although I don't like where "getting evil" Google is going, I still can't replac
 
 ## 7 Clouds to manage them, one iPad to bind them
 
-These are so far my most important "cloud" services and I'm happy I finally got around to re-designing my computer setup. The [iPad only](http://michaelnozbe.com/ipad-as-my-main-computer-prologue) experiment made me re-think the way I work and I love the results so far. No longer is my PC my "central hub" the 7 Clouds are and they compliment my iPad beautifully. The major difference between the iPad and say a "chromebook" is that lots of stuff is still happening locally on my iPad, I can work offline most of the time... and when I connect the stuff syncs right away (although I do have 4G model so I'm very rarely offline).
+These are so far my most important "cloud" services and I'm happy I finally got around to re-designing my computer setup. The [iPad only](/ipad-as-my-main-computer-prologue) experiment made me re-think the way I work and I love the results so far. No longer is my PC my "central hub" the 7 Clouds are and they compliment my iPad beautifully. The major difference between the iPad and say a "chromebook" is that lots of stuff is still happening locally on my iPad, I can work offline most of the time... and when I connect the stuff syncs right away (although I do have 4G model so I'm very rarely offline).
 
 ## Do you use "Clouds"? How does your setup look like? Did I miss anything?
 
