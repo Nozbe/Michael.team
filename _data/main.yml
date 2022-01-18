@@ -92,19 +92,19 @@ tags:
 - name: blogging
   emoj: "⌨️"
   titl: "Blogging"
-  tit2: "I've had a personal blog since 2008. Here's where I share all my stories regarding to blogging, platforms and writing itself."
+  tit2: "I've had a personal blog since 2008 [using different domains](/sliwinski_com/). Here's where I share all my stories regarding blogging, platforms and writing itself."
 - name: books
   emoj: "📖"
   titl: "Books"
-  tit2: "Books I'm reading and recommending as well as books I'm writing. Featuring the behind-the-scenes process of writing my main project currently, the **[#NoOffice book](https://NoOffice.org/){:target='_blank'}**. I'm also [reading a lot](/reading/). You can also get my past books: [It's All About Passion!](/passion/) and [NoOffice Apps](/apps/) when you subscribe to my [newsletter](/news/)."
+  tit2: "Books I'm [reading and recommending](/reading) as well as books I'm writing. Featuring behind-the-scenes of the **[#NoOffice book](https://NoOffice.org/){:target='_blank'}** creation process. Get my past books: [It's All About Passion!](/passion/) and [NoOffice Apps](/apps/) when you subscribe to my [newsletter](/news/)."
 - name: business
   emoj: "💼"
   titl: "Business"
-  tit2: "Capitalism, business, money and my struggles as an Internet entrepreneur. No, I don't really own a briefcase."
+  tit2: "Capitalism, online business, startups, money and my struggles as an Internet entrepreneur. No, I don't really own a briefcase."
 - name: computers
   emoj: "💻"
   titl: "Computers"
-  tit2: "Computing platforms and all the types of computers I used to use like Macs, Windows machines… together with geeky gadgets I happen to test and buy. I also write more specifically on [iPads](/ipadonly), [iPhones](/iphone) and [Apple Watches](/applewatch)."
+  tit2: "Computing platforms and all the types of computers I used to use… together with geeky gadgets I happen to test and buy. I also write more specifically on [iPads](/ipadonly), [iPhones](/iphone) and [Apple Watches](/applewatch)."
 - name: draw
   emoj: "✏️"
   titl: "Drawings"
@@ -112,11 +112,11 @@ tags:
 - name: guest
   emoj: "🤩"
   titl: "Guest appearances"
-  tit2: "Places where I was invited as a guest: press, interviews, podcasts, conferences..."
+  tit2: "Places where I was invited as a guest: press, interviews, podcasts, conferences, etc… (if you're interviewing me, [get my bio and photos](/about/#short-bio))"
 - name: imagazine
   emoj: "👨🏼‍💻"
   titl: "iMagazine"
-  tit2: "I write a monthly column to the leading Polish lifestyle magazine [iMagazine](https://iMagazine.pl){:target='_blank'} - if you speak Polish, I keep an [archive of most of these articles](/pl/imagazine)"
+  tit2: "I write a monthly column to the leading Polish lifestyle magazine [iMagazine](https://iMagazine.pl){:target='_blank'} - if you speak Polish, I keep an [archive of most of these articles in Polish](/pl/imagazine)."
 - name: interviews
   emoj: "🎤"
   titl: "Interviews"
@@ -156,7 +156,7 @@ tags:
 - name: nozbe
   emoj: "✅"
   titl: "Nozbe"
-  tit2: "Posts about running my [Nozbe](https://michael.gratis/nozbe){:target='_blank'} business and both Nozbe Personal and Nozbe Teams apps. Successes, failures, mistakes and lessons learned... it's all in there."
+  tit2: "Posts about running my [Nozbe](https://michael.gratis/nozbe){:target='_blank'} online startup business and developing/designing Nozbe apps. Successes, failures, mistakes and lessons learned… it's all in there."
 - name: now
   emoj: "📝"
   titl: "Now?"
@@ -164,7 +164,7 @@ tags:
 - name: office
   emoj: "🏠"
   titl: "Office"
-  tit2: "The gradual yearly evolution of my personal home office - *the room where it happens*."
+  tit2: "The gradual yearly evolution of my personal home office, from back in 2008 till now - this is *the room where it happens*."
 - name: productivity
   emoj: "☑️"
   titl: "Productivity"
@@ -172,7 +172,7 @@ tags:
 - name: projects
   emoj: "🚀"
   titl: "Projects"
-  tit2: "Things I'm working on. Projects on this site, like **[Dice](/dice/)** or **[YouTube watcher](/yt/)**. As well as my past projects, startup ideas or some behind-the-scenes scoop."
+  tit2: "Things I'm working on outside of [Nozbe](https://michael.gratis/nozbe){:target='_blank'}. Projects on this site, like **[Dice](/dice/)** or **[YouTube watcher](/yt/)**. As well as my past projects, startup ideas or some behind-the-scenes scoop."
 - name: podcast
   emoj: "🎧"
   titl: "ThePodcast.fm"

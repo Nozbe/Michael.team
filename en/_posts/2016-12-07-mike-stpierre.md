@@ -1,5 +1,5 @@
 ---
-tags: [magazine,show,video]
+tags: [nozbe,show,video]
 vid: "R04CAE32gVk"
 ---
 

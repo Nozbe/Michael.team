@@ -1,5 +1,5 @@
 ---
-tags: [nozbe,show,video]
+tags: [magazine,show,video]
 vid: "Gbe4lf-wpPI"
 ---
 
