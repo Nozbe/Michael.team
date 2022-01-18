@@ -4,5 +4,4 @@ permalink: /books/
 redirect_from:
  - /tag/books/
  - /Books/
- - /books/
 ---
