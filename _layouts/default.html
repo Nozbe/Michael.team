@@ -87,8 +87,8 @@
 		<a href="{{ site.url }}/{{ langpath }}" class="avatar" title="{{ site.data.main.[pagetitle] }}"><img src="/icon.dark.png" alt="MS"></a>
 		<div class="topright">{% for item in site.data.main.nav %}&nbsp;<a href="{{ site.url }}{{ item.url }}"{% if item.url == '/' %}{% if page.lang=='en' %} class="bold"{% endif %}{% else %}{% capture navlang %}/{{ page.lang }}/{% endcapture %}{% if item.url contains navlang %} class="bold"{% endif %}{% endif %}>{{ item.title }}</a>{% endfor %}
 		</div>
-		{{ site.data.main.[pagedescr] | markdownify }}
-		<a href="javascript:document.querySelector('#searchfield').style.display = 'block';javascript:document.querySelector('#search-menu').style.display = 'inline';document.querySelector('#search-input').focus();">More…</a>
+		{{ site.data.main.[pagedescr] | markdownify | remove: '</p>' }}
+		<a href="javascript:document.querySelector('#searchfield').style.display = 'block';javascript:document.querySelector('#search-menu').style.display = 'inline';document.querySelector('#search-input').focus();">More…</a></p>
 	</div>
 </div>
 
