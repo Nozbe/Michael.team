@@ -88,7 +88,8 @@
 		<div class="topright">{% for item in site.data.main.nav %}&nbsp;<a href="{{ site.url }}{{ item.url }}"{% if item.url == '/' %}{% if page.lang=='en' %} class="bold"{% endif %}{% else %}{% capture navlang %}/{{ page.lang }}/{% endcapture %}{% if item.url contains navlang %} class="bold"{% endif %}{% endif %}>{{ item.title }}</a>{% endfor %}
 		</div>
 		{{ site.data.main.[pagedescr] | markdownify | remove: '</p>' }}
-		<a href="javascript:document.querySelector('#searchfield').style.display = 'block';javascript:document.querySelector('#search-menu').style.display = 'inline';document.querySelector('#search-input').focus();">More…</a></p>
+		{% capture pagemenumore %}menumore{{ langvar }}{% endcapture %}
+		<a href="javascript:document.querySelector('#searchfield').style.display = 'block';javascript:document.querySelector('#search-menu').style.display = 'inline';document.querySelector('#search-input').focus();">{{ site.data.main.[pagemenumore] }}</a></p>
 	</div>
 </div>
 

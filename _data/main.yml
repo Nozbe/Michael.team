@@ -95,6 +95,10 @@ menu_es:
 - title: "todas entradas"
   url: "/es/todo/"
 
+menumore: "More…"
+menumore_pl: "Więcej…"
+menumore_es: "Más…"
+
 tagsall: "Choose a topic"
 tagsall_pl: "Wybierz temat"
 tagsall_es: "Elige un tema"
