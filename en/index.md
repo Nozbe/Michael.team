@@ -10,7 +10,7 @@ I'm the founder of [Nozbe and Nozbe Teams](https://michael.gratis/nozbe){:target
 
 With the launch of [Nozbe Teams](https://michael.gratis/nozbe){:target='_blank'} I'm all about "team productivity". Basically:
 
-> **I help small teams do great things by working in a truly modern way.**
+> **I help small teams and their leaders do great things by working in a truly modern way. It's all about fewer meetings, more focused time and just getting the right things done!**
 
 My team is all-remote and we all work from our "home offices" (just like the one pictured above) while delivering two global apps with more than 700,000 users worldwide.
 

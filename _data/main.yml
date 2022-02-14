@@ -67,6 +67,34 @@ nav:
 - title: "🇪🇸 Español"
   url: "/es/"
 
+menu:
+- title: "home"
+  url: "/"
+- title: "archive"
+  url: "/archive/"
+- title: "about"
+  url: "/about/"
+- title: "now"
+  url: "/now/"
+- title: "contact"
+  url: "/contact/"
+
+menu_pl:
+- title: "start"
+  url: "/pl/"
+- title: "archiwum"
+  url: "/pl/archiwum/"
+- title: "o mnie"
+  url: "/pl/omnie/"
+- title: "kontakt"
+  url: "/pl/kontakt/"
+
+menu_es:
+- title: "inicio"
+  url: "/es/"
+- title: "todas entradas"
+  url: "/es/todo/"
+
 tagsall: "Choose a topic"
 tagsall_pl: "Wybierz temat"
 tagsall_es: "Elige un tema"

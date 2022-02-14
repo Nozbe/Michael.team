@@ -1,7 +1,7 @@
 {% include lang.html %}
 {% capture searchbox %}searchbox{{ langvar }}{% endcapture %}
 {% capture searchbox_no %}searchbox{{ langvar }}_no{% endcapture %}
-<div id="search-container"><input type="text" id="search-input" placeholder="{{ site.data.main.[searchbox] }}">
+<div id="search-container"><input type="text" id="search-input" placeholder="{{ site.data.main.[searchbox] }}">{% capture pagemenu %}menu{{ langvar }}{% endcapture %}<span id="search-menu" style="display:none;">{% for item in site.data.main.[pagemenu] %}| <a href="{{ site.url }}{{ item.url }}"{% if item.url == page.url %} class="bold"{% endif %}>{{ item.title }}</a>{% endfor %}</span>
 	<ul id="search-results"></ul>
 </div>
 
