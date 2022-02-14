@@ -30,10 +30,10 @@ TODO: Support exclusion of tags for index.
   <div class="date">{{ langdate }} <span class="small">{{ post.url }}</span></div>
  {% if include.more %}
   {% if post.cover %}{% assign postimage = post.cover %}{% elsif post.img %}{% assign postimage = post.img %}{% else %}{% assign postimage = nil %}{% endif %}
+  {{ post.excerpt }}
   {% if postimage %}
   <p><a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/img/{{ postimage }}" alt="{{ post.title }}" /></a></p>
   {% endif %}
-  {{ post.excerpt }}
   <p><a href="{{ post.url }}" title="{{ post.title }}">{{ site.data.main.[read] }}…</a></p>
  {% endif %}
   {% if langindex==include_limit %}{% break %}{% endif %}

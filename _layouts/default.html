@@ -88,7 +88,12 @@
 		<div class="topright">{% for item in site.data.main.nav %}&nbsp;<a href="{{ site.url }}{{ item.url }}"{% if item.url == '/' %}{% if page.lang=='en' %} class="bold"{% endif %}{% else %}{% capture navlang %}/{{ page.lang }}/{% endcapture %}{% if item.url contains navlang %} class="bold"{% endif %}{% endif %}>{{ item.title }}</a>{% endfor %}
 		</div>
 		{{ site.data.main.[pagedescr] | markdownify }}
+		<a href="javascript:document.querySelector('#searchfield').style.display = 'block';javascript:document.querySelector('#search-menu').style.display = 'inline';document.querySelector('#search-input').focus();">More…</a>
 	</div>
+</div>
+
+<div id="searchfield" class="begend" style="display: none;">
+	<div class="begender center">{% include search.html %}</div>
 </div>
 
 {% if site.data.main.ad == 'true' %}{% include ad.html %}{% endif %}
