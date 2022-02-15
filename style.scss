@@ -422,6 +422,20 @@ img {
 	height: 100%;
 }
 
+#searchfield {
+	a {
+		text-decoration: none;
+	}
+}
+
+#search-menu {
+	margin-left: 10px;
+	@include mobile {
+		display: block;
+		margin-left: 0px;
+	}
+}
+
 #search-container {
 	padding: 5px 0px;
 }
