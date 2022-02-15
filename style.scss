@@ -430,9 +430,10 @@ img {
 
 #search-menu {
 	margin-left: 10px;
+	display: inline;
 	@include mobile {
-		display: block;
 		margin-left: 0px;
+		display: block;
 	}
 }
 
