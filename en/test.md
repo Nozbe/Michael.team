@@ -14,7 +14,3 @@ page.url: {{page.url}}
 page.name: {{ page.name }}
 
 page.tags: {{ page.tags }}
-
-## Need to test search!
-
-
