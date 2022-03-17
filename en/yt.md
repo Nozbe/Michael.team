@@ -1,7 +1,7 @@
 ---
 permalink: /yt/
 title: "YouTube watcher"
-js: showYouTube
+js: getYouTube
 img: yt.jpg
 ---
 
@@ -15,7 +15,7 @@ This page solves most of these problems. It lets you embed *any YouTube video* e
 
 ## Option 1. Just paste a YouTube URL link
 
-<form name="link" onsubmit="showYouTube(true); return false;">
+<form name="link" onsubmit="getYouTube(true); return false;">
 <div><input name="yt" type="text" value="" placeholder="Paste: ...youtube.com/watch?v=..."></div>
 <div><button>Watch YouTube video!</button></div>
 </form>

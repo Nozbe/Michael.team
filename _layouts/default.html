@@ -67,6 +67,7 @@
 <link rel="icon" type="image/png" href="{{ site.avatar }}">
 <base target="_parent">
 <script src="https://hello.michael.team/script.js" async></script>
+<script type="text/javascript" src="{{ site.url }}/js/basic.js"></script>
 {% if page.layout == "post" %}
 <script type="text/javascript" src="{{ site.url }}/js/post.js"></script>
 {% endif %}
@@ -89,7 +90,7 @@
 		</div>
 		{{ site.data.main.[pagedescr] | markdownify | remove: '</p>' }}
 		{% capture pagemenumore %}menumore{{ langvar }}{% endcapture %}
-		<a href="javascript:document.querySelector('#searchfield').style.display = 'block';javascript:document.querySelector('#search-menu').style.display = 'inline';document.querySelector('#search-input').focus();">{{ site.data.main.[pagemenumore] }}</a></p>
+		<a href="javascript:getSearch();">{{ site.data.main.[pagemenumore] }}</a></p>
 	</div>
 </div>
 
