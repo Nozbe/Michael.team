@@ -17,8 +17,9 @@ page.tags: {{ page.tags }}
 
 ## Highlighting
 
-{% highlight markdown %}
+{% highlight markdown linenos %}
 I'm the founder of **Nozbe** which you can find [here](https://nozbe.com/) - it's *free*!
+Do you want **Markdown** to be used *everywhere*?
 {% endhighlight %}
 
 ## Another test
@@ -29,6 +30,8 @@ I'm the founder of **Nozbe** which you can find [here](https://nozbe.com/) - it'
 
 ## One more!
 
-<pre>
+```
 I'm the founder of **Nozbe** which you can find [here](https://nozbe.com/) - it's *free*!
-</pre>
+```
+
+And `single thing` is still a thing?
