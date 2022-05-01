@@ -20,3 +20,15 @@ page.tags: {{ page.tags }}
 {% highlight markdown %}
 I'm the founder of **Nozbe** which you can find [here](https://nozbe.com/) - it's *free*!
 {% endhighlight %}
+
+## Another test
+
+<code>
+I'm the founder of **Nozbe** which you can find [here](https://nozbe.com/) - it's *free*!
+</code>
+
+## One more!
+
+<pre>
+I'm the founder of **Nozbe** which you can find [here](https://nozbe.com/) - it's *free*!
+</pre>
