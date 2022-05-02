@@ -17,7 +17,7 @@ page.tags: {{ page.tags }}
 
 ## Highlighting
 
-{% highlight markdown linenos %}
+{% highlight markdown %}
 I'm the founder of **Nozbe** which you can find [here](https://nozbe.com/) - it's *free*!
 Do you want **Markdown** to be used *everywhere*?
 {% endhighlight %}
