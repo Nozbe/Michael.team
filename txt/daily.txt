@@ -1,4 +1,6 @@
 ---
+layout: nil
+---
 - [ ] 📔 Journal - Morning
 - [ ] 🙏 Prayer
 - [ ] ☕️ Coffee
