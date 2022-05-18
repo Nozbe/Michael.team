@@ -1,4 +1,6 @@
 ---
+layout: nil
+---
 - [ ] 📔 Pamiętnik - Rano
 - [ ] 🙏 Modlitwa
 - [ ] ☕️ Kawa
