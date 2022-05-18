@@ -1,0 +1,11 @@
+---
+- [ ] ⭐️ Priorytety w Nozbe
+- [ ] 📥 Przychodzące w Nozbe
+- [ ] ✉️ E-mail
+- [ ] 📆 Kalendarz
+- [ ] 💬 Aktywność w Nozbe
+- [ ] 🤓 Główny projekt na następny tydzień
+- [ ] ✅ Priorytety w Nozbe Personal
+- [ ] ❤️ Ulubione projekty w Nozbe
+- [ ] 🔍 Śledzone projekty w Nozbe
+- [ ] 📊 Magiczny akrusz zaktualizować

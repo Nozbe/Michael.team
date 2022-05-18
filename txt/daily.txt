@@ -1,0 +1,8 @@
+---
+- [ ] 📔 Journal - Morning
+- [ ] 🙏 Prayer
+- [ ] ☕️ Coffee
+- [ ] ✍🏻 Write book/post
+- [ ] 🎾 Sports
+- [ ] 🦷 Floss
+- [ ] 📔 Journal - Evening

@@ -1,0 +1,11 @@
+---
+- [ ] ⭐️ Priority in Nozbe
+- [ ] 📥 Incoming in Nozbe
+- [ ] ✉️ Email
+- [ ] 📆 Calendar
+- [ ] 💬 Activity in Nozbe
+- [ ] 🤓 CORE hours next week
+- [ ] ✅ Priority in Nozbe Personal
+- [ ] ❤️ Favorite projects in Nozbe
+- [ ] 🔍 Followed projects in Nozbe
+- [ ] 📊 Magic spreadsheet update
