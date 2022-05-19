@@ -1,6 +1,3 @@
----
-layout: nil
----
 — Ten Kwartał —
 * Cel 1
 * Cel 2

@@ -98,6 +98,11 @@ defaults:
       layout: "tag"
   -
     scope:
+      path: "txt"
+    values:
+      layout: "nil"
+  -
+    scope:
       path: ""
       type: "passion"
     values:
