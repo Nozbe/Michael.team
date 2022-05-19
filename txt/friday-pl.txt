@@ -1,6 +1,3 @@
----
-layout: nil
----
 - [ ] ⭐️ Priorytety w Nozbe
 - [ ] 📥 Przychodzące w Nozbe
 - [ ] ✉️ E-mail

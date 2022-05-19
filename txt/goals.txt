@@ -1,6 +1,3 @@
----
-layout: nil
----
 — This Quarter —
 * Goal 1
 * Goal 2

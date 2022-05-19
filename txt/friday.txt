@@ -1,6 +1,3 @@
----
-layout: nil
----
 - [ ] ⭐️ Priority in Nozbe
 - [ ] 📥 Incoming in Nozbe
 - [ ] ✉️ Email
