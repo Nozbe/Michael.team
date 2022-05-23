@@ -1,14 +1,14 @@
 — Ten Kwartał —
-* Cel 1
-* Cel 2
-* Cel 3
+- Cel 1
+- Cel 2
+- Cel 3
 
 — Ten Rok —
-* Cel 1
-* Cel 2
-* Cel 3
+- Cel 1
+- Cel 2
+- Cel 3
 
 — Moje Życie —
-* Cel 1
-* Cel 2
-* Cel 3
+- Cel 1
+- Cel 2
+- Cel 3
