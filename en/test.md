@@ -28,12 +28,3 @@ Do you want **Markdown** to be used *everywhere*?
 I'm the founder of **Nozbe** which you can find [here](https://nozbe.com/) - it's *free*!
 </code>
 
-## One more!
-
-```
-I'm the founder of **Nozbe** which you can find [here](https://nozbe.com/) - it's *free*!
-```
-
-And `single thing` is still a thing?
-
-[Link to text](/txt/goals-pl.txt)
