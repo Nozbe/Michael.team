@@ -27,7 +27,7 @@ We'll soon reveal our 17th issue of our magazine so stay tuned and if you want t
 [Dropbox]: http://db.tt/kD7Liux
 [Evernote]: /how-i-use-evernote
 [iPadOnly]: /ipadonly
-[#iPadOnly]: http://ipadonly.net/
+[#iPadOnly]: http://ipadonly.com/
 [Nozbe]: http://www.nozbe.com/
 [Productive! Magazine]: http://www.productivemag.com/
 [Productive! Show]: /productive_show

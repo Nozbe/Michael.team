@@ -241,7 +241,7 @@ I just updated the book to version 1.1, made a few corrections, formatting chang
 [Evernote]: /how-i-use-evernote
 [Nozbe]: http://www.nozbe.com/
 [s]: http://www.nozbe.com/signup
-[#iPadOnly]: http://ipadonly.net/
+[#iPadOnly]: http://ipadonly.com/
 [Productive! Magazine]: http://www.productivemag.com/
 [Productive! Show]: /show
 [Twitter]: http://twitter.com/MSliwinski

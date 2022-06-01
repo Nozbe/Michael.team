@@ -57,7 +57,7 @@ Totally. Even if you're a seasoned remote guy like myself, you'll find a few gem
 [i]: /ipadonly
 [n]: http://www.nozbe.com/
 [ns]: http://www.nozbe.com/signup
-[o]: http://ipadonly.net/
+[o]: http://ipadonly.com/
 [p]: /magazine/
 [s]: /productive_show
 [t]: http://twitter.com/MSliwinski

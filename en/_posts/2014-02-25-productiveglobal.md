@@ -63,7 +63,7 @@ This is why we [re-launched Productive! Magazine][re] last year, this is why we 
 [Evernote]: /how-i-use-evernote
 [Nozbe]: http://www.nozbe.com/
 [s]: http://www.nozbe.com/signup
-[#iPadOnly]: http://ipadonly.net/
+[#iPadOnly]: http://ipadonly.com/
 [Productive! Magazine]: http://www.productivemag.com/
 [Productive! Show]: /show
 [Twitter]: http://twitter.com/MSliwinski

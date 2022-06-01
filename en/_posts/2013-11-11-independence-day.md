@@ -48,7 +48,7 @@ Although today is our National holiday, it's not a day to be nationalistic. It's
 [i]: /ipadonly
 [n]: http://www.nozbe.com/
 [ns]: http://www.nozbe.com/signup
-[o]: http://ipadonly.net/
+[o]: http://ipadonly.com/
 [p]: /magazine/
 [s]: /productive_show
 [t]: http://twitter.com/MSliwinski

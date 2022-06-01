@@ -53,7 +53,7 @@ As you can see I'm "eating my own dog-food" as the say and use my [Nozbe][n] tim
 [Dropbox]: http://db.tt/kD7Liux
 [Evernote]: /how-i-use-evernote
 [iPadOnly]: /ipadonly
-[#iPadOnly]: http://ipadonly.net/
+[#iPadOnly]: http://ipadonly.com/
 [Nozbe]: http://www.nozbe.com/
 [Productive! Magazine]: http://www.productivemag.com/
 [Productive! Show]: /productive_show
