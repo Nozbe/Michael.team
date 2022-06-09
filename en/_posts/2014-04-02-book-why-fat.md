@@ -60,7 +60,7 @@ Check out this book and see for yourself. If you've been counting calories all a
 [Evernote]: /how-i-use-evernote
 [Nozbe]: http://www.nozbe.com/
 [s]: http://www.nozbe.com/signup
-[#iPadOnly]: http://ipadonly.net/
+[#iPadOnly]: http://ipadonly.com/
 [Productive! Magazine]: http://www.productivemag.com/
 [Productive! Show]: /show
 [Twitter]: http://twitter.com/MSliwinski

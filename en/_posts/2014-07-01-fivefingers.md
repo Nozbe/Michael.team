@@ -67,7 +67,7 @@ Your mileage may vary but I feel more in touch with the nature when I'm running 
 [Evernote]: /how-i-use-evernote
 [Nozbe]: http://www.nozbe.com/
 [s]: http://www.nozbe.com/signup
-[#iPadOnly]: http://ipadonly.net/
+[#iPadOnly]: http://ipadonly.com/
 [Productive! Magazine]: http://www.productivemag.com/
 [Productive! Show]: /show
 [Twitter]: http://twitter.com/MSliwinski

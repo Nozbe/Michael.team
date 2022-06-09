@@ -84,8 +84,8 @@ So there it is. I wrote my first book. Feels great. [Check it out][io].
 [ap]: http://www.augustopinaud.com/
 [a1]: http://augustopinaud.com/category/working-on-my-ipad/
 [a2]: http://augustopinaud.com/exploring-outside-of-the-comfort-zone-or-should-we-called-the-dangerous-zone/
-[io]: http://www.ipadonly.net/
-[it]: http://www.ipadonly.net/book/
+[io]: http://www.ipadonly.com/
+[it]: http://www.ipadonly.com/book/
 [n]: http://www.nozbe.com/
 [ns]: http://www.nozbe.com/signup
 [p]: /magazine/

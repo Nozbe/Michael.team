@@ -50,7 +50,7 @@ P.S. Having said that, [Nozbe has apps for Android phones and tablets][na] and w
 [n]: http://www.nozbe.com/
 [na]: http://www.nozbe.com/apps/
 [ns]: http://www.nozbe.com/signup
-[o]: http://ipadonly.net/
+[o]: http://ipadonly.com/
 [p]: /magazine/
 [s]: /productive_show
 [t]: http://twitter.com/MSliwinski
