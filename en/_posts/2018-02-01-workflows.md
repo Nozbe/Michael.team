@@ -1,5 +1,5 @@
 ---
-tags: [ipadonly,productivity]
+tags: [ipadonly,productivity,journal]
 img: "workflows.jpg"
 ---
 

@@ -161,6 +161,10 @@ tags:
   emoj: "📲"
   titl: "iPhone"
   tit2: "The iPhone is my default smartphone of choice. We also share history, it was unvailed in the same year I launched [Nozbe](https://michael.gratis/nozbe){:target='_blank'}. These posts explain how I use the iPhone as a pocket computer alongside my [iPad](/ipadonly)… and as a phone."
+- name: journal
+  emoj: "🖋"
+  titl: "Journal App"
+  tit2: "How and why I've been journaling daily since 2016 in a digital way using Siri Shortcuts (previously Workflows) and some additional apps. There are countless benefits to daily journaling - it clears your thoughts, gives you perspective and helps you find focus. In these posts I share my journey as I'm fine-tunning my journaling app based on Apple's Siri Shortcuts."
 - name: life
   emoj: "😎"
   titl: "Life"

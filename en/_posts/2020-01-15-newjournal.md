@@ -1,9 +1,9 @@
 ---
-tags: [productivity]
+tags: [productivity,journal]
 img: "newjournal.jpg"
 ---
 
-# My new journaling routine for 2020 using Shortcuts on iPad or iPhone
+# My new journaling routine for 2020 using Shortcuts on iPad or iPhone and Bear app
 
 I've been keeping a semi-regular journal for the past few years and every now and then I'm tweaking the way I approach it. [In 2016 I posted why it's important for me to journal regularly](/journal) and who inspired me to do that. In 2018 [I posted my updated workflows for journaling and planning the day](/workflows) with additional apps I was using - Ulysses, Bear, etc. Later I introduced the concept of [intermittent journaling](/journaling) with updated workflows. For 2020 and iOS13 I decided to review and simplify all of this and now I write both my journal and daily planning in [Bear app](https://bear.app) using only three Shortcuts in iOS - here are the details:
 

@@ -1,5 +1,5 @@
 ---
-tags: [productivity,ipadonly]
+tags: [productivity,ipadonly,journal]
 img: "journaling.jpg"
 ---
 
