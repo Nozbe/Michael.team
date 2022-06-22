@@ -4,7 +4,9 @@ cover: michael.team.3k.jpg
 title: Michael Sliwinski
 ---
 
-> **I help teams and their leaders do great things by working in a truly modern way. It's all about fewer meetings, more focused time and just getting the right things done!**
+> **I've been helping teams and their leaders do great things by working in a truly modern way since 2007. I [work from home](/nooffice-best), I [don't email my team](/emailban/) and I [don't work on Fridays](/tgif/)!**\\
+> My projects: **[Nozbe to-do app for teams](/nozbe/)** and **[#NoOffice book](/nooffice/)**\\
+> Side projects: [Journal](/journal/), [Dice](/dice/) and [YouTube watcher](/yt/)
 
 ## Latest blog posts from me:
 
