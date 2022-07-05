@@ -117,7 +117,7 @@ Na koniec krok po kroku, jak działa mój Skrót Siri:
 
 ## Zacznij pisać dziennik od dziś! Moje wyzwanie dla Ciebie!
 
-Jeśli chcesz regularnie pisać dziennik, zacznij teraz! Po prostu pobierz mój Skrót z [michael.team/dziennik](/pl/dziennik) i wypełnij pierwszy wpis z dziennika. Kiedy już to zrobisz, wrzuć na Twittera informację, że Ci się udało. Najelepiej oznacz mnie i dodaj hashtag `#DziennikSiri` - zachęcam Cię do regularnego pisania w dzienniku i do dostosowywania sobie mojego skrótu do własnych potrzeb!
+Jeśli chcesz regularnie pisać dziennik, zacznij teraz! Po prostu pobierz mój Skrót z [michael.team/dziennik](/pl/dziennik) i wypełnij pierwszy wpis z dziennika. Kiedy już to zrobisz, wrzuć na Twittera informację, że Ci się udało. Najlepiej oznacz mnie i dodaj hashtag `#DziennikSiri` - zachęcam Cię do regularnego pisania w dzienniku i do dostosowywania sobie mojego skrótu do własnych potrzeb!
 
 [n]: https://michael.gratis/nozbe_pl
 [np]: https://michael.gratis/nozbepersonal_pl
