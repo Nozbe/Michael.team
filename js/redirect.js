@@ -28,6 +28,13 @@ let links = new Map([
 ['passion-epub', 'http://MNoz.be/0e'],
 ['passion-mobi', 'http://MNoz.be/0f'],
 
+//social media profiles
+
+['in','https://www.linkedin.com/in/michaelsliwinski/'],
+['i', 'https://www.instagram.com/michaelsliwinski/'],
+['f', 'https://www.facebook.com/michaelsliwinski'],
+['t', 'https://twitter.com/MSliwinski'],
+
 ['test', 'test'],
 
 ]);
