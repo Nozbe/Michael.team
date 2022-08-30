@@ -39,7 +39,13 @@ Stop procrastinating and start journaling today! [Get the Siri Shortcut][j] and 
 
 🇵🇱 Alternatively, you can [get this journaling Siri Shortcut in Polish](/pl/dziennik/). Feel free to translate it to other languages and I'll update this post!
 
-[j]: https://www.icloud.com/shortcuts/5fb5caf55e744b6189d53876bd799ba3
+## Version history
+
+- 2.0 - 2022, 30 August - *Improvement*: every entry can be skipped by leaving it blank, just hit ENTER and it won't be added to your journal + *New feature*: Menu option to just open the journal file in your default Markdown editor.
+- 1.0 - 2022, 7 July - initial version of the shortcut.
+
+[j]: https://www.icloud.com/shortcuts/9072bc23feee4c01b833150dd2733375
+[j1]: https://www.icloud.com/shortcuts/5fb5caf55e744b6189d53876bd799ba3
 [t]: https://twitter.com/MSliwinski
 
 [n]: https://michael.gratis/nozbe
