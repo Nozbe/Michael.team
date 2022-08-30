@@ -1,5 +1,5 @@
 ---
-tags: [imagazine]
+tags: [produktywnosc]
 cover: "planowanie.jpg"
 redirect_from:
  - /planowanie/
@@ -12,10 +12,6 @@ We wrześniowym numerze [iMagazine](/pl/imagazine/) kontynuuję temat [pisania 
 <!--More-->
 
 ![{{ page.title }}](/img/{{ page.cover }})
-
-{% include lang.date.html date="2022-07-30" month=true %}
-
-> Ten felieton jest z wydania z {{ langdate }} [iMagazine](https://imagazine.pl){:target='_blank'}
 
 ## Skrót Siri - Dziennik i Planowanie Dnia
 
