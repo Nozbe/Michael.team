@@ -1,6 +1,8 @@
 ---
 tags: [imagazine]
 cover: "planowanie.jpg"
+redirect_from:
+ - /planowanie/
 ---
 
 # Dziennik i Planowanie dnia - skrót Siri na produktywność!
@@ -31,6 +33,8 @@ Te dodatkowe opcje są… opcjonalne, bo skrót jest tak zaprojektowany, że po 
 Pobierz skrót tutaj:
 
 ### [Dziennik i Planowanie - skrót Siri](https://www.icloud.com/shortcuts/6c1e52345eef4d079c3d8ab88a993218)
+
+Zachęcam Cię do pobrania tego skrótu i przetestowania go samemu. W razie pytań [pisz śmiało](/pl/kontakt/) i przeczytaj więcej o tym nawyku w najnowszym, wsześniowym wydaniu [iMagazine](/pl/imagazine/).
 
 [n]: https://michael.gratis/nozbe_pl
 [np]: https://michael.gratis/nozbepersonal_pl
