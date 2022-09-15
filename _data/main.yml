@@ -37,9 +37,9 @@ twitter: "MSliwinski"
 url_podcast: "https://thepodcast.fm/"
 url_podcast_name: "ThePodcast.fm"
 
-ad: "false" #"true" so it displays, everything else to not show it, like "false"
+ad: "true" #"true" so it displays, everything else to not show it, like "false"
 ad_link: "https://nozbe.com/promo/?c=michaelteam"
-ad_text: "OFFER 💥 GET 4️⃣ MONTHS of Nozbe FREE!"
+ad_text: "OFFER 💥 GET 3️⃣ MONTHS of Nozbe FREE!"
 
 descr: "[Hello](/now/), I'm [Michael Sliwinski](/about/), founder of [Nozbe](/nozbe/) - [to-do](/productivity/) app for [teams](/vlog/). I [write essays](/archive/), [books](/books/), work on [projects](/projects) and I [podcast](/noofficefm/) for you using [#iPadOnly](/ipadonly/) in [#NoOffice](/nooffice/) as I [believe](/contact) that *work is not a place you go to, it's a thing you do.*"
 descr_pl: "Hej, tu [Michał Śliwiński](/pl/omnie), założyciel [Nozbe](https://michael.gratis/nozbe_pl){:target='_blank'} - aplikacji do zadań dla nowoczesnych zespołów. [Po polsku](/pl/archiwum/) piszę o [produktywności](/pl/imagazine/). [Wierzę](/pl/kontakt/), że *praca to nie jest miejsce do którego idziesz, ale to co robisz.*"
@@ -164,7 +164,7 @@ tags:
 - name: journal
   emoj: "🖋"
   titl: "Journal App"
-  tit2: "I've been journaling daily since 2016 in a digital way using Siri Shortcuts (previously Workflows). There are countless benefits to daily journaling - it clears your thoughts, gives you perspective and helps you find focus. In these posts I share my journey as I'm fine-tunning my journaling app based on Apple's Siri Shortcuts. [Start journaling](/journal-basic/) or try [journaling and daily planning](/journal20/)."
+  tit2: "I've been journaling daily since 2016 in a digital way using Siri Shortcuts (previously Workflows). There are countless benefits to daily journaling - it clears your thoughts, gives you perspective and helps you find focus. In these posts I share my journey as I'm fine-tunning my journaling app based on Apple's Siri Shortcuts. [Start journaling](/journal-basic/) or try [journaling and planning](/journal22/)."
 - name: life
   emoj: "😎"
   titl: "Life"
