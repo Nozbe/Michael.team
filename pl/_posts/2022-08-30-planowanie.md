@@ -22,17 +22,22 @@ Oto co się dzieje po uruchomieniu skrótu - podobnie jak w [Dzienniku](/pl/dzie
 - Widzisz swoje cele
 - Wybierasz datę (domyślnie dzisiaj)
 - Wybierasz rodzaj wpisu - poranny czy wieczorny
-- Masz też dodatkowe opcje: otwarcia pliku Dziennika, tylko planowania porannego lub wieczornego, albo otwarcia pliku z zaplanowanym dniem dzisiejszym.
+- Masz też dodatkowe opcje: otwarcia pliku Dziennika, tylko planowania porannego lub wieczornego, albo [otwarcia pliku z zaplanowanym dniem dzisiejszym][d].
 
 Te dodatkowe opcje są… opcjonalne, bo skrót jest tak zaprojektowany, że po wpisie do dziennika automatycznie przechodzi do planowania dnia.
 
 Pobierz skrót tutaj:
 
-### [Dziennik i Planowanie - skrót Siri](https://www.icloud.com/shortcuts/a7a92ef314b04123989e3295f97ffee7)
+### [Dziennik i Planowanie - skrót Siri][p]
 
-Alternatywnie pobierz [skrót po angielsku](/journal22/): **[Journal and Planning](https://www.icloud.com/shortcuts/f346519ea8d945e1b727298d4a482602)**
+Dodatkowo stworzyłem skrót ["Otwórz dzisiaj"][d], który realizuje tą ostatnią opcję menu głównego skrótu bezpośrednio, czyli otwiera po prostu plan na dzisiaj. Bardzo pomocne jeśli faktycznie tak jak ja chcesz co pół godziny aktualizować Twój plan dnia.
+
+Alternatywnie pobierz [skrót po angielsku](/journal22/): **[Journal and Planning][pe]**
 
 Zachęcam Cię do pobrania tego skrótu i przetestowania go samemu. W razie pytań [pisz śmiało](/pl/kontakt/) i przeczytaj więcej o tym nawyku w najnowszym, wsześniowym wydaniu [iMagazine](/pl/imagazine/).
 
+[p]: https://www.icloud.com/shortcuts/a7a92ef314b04123989e3295f97ffee7
+[d]: https://www.icloud.com/shortcuts/2a223932634b47b2908c0c715c959437
+[pe]: https://www.icloud.com/shortcuts/f346519ea8d945e1b727298d4a482602
 [n]: https://michael.gratis/nozbe_pl
 [np]: https://michael.gratis/nozbepersonal_pl
