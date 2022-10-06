@@ -41,7 +41,7 @@ If you want to learn productivity the fastest way possible:
 * do an [interview with me](/guest) - you'll find [my bio](/about/#short-bio) and [pictures](/about/#selfies) on my [about page](/about)
 * ask me anything else - I will try to help if I can
 
-I do read all the email but I sometimes can take time to respond and when I do, I'm **"emailing like texting"** - meaning I just reply to an email like a text - quick and to the point. That's how I roll.
+I do read all the email but I sometimes can take time to respond and when I do, I'm "[emailing like texting](/emailing-like-texting)" - meaning I just reply to an email like a text - quick and to the point. That's how I roll.
 
 [n]: https://michael.gratis/nozbe
 [support]: https://nozbe.com/contact
