@@ -1,15 +1,15 @@
 ---
 tags: [ipadonly, office]
-img: ipad-corner.jpg
+cover: ipad-corner.jpg
 ---
 
 # Dedicated iPad stand-up desk in my home office
 
-As I was tweaking my [home office](/office) recently (which I constantly do, as you know!) and installing my latest [Lego F1 Set](/mclaren) and figuring out what I’d do with [old trusty Thunderbolt Display](/thunderbolt), I came up with an idea for a dedicated iPad stand-up desk. This way I can work standing ([which I’ve been doing since 2012!]()) on my [iPad Pro](/ipad13pro) and enjoying the [double-monitor]() productivity, which will be even more enhanced in iPadOS16 - this is how the setup looks like:
+As I was tweaking my [home office](/office) recently (which I constantly do, as you know!) and installing my latest [Lego F1 Set](/mclaren) and figuring out what I’d do with [old trusty Thunderbolt Display](/thunderbolt), I came up with an idea for a dedicated iPad stand-up desk. This way I can work standing ([which I’ve been doing since 2012!](/im-still-standing-my-latest-video-show/)) on my [iPad Pro](/ipad13pro) and enjoying the [double-monitor](/dual-monitor-setup-for-twice-the-productivity-43-productive-magazine-show/) productivity, which will be even more enhanced in iPadOS16 - this is how the setup looks like:
 
 <!--More-->
 
-![{{ page.title }}](/img/{{ page.img }})
+![{{ page.title }}](/img/{{ page.cover }})
 
 ## Easily connect to power and the monitor!
 
