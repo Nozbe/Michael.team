@@ -1,11 +1,11 @@
 ---
 tags: [apple,nooffice]
-vid: "GC5Gmkn92Bg"
+vid: "cSErEgWaJXs"
 ---
 
 # Apple asks employees back to the office while also inspiring them to quit
 
-I already wrote about [Apple’s not-so-good approach to working form home](/flexibility/) in the past (I also recorded a [short video on that](/shorts-apple/)), but now as [COVID-19](/covid) cases are declining Apple is really shooting itself in the foot. On one hand, it’s telling them [to go back to the office (or else!)](https://www.macrumors.com/2022/03/04/apple-april-11-return-to-office-deadline/) while at the same time it’s producing an ad that they’d better quit:
+I already wrote about [Apple’s not-so-good approach to working form home](/flexibility/) in the past (I also recorded a [short video on that](/shorts-apple/)), but now as [COVID-19](/covid) cases are declining Apple is really shooting itself in the foot. On one hand, it’s telling them [to go back to the office (or else!)](https://www.macrumors.com/2022/03/04/apple-april-11-return-to-office-deadline/) while at the same time it’s producing an ad that they’d better quit (Update 25/10/22: [Apple turned video private](https://m.youtube.com/watch?v=GC5Gmkn92Bg), so I switched it to a copyy from [Apple Keynotes Archive](https://youtube.com/c/AppleKeynotesArchive):
 
 {% include video.html id=page.vid %}
 
