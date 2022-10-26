@@ -14,6 +14,9 @@
 	{% capture tweet %}sharet{{ langvar }}{% endcapture %}
 	<h4><a href="https://twitter.com/intent/tweet?text={{ page.title }}&via={{ site.data.main.twitter }}&url={{ sharelink }}&hashtags={{ tagcommas }}">{{ site.data.main.[tweet] }}</a></h4>
 	{% endif %}
+	{% if page.linked %}
+	<h4><a href="{{ page.linked }}">{{ site.data.main.linked }}</a></h4>
+	{% endif %}
 {% endif %}
 {% if page.email!="noshow" %}
 <div class="footnotes">

@@ -24,9 +24,11 @@ share: "Copy & share"
 share_pl: "Prześlij dalej"
 share_es: "Comparte"
 
-sharet: "Share on Twitter"
-sharet_pl: "Wrzuć na Twittera"
-sharet_es: "Comparte en Twitter"
+sharet: "🐥 Share on Twitter"
+sharet_pl: "🐥 Wrzuć na Twittera"
+sharet_es: "🐥 Comparte en Twitter"
+
+linked: "💬 Comment on LinkedIn"
 
 read: "Read more"
 read_pl: "Czytaj dalej"

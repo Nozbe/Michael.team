@@ -15,7 +15,8 @@ function getRelated(slug) {
 	if (lang == '/pl') related.innerHTML = '<h3>Podobne wpisy:</h3>';
 	if (lang == '/es') related.innerHTML = '<h3>Entradas relacionadas:</h3>';
 	related.style.visibility = "hidden"; //we hide it first, before we show all of the posts
-	document.querySelector('footer').prepend(related);
+	//document.querySelector('footer').prepend(related); //we switch to "append" to put it below sharing links
+	document.querySelector('footer').append(related);
 	let tempTag = '';
 	let slugTag = '';
 	let counter = 0; //count to 3 related posts
@@ -75,7 +76,8 @@ function getPrevNext(slug) {
 	// let's add "#prevnext to footer of the blog post"
 	let prevnext = document.createElement('div');
 	prevnext.setAttribute('id','prevnext');
-	document.querySelector('footer').prepend(prevnext);
+	//document.querySelector('footer').prepend(prevnext); //we switch to "appending" it
+	document.querySelector('footer').append(prevnext);
 	//lang detect - if the fourth char is / then get the first three chars
 	let lang = (slug.slice(3,4) == '/') ? slug.slice(0,3) : '';
 	//let's define vars and get on with it
