@@ -3,7 +3,7 @@ tags: [short, business, wrong]
 img: escorting.jpg
 ---
 
-# Elon Musk owns Twitter - what’s with escorting executives with security?
+# Elon Musk owns Twitter - what’s with escorting executives using security?
 
 The day has come. **[Twitter is now being owned](https://twitter.com/elonmusk/status/1585841080431321088) by it’s most prominent shitposter - Elon Musk**. He sealed the deal yesterday and [as per reports, he fired Twittter’s top executives](https://www.theverge.com/2022/10/27/23184519/elon-musk-twitter-acquisition-deal-complete-agreement). OK, I get it, he wants to make changes. However, what’s with all this *escorting executives by security* stunt? Why do that? For show? To humiliate someone? Aren’t we supposed to treat [people we work with as adults](/adults)? It’s not like these people were criminals. Up until yesterday they were running the thing!
 
@@ -25,7 +25,9 @@ I feel like these reports on Elon Musk owning Twitter are glancing over the fact
 
 And it's not just Elon. We hear about examples of executive changes like this all the time! One day they run the place, the second day they're being escorted out. Not because they did something criminal. Just because they're being let go. Is the security really necessary?
 
-**It’s a stupid an immature demonstration of ego. Nothing more.**
+Again, [I'm not arguing they shouldn't lose access to internal systems](https://twitter.com/MSliwinski/status/1586021201633239041), but should they be publicly humiliated like this?
+
+**It’s a stupid and immature demonstration of ego. Nothing more.**
 
 If this will be the way for Twitter to move forward, my [@MSliwinski](https://twitter.com/MSliwinski) account will not be active there for much longer…
 
