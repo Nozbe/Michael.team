@@ -89,7 +89,7 @@ I have two university degrees. One from the University of Gdansk (Poland) in Bus
 
 ### I started independent as apivision.com
 
-Right after my graduation in 2003 I set up my own company "apivision.com" to pursue my interest in the Internet commerce. I founded several startups that eventually failed before I finally started something I was truly passionate about and managed to succeed with: Nozbe.
+Right after my graduation in 2003 I set up my own company "apivision.com" to pursue my interest in the Internet commerce. I founded several startups that eventually failed before I finally started something I was truly passionate about and managed to succeed with: [Nozbe](/nozbe).
 
 ### I launched Nozbe in 2007
 
@@ -111,4 +111,4 @@ Here's a video that I recorded a while back that illustrates what I'm about:
 
 My name in Polish is: **Michał Śliwiński**.
 
-## [Contact me](/contact) or [check out what I’m doing now](/now)
+## [Contact me](/contact) or [check what I’m doing now](/now)

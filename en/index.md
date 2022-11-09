@@ -12,4 +12,6 @@ title: Michael Sliwinski
 
 {% include posts.html posts=site.categories.en limit=15 more=1 %}
 
-[Browse all blog entries…](/archive/)
+## [Browse all blog entries…](/archive/)
+
+{% include nozbe.html %}
