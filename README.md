@@ -1,27 +1,39 @@
 # Michael.team
 
-Michael.team is a new blog of Michael Sliwinski (that's me!) - the founer of [Nozbe - a to-do app for modern teams](https://nozbe.com). Now it's a work-in-progress. Features:
+Michael.team is a new blog of Michael Sliwinski (that's me!) - the founer of [Nozbe - a to-do app for modern teams](https://nozbe.com).
 
-- three language support - EN (default = global), PL and ES (and maybe DE in the future?)
+Features:
+
+- three language support - EN (default = global), PL and ES.
 - it supports dark mode/light mode and is mobile friendly
-- no cookies, no trackers, no nothing - really fast loading
-- it'll support minimal, vanilla JS only when needed. No jQuery or anything like this. Site also works with JS turned off.
+- no cookies, no trackers, no nothing - really fast loading - the only cookie loaded is the one of Nozbe affiliate program, so people can use their Nozbe affiliate ID to pass my pages, like: michael.team/nozbe?a=AFFID
+- site uses minimal, vanilla JS only when needed. No jQuery or anything like this. Site also works with JS turned off.
 
 ## Licensed under Creative-Commons license
 
-See [license.md](https://github.com/Nozbe/Michael.team/tree/master/license.md) for details. Basically, all the content and all the code can be copied and used somewhere else but credit is due.
+See [license.md](https://github.com/Nozbe/Michael.team/tree/master/license.md) for details.
 
-## Created in Jekyll with a nice structure.
+Basically, all the content and all the code can be copied and used somewhere else but credit is due.
 
-I've fallen in love with Jekyll and now I'm migrating all of my stuff there. It started with [Nozbe.team](https://nozbe.team), later [NoOffice.org](https://NoOffice.org), [iPadOnly](https://ipadonly.com) and now this blog.
+So you don't have to ask me if you want to copy any text on this site, any blog post or page chapter, or any piece of code. Just copy it and add link back to this site as a credit. Sharing is caring!
+
+## Created in Jekyll with a nice structure and hosted on GitHub Pages
+
+I've fallen in love with [Jekyll](https://jekyllrb.com) and now I've migrated all of my stuff to it. It started with our internal page [Nozbe.team (you can't access it unless you work for Nozbe)](https://nozbe.team), later [NoOffice.org](https://NoOffice.org), [iPadOnly](https://ipadonly.com) and now this blog.
 
 - it's based on No Office blog / book / site structure and minimalist style
-- it's inspired by Derek Sievers and his minimalist site
-- it'll have texts of all my books in /books folder - I'll start with "It's All About  Passion" very soon.
+- it's inspired by [Derek Sievers](https://sive.rs) and his minimalist site
+- it'll have texts of all my books in /books folder - I already imported [It's All About Passion](https://michael.team/passion)
+
+Thanks to GitHub for hosting this page and my NoOffice.org and iPadOnly.com pages for free on [GitHub Pages](https://pages.github.com).
+
+## Contributions welcome!
+
+If you'd like to contribute to this site, maybe correct something in one of my blog posts or book chapters, or have more experience with JS, SCSS or Liquid to improve my code, feel free to issue a pull request. All pull requests are welcome!
 
 ## Cheat sheet
 
-### 1. Every post will have the following additional parameters:
+### 1. Every post can have the following additional parameters in front matter:
 
 - layout - the default layout is being used or page layout for pages or post layout for posts, but then we can still customize it for tags and other views
 - cover - the image name of the cover image going behind the H1 (optional)
@@ -29,8 +41,8 @@ I've fallen in love with Jekyll and now I'm migrating all of my stuff there. It 
 - title - can be also done using the first H1 in the file
 - subtitle - for the blog posts where we really want to use it...
 - vid - YouTube ID of the video
-- vim - Vimeo ID of the video (not yet implemented)
-- tags (which are defined in data/main.yml) - I'm planning on using only defined tags
+- vim - Vimeo ID of the video (TO-DO: not yet implemented)
+- tags (which are defined in data/main.yml) - I'm planning on using only defined tags, which are in brackets and comma, separated: [business,nozbe]
 - js - javascript script to include, it includes scripts.js and launches on page load the script, (eg. js: dice - which launches dice() function from script on page load), exception is "redirect" because it includes the redirect.js entirely.
 - header - replaces the header part of the page with a custom header, like in dice we wanted to have shorter header with a link
 - head - opportunity to add something to the "head" section of the page, usually used for adding podcast icons to subscribe to our podcasts (eg. head: '<meta name="apple-itunes-app" content="app-id=1012329770" />')
@@ -38,15 +50,27 @@ I've fallen in love with Jekyll and now I'm migrating all of my stuff there. It 
 - share - if set to "noshow" the share link at the bottom of the page will not be shown
 - email - if set to "noshow" the newsletter signup form will not be shown
 - limit - how many blog posts to show at first (on tag page)
+- linked - link to the LinkedIn post - where I reporsted this to LinkedIn
+- permalink - the permalink of the page - like this one: /test/
+- redirect_from - other pages that redirect to here - either inline, like: redirect_from: /17/ or using "-" like we have it in tags/show.md
 
+### 2. The structure of the site is very simple:
 
-### 2. The structure of the site will be very simple:
+Content is in its respective directories:
 
-- main page with basic info, search field and the first blog post - (later) the first blog post will be pulled using AJAX and later it will lead to infinite scroll of the main page
-- archive with list of blog posts
-- tag page with list of blog posts
-- pages of stuff I care about
-- /books/ - with books to read online
+- English content (the main one) is in /en/ and tags are in /tag/
+- Polish and Spanish content are in /pl/ and /es/ folders respectively and their tags are in there
+- I have additional folders for:
+    - /txt/ - plain text file
+    - /js/ - JavaScript files
+    - /pdf/ - PDF files
+    - /img/ - images (duh!)
+- Books have their own folders with underscore, like:
+    - /_passion/ - for the "It's All About Passion!" book
+
+As per Jekyll structure, all posts are in their /_posts/ folders in their languages.
+
+URL structure is that English content has no language preface, like: michael.team/about, but Polish or Spanish has /pl/ or /es/ in the URL, like: michael.team/pl/omnie
 
 ### 3. Tips and tricks for writing:
 
@@ -70,6 +94,11 @@ Code is here
 
 > I've seen dark before, but not like this\\
 > This is cold, this is empty, this is numb
+
+- Including video with point in time - seconds from start:
+
+{% include video.html id="m-ugwoEOMvg" start="1425" %}
+
 
 ```
 
