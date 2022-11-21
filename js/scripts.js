@@ -26,6 +26,7 @@ function getYouTube(input = false) {
 	//https://www.youtube.com/watch?feature=emb_logo&v=BmlB8y5Sig8&app=desktop
 	//https://youtu.be/BmlB8y5Sig8
 	//https://www.youtube.com/watch?v=BmlB8y5Sig8
+	//…or just Video ID
 	let yt = ''; //'BmlB8y5Sig8';
 	let ytlink = '';
 	if (input) {
@@ -35,7 +36,10 @@ function getYouTube(input = false) {
 	if (!ytlink) {
 		let urlParams = new URLSearchParams(window.location.search);
 		yt = urlParams.get('v'); //when the v= param is after & in a longer YouTube link
-		if (!yt) ytlink = urlParams.get('yt'); //we just get our normal yt param
+		if (!yt) {
+			ytlink = urlParams.get('yt'); //we just get our normal yt param
+			if (ytlink.length == 11) yt = ytlink; //in case it's a YouTube ID
+		}
 	}
 	if (!yt) {
 		if (ytlink) {

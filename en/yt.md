@@ -28,11 +28,24 @@ I created a handy Siri Shortcut which you can use to "share" any YouTube link to
 
 ## Option 3. Just add a URL to this page as a parameter
 
-This page has a special `yt` parameter, so add the YouTube link at the end of it:
+This page has a special `yt` parameter, so add the YouTube link at the end of it or the 11-character YouTube video ID:
 
 {% highlight liquid %}
-https://michael.team/yt/?yt=FULLYOUTUBELINK
+https://michael.team/yt/?yt=FULLYOUTUBELINK_OR_VIDEOID
 {% endhighlight %}
+
+## Option 4. Change the short YOUTU.BE url to XOUTU.BE url
+
+That's right. I bought a domain `xoutu.be` which redirects to here. So if you've got a short video URL, you can just switch `y` for `x` and you're done! 
+
+{% highlight liquid %}
+Change:
+youtu.be/VIDEOID
+To:
+Xoutu.be/VIDEOID
+{% endhighlight %}
+
+I hope Google will not sue me for ordering a similar domain. It's for a good cause!
 
 ## Enjoy!
 

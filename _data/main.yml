@@ -130,7 +130,7 @@ tags:
 - name: books
   emoj: "📖"
   titl: "Books"
-  tit2: "Books I'm [reading and recommending](/reading) as well as books I'm writing. Featuring behind-the-scenes of the **[#NoOffice book](https://NoOffice.org/){:target='_blank'}** creation process. Get my past books: [It's All About Passion!](/passion/) and [NoOffice Apps](/apps/) when you subscribe to my [newsletter](/news/)."
+  tit2: "Books I'm [reading and recommending](/reading) as well as books I'm writing. Featuring behind-the-scenes of the **[#NoOffice book](https://NoOffice.org/){:target='_blank'}** creation process (read it online free!). You can also read my past books online, like: [It's All About Passion!](/passion/)."
 - name: business
   emoj: "💼"
   titl: "Business"
@@ -182,7 +182,7 @@ tags:
 - name: news
   emoj: "💌"
   titl: "Newsletter"
-  tit2: "**Subscribe to my monthly Newsletter!** Join my inner circle and as a *thank you* get two of my best-selling books: [It's All About Passion](/passion/) and [No Office Apps](/apps/). As my newsletter subscriber every month you'll receive 3 things: an actionable productivity tip, an update on my writing with highlights from my [#NoOffice FM podcast](/noofficefm) and the progress report on the [NoOffice book](/nooffice/) and… I might ask you for your feedback! Fill out the form below to join my *inner circle*! See you on the other side!"
+  tit2: "**Subscribe to my Newsletter!** Actually, there are two newsletters now: **[LinkedIn Newsletter (weekly)](https://www.linkedin.com/newsletters/no-office-by-michael-sliwinski-6996403283875540992/)** where I share one of the best posts [from this blog](/archive) every week as an inspiration and/or also subscribe to my [**Newsletter on Substack (1-2 monthly)**](https://nooffice.substack.com) where I share my recent writing in a nutshell, an actionable productivity tip and more! Below you'll find the latest issues of the latter newsletter. See you on the other side!"
 - name: nooffice
   emoj: "🏝"
   titl: "NoOffice"
@@ -204,9 +204,9 @@ tags:
   titl: "Office"
   tit2: "The gradual yearly evolution of my personal home office, from back in 2008 till now - this is *the room where it happens*."
 - name: productivity
-  emoj: "☑️"
+  emoj: "✔️"
   titl: "Productivity"
-  tit2: "Productivity-related topics. How I hack my life, do things better, faster and most of all, create long-lasting habits. I'm a constant productivity student. Now focused mostly on team productivity with the recent launch of [Nozbe Teams](https://michael.gratis/nozbe){:target='_blank'}."
+  tit2: "Productivity-related topics. How I hack my life, do things better, faster and most of all, create long-lasting habits. I'm a constant productivity student. Now focused mostly on team productivity with the recent launch of the new [Nozbe](https://michael.gratis/nozbe){:target='_blank'}."
 - name: projects
   emoj: "🚀"
   titl: "Projects"
@@ -240,7 +240,7 @@ tags:
   titl: "Vlog"
   tit2: "My 'Team Productivity Show' video blog where I share my best team productivity tips and tricks. It's also hosted on [Nozbe blog](https://nozbe.com/tags/teamproductivity?a=mike){:target='_blank'}. You can subscribe [on YouTube](https://www.youtube.com/playlist?list=PL4VGcOPPsP4O0dJlcJLoMiGEWSTOFYulO) or [as audio on Apple Podcasts](https://podcasts.apple.com/us/podcast/team-productivity-show/id1538743591)."
 - name: wrong
-  emoj: "☹️"
+  emoj: "🙁"
   titl: "Wrong"
   tit2: "Most of my posts about [life](/life/) are very positive. However, sometimes I write when I feel that something is wrong. It's not about complaining but critisizing an issue in a constructive way."
 - name: webinars
