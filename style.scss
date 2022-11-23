@@ -88,6 +88,14 @@ article > footer {
 	}
 }
 
+.domain {
+	background-color: $highlight;
+	
+	@include dark-mode {
+		background-color: $highlightD;
+	}
+}
+
 .box {
 	margin: 10px 0;
 	padding: 10px;

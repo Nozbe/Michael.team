@@ -99,6 +99,7 @@
 </div>
 
 {% if site.data.main.ad == 'true' %}{% include ad.html %}{% endif %}
+{% if page.domain %}{% include domain.html %}{% endif %}
 
 {{ content }}
 

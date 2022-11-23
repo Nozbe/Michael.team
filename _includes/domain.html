@@ -1,0 +1,11 @@
+{% comment %}
+Inserting information about domain redirection if page.domain is defined in front matter.
+{% endcomment %}
+
+<div class="begend domain" style="padding: 5px 0px;">
+<div class="begender center"><strong>{{ page.domain }}</strong> redirects to this page.
+{% if page.domain_why %}
+<a href="{{ page.domain_why }}">Why?</a>
+{% endif %}
+</div>
+</div>

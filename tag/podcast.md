@@ -5,4 +5,5 @@ permalink: /podcast/
 redirect_from:
  - /tag/podcast/
  - /thepodcast/
+domain: ThePodcast.fm
 ---

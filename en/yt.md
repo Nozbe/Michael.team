@@ -3,6 +3,7 @@ permalink: /yt/
 title: "YouTube watcher"
 js: getYouTube
 img: yt.jpg
+domain: Xoutu.be
 ---
 
 <div id="yt"></div>

@@ -27,6 +27,17 @@ I've fallen in love with [Jekyll](https://jekyllrb.com) and now I've migrated al
 
 Thanks to GitHub for hosting this page and my NoOffice.org and iPadOnly.com pages for free on [GitHub Pages](https://pages.github.com).
 
+## Domains supported by this one site
+
+- **Michael.team** - main domain of the page (duh!)
+
+Apart from that, I've set up on my small VPS server redirections to other domains which are supported on this site:
+
+- **Michael.gratis** - redirects to: `https://michael.team/gratis/?to=$1` so I can use redirections to different pages and use a simple `michael.gratis/URL`
+- **Xoutu.be** - redirects to: `https://michael.team/yt/?yt=$1` to change youtu.be link to my YouTube player
+- **ThePodcast.fm** - redirects to the `/podcast` tag - it's an iFrame redirect so that my old links from the podcast just work. This way link of `ThePodcast.fm/5` redirects to `/podcast-5` blog post.
+- **QTbar.com, HitRSS.com…** - redirect blog posts about my past projects
+
 ## Contributions welcome!
 
 If you'd like to contribute to this site, maybe correct something in one of my blog posts or book chapters, or have more experience with JS, SCSS or Liquid to improve my code, feel free to issue a pull request. All pull requests are welcome!
@@ -53,6 +64,8 @@ If you'd like to contribute to this site, maybe correct something in one of my b
 - linked - link to the LinkedIn post - where I reporsted this to LinkedIn
 - permalink - the permalink of the page - like this one: /test/
 - redirect_from - other pages that redirect to here - either inline, like: redirect_from: /17/ or using "-" like we have it in tags/show.md
+- domain - if a page redirects to a domain (like my past projects: QTbar.com or HitRSS.com) there will be a short info regarding this
+- domain_why - if there's a dedicated blog post explaining the redirection, link to it can be added
 
 ### 2. The structure of the site is very simple:
 
