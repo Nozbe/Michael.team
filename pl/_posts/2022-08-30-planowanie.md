@@ -28,16 +28,16 @@ Te dodatkowe opcje są… opcjonalne, bo skrót jest tak zaprojektowany, że po 
 
 Pobierz skrót tutaj:
 
-### [Dziennik i Planowanie - skrót Siri][p]
+### [Dziennik i Planowanie - skrót Siri][jp]
 
 Dodatkowo stworzyłem skrót ["Otwórz dzisiaj"][d], który realizuje tą ostatnią opcję menu głównego skrótu bezpośrednio, czyli otwiera po prostu plan na dzisiaj. Bardzo pomocne jeśli faktycznie tak jak ja chcesz co pół godziny aktualizować Twój plan dnia.
 
-Alternatywnie pobierz [skrót po angielsku](/journal22/): **[Journal and Planning][pe]**
+Alternatywnie pobierz [skrót po angielsku](/journal22/): **[Journal and Planning][j]**
 
 Zachęcam Cię do pobrania tego skrótu i przetestowania go samemu. W razie pytań [pisz śmiało](/pl/kontakt/) i przeczytaj więcej o tym nawyku w najnowszym, wsześniowym wydaniu [iMagazine](/pl/imagazine/).
 
-[p]: https://www.icloud.com/shortcuts/a7a92ef314b04123989e3295f97ffee7
+[j]: https://www.icloud.com/shortcuts/ba98f376fdc04cacb034815eccc7b61f
+[jp]: https://www.icloud.com/shortcuts/a480002bce0e4e04a94c91a595aebd37
 [d]: https://www.icloud.com/shortcuts/2a223932634b47b2908c0c715c959437
-[pe]: https://www.icloud.com/shortcuts/f346519ea8d945e1b727298d4a482602
 [n]: https://michael.gratis/nozbe_pl
 [np]: https://michael.gratis/nozbepersonal_pl
