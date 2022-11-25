@@ -16,7 +16,7 @@ cover: "dziennik.jpg"
 
 You can add this Shortcut for free to your Shortcuts library:
 
-### [Journal Basic][j]
+### [Journal Basic][jb]
 
 Once you've added this Shortcut, open it up and you'll be guided through the following steps:
 
@@ -33,19 +33,20 @@ Once you've added this Shortcut, open it up and you'll be guided through the fol
 
 Anyway, if you need more in-depth information on the background of me coming up with these two journaling routines, please [read my post from 2016 where I explain in detail how I got here](/journal16/).
 
-## Get the [Journal Basic][j] Siri Shortcut and start journaling today!
+## Get the [Journal Basic][jb] Siri Shortcut and start journaling today!
 
-Stop procrastinating and start journaling today! [Get the Siri Shortcut][j] and add your first entry today and once you're done, post a tweet with `#SiriJournal` and tag me - [@MSliwinski][t] - happy journaling!
+Stop procrastinating and start journaling today! [Get the Siri Shortcut][jb] and add your first entry today and once you're done, post a tweet with `#SiriJournal` and tag me - [@MSliwinski][t] - happy journaling!
 
-🇵🇱 Alternatively, you can [get this journaling Siri Shortcut in Polish](/pl/dziennik/). Feel free to translate it to other languages and I'll update this post!
+🇵🇱 Alternatively, you can [get this journaling Siri Shortcut in Polish](/pl/dziennik/): **[Dziennik][jbp]**. Feel free to translate it to other languages and I'll update this post!
 
 ## Version history
 
+- 2.1 - 2022, 25 November - small formatting improvement for goals
 - 2.0 - 2022, 30 August - *Improvement*: every entry can be skipped by leaving it blank, just hit ENTER and it won't be added to your journal + *New feature*: Menu option to just open the journal file in your default Markdown editor.
 - 1.0 - 2022, 7 July - initial version of the shortcut.
 
-[j]: https://www.icloud.com/shortcuts/9072bc23feee4c01b833150dd2733375
-[j1]: https://www.icloud.com/shortcuts/5fb5caf55e744b6189d53876bd799ba3
+[jb]: https://www.icloud.com/shortcuts/99676362fb504236bed1e69a42353c2a
+[jbp]: https://www.icloud.com/shortcuts/8ef89255630844ea8c66a6a287a03c6a
 [t]: https://twitter.com/MSliwinski
 
 [n]: https://michael.gratis/nozbe

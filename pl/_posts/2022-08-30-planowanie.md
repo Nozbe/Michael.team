@@ -36,8 +36,13 @@ Alternatywnie pobierz [skrót po angielsku](/journal22/): **[Journal and Plannin
 
 Zachęcam Cię do pobrania tego skrótu i przetestowania go samemu. W razie pytań [pisz śmiało](/pl/kontakt/) i przeczytaj więcej o tym nawyku w najnowszym, wsześniowym wydaniu [iMagazine](/pl/imagazine/).
 
+## Wersje skrótu "Dziennik i Planowanie"
+
+- 1.1 - 2022, 25 listopada - mała poprawka do formatowania celów w iOS16
+- 1.0 - 2022, 30 sierpnia - pierwsza wersja na podstawie [skrótu dziennika](/pl/dziennik)
+
 [j]: https://www.icloud.com/shortcuts/ba98f376fdc04cacb034815eccc7b61f
-[jp]: https://www.icloud.com/shortcuts/a480002bce0e4e04a94c91a595aebd37
+[jp]: https://www.icloud.com/shortcuts/bc64ceb5e8ac4e6680dc746744304109
 [d]: https://www.icloud.com/shortcuts/2a223932634b47b2908c0c715c959437
 [n]: https://michael.gratis/nozbe_pl
 [np]: https://michael.gratis/nozbepersonal_pl
