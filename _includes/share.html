@@ -10,10 +10,12 @@
 <div id="sharelinks">
 {% if page.share!="noshow" %}
 <h3>{{ site.data.main.[share] }}: <a href="{{ sharelink }}">{{ sharelink_name }}</a></h3>
+	<!-- no longer recommending Twitter
 	{% if include.tweet %}
 	{% capture tweet %}sharet{{ langvar }}{% endcapture %}
 	<h4><a href="https://twitter.com/intent/tweet?text={{ page.title }}&via={{ site.data.main.twitter }}&url={{ sharelink }}&hashtags={{ tagcommas }}">{{ site.data.main.[tweet] }}</a></h4>
 	{% endif %}
+	-->
 	{% if page.linked %}
 	<h4><a href="{{ page.linked }}">{{ site.data.main.linked }}</a></h4>
 	{% endif %}

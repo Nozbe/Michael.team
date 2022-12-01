@@ -1,6 +1,6 @@
 // Redirecting to links from the MICHAEL.GRATIS site:
 // https://michael.gratis/REDIRECT
-// which translates to https://michael.team/redirect?to=REDIRECT
+// which translates to https://michael.team/gratis?to=REDIRECT
 
 let links = new Map([
 
@@ -31,6 +31,8 @@ let links = new Map([
 //social media profiles
 
 ['in','https://www.linkedin.com/in/michaelsliwinski/'],
+['inn','https://www.linkedin.com/newsletters/no-office-by-michael-sliwinski-6996403283875540992/'], //LinkedIn Newsletter
+['n', 'https://nooffice.substack.com'], //newsletter
 ['i', 'https://www.instagram.com/michaelsliwinski/'],
 ['f', 'https://www.facebook.com/michaelsliwinski'],
 ['t', 'https://twitter.com/MSliwinski'],
