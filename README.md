@@ -1,12 +1,12 @@
 # Michael.team
 
-Michael.team is a new blog of Michael Sliwinski (that's me!) - the founer of [Nozbe - a to-do app for modern teams](https://nozbe.com).
+[Michael.team](https://michael.team) is a blog of Michael Sliwinski (that's me!) - the founer of [Nozbe - a to-do app for modern teams](https://nozbe.com).
 
 Features:
 
 - three language support - EN (default = global), PL and ES.
 - it supports dark mode/light mode and is mobile friendly
-- no cookies, no trackers, no nothing - really fast loading - the only cookie loaded is the one of Nozbe affiliate program, so people can use their Nozbe affiliate ID to pass my pages, like: michael.team/nozbe?a=AFFID
+- no cookies, no trackers, no nothing - really fast loading - the only cookie loaded is the one of [Nozbe affiliate program](https://nozbe.com/refer), so people can use their Nozbe affiliate ID to pass my pages, like: michael.team/nozbe?ref=AFFID
 - site uses minimal, vanilla JS only when needed. No jQuery or anything like this. Site also works with JS turned off.
 
 ## Licensed under Creative-Commons license
@@ -21,22 +21,23 @@ So you don't have to ask me if you want to copy any text on this site, any blog 
 
 I've fallen in love with [Jekyll](https://jekyllrb.com) and now I've migrated all of my stuff to it. It started with our internal page [Nozbe.team (you can't access it unless you work for Nozbe)](https://nozbe.team), later [NoOffice.org](https://NoOffice.org), [iPadOnly](https://ipadonly.com) and now this blog.
 
-- it's based on No Office blog / book / site structure and minimalist style
+- it's based on No Office blog / book / site structure
 - it's inspired by [Derek Sievers](https://sive.rs) and his minimalist site
 - it'll have texts of all my books in /books folder - I already imported [It's All About Passion](https://michael.team/passion)
 
-Thanks to GitHub for hosting this page and my NoOffice.org and iPadOnly.com pages for free on [GitHub Pages](https://pages.github.com).
+Thanks to GitHub for hosting this page and my other pages for free on [GitHub Pages](https://pages.github.com).
 
 ## Domains supported by this one site
 
 - **Michael.team** - main domain of the page (duh!)
 
-Apart from that, I've set up on my small VPS server redirections to other domains which are supported on this site:
+Apart from that, I've set up on my small VPS [special server redirections](https://michael.team/txt/redirect.txt) to other domains which are supported on this site:
 
-- **Michael.gratis** - redirects to: `https://michael.team/gratis/?to=$1` so I can use redirections to different pages and use a simple `michael.gratis/URL`
+- **Michael.gratis** - redirects to: `https://michael.team/gratis/?to=$1` so I can use redirections to different pages and use a simple `michael.gratis/SHORT`
 - **Xoutu.be** - redirects to: `https://michael.team/yt/?yt=$1` to change youtu.be link to my YouTube player
-- **ThePodcast.fm** - redirects to the `/podcast` tag - it's an iFrame redirect so that my old links from the podcast just work. This way link of `ThePodcast.fm/5` redirects to `/podcast-5` blog post.
+- **ThePodcast.fm** - redirects to the `/podcast` tag - it's an iFrame redirect so that my old links from the podcast just work. This way link of `ThePodcast.fm/5` redirects to `/podcast-5` blog post. I'm using a special [.htaccess file](https://michael.team/txt/iframe-htaccess.txt) and [PHP file as index](https://michael.team/txt/iframe-php.txt)
 - **QTbar.com, HitRSS.com…** - redirect blog posts about my past projects
+- **Sliwinski.com, Sliwin.ski, MichaelSliwinski.com, MichaelNozbe.com** - my past domains redirect here, too - [history of this site is explained here](https://michael.team/sliwinski_com)
 
 ## Contributions welcome!
 
@@ -111,7 +112,6 @@ Code is here
 - Including video with point in time - seconds from start:
 
 {% include video.html id="m-ugwoEOMvg" start="1425" %}
-
 
 ```
 

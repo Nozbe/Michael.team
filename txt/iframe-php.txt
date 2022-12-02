@@ -1,0 +1,23 @@
+<?php
+/*
+Redirecting from https://thepodcast.fm/ to michael.team/podcast/
+*/
+$url = $_GET['url'];
+$urls = explode("/", $url);
+$link = 'https://michael.team/podcast';
+switch ($urls[0]) {
+	case 'episodes':
+		if ($urls[1]) $episode = $urls[1]; // /episodes/201
+			else { // episodes?format=rss
+				header("Location: https://feeds.transistor.fm/the-podcast");
+				exit();
+			}
+		break;
+	default:
+		$episode = $urls[0];
+}
+if ($episode=='001') $episode = '1'; //001 exception:
+if ($episode) $link .= '-'.$episode;
+print "<html><head><title>ThePodcast.fm</title><meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'><style>\nbody { margin: 0; padding: 0; }\nbody, iframe { width: 100%; height: 100%; }\niframe { border: 0;}\n</style></head><body><iframe src=\"$link\"/></body></html>";
+exit();
+?>

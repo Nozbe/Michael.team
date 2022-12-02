@@ -1,0 +1,19 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    RewriteCond %{HTTP_HOST} sliwinski.com [NC]
+    RewriteRule ^(.*)$ https://michael.team/$1 [L,R=301]
+
+    RewriteCond %{HTTP_HOST} sliwin\.ski [NC]
+    RewriteRule ^(.*)$ https://michael.team/$1 [L,R=301]
+
+    RewriteCond %{HTTP_HOST} michaelnozbe.com [NC]
+    RewriteRule ^(.*)$ https://sliwinski.com/$1 [L]
+
+    RewriteCond %{HTTP_HOST} Michael.gratis [NC]
+    RewriteRule ^(.*)$ https://michael.team/gratis/?to=$1 [L]
+
+    RewriteCond %{HTTP_HOST} xoutu.be [NC]
+    RewriteRule ^([^/]*)(\/(.*))?$ https://michael.team/yt/?yt=$1&c=d_xoutube [L]
+
+</IfModule>
