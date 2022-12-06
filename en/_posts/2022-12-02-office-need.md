@@ -1,6 +1,7 @@
 ---
 tags: [nooffice]
 cover: "office-need.jpg"
+linked: https://www.linkedin.com/pulse/some-companies-still-need-office-because-want-michael-sliwinski/
 ---
 
 # Some companies still need an office because… they want an office!
