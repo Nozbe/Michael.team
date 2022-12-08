@@ -1,6 +1,6 @@
 ---
 tags: [short, iphone, life]
-img: lockscreen.jpg
+img: lockscreen.png
 ---
 
 # How to enjoy photos of your family on your iOS16 iPhone Lock Screen
