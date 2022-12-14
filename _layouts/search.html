@@ -10,7 +10,7 @@ layout: nil
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.url }}{{ post.url }}",
       "date"     : "{{ post.date }}",
-      "desc"     : ""
+      "desc"     : "{{ post.url }}"
     }
     {% assign comma = "," %}
   {% endfor %}
@@ -23,7 +23,7 @@ layout: nil
     {
       "title"    : "{{ page.title | escape }}",
       "url"      : "{{ site.url }}{{ page.url }}",
-      "desc"     : ""
+      "desc"     : "{{ page.url }}"
     }
     {% assign comma = "," %}
       {% endif %}
