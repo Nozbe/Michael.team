@@ -1,5 +1,5 @@
 ---
-tags: [life]
+tags: [life,lego]
 img: "lego.jpg"
 ---
 
