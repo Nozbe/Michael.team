@@ -41,7 +41,3 @@ I'm the founder of **Nozbe** which you can find [here](https://nozbe.com/) - it'
 {% include test.html id="m-ugwoEOMvg" %}
 
 ## Working with date parameters
-
-## Emoji test
-
-🤖🧩🎰🕹️🧰🔫🟥🏴‍☠️🔶▶️
