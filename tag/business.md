@@ -2,5 +2,5 @@
 title: "Running an online business"
 permalink: /business/
 redirect_from: /tag/business/
-cover: office-need.jpg
+cover: now211006.jpg
 ---
