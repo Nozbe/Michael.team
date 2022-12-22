@@ -4,4 +4,5 @@ permalink: /nozbe/
 redirect_from:
  - /tag/nozbe/
  - /introducing-the-all-new-nozbe-blog/
+cover: nozbe10-2.jpg
 ---

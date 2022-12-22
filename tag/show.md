@@ -9,4 +9,5 @@ redirect_from:
  - /productive_show/
  - /itunesaudio/
  - /itunesvideo/
+cover: michael.team.3k.jpg
 ---

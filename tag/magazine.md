@@ -15,4 +15,5 @@ redirect_from:
  - /mgzines/
  - /mag/
  - /maga/
+cover: productive-magazine-9-and-1-on-the-ipad.jpg
 ---

@@ -6,4 +6,5 @@ redirect_from:
   - /tag/thoughts/
   - /tag/passion/
   - /tag/family/
+cover: friends.jpg
 ---

@@ -5,4 +5,5 @@ redirect_from:
  - /tag/best/
  - /top/
  - /top-posts/
+cover: nooffice-best.jpg
 ---

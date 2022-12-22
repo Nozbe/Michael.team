@@ -4,4 +4,5 @@ permalink: /interviews/
 redirect_from:
  - /tag/interviews/
  - /tag/interview/
+cover: allinterviews.jpg
 ---

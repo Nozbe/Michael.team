@@ -4,4 +4,5 @@ permalink: /applewatch/
 redirect_from:
   - /tag/applewatch/
   - /tag/AppleWatch/
+cover: now210103.jpg
 ---

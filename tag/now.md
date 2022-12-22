@@ -6,4 +6,5 @@ redirect_from:
   - /tag/now/
 js: getNow
 limit: 1
+cover: 210704.jpg
 ---

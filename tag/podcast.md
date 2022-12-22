@@ -6,4 +6,5 @@ redirect_from:
  - /tag/podcast/
  - /thepodcast/
 domain: ThePodcast.fm
+cover: podcast-199.jpg
 ---
