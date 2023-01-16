@@ -4,9 +4,9 @@ layout: default
 
 <article class="page" id="page">
 {% include tags.html %}
-{% if page.cover %}<header style="background: url('{{ site.url }}/img/{{ page.cover }}') top center / cover no-repeat; min-height: 400px;"><div class="header">{% else %}<header><div class="headerblack">{% endif %}
+{% if page.cover %}<header><div style="background: url('{{ site.url }}/img/{{ page.cover }}') top center / cover no-repeat; min-height: 300px; width: 700px; margin: auto;"><div class="header">{% else %}<header><div><div class="headerblack">{% endif %}
 	<h1>{{ tag_emoji }} {{ tag_title }}</h1>
-</div></header>
+</div></div></header>
 
 <div class="entry">
 	{{ tag_subtitle | markdownify }}
