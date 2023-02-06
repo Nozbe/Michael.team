@@ -12,9 +12,10 @@ redirect_from: /Contact/
 
 This is the fastest way to get in touch with me:
 
-* I'm very active on [Twitter](https://twitter.com/MSliwinski)
-* I'm beginning to be more involved on [LinkedIn](https://www.linkedin.com/in/michaelsliwinski)
+* I'm starting with [Mastodon: @michael@nozbe.com](https://social.nozbe.com/@michael)
+* I'm very active on [LinkedIn](https://www.linkedin.com/in/michaelsliwinski)
 * I sometimes post a story on [Instagram](https://www.instagram.com/michaelsliwinski/)
+* I used to be active on [Twitter](https://twitter.com/MSliwinski) but [Elon Musk](/elon/) has completely ruined it.
 * I'm no longer active on [Facebook](https://www.facebook.com/michael.sliwinski) because I disagree with Mark Zuckerberg's stance on privacy and creepiness (yeah, I know Instagram is also owned by FB, so that's why I'm also not as active there as I used to be…)
 
 ## [Nozbe][n] questions?

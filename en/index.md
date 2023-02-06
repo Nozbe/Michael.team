@@ -14,4 +14,6 @@ title: Michael Sliwinski
 
 ## [Browse all blog entries…](/archive/)
 
+<a rel="me" href="https://social.nozbe.com/@michael">Follow me on Mastodon</a>
+
 {% include nozbe.html %}
