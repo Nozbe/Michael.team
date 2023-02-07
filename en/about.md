@@ -13,7 +13,7 @@ redirect_from:
 
 ## Your host - founder and CEO of Nozbe
 
-Hi, I'm [Michael Sliwinski](/){:target='_blank'} and I'm the [founder and CEO](https://michael.gratis/nozbemichael){:target='_blank'} of [Nozbe and Nozbe Teams](https://michael.gratis/nozbe){:target='_blank'} - to-do apps for busy professionals and teams. I'm <leading></leading> a team of [20+ people who work completely remotely from their "home offices"](https://nozbe.com/about?a=mike){:target='_blank'} and we've been doing this for the last 13+ years now. Nozbe and Nozbe Teams have more than 700K users from all over the world.
+Hi, I'm [Michael Sliwinski](/){:target='_blank'} and I'm the [founder and CEO](https://michael.gratis/nozbemichael){:target='_blank'} of [Nozbe and Nozbe Teams](https://michael.gratis/nozbe){:target='_blank'} - to-do apps for busy professionals and teams. I'm leading a team of [20+ people who work completely remotely from their "home offices"](https://nozbe.com/about?a=mike){:target='_blank'} and we've been doing this for the last 13+ years now. Nozbe and Nozbe Teams have more than 700K users from all over the world.
 
 ## I'm on a mission to help small teams do great things!
 

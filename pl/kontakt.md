@@ -10,8 +10,9 @@ title: Kontakt z Michałem Śliwińskim
 
 Tak najprościej mnie złapać:
 
-* Jestem bardzo aktywny na [Twitterze](https://twitter.com/MSliwinski)
-* Zaczynam coraz więcej pisać na [LinkedIn](https://www.linkedin.com/in/michaelsliwinski)
+* Dużo piszę na [LinkedIn](https://www.linkedin.com/in/michaelsliwinski)
+* Zaczynam działać na [Mastodon: @michael@nozbe.com](https://social.nozbe.com/@michael)
+* Byłem kiedyś aktywny na [Twitterze](https://twitter.com/MSliwinski) ale [Elon go zepsuł](/pl/elon/).
 * Nie jestem aktywny na [Fejsie](https://www.facebook.com/michael.sliwinski) ani [Instagramie](https://www.instagram.com/michaelsliwinski/) bo nie zgadzam się z podejściem do prywatności i polityki Marka Zuckerberga.
 
 ## Pytania odnośnie [Nozbe][n]?

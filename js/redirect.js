@@ -7,6 +7,7 @@ let links = new Map([
 //list of REDIRECT links
 ['nooffice', 'https://nooffice.org'],
 ['nozbe', 'https://nozbe.com/?c=michaelteam'],
+['na', 'https://nozbe.com/?a=mike'],
 ['nozbepersonal', 'https://nozbe.com/personal/?c=michaelteam'],
 ['nozbemichael', 'https://nozbe.com/michael/?c=michaelteam'],
 ['nozbe_pl', 'https://nozbe.com/pl/?c=michaelteam'],
@@ -33,9 +34,10 @@ let links = new Map([
 ['in','https://www.linkedin.com/in/michaelsliwinski/'],
 ['inn','https://www.linkedin.com/newsletters/no-office-by-michael-sliwinski-6996403283875540992/'], //LinkedIn Newsletter
 ['n', 'https://nooffice.substack.com'], //newsletter
-['i', 'https://www.instagram.com/michaelsliwinski/'],
-['f', 'https://www.facebook.com/michaelsliwinski'],
-['t', 'https://twitter.com/MSliwinski'],
+['ig', 'https://www.instagram.com/michaelsliwinski/'],
+['fb', 'https://www.facebook.com/michaelsliwinski'],
+['tt', 'https://twitter.com/MSliwinski'],
+['ma', 'https://social.nozbe.com/@michael'],
 
 ['test', 'test'],
 
