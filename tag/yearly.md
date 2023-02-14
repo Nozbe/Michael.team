@@ -1,6 +1,8 @@
 ---
 title: "Yearly Summaries"
-permalink: /yearly/
-redirect_from: /tag/yearly/
+permalink: /year/
+redirect_from:
+  - /tag/yearly/
+  - /yearly/
 cover: ipad.jpg
 ---

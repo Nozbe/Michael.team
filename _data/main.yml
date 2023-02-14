@@ -28,6 +28,11 @@ sharet: "🐥 Share on Twitter"
 sharet_pl: "🐥 Wrzuć na Twittera"
 sharet_es: "🐥 Comparte en Twitter"
 
+url_source: "https://github.com/Nozbe/Michael.team/blob/master/"
+source: View source on GitHub
+source_pl: Zobacz źródło na GitHub
+source_es: Ver fuente en GitHub
+
 linked: "💬 Comment on LinkedIn"
 
 read: "Read more"
@@ -251,10 +256,10 @@ tags:
   emoj: "📺"
   titl: "Webinars"
   tit2: "Webinars I've given as founder of [Nozbe](https://michael.gratis/nozbe){:target='_blank'} and as a personal and team productivity guy. Each one is packed with lots of time and project management tips and tricks I've learned over the years. Make sure to check them out and learn for free!"
-- name: yearly
+- name: year
   emoj: "🗓"
-  titl: "Yearly"
-  tit2: "My yearly reviews. Each blog post is a review of the past year with my hopes and dreams for the next one."
+  titl: "Yearly Reviews"
+  tit2: "My yearly reviews. Each post is a review of the past year with my hopes and dreams for the next one. I write them mainly for myself, but by giving you a glimpse into my life I'm hoping you'll learn something that's applicable to your life. For more frequent updates [check my now page](/now)."
   
 tags_pl:
 - name: gosc
