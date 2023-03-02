@@ -29,12 +29,12 @@ sharet_pl: "🐥 Wrzuć na Twittera"
 sharet_es: "🐥 Comparte en Twitter"
 
 url_source: "https://github.com/Nozbe/Michael.team/blob/master/"
-source: View source on GitHub
-source_pl: Zobacz źródło na GitHub
-source_es: Ver fuente en GitHub
+source: "🔤 Source text on GitHub"
+source_pl: "🔤 Tekst źródłowy na GitHub"
+source_es: "🔤 Fuente de texto en GitHub"
 
 linked: "💬 Comment on LinkedIn"
-mastodon: "🐘 Discuss with me on Mastodon"
+mastodon: "🐘 Discuss on Mastodon"
 
 read: "Read more"
 read_pl: "Czytaj dalej"
