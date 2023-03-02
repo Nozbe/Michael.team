@@ -12,13 +12,16 @@
 <h3>{{ site.data.main.[share] }}: <a href="{{ sharelink }}">{{ sharelink_name }}</a></h3>
 {% capture source %}source{{ langvar }}{% endcapture %}
 <p><a href="{{ site.data.main.url_source }}{{ page.path }}?plain=1" target="_blank">{{ site.data.main.[source] }}</a></p>
+	{% if page.linked %}
+	<h4><a href="{{ page.linked }}" target="_blank">{{ site.data.main.linked }}</a></h4>
+	{% endif %}
+	{% if page.mastodon %}
+	<h4><a href="{{ page.mastodon }}" target="_blank">{{ site.data.main.mastodon }}</a></h4>
+	{% endif %}
 	<!-- no longer recommending Twitter
 	{% capture tweet %}sharet{{ langvar }}{% endcapture %}
 	<h4><a href="https://twitter.com/intent/tweet?text={{ page.title }}&via={{ site.data.main.twitter }}&url={{ sharelink }}&hashtags={{ tagcommas }}">{{ site.data.main.[tweet] }}</a></h4>
 	-->
-	{% if page.linked %}
-	<h4><a href="{{ page.linked }}">{{ site.data.main.linked }}</a></h4>
-	{% endif %}
 {% endif %}
 </div>
 {% if page.email!="noshow" %}
