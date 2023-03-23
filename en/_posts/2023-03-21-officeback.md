@@ -1,11 +1,15 @@
 ---
 tags: [nooffice]
 cover: "officeback.jpg"
+thread: https://twitter.com/MSliwinski/status/1638226343749103617
+mastodon: https://social.nozbe.com/@michael/110062607667128285
+linked: https://www.linkedin.com/pulse/remote-bust-hybrid-staying-we-forcing-people-back-office-sliwinski
 ---
 
 # Remote or bust? Is Hybrid staying or are we forcing people back to the old-school office?
 
 Now that the COVID Pandemic is over, what's gonna happen to knowledge workers? Will managers force them back to the office? Or will people push back and demand flexibility? Who wins?
+
 <!--More-->
 
 ![{{ page.title }}](/img/{{ page.cover }})
@@ -40,7 +44,7 @@ There will be lots of pushback. Managers and business owners will try to force t
 
 ## ☁️ Office in the cloud is becoming the standard!
 
-The source of truth is your cloud-powered IT system. For us, it's our Nozbe application where all our projects, tasks and most of our files are. We can access it from any device, from anywhere in the world.
+The source of truth is your cloud-powered IT system. For us, it's our [Nozbe][n] application where all our projects, tasks and most of our files are. We can access it from any device, from anywhere in the world.
 
 ## 🚀 The future is here - embrace it!
 
