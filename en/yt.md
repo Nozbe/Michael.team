@@ -1,6 +1,6 @@
 ---
 permalink: /yt/
-title: "YouTube watcher"
+title: "Cookie-free YouTube watcher"
 js: getYouTube
 img: yt.jpg
 domain: Xoutu.be
@@ -8,26 +8,22 @@ domain: Xoutu.be
 
 <div id="yt"></div>
 
-## Watch any video here, cookie free!
-
-I created this because the experience of watching video on YouTube got worse. They show pop-ups, they track you and they tempt you to bindge-watch by suggesting lots of videos on the side. [Here's the full story behind this page][blog].
-
-This page solves most of these problems. It lets you embed *any YouTube video* easily and watch it without being tracked, with full screen and picture-in-picture support on iPads.
-
-## Option 1. Just paste a YouTube URL link
+## To watch any video, paste YouTube URL
 
 <form name="link" onsubmit="getYouTube(true); return false;">
 <div><input name="yt" type="text" value="" placeholder="Paste: ...youtube.com/watch?v=..."></div>
 <div><button>Watch YouTube video!</button></div>
 </form>
 
-## Option 2. Get a Siri Shortcut for iOS
+Works with *youtube.com, m.youtube.com, youtu.be* and just any video ID.
 
-I created a handy Siri Shortcut which you can use to "share" any YouTube link to this page.
+## Share any YouTube video on iOS easily
 
-**[Get the Siri Shortcut for iOS][shortcut]**
+**[Get the Siri "Cookie-free YouTube" Shortcut for iOS][shortcut]**
 
-## Option 3. Just add a URL to this page as a parameter
+This Siri Shortcut helps you to "share" any YouTube link to this page.
+
+## Bonus 1: Just add a URL as a parameter
 
 This page has a special `yt` parameter, so add the YouTube link at the end of it or the 11-character YouTube video ID:
 
@@ -35,7 +31,7 @@ This page has a special `yt` parameter, so add the YouTube link at the end of it
 https://michael.team/yt/?yt=FULLYOUTUBELINK_OR_VIDEOID
 {% endhighlight %}
 
-## Option 4. Change the short YOUTU.BE url to XOUTU.BE url
+## Bonus 2: Change YOUTU.BE to XOUTU.BE
 
 That's right. I bought a domain `xoutu.be` which redirects to here. So if you've got a short video URL, you can just switch `y` for `x` and you're done! 
 
@@ -43,14 +39,16 @@ That's right. I bought a domain `xoutu.be` which redirects to here. So if you've
 Change:
 youtu.be/VIDEOID
 To:
-Xoutu.be/VIDEOID
+xoutu.be/VIDEOID
 {% endhighlight %}
 
 I hope Google will not sue me for ordering a similar domain. It's for a good cause!
 
-## Enjoy!
+## [Why this page?][blog]
 
-Now you can watch videos on an iPad, iPhone or any other device without being tracked by Google/YouTube. When embedding the video it uses the "nocookie" option, which limits the tracking and it supports full screen and picture-in-picture on the iPadOS and iOS for most clips.
+I created this because the experience of watching video on YouTube got worse. They show pop-ups, they track you and they tempt you to bindge-watch by suggesting lots of videos on the side.
+
+This page solves most of these problems. It lets you embed *any YouTube video* (that has not been disabled for embedding) and watch it without being tracked (it uses the `nocookie` parameter), with full screen and picture-in-picture support on iPads.
 
 **[Read more about this page and share with your friends! Thanks!][blog]**
 
