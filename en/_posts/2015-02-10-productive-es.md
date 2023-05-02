@@ -1,6 +1,7 @@
 ---
 tags: [magazine]
 img: "productive-es2.jpg"
+redirect_from: /productive-es2/
 ---
 
 # Productive! Magazine in Spanish gets an issue 2!

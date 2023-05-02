@@ -1,3 +1,5 @@
-<p class="date">Hi, I'm Michael Sliwinski, the host of this site. Enjoying my writing? Make sure to give <a href="/nozbe">Nozbe</a> a try - my app reflects what I stand for and what I write on this site - and it will make you more productive!<br /><strong>Nozbe is FREE and if you sign up by clicking on the banner below, you'll get a bonus of $15!</strong></p>
+{% capture ad %}ad_post{{ langvar }}{% endcapture %}
+
+<p class="date">{{ site.data.main.[ad] | markdownify }}</p>
 
 <p><a href="https://get.nozbe.com/Mike"><img src="/img/nozbeaff-2.jpg" alt="Nozbe - the fastest way to done in a team" border="0"></a></p>
