@@ -8,14 +8,12 @@ domain: Xoutu.be
 
 <div id="yt"></div>
 
-## To watch any video, paste YouTube URL
-
 <form name="link" onsubmit="getYouTube(true); return false;">
 <div><input name="yt" type="text" value="" placeholder="Paste: ...youtube.com/watch?v=..."></div>
-<div><button>Watch YouTube video!</button></div>
+<div style="margin-top: 5px"><button>Watch YouTube video!</button></div>
 </form>
 
-Works with *youtube.com, m.youtube.com, youtu.be* and just any video ID.
+To watch any video, paste a YouTube link. Works with *youtube.com, m.youtube.com, youtu.be* or just the bare unique YouTube video ID.
 
 ## Share any YouTube video on iOS easily
 
@@ -28,7 +26,7 @@ This Siri Shortcut helps you to "share" any YouTube link to this page.
 This page has a special `yt` parameter, so add the YouTube link at the end of it or the 11-character YouTube video ID:
 
 {% highlight liquid %}
-https://michael.team/yt/?yt=FULLYOUTUBELINK_OR_VIDEOID
+https://michael.team/yt/?yt=FULLYOUTUBELINK
 {% endhighlight %}
 
 ## Bonus 2: Change YOUTU.BE to XOUTU.BE
@@ -48,7 +46,7 @@ I hope Google will not sue me for ordering a similar domain. It's for a good cau
 
 I created this because the experience of watching video on YouTube got worse. They show pop-ups, they track you and they tempt you to bindge-watch by suggesting lots of videos on the side.
 
-This page solves most of these problems. It lets you embed *any YouTube video* (that has not been disabled for embedding) and watch it without being tracked (it uses the `nocookie` parameter), with full screen and picture-in-picture support on iPads.
+This page solves most of these problems. It lets you embed *any YouTube video* (that has not been disabled for embedding) and watch it without being tracked (it uses the `nocookie` parameter), with full screen and picture-in-picture support on iPads. As a bonus, it somehow skips most YouTube ads.
 
 **[Read more about this page and share with your friends! Thanks!][blog]**
 
