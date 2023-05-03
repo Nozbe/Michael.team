@@ -9,7 +9,7 @@ domain: Xoutu.be
 <div id="yt"></div>
 
 <form name="link" onsubmit="getYouTube(true); return false;">
-<div><input name="yt" type="text" value="" placeholder="Paste: ...youtube.com/watch?v=..."></div>
+<div style="margin-top: 5px"><input name="yt" type="text" value="" placeholder="Paste: ...youtube.com/watch?v=..."></div>
 <div style="margin-top: 5px"><button>Watch YouTube video!</button></div>
 </form>
 

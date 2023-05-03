@@ -1,5 +1,5 @@
 ---
-tags: [nozbe,business,draw]
+tags: [nozbe,guest,draw]
 cover: "nozbe-story.jpg"
 ---
 
@@ -10,6 +10,9 @@ cover: "nozbe-story.jpg"
 <!--More-->
 
 ![{{ page.title }}](/img/{{ page.cover }})
+
+* TOC
+{:toc}
 
 **1. Were the Nozbe apps and web service launched at the same time? Which platform did you focus on at first?**
 
