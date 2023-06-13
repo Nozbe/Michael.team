@@ -1,6 +1,7 @@
 ---
 tags: [imagazine]
 cover: "officeback.jpg"
+m: https://social.nozbe.com/@michael/110316737107836940
 ---
 
 # Przyszłość pracy zdalnej: będziemy pracować hybrydowo czy masowo wrócimy do biur?

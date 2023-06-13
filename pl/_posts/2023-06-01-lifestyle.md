@@ -1,6 +1,7 @@
 ---
 tags: [imagazine]
 cover: "lifestyle.jpg"
+m: https://social.nozbe.com/@michael/110536432323635196
 ---
 
 # Czas na dopasowanie pracy do naszego stylu życia!

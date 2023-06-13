@@ -1,6 +1,7 @@
 ---
 tags: [lego,nozbe]
 cover: "nozbe-lego.jpg"
+m: https://social.nozbe.com/@michael/110469350419365606
 ---
 
 # Nozbe logo as a Lego mosaic - a fantastic gift from Augusto Pinaud!

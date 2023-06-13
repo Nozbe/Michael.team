@@ -1,6 +1,7 @@
 ---
 tags: [gosc]
 img: "buntownik.jpg"
+m: https://social.nozbe.com/@michael/110321164697320047
 ---
 
 # Jestem buntownikiem! My Company Polska wymienia mnie wśród 40 polskich buntowników biznesowych
