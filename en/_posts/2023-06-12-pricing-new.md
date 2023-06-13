@@ -1,6 +1,7 @@
 ---
 tags: [business,nozbe]
 cover: "pricing-new.jpg"
+mastodon: https://social.nozbe.com/@michael/110531870765805140
 ---
 
 # Nozbe pricing changes - how to raise prices, reward long-time customers and bet on the future
@@ -40,7 +41,7 @@ One of key value for me is **fairness**. I strongly believe in fair play. That's
 
 That's why I didn't like how in the past I've handled the price changes. What we've typically done is this: we kept the current customers on old prices and we've only introduced the new prices to the new customers. This way we've basically created different prices for different people, paying for essentially the same product. This is what you call in business: *grandfathering* customers. It sounds good in principle, but when you think about it:
 
-**It's NOT fair.**
+**It's NOT FAIR.**
 
 We felt we needed to act like this, not only because we wanted to reward our long-time customers for trusting us, but we also feared their reaction. We were afraid to tell them we needed to raise prices.
 
@@ -58,7 +59,7 @@ We've decided that from that day on, all the customers will be bound by the new 
 
 ### Step 2. Announce the change to the current customers and let them extend their accounts today!
 
-As a reward for their loyalty, our job in June of this month is to announce to all current and past customers that the new prices are coming and give them a chance to extend their accounts at their current prices.
+As a reward for their loyalty, our job in June of this year is to announce to all current and past customers that the new prices are coming and give them a chance to extend their accounts at their current prices.
 
 Again, it's not technically *grandfathering*, because after July they'll not be able to extend at the old prices. But it's a chance for them to reap savings in June just because they know what's coming.
 
@@ -94,7 +95,7 @@ I think the only way forward is to bet on the future, bet on your customers and 
 
 This is the way.
 
-## P.S. Or how I made it even harder on myself when it comes to Nozbe pricing.
+## P.S. How I made it even harder on myself when it comes to Nozbe pricing.
 
 I think that if I would just be like my hairdresser and announce an X% price increase it would have been easier. However due to my past mistakes and wrong pricing decisions, I've made it additionally harder on myself.
 
