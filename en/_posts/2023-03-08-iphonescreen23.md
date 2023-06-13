@@ -1,8 +1,8 @@
 ---
 tags: [iphone,productivity]
 img: "iphonescreen23.png"
-mastodon: https://social.nozbe.com/@michael/109988526829610379
-linked: https://www.linkedin.com/pulse/i-challenge-you-reduce-your-iphone-android-home-screen-sliwinski
+m: https://social.nozbe.com/@michael/109988526829610379
+l: https://www.linkedin.com/pulse/i-challenge-you-reduce-your-iphone-android-home-screen-sliwinski
 ---
 
 # In 2023 my iPhone Mini has just ONE home screen

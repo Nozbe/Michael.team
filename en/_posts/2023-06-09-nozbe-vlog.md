@@ -1,7 +1,7 @@
 ---
 tags: [nozbe]
 cover: "nozbe-vlog.jpg"
-mastodon: https://social.nozbe.com/@michael/110514411419469055
+m: https://social.nozbe.com/@michael/110514411419469055
 ---
 
 # Internal Nozbe Vlog, May 2023 - or how I communicate with my team using video

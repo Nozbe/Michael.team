@@ -62,8 +62,8 @@ If you'd like to contribute to this site, maybe correct something in one of my b
 - share - if set to "noshow" the share link at the bottom of the page will not be shown
 - email - if set to "noshow" the newsletter signup form will not be shown
 - limit - how many blog posts to show at first (on tag page)
-- linked - link to the LinkedIn post - where I reporsted this to LinkedIn
-- mastodon - link to the Mastodon post where I announced this blog post so that people can comment and engage
+- l - link to the LinkedIn post - where I reporsted this to LinkedIn
+- m - link to the Mastodon post where I announced this blog post so that people can comment and engage
 - permalink - the permalink of the page - like this one: /test/
 - redirect_from - other pages that redirect to here - either inline, like: redirect_from: /17/ or using "-" like we have it in tags/show.md
 - domain - if a page redirects to a domain (like my past projects: QTbar.com or HitRSS.com) there will be a short info regarding this

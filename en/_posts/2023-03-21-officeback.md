@@ -2,8 +2,8 @@
 tags: [nooffice]
 cover: "officeback.jpg"
 thread: https://twitter.com/MSliwinski/status/1638226343749103617
-mastodon: https://social.nozbe.com/@michael/110062607667128285
-linked: https://www.linkedin.com/pulse/remote-bust-hybrid-staying-we-forcing-people-back-office-sliwinski
+m: https://social.nozbe.com/@michael/110062607667128285
+l: https://www.linkedin.com/pulse/remote-bust-hybrid-staying-we-forcing-people-back-office-sliwinski
 ---
 
 # Remote or bust? Is Hybrid staying or are we forcing people back to the old-school office?
