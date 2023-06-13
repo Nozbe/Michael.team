@@ -34,7 +34,9 @@ source_pl: "🔤 Tekst źródłowy na GitHub"
 source_es: "🔤 Fuente de texto en GitHub"
 
 linked: "💬 Comment on LinkedIn"
+linked_pl: "💬 Skomentuj na LinkedIn"
 mastodon: "🐘 Discuss on Mastodon"
+mastodon_pl: "🐘 Podyskutujmy na Mastodonie"
 
 read: "Read more"
 read_pl: "Czytaj dalej"

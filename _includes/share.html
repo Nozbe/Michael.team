@@ -1,5 +1,7 @@
 {% if langlang==nil %}{% include lang.html %}{% endif %}
 {% capture share %}share{{ langvar }}{% endcapture %}
+{% capture linked %}linked{{ langvar }}{% endcapture %}
+{% capture mastodon %}mastodon{{ langvar }}{% endcapture %}
 {% if page.slug %}{% assign slug = page.slug %}{% else %}{% assign slug = page.name | remove_first: ".md" %}{% endif %}
 {% capture sharelink %}{{ site.url }}{{ page.url }}{% endcapture %}
 {% capture sharelink_name %}{{ site.data.main.domain }}{{ langpath }}/{{ slug }}{% endcapture %}
@@ -13,10 +15,10 @@
 {% capture source %}source{{ langvar }}{% endcapture %}
 <p><a href="{{ site.data.main.url_source }}{{ page.path }}?plain=1" target="_blank">{{ site.data.main.[source] }}</a></p>
 	{% if page.l %}<!-- LinkedIn - the "l" parameter -->
-	<h4><a href="{{ page.l }}" target="_blank">{{ site.data.main.linked }}</a></h4>
+	<h4><a href="{{ page.l }}" target="_blank">{{ site.data.main.[linked] }}</a></h4>
 	{% endif %}<!-- Mastodon - the "m" parameter -->
 	{% if page.m %}
-	<h4><a href="{{ page.m }}" target="_blank">{{ site.data.main.mastodon }}</a></h4>
+	<h4><a href="{{ page.m }}" target="_blank">{{ site.data.main.[mastodon] }}</a></h4>
 	{% endif %}
 	<!-- no longer recommending Twitter
 	{% capture tweet %}sharet{{ langvar }}{% endcapture %}
