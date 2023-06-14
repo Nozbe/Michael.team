@@ -1,6 +1,7 @@
 ---
 tags: [business,nozbe]
 cover: "compliments.jpg"
+m: https://social.nozbe.com/@michael/110539419519660262
 ---
 
 # 3 compliments my customers gave me this past week: worth, investment and understanding
