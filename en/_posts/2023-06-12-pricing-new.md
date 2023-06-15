@@ -2,6 +2,7 @@
 tags: [business,nozbe]
 cover: "pricing-new.jpg"
 m: https://social.nozbe.com/@michael/110531870765805140
+redirect_from: /pricing-why/
 ---
 
 # Nozbe pricing changes - how to raise prices, reward long-time customers and bet on the future
