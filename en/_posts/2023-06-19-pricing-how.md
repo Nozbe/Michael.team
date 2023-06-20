@@ -20,7 +20,7 @@ These rules may apply to any kind of pricing scheme, but they particularly are s
 
 - **Fairness** all around
 - **Savings** for the customer
-- **Good cashflow** of the business
+- **Good cashflow** for the business
 
 Again, these are things I optimize my business for. These are not universal truths. Some businesses optimize for maximum profit, individual negotiations or aggressive discounting. Not me. I try to focus on fairness, savings and cashflow. I don't need o maximize shareholder value of my own business - I have the luxury that I can optimize it in accordance with my beliefs.
 
