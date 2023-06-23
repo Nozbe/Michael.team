@@ -1,6 +1,7 @@
 ---
 tags: [business,nozbe]
 cover: "pricing-how.jpg"
+m: https://social.nozbe.com/@michael/110571270945338900
 ---
 
 # 5 principles for designing a pricing scheme for SaaS companies - how to charge per user with savings and fairness in mind
