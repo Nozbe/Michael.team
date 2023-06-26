@@ -97,6 +97,8 @@ We just update your renewal date and only then you're being charged for the new 
 
 This system makes adding or removing users from Nozbe not only completely hassle-free, but it also gives teams flexibility to expand (or shrink) quickly if they need to.
 
+**Posted as of June 26:** [Pay-less upgrade - how to make plan changes for your SaaS customers completely effortless](/payless/)
+
 ## Gotchas - steps to implementing this pricing system
 
 All these rules are pretty straightforward and fair, but especially implementing the rule 3 - **saving as customers' team grows** - is tricky to implement. It gets even more complicated if you're like me and you don't want to deal with commas. Here's what I went through to arrive at the new [Nozbe][n] pricing:

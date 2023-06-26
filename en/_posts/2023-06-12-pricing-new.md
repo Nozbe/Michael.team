@@ -104,13 +104,15 @@ With this change we're harmonizing pricing between two products that had differe
 
 That's why when designing the new pricing I've set up some ground rules in the spirit of **fairness**:
 
-1. Same price for similar plans
-2. Savings as the team grows
-3. Savings for yearly payments
+1. Fairness of having just one pricing
+2. Savings for yearly payments at 20%
+3. Savings as customers' team grows
 4. More tiers for smaller teams ([in accordance with our WHY](/nozbe-why/))
 5. Payless upgrade for maximum customer convenience
 
-I'll elaborate on these rules in a future article. Suffice to say, changing pricing is a roller coaster 🎢 of a ride but I'm hopeful that when all is said and done, it's going to be OK for everyone involved.
+**Posted as of June 19:** [5 principles for designing a pricing scheme for SaaS companies - how to charge per user with savings and fairness in mind](/pricing-how)
+
+Suffice to say, changing pricing is a roller coaster 🎢 of a ride but I'm hopeful that when all is said and done, it's going to be OK for everyone involved.
 
 If you're a Nozbe customer and this change affects you, I hope these words helped you understand where I'm coming from. Thank you for your trust and your business!
 
