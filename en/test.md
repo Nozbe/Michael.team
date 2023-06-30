@@ -37,11 +37,9 @@ I'm the founder of **Nozbe** which you can find [here](https://nozbe.com/) - it'
 > I've seen dark before, but not like this\\
 > This is cold, this is empty, this is numb\\
 > The life I knew is over; the lights are out\\
-> Hello darkness: I'm ready to succumb
+> Hello darkness: I'm ready to succumb\\
 > \\
-> And this is it!\\
-> \\
-> Right?
+> - Anna
 
 ## Including video from a point in time
 
