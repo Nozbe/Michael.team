@@ -1,6 +1,7 @@
 ---
 tags: [links,nozbe]
 img: "nozbe-pricing-changes.jpg"
+m: https://social.nozbe.com/@michael/110633556837922832
 ---
 
 # On Nozbe blog: Nozbe Pricing Changes
