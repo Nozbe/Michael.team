@@ -1,6 +1,7 @@
 ---
 tags: [business]
 img: "investors.jpg"
+m: https://social.nozbe.com/@michael/110634294211191924
 ---
 
 # Nozbe will not take any outside investment... nor will we build an office...
