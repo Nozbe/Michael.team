@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-cover: michael.team.about.3k.jpg
+cover: michael.ewelina.18.jpg
 redirect_from:
  - /About/
  - /speaking/
@@ -23,7 +23,7 @@ I'm all about "team productivity" and what it means for me is helping teams work
 
 Here's my short bio:
 
-> Michael Sliwinski is a team productivity enthusiast. He's the founder of [Nozbe](https://michael.gratis/nozbe){:target='_blank'}, app that helps people and teams get more done in a better way on any platform (web-based with native apps for the Mac, Windows, Android, iPad and the iPhone + Apple Watch). Michael is passionate about working remotely (#NoOffice) and in a mobile way (#iPadOnly). Privately he is a husband and a father of 3 girls.
+> Michael Sliwinski is a productivity enthusiast and entrepreneur. He's the founder of [Nozbe](https://michael.gratis/nozbe){:target='_blank'}, app that since 2007 helps small business owners (and their teams) manage their business and private life. Nozbe is available on any platform (web-based with native apps for the Mac, Windows, Android, iPad and the iPhone + Apple Watch). Michael is passionate about working from anywhere in the world (#NoOffice) and in a mobile way (#iPadOnly). Privately he is a husband and a father of 3 girls.
 
 [Here's my full story](https://michael.team/about/#my-story)
 
@@ -35,7 +35,7 @@ If you need my photos for an interview, just right click and "save as" to downlo
 
 ## This site is open source
 
-You can copy and share any part of this site, but just give back credits to me. It's published using [Creative Commons Attribution-ShareAlike 4.0 license](/license). Everything - the content, the code, anything - feel free to share it, use it, re-use it. Just remember to give me credit. I'll also soon publish the code for this site completely open on GitHub.
+[View the source of this site on GitHub.](https://github.com/Nozbe/Michael.team){:target='_blank'} You can copy and share any part of this site, but just give back credits to me. It's published using [Creative Commons Attribution-ShareAlike 4.0 license](/license). Everything - the content, the code, anything - feel free to share it, use it, re-use it. Just remember to give me credit. I'll also soon publish the code for this site completely open on GitHub.
 
 ## What I'm doing now?
 
