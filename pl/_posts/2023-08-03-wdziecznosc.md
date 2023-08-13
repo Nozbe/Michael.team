@@ -1,6 +1,8 @@
 ---
 tags: [produktywnosc]
 cover: "wdziecznosc.jpg"
+redirect_from:
+ - /wdziecznosc/
 ---
 
 # Praktykuj wdzięczność codziennie dzięki temu skrótowi Siri
@@ -35,7 +37,7 @@ Co ważne, te odpowiedzi są tam tylko dla Ciebie. Są zapisane wśród Twoich, 
 
 Ale jak już masz coś publikować, to podaj dalej link do tej strony (i do [tego skrótu][w] i podziel się nią z innymi, którzy też na pewno chętnie skorzystają z tego skrótu Siri i nabiorą nawyku wdzięczności.
 
-[w]: https://www.icloud.com/shortcuts/5c514b3c73bf4fffa572c045beb3b3f4
+[w]: https://www.icloud.com/shortcuts/f2b03bc793d14756b0e1963b1c031d23
 
 [n]: https://michael.gratis/nozbe_pl
 [np]: https://michael.gratis/nozbepersonal_pl
