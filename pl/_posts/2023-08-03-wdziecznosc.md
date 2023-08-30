@@ -37,7 +37,13 @@ Co ważne, te odpowiedzi są tam tylko dla Ciebie. Są zapisane wśród Twoich, 
 
 Ale jak już masz coś publikować, to podaj dalej link do tej strony (i do [tego skrótu][w] i podziel się nią z innymi, którzy też na pewno chętnie skorzystają z tego skrótu Siri i nabiorą nawyku wdzięczności.
 
-[w]: https://www.icloud.com/shortcuts/f2b03bc793d14756b0e1963b1c031d23
+## Wersje tego Skrótu Siri
+
+- [Wersja 2 - 30 sierpnia 2023][w] - bazowana na [Angielskiej wersji](/gratitude/), gotowa do tłumaczenia na inne języki.
+- [Wersja 1 - 3 sierpnia 2023][w1]
+
+[w]: https://www.icloud.com/shortcuts/a7d8401d7d124b05befd5b070d0b5425
+[w1]: https://www.icloud.com/shortcuts/f2b03bc793d14756b0e1963b1c031d23
 
 [n]: https://michael.gratis/nozbe_pl
 [np]: https://michael.gratis/nozbepersonal_pl
