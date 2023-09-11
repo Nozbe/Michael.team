@@ -5,7 +5,7 @@ cover: "dogfooding.jpg"
 
 # How we work on features and deploy Nozbe app weekly… while eating dog food?
 
-Last week [I did a guest webinar (in Polish)](/pl/dogfooding/) on how we ship [Nozbe app][n] and I gave all the details… In a nutshell, we break lots of "industry standards", and we eat dog 🐶 food…
+Last week [I did a guest webinar (in Polish)](/pl/project-makers/) on how we ship [Nozbe app][n] and I gave all the details… In a nutshell, we break lots of "industry standards", and we eat dog 🐶 food…
 <!--More-->
 
 ![{{ page.title }}](/img/{{ page.cover }})
