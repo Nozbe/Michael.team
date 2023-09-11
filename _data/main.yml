@@ -49,7 +49,7 @@ url_podcast_name: "ThePodcast.fm"
 
 ad: "true" #"true" so it displays, everything else to not show it, like "false" or "notrue"
 ad_link: "https://nozbe.com/promo/?c=michaelteam"
-ad_text: "Introducing Nozbe BUSINESS plans with **multiple workspaces** + get 2 EXTRA MONTHS!"
+ad_text: "Introducing Nozbe BUSINESS plans with **multiple workspaces** PLUS get 2 extra months!"
 
 ad_post: "Hi, I'm Michael Sliwinski, the host of this site. Are you a fellow **small business owner**? Make sure to give [Nozbe](/nozbe/) a try - my app will help you and your team get your professional and private life organized in a simple way. **It's FREE and you'll get a bonus of $15 for Premium version by signing up below:**"
 ad_post_es: "Hi, I'm Michael Sliwinski, the host of this site. Are you a fellow **small business owner**? Make sure to give [Nozbe](/nozbe/) a try - my app will help you and your team get your professional and private life organized in a simple way. **It's FREE and you'll get a bonus of $15 for Premium version by signing up below:**" #translate to Spanish
