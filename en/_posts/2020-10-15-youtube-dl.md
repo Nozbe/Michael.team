@@ -1,5 +1,5 @@
 ---
-tags: [ipadonly]
+tags: [ipadonly,shortcuts]
 cover: "youtube-dl.jpg"
 ---
 

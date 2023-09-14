@@ -1,5 +1,5 @@
 ---
-tags: [ipadonly,journal]
+tags: [ipadonly,journal,shortcuts]
 cover: "dziennik.jpg"
 ---
 

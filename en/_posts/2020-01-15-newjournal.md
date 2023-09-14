@@ -1,5 +1,5 @@
 ---
-tags: [productivity,journal]
+tags: [productivity,journal,shortcuts]
 img: "newjournal.jpg"
 ---
 

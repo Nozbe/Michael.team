@@ -9,6 +9,10 @@ Last week [I did a guest webinar (in Polish)](/pl/project-makers/) on how we shi
 <!--More-->
 
 ![{{ page.title }}](/img/{{ page.cover }})
+
+* TOC
+{:toc}
+
 ## 🎉 NEW FEATURES? We design them and fight!
 
 We have a **"Design"** project in Nozbe where we post suggestions for new features. Each feature is a task. Design decisions are in the comments. When we have our design meeting, we fight over each detail!

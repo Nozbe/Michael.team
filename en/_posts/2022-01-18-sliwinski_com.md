@@ -1,5 +1,5 @@
 ---
-tags: [blogging,projects]
+tags: [blogging,projects,shortcuts]
 cover: "sliwinski_com.jpg"
 ---
 
@@ -85,7 +85,7 @@ As the old site redirects to here, as a souvenir I saved screenshots in PDF of t
 
 ## Migration using Siri Shortcuts on the iPad
 
-If you're curious, I've used several Siri Shortcuts to migrate my blog from the old one. All done on the iPad.
+If you're curious, I've used several [Siri Shortcuts](/shortcuts/) to migrate my blog from the old one. All done on the iPad.
 
 - [Main migrator script](https://www.icloud.com/shortcuts/e31a7e983d494090b1bdae7b2c260621)
 - [HTML to Markdown migrator](https://www.icloud.com/shortcuts/d438d1bf5abc45a3a4dd6fe8193f2af3)

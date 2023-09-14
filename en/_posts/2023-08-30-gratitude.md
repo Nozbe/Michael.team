@@ -1,5 +1,5 @@
 ---
-tags: [journal,life]
+tags: [journal,life,shortcuts]
 cover: "gratitude.jpg"
 ---
 

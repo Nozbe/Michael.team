@@ -239,6 +239,10 @@ tags:
   emoj: "🗯"
   titl: "Short"
   tit2: "Short blog posts that I sometimes just want to post out there. More like *longer Tweets* that I just want to keep on my blog instead of social media."
+- name: shortcuts
+  emoj: "🔗"
+  titl: "Siri Shortcuts"
+  tit2: "I love automating stuff on my [iPad](/ipadonly) thanks to the built-in Siri Shortcuts (previously: Workflow). I have my [Journal](/journal) shortcuts, [YouTube player](/yt) and much more! Check them out and import them to your iOS device!"
 - name: sports
   emoj: "🎾"
   titl: "Sports"
