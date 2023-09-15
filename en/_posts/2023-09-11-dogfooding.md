@@ -1,6 +1,9 @@
 ---
 tags: [business,nozbe]
 cover: "dogfooding.jpg"
+l: https://www.linkedin.com/pulse/how-we-work-features-deploy-nozbe-app-weekly-while-eating-sliwinski
+m: https://social.nozbe.com/@michael/111046909395721855
+t: https://twitter.com/MSliwinski/status/1701247280701931912
 ---
 
 # How we work on features and deploy Nozbe app weekly… while eating dog food?

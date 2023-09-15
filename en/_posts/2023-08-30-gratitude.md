@@ -1,6 +1,7 @@
 ---
 tags: [journal,life,shortcuts]
 cover: "gratitude.jpg"
+m: https://social.nozbe.com/@michael/110978487221682970
 ---
 
 # Practice Gratitude every day to be happy, fulfilled and calm with this Siri Shortcut

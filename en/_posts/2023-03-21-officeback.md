@@ -1,7 +1,7 @@
 ---
 tags: [nooffice]
 cover: "officeback.jpg"
-thread: https://twitter.com/MSliwinski/status/1638226343749103617
+t: https://twitter.com/MSliwinski/status/1638226343749103617
 m: https://social.nozbe.com/@michael/110062607667128285
 l: https://www.linkedin.com/pulse/remote-bust-hybrid-staying-we-forcing-people-back-office-sliwinski
 ---

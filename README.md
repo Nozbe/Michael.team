@@ -64,6 +64,7 @@ If you'd like to contribute to this site, maybe correct something in one of my b
 - limit - how many blog posts to show at first (on tag page)
 - l - link to the LinkedIn post - where I reporsted this to LinkedIn
 - m - link to the Mastodon post where I announced this blog post so that people can comment and engage
+- t - link to the Twitter thread if it was posted as one
 - permalink - the permalink of the page - like this one: /test/
 - redirect_from - other pages that redirect to here - either inline, like: redirect_from: /17/ or using "-" like we have it in tags/show.md
 - domain - if a page redirects to a domain (like my past projects: QTbar.com or HitRSS.com) there will be a short info regarding this
