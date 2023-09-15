@@ -20,8 +20,8 @@
 	{% if page.m %}
 	<h4><a href="{{ page.m }}" target="_blank">{{ site.data.main.[mastodon] }}</a></h4>
 	{% endif %}<!-- Thread on Twitter - the "t" parameter -->
-	{% if page.m %}
-	<h4><a href="{{ page.m }}" target="_blank">{{ site.data.main.[thread] }}</a></h4>
+	{% if page.t %}
+	<h4><a href="{{ page.t }}" target="_blank">{{ site.data.main.[thread] }}</a></h4>
 	{% endif %}
 	<!-- no longer recommending Twitter
 	{% capture tweet %}sharet{{ langvar }}{% endcapture %}
