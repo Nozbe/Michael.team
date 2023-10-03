@@ -35,7 +35,7 @@ If you need my photos for an interview, just right click and "save as" to downlo
 
 ## This site is open source
 
-[View the source of this site on GitHub.](https://github.com/Nozbe/Michael.team){:target='_blank'} You can copy and share any part of this site, but just give back credits to me. It's published using [Creative Commons Attribution-ShareAlike 4.0 license](/license). Everything - the content, the code, anything - feel free to share it, use it, re-use it. Just remember to give me credit. I'll also soon publish the code for this site completely open on GitHub.
+[View the source of this site on GitHub.](https://github.com/Nozbe/Michael.team){:target='_blank'} You can copy and share any part of this site, but just give back credits to me. It's published using [Creative Commons Attribution-ShareAlike 4.0 license](/license). Everything - the content, the code, anything - feel free to share it, use it, re-use it. Just remember to give me credit.
 
 ## What I'm doing now?
 
@@ -52,7 +52,7 @@ If you need my photos for an interview, just right click and "save as" to downlo
 ## Things I used to do:
 
 * I wrote a book on [productivity](/productivity): [**10 Steps to Ultimate Productivity**](https://productivitycourse.com){:target='_blank'}, also available in [Polish](https://kursproduktywnosci.pl){:target='_blank'} and [Chinese](https://10steps.tw){:target='_blank'}
-* Between 2015-2021 I used to co-host ["The Podcast . FM"](/podcast) with [Radek](https://michael.gratis/radex) - on "technology, productivity tips, business, publishing, and whatever else comes to mind..." - we recorded than 200 episodes recorded to date!
+* Between 2015-2021 I used to co-host ["The Podcast . FM"](/podcast) with [Radek](https://michael.gratis/radex) - on "technology, productivity tips, business, publishing, and whatever else comes to mind..." - we recorded more than 200 episodes!
 * Between 2008-2017 I used to run the [Productive! Magazine](http://productivemag.com/issues) where together with other productivity experts we shared our best tips and tricks. All the issues are available for free on the web in **[English](http://productivemag.com)**, [Polish](http://productivemag.pl), [Spanish](http://productivemag.es), [Dutch](http://productivemag.nl) and [Japanese](http://productivemag.jp)
 * Before Nozbe (i.e. before 2007) as [apivision.com](http://apivision.com) I was a one-man web marketing department/consultant for [BuySculpture.com](https://buysculpture.com)
 * Before that in the early 2000s I failed at launching several startups: [RSS publishing with HitRSS.com](/hitrss/), [Email auto-responders with Wyslij.info](http://wyslij.info) and banner-agency "ELLO". I also wrote a Windows launcher [called QTbar](/qtbar/) when I was in collage.
@@ -99,11 +99,11 @@ Initially I started Nozbe because I wanted to better manage my time and I was in
 
 [I love what I do](/5-loves/) so it doesn't feel like work. But apart from that I try to remain fit, especially as [I lost weight](/fitness2014/) thanks to ["slow carb diet"](/slow-carb-diet/) and started running [triathlons](/triathlon) (I do 3-4 [olympic distance](/triathlon-list/) a year: 1500m swim, 40km bike and 10km run). And recently [I picked up tennis](/tennis).
 
-I also [read about 30 books](/reading) per year (actually [I’m listening to them](/reading-audiobooks-and-absorbing-content)). I am a geek who likes technology gadgets (I'm an Apple fanboy) and cars. I am a [Christian](/catholic) (Roman Catholic) and believe Jesus Christ to be my savior.
+I also [read about 30 books](/reading) per year (actually [I’m listening to them](/reading-audiobooks-and-absorbing-content)). I am a geek who likes technology gadgets (I'm an Apple fanboy) and cars. I am a [Christian](/catholic) (Roman Catholic) and believe Jesus Christ to be my savior but I'm a very [liberal catholic](/white/).
 
 ### I work in "No Office"
 
-[I work from home](/office) and everyone on [my team works remotely](/teleworking). I believe that *"job is not a place to go but a thing you do"*. I live in a very beautiful place in Europe with my wife Ewelina (who is a lawyer and you can see her on the photo above) and my three amazing daughters: Milena, Emilia and Liliana.
+[I work from home](/office) and everyone on [my team works remotely](/teleworking). I believe that *"work is not a place to go but a thing you do"*. I live in a very beautiful place in Europe with my wife Ewelina (who is a lawyer and you can see her on the photo above) and my three amazing daughters: Milena, Emilia and Liliana.
 
 Here's a video that I recorded a while back that illustrates what I'm about:
 
