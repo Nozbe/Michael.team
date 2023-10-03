@@ -48,7 +48,7 @@ twitter: "MSliwinski"
 url_podcast: "https://thepodcast.fm/"
 url_podcast_name: "ThePodcast.fm"
 
-ad: "true" #"true" so it displays, everything else to not show it, like "false" or "notrue"
+ad: "notrue" #"true" so it displays, everything else to not show it, like "false" or "notrue"
 ad_link: "https://nozbe.com/promo/?c=michaelteam"
 ad_text: "Introducing Nozbe Business w/MULTIPLE workspaces + get 2 extra months!"
 
