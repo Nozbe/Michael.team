@@ -11,16 +11,7 @@ If we want to list all posts from one tag - like featured on home page:
 If we want to exclude one post from not appearing in the list (the featured one - so it doesn't repeat!)
 {% include posts.html posts=site.tags.featured limit=1 more=1 notpost=last_post_name %}
 This way we can exclude a post that is currently featured on the home page!
-{% if post.name==include.notpost %}{% continue %}{% endif %}
-
-
 {% endcomment %}
-
-
-
-TESTING POSTS: {{ include.notpost }}
-
-
 
 {% if langlang==nil %}{% include lang.html %}{% endif %}
 {% if include.offset!=nil %}
@@ -32,12 +23,8 @@ TESTING POSTS: {{ include.notpost }}
 {% capture read %}read{{ langvar }}{% endcapture %}
 
 {% for post in include.posts %}
-
-
-{{ post.url }} or {{ post.id }}
-
-
   {% if post.lang!=langlang %}{% continue %}{% endif %}
+  {% if post.url==include.notpost %}{% continue %}{% endif %}
   {% assign langindex = langindex | plus:1 %}
   {% if include.offset!=nil %}
     {% if langindex <= include.offset %}{% continue %}{% endif %}
@@ -53,7 +40,7 @@ TESTING POSTS: {{ include.notpost }}
   <p><a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/img/{{ postimage }}" alt="{{ post.title }}" /></a></p>
   {% endif %}
   <p><a href="{{ post.url }}" title="{{ post.title }}">{{ site.data.main.[read] }}…</a></p>
-  {% assign last_post_name = post.url %}
+  {% assign last_post_url = post.url %}
  {% endif %}
   {% if langindex==include_limit %}{% break %}{% endif %}
 {% endfor %}
