@@ -27,6 +27,7 @@ Last Post name: {{ last_post_name }}
 {% include posts-test.html posts=site.tags.featured limit=5 %}
 </div>
 
+Last Post name: {{ last_post_name }}
 
 ## Variables here
 

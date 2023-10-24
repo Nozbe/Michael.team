@@ -33,7 +33,8 @@ TESTING POSTS: {{ include.notpost }}
 
 {% for post in include.posts %}
 
-{{ post.name }}
+
+{{ post.url }} or {{ post.id }}
 
 
   {% if post.lang!=langlang %}{% continue %}{% endif %}
@@ -52,7 +53,7 @@ TESTING POSTS: {{ include.notpost }}
   <p><a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/img/{{ postimage }}" alt="{{ post.title }}" /></a></p>
   {% endif %}
   <p><a href="{{ post.url }}" title="{{ post.title }}">{{ site.data.main.[read] }}…</a></p>
-  {% assign last_post_name = post.name %}
+  {% assign last_post_name = post.url %}
  {% endif %}
   {% if langindex==include_limit %}{% break %}{% endif %}
 {% endfor %}
