@@ -1,5 +1,5 @@
 ---
-tags: [iphone,productivity]
+tags: [iphone,productivity,featured]
 img: "iphonescreen23.png"
 m: https://social.nozbe.com/@michael/109988526829610379
 l: https://www.linkedin.com/pulse/i-challenge-you-reduce-your-iphone-android-home-screen-sliwinski

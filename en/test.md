@@ -5,6 +5,17 @@ tags: [guest,video]
 
 # Testing playground
 
+## Featured blog post
+
+## ⭐️ Featured:
+
+{% assign tag_posts = site.tags[featured] %}
+
+<div class="featured">
+{% include posts.html posts=tag_posts limit=1 more=1 %}
+</div>
+
+
 ## Variables here
 
 page.title: {{ page.title }}

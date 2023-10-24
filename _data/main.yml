@@ -157,6 +157,10 @@ tags:
   emoj: "✏️"
   titl: "Drawings"
   tit2: "Sometimes instead of putting a photo as a representation of a blog post or essay, I draw, doodle or sketch on my [iPad](/ipadonly/). Here's the list of all the posts that contain such drawings. Please don't judge me. Drawing gives me joy and it's all that matters."
+- name: featured
+  emoj: "⭐️"
+  titl: "Featured"
+  tit2: "My best articles or most viewed, researched and impotrant pieces of writing. In late 2023 I started the practice of writing 1-2 such articles per month and feature them on my home page. Later retroactively I'm planning to tag with this my articles from past years."
 - name: guest
   emoj: "🤩"
   titl: "Guest appearances"

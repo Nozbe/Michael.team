@@ -1,5 +1,5 @@
 ---
-tags: [journal,life,shortcuts]
+tags: [journal,life,shortcuts,featured]
 cover: "gratitude.jpg"
 m: https://social.nozbe.com/@michael/110978487221682970
 ---

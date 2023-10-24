@@ -1,5 +1,5 @@
 ---
-tags: [business,nozbe]
+tags: [business,nozbe,featured]
 cover: "dogfooding.jpg"
 l: https://www.linkedin.com/pulse/how-we-work-features-deploy-nozbe-app-weekly-while-eating-sliwinski
 m: https://social.nozbe.com/@michael/111046909395721855
