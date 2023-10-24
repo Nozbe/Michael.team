@@ -10,7 +10,19 @@ tags: [guest,video]
 ## ⭐️ Featured posts:
 
 <div class="featured">
-{% include posts.html posts=site.tags.featured limit=1 more=1 %}
+{% include posts-test.html posts=site.tags.featured limit=1 more=1 %}
+</div>
+
+## ⭐️ Featured again:
+
+<div class="featured">
+{% include posts-test.html posts=site.tags.featured limit=5 exclude=last_post_name %}
+</div>
+
+## ⭐️ Featured without excluding:
+
+<div class="featured">
+{% include posts-test.html posts=site.tags.featured limit=5 %}
 </div>
 
 
