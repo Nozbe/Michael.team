@@ -41,6 +41,8 @@ This way we can exclude a post that is currently featured on the home page!
   {% endif %}
   <p><a href="{{ post.url }}" title="{{ post.title }}">{{ site.data.main.[read] }}…</a></p>
   {% assign last_post_url = post.url %}
+  <p>Last post is {{ last_post_url }} or {{ post.url }}.</p>
+  
  {% endif %}
   {% if langindex==include_limit %}{% break %}{% endif %}
 {% endfor %}
