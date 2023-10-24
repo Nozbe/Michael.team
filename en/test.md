@@ -13,6 +13,8 @@ tags: [guest,video]
 {% include posts-test.html posts=site.tags.featured limit=1 more=1 %}
 </div>
 
+Last Post name: {{ last_post_name }}
+
 ## ⭐️ Featured again but NOT:
 
 <div class="featured">
