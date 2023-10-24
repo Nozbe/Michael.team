@@ -10,26 +10,18 @@ tags: [guest,video]
 ## ⭐️ Featured posts test:
 
 <div class="featured">
-{% include posts-test.html posts=site.tags.featured limit=1 more=1 %}
+{% include posts.html posts=site.tags.featured limit=1 more=1 %}
 </div>
 
-Last Post name: {{ last_post_url }}
+Last: {{ last_post_url }}
 
 ## ⭐️ Featured again but NOT:
 
 <div class="featured">
-{% include posts-test.html posts=site.tags.featured limit=3 notpost=last_post_url %}
+{% include posts.html posts=site.tags.featured limit=3 notpost=last_post_url %}
 </div>
 
-Last Post name: {{ last_post_url }}
-
-## ⭐️ Featured without excluding:
-
-<div class="featured">
-{% include posts-test.html posts=site.tags.featured limit=3 %}
-</div>
-
-Last Post name: {{ last_post_url }}
+Last: {{ last_post_url }}
 
 ## Variables here
 
