@@ -35,7 +35,7 @@ This way we can exclude a post that is currently featured on the home page!
 <div class="date">{{ langdate }} <span class="small">{{ post.url }}</span></div>
   {% if include.more %}
     {% if post.cover %}{% assign postimage = post.cover %}{% elsif post.img %}{% assign postimage = post.img %}{% else %}{% assign postimage = nil %}{% endif %}
-    {{ post.excerpt }}
+{{ post.excerpt }}
     {% if postimage %}
 <p><a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/img/{{ postimage }}" alt="{{ post.title }}" /></a></p>
     {% endif %}
