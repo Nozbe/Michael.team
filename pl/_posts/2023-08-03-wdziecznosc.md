@@ -7,7 +7,7 @@ redirect_from:
 
 # Praktykuj wdzięczność codziennie dzięki temu skrótowi Siri
 
-Rok temu napisałem na tym blogu, [dlaczego warto pisać dziennik](/codziennik) oraz przygotowałem skróty Siri - [podstawowy do pisania dziennika](/dziennika) i [bardziej zaawansowany](/planowanie) (do [planowania dnia](/zaplanuj)). W obu tych skrótach zawarłem element **wdzięczności**, którą praktykuję codziennie rano, kiedy skrót zadaje mi trzy pytania o wdzięczność: za to co się stało wczoraj, za nową szansę i za coś małego. Ostatnio jak byłem na rekolekcjach z moją [wspólnotą rodzin](https://gdynia.franciszkanie.pl/grupy-ga/wspolnota-rodzin-sw-maksymiliana-gdynia/) to rozmawialiśmy o tym, jak trudno jest kultywować nawyk wdzięczności a jak ważny jest w naszym życiu. Dlatego zdecydowałem się z tych moich poprzednich skrótów Siri wyciągnąć tylko ten element wdzięczności i zrobić łatwy skrót, z którego każdy może skorzystać:
+Rok temu napisałem na tym blogu, [dlaczego warto pisać dziennik](/pl/codziennik) oraz przygotowałem skróty Siri - [podstawowy do pisania dziennika](/pl/dziennik) i [bardziej zaawansowany](/pl/planowanie) (do [planowania dnia](/pl/zaplanuj)). W obu tych skrótach zawarłem element **wdzięczności**, którą praktykuję codziennie rano, kiedy skrót zadaje mi trzy pytania o wdzięczność: za to co się stało wczoraj, za nową szansę i za coś małego. Ostatnio jak byłem na rekolekcjach z moją [wspólnotą rodzin](https://gdynia.franciszkanie.pl/grupy-ga/wspolnota-rodzin-sw-maksymiliana-gdynia/) to rozmawialiśmy o tym, jak trudno jest kultywować nawyk wdzięczności a jak ważny jest w naszym życiu. Dlatego zdecydowałem się z tych moich poprzednich skrótów Siri wyciągnąć tylko ten element wdzięczności i zrobić łatwy skrót, z którego każdy może skorzystać:
 
 <!--More-->
 
