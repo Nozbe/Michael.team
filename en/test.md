@@ -7,12 +7,10 @@ tags: [guest,video]
 
 ## Featured blog post
 
-## ⭐️ Featured:
-
-{% assign tag_posts = site.tags[featured] %}
+## ⭐️ Featured posts:
 
 <div class="featured">
-{% include posts.html posts=tag_posts limit=1 more=1 %}
+{% include posts.html posts=site.tags.featured limit=1 more=1 %}
 </div>
 
 
