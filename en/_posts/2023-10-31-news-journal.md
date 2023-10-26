@@ -1,0 +1,62 @@
+---
+tags: [news]
+cover: "news-journal.jpg"
+---
+
+# What I've learned after 7 years of daily journaling?
+
+I started journaling [back in 2016](/journal16/) and I can't live without it now. [Here's what I've learned](/journal/), all the how's/why's, benefits and how to develop a habit of daily journaling:
+<!--More-->
+
+![{{ page.title }}](/img/{{ page.cover }})
+
+> **Note:** this is a transcript of the email Newsletter I sent to my 1000+ subscribers a while back. If you want to be one of them, [sign up for my free Newsletter. You can unsubscribe anytime!](https://michael.gratis/n){:target='_blank'}
+
+## ⁉️ WHY journal daily?
+
+Journaling gives me a moment of reflection, helps me maintain perspective and organize my thoughts. This is what we all need in this increasingly busy and distraction-prone world. And I can just be myself. I don't publish my journal.
+
+## 👨‍🎨 WHO is famous for writing a journal?
+
+Thomas Jefferson, Ludwig van Beethoven, Benjamin Franklin, Mahatma Gandhi, Maria Curie-Skłodowska or Leonardo DaVinci - all famously wrote journals. My mentors like Tim Ferriss, Michael Hyatt or Greg McKeown as well!
+
+## ✏️ WHAT to put in the journal?
+
+The main purpose of journaling for me is to have a way to just channel my thoughts and let them go from my system. To process them. To digest them. To prepare place for new thoughts and get the creativity juices flowing!
+
+## 🙏 GRATITUDE keeps me happy and motivated!
+
+Inspired by Tim Ferriss and because of my [religious background](/catholic/) every morning I practice gratitude in my journal. There's even some [scientific proof](/gratitude/) that confirms gratitude increases happiness.
+
+## 3️⃣ Things I'm GRATEFUL for:
+
+I'm grateful for one thing that happened YESTERDAY, a new OPPORTUNITY that I see and something SMALL I started appreciating recently. Thanking for these things lets me find new things I'm thankful for and puts me in a great mindset.
+
+## 🌙 EVENING journal is to sum up the day and prepare for next
+
+My journaling starts in the evening when I reflect on the day, write what was awesome, which sports I practiced and what I've learned today. I also review tomorrow's calendar and things to do next day.
+
+## ✅ 1-3 Most Important Tasks for tomorrow?
+
+Also in the evening while writing my journal I jot down 1-3 most important tasks for tomorrow. I believe when I go to sleep, my mind starts subconsciously working on those and gets me ready when I wake up next morning.
+
+## 🌞 MORNING journal is for gratitude and day planning!
+
+In the morning I focus on gratitude and then I review tasks and calendar again to figure out what's the ONE THING I need to do, such that by doing it, everything else will be easier or completely unnecessary.
+
+## 🖊️ HOW to journal?
+
+You can use any notebook or app. Many people swear by pen and paper but I prefer to do it digitally as I have an iPhone or iPad always on me. In the iOS17 there is even a built-in Journaling app coming very soon!
+
+## ❓ My journal ASKS me questions!
+
+I have prepared a set of questions I'm being asked in the evening (about daily summary) and in the morning (3 things I'm grateful for). I always finish off each journaling session with an open-ended question.
+
+## 🔗 Siri Shortcut I use daily
+
+If you want to get started with your journaling habit, just download my latest "[Journal 3](/journal3/)" Siri Shortcut. It's 🆓 and you can add it to your 📱 iPhone or iPad or Mac 🖥️ 
+
+[🔗➡️](https://michael.team/journal3)
+
+[n]: https://michael.gratis/nozbe
+[np]: https://michael.gratis/nozbepersonal
