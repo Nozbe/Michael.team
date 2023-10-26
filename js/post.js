@@ -5,17 +5,57 @@
 const URL = "https://michael.team"; //my main domain
 const POSTS = "/searchposts.json"; //json with all the posts
 
+//get current latest featured blog post
+function getFeatured(lang = '/') {
+	let featured = document.createElement('div');
+	featured.setAttribute('id','featured');
+	featured.setAttribute('class','featured');
+	if (lang == '/') featured.innerHTML = '<h3>Featured article:</h3>';
+	if (lang == '/pl') featured.innerHTML = '<h3>Wyróżniony artykuł</h3>';
+	if (lang == '/es') featured.innerHTML = '<h3>Entrada destacada:</h3>';
+	//currently we only support ENGLISH featured anyway so the above is for the future
+	featured.style.visibility = "hidden"; //we hide it first, before we show all of the posts
+	document.querySelector('#sharelinks').append(featured);
+	let tempTitle = '';
+	let isFeatured = false;
+	let counter = 0; //we need only 1 featured post
+	fetch(URL + lang + POSTS)
+	.then((response) => response.text())
+	.then((responseText) => {
+		let posts = JSON.parse(responseText, function(key, value) {
+			if (key == 'title') { tempTitle = value; } //we get the title of the current item
+			if (key == 'emoji') { tempTitle = value + ' ' + tempTitle; } //we add emoji to it
+			if (key == 'tags') {
+				isFeatured = false;
+				let mytags = value.split(', ');
+				for (let name of mytags) {
+					if (name == 'featured') {
+						isFeatured = true;
+						counter++;
+					}
+				}
+			}
+			if (key == 'url') {
+				if (isFeatured && counter == 1) { //show only first featured blog post
+					return addLink(value, tempTitle, 'featured');
+				}
+			}
+		});
+	})
+	.catch((error) => {
+		console.error(error)
+	})
+}
+
 //get related links based on the tag of the current blog post
 function getRelated(slug) {
-	// let's add "#prevnext to footer of the blog post"
 	let related = document.createElement('div');
 	related.setAttribute('id','related');
 	let lang = (slug.slice(3,4) == '/') ? slug.slice(0,3) : ''; //lang detect
-	related.innerHTML = '<h3>Related posts</h3>';
+	related.innerHTML = '<h3>Related posts:</h3>';
 	if (lang == '/pl') related.innerHTML = '<h3>Podobne wpisy:</h3>';
 	if (lang == '/es') related.innerHTML = '<h3>Entradas relacionadas:</h3>';
 	related.style.visibility = "hidden"; //we hide it first, before we show all of the posts
-	//document.querySelector('footer').prepend(related); //we switch to "append" to put it below sharing links - so instead of "footer" we append them to "sharelinks" div
 	document.querySelector('#sharelinks').append(related);
 	let tempTag = '';
 	let slugTag = '';
@@ -52,7 +92,7 @@ function getRelated(slug) {
 				if (value == slug) addTag = false;
 				if (addTag) {
 					counter++;
-					addRelated(value,tempTitle);
+					addLink(value,tempTitle);
 				}
 			}
 		});
@@ -62,21 +102,19 @@ function getRelated(slug) {
 	})
 }
 
-//add related links below the blog post
-function addRelated (slug, title) {
-	let related = document.createElement('a');
-	related.setAttribute('href', URL + slug);
-	related.innerHTML = goodTitle (title);
-	document.querySelector('#related').style.visibility = "visible";
-	document.querySelector('#related').append(related);
+//add related or featrued links below the blog post
+function addLink (slug, title, where = 'related') {
+	let link = document.createElement('a');
+	link.setAttribute('href', URL + slug);
+	link.innerHTML = goodTitle (title);
+	document.querySelector('#'+where).style.visibility = "visible";
+	document.querySelector('#'+where).append(link);
 }
 
 //getting previous (older) and next post (newer) for the current post
 function getPrevNext(slug) {
-	// let's add "#prevnext to footer of the blog post"
 	let prevnext = document.createElement('div');
 	prevnext.setAttribute('id','prevnext');
-	//document.querySelector('footer').prepend(prevnext); //we switch to "appending" it
 	document.querySelector('#sharelinks').append(prevnext);
 	//lang detect - if the fourth char is / then get the first three chars
 	let lang = (slug.slice(3,4) == '/') ? slug.slice(0,3) : '';
