@@ -1,19 +1,7 @@
----
-tags: [news]
-cover: "news-journal.jpg"
-l: https://www.linkedin.com/pulse/what-ive-learned-after-7-years-daily-journaling-michael-sliwinski-bvgsf
-t: https://twitter.com/MSliwinski/status/1717509282701439045
----
-
 # What I've learned after 7 years of daily journaling?
 
 I started journaling [back in 2016](/journal16/) and I can't live without it now. [Here's what I've learned](/journal/), all the how's/why's, benefits and how to develop a habit of daily journaling:
 <!--More-->
-
-![{{ page.title }}](/img/{{ page.cover }})
-
-> **Note:** this is a transcript of the email Newsletter I sent to my 1000+ subscribers a while back. If you want to be one of them, [sign up for my free Newsletter. You can unsubscribe anytime!](https://michael.gratis/n){:target='_blank'}
-
 ## ⁉️ WHY journal daily?
 
 Journaling gives me a moment of reflection, helps me maintain perspective and organize my thoughts. This is what we all need in this increasingly busy and distraction-prone world. And I can just be myself. I don't publish my journal.
@@ -58,8 +46,4 @@ I have prepared a set of questions I'm being asked in the evening (about daily s
 
 If you want to get started with your journaling habit, just download my latest "[Journal 3](/journal3/)" Siri Shortcut. It's 🆓 and you can add it to your 📱 iPhone or iPad or Mac 🖥️ 
 
-[🔗➡️](https://michael.team/journal3)
-
-[n]: https://michael.gratis/nozbe
-[np]: https://michael.gratis/nozbepersonal
-
+🔗 https://michael.team/journal3
