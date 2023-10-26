@@ -20,6 +20,6 @@ layout: default
 </article>
 <script type="text/javascript">
 	getPrevNext('{{ page.url}}');
-	{% if page.lang=='en' %}getFeatured();{% endif %}
+	{% if page.lang=='en' %}getFeatured('{{ page.url}}');{% endif %}
 	getRelated('{{ page.url}}');
 </script>

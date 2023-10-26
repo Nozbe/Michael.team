@@ -5,8 +5,8 @@
 const URL = "https://michael.team"; //my main domain
 const POSTS = "/searchposts.json"; //json with all the posts
 
-//get current latest featured blog post
-function getFeatured(lang = '/') {
+//get current latest featured blog post - slug is to exclude if the current page is the featured one!
+function getFeatured(slug, lang = '/') {
 	let featured = document.createElement('div');
 	featured.setAttribute('id','featured');
 	featured.setAttribute('class','featured');
@@ -15,7 +15,6 @@ function getFeatured(lang = '/') {
 	if (lang == '/es') featured.innerHTML = '<h3>Entrada destacada:</h3>';
 	//currently we only support ENGLISH featured anyway so the above is for the future
 	featured.style.visibility = "hidden"; //we hide it first, before we show all of the posts
-	document.querySelector('#sharelinks').append(featured);
 	let tempTitle = '';
 	let isFeatured = false;
 	let counter = 0; //we need only 1 featured post
@@ -36,8 +35,9 @@ function getFeatured(lang = '/') {
 				}
 			}
 			if (key == 'url') {
-				if (isFeatured && counter == 1) { //show only first featured blog post
-					return addLink(value, tempTitle, 'featured');
+				if (isFeatured && counter == 1 && value != slug) { //show only first featured blog post
+					document.querySelector('#sharelinks').append(featured);
+					return addLink(tempTitle, value, 'featured');
 				}
 			}
 		});
@@ -92,7 +92,7 @@ function getRelated(slug) {
 				if (value == slug) addTag = false;
 				if (addTag) {
 					counter++;
-					addLink(value,tempTitle);
+					addLink(tempTitle, value);
 				}
 			}
 		});
@@ -103,7 +103,7 @@ function getRelated(slug) {
 }
 
 //add related or featrued links below the blog post
-function addLink (slug, title, where = 'related') {
+function addLink (title, slug, where = 'related') {
 	let link = document.createElement('a');
 	link.setAttribute('href', URL + slug);
 	link.innerHTML = goodTitle (title);
@@ -134,13 +134,13 @@ function getPrevNext(slug) {
 			if (key=='url') {
 				if (value == slug) { // we found it so we post the NEXT post
 					thisTitle = tempTitle;
-					return postPrevNext(nextTitle,nextSlug);
+					return postPrevNext(nextTitle, nextSlug);
 				} else {
 					if (thisTitle) { //if we found THIS then we deal previous post, not next.
 						if (!prevTitle) {
 							prevTitle = tempTitle;
 							prevSlug = value;
-							return postPrevNext(prevTitle,prevSlug,'prev');
+							return postPrevNext(prevTitle, prevSlug, 'prev');
 						}
 					} else { //we don't have this title yet, so everything else is a potential next stuff
 						nextTitle = tempTitle;
@@ -156,7 +156,7 @@ function getPrevNext(slug) {
 }
 
 //posting previous and next titles and urls in the div "#prevnext"
-function postPrevNext (title='',slug='',type='next') {
+function postPrevNext (title, slug, type = 'next') {
 	let link = document.createElement('a');
 	let titleNew = (type == 'next') ?  title + ' »' : '« ' + title;
 	if (title) {
