@@ -15,6 +15,7 @@ function getFeatured(slug, lang = '/') {
 	if (lang == '/es') featured.innerHTML = '<h3>Entrada destacada:</h3>';
 	//currently we only support ENGLISH featured anyway so the above is for the future
 	featured.style.visibility = "hidden"; //we hide it first, before we show all of the posts
+	document.querySelector('#sharelinks').append(featured);
 	let tempTitle = '';
 	let isFeatured = false;
 	let counter = 0; //we need only 1 featured post
@@ -36,7 +37,6 @@ function getFeatured(slug, lang = '/') {
 			}
 			if (key == 'url') {
 				if (isFeatured && counter == 1 && value != slug) { //show only first featured blog post
-					document.querySelector('#sharelinks').append(featured);
 					return addLink(tempTitle, value, 'featured');
 				}
 			}
