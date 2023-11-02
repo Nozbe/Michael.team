@@ -5,24 +5,6 @@ tags: [guest,video]
 
 # Testing playground
 
-## Featured blog post
-
-## ⭐️ Featured posts test:
-
-<div class="featured">
-{% include posts.html posts=site.tags.featured limit=1 more=1 %}
-</div>
-
-Last: {{ last_post_url }}
-
-## ⭐️ Featured again but NOT:
-
-<div class="featured">
-{% include posts.html posts=site.tags.featured limit=3 notpost=last_post_url %}
-</div>
-
-Last: {{ last_post_url }}
-
 ## Variables here
 
 page.title: {{ page.title }}
