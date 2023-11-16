@@ -43,7 +43,7 @@ By the time our 30-minute window is done, we'll provide you with some extra lear
 
 Seriously, this is not a sales call! It's an opportunity to transform the way your team works by experts who have been doing this for the last 16+ years. Spots are limited, claim yours at:
 
-🔗 nozbe.com/demo
+🔗 [nozbe.com/demo][n]
 
 
 [n]: https://michael.gratis/nozbe
