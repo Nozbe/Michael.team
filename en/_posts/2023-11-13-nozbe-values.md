@@ -1,6 +1,7 @@
 ---
 tags: [featured,nozbe]
 cover: "nozbe-values.jpg"
+m: https://social.nozbe.com/@michael/111403867458551389
 ---
 
 # Nozbe Core Values: Passion, Simplicity, Freedom and Fairness

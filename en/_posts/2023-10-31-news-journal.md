@@ -3,6 +3,7 @@ tags: [news]
 cover: "news-journal.jpg"
 l: https://www.linkedin.com/pulse/what-ive-learned-after-7-years-daily-journaling-michael-sliwinski-bvgsf
 t: https://twitter.com/MSliwinski/status/1717509282701439045
+m: https://social.nozbe.com/@michael/111341581548715201
 ---
 
 # What I've learned after 7 years of daily journaling?
