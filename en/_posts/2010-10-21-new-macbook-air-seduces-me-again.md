@@ -7,7 +7,7 @@ redirect_from: /apple-fanboy-in-me-waiting-for-october-20/
 # New Macbook Air seduces me again...
 
 
-I watched yesterday's [Apple Keynote](http://www.apple.com/apple-events/october-2010/) anxiously waiting for the [new Macbook Air](http://www.apple.com/macbookair/) and Apple delivered again... and although I was hoping for a bigger breakthrough, the new Air is tempting enough to consider an **[upgrade from my current machine**](/my-productive-computer-unboxing-apple-macbook-air-2-13-ssd/)
+I watched yesterday's [Apple Keynote](http://www.apple.com/apple-events/october-2010/) anxiously waiting for the [new Macbook Air](http://www.apple.com/macbookair/) and Apple delivered again... and although I was hoping for a bigger breakthrough, the new Air is tempting enough to consider an **[upgrade from my current machine](/my-productive-computer-unboxing-apple-macbook-air-2-13-ssd/)**
 
 <!--More-->
 
@@ -23,14 +23,14 @@ Although I got used to constraints of 2 GB of RAM and only 128 GB SSD drive, and
 
   * **4 GB of RAM** gives me all the power I need to launch bigger apps
   * **256 GB SSD** gives me all the space I'll ever need on my local machine. The rest is kept safely on my Time Capsule.
-  * **7+ hours of work** gives me close to one full day of work which is precisely what I need. I'll hardly have to take my charger with me anymore.
-  * Bonus: **BIGGER SCREEN estate** with 1440*900 screen vs my current 1280*800. Sweet.
+  * **7+ hours of work** gives me close to one full day of work which is precisely what I need. I'd hardly have to take my charger with me anymore.
+  * Bonus: **BIGGER SCREEN estate** with 1440x900 screen vs my current 1280x800. Sweet.
 
 ## What I don't like about the new Air?
 
 Not too much, it's a beauty, but there are some things I could complain about:
 
-Underpowered CPU - c'mon, my one-and-half year old Macbook Air will have the same processor speed as the new one. What happened with the Moore law and with doubling the power of chips every year?
+Underpowered CPU - c'mon, my one-and-half year old Macbook Air will have the same processor speed as the new one. What happened with the Moore's law and with doubling the power of chips every year?
 
 SD card slot - why would I need that? I use iPhone 4 for photos, videos and everything. SD is the thing of the past for me. Although I understand some might need that.
 
