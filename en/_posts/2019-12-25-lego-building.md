@@ -5,7 +5,7 @@ img: "lego.jpg"
 
 # LEGO - how I’m unleashing a child within me by building a new lego set every year (just for me!)
 
-I’m a big fan of LEGO bricks. I’ve had them when I was a child (my favorite were the “Pirate” pieces) and now that I’m a grown man... I still love building Legos. And even though I have 3 baby girls and my eldest loves LEGO, too - I'm not only building LEGO with them, I’ve recently started getting LEGO sets just for me. And this year is no different - here’s my latest LEGO set that I’m about to assemble just now - [James Bond's Aston Martin DB5](https://www.lego.com/en-us/product/james-bond-aston-martin-db5-10262):
+I’m a big fan of LEGO bricks. I’ve had them when I was a child (my favorite were the “Pirate” pieces) and now that I’m a grown man... I still love building Legos. And even though I have 3 baby girls and my eldest loves LEGO, too - I'm not only building LEGO with them, I’ve recently started getting LEGO sets just for me. And this year is no different - here’s my latest LEGO set that I’m about to assemble just now - [James Bond's Aston Martin DB5](https://www.lego.com/en-us/product/james-bond-aston-martin-db5-10262) made out of **1295** pieces:
 
 <!--More-->
 
