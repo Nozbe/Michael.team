@@ -32,6 +32,12 @@ Do you want **Markdown** to be used *everywhere*?
 I'm the founder of **Nozbe** which you can find [here](https://nozbe.com/) - it's *free*!
 </code>
 
+Or:
+
+```
+I'm the founder of **Nozbe** which you can find [here](https://nozbe.com/) - it's *free*!
+```
+
 ## Quote
 
 > I've seen dark before, but not like this\\
