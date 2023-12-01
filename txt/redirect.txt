@@ -10,7 +10,7 @@
     RewriteCond %{HTTP_HOST} michaelnozbe.com [NC]
     RewriteRule ^(.*)$ https://sliwinski.com/$1 [L]
 
-    RewriteCond %{HTTP_HOST} Michael.gratis [NC]
+    RewriteCond %{HTTP_HOST} michael.gratis [NC]
     RewriteRule ^(.*)$ https://michael.team/gratis/?to=$1 [L]
 
     RewriteCond %{HTTP_HOST} xoutu.be [NC]

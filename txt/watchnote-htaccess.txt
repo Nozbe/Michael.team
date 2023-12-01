@@ -1,0 +1,12 @@
+# let's force HTTPS
+RewriteEngine On 
+RewriteCond %{HTTPS} off 
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# let's disallow txt files
+<FilesMatch "(?i)\.(txt|md)$">
+AuthType Basic
+AuthName "My page is password protected!"
+AuthUserFile /home/username/.htpasswd
+Require valid-user
+</FilesMatch>

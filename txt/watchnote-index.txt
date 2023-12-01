@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>Michael Sliwinski</title>
+<meta http-equiv="refresh" content="5; URL='https://michael.team/'" />
+</head><body style="font-family: -apple-system;">
+<h1>Redirecting to <a href='https://michael.team/'>Michael Sliwinski</a>…</h1>
+</body></html>

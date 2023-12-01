@@ -26,6 +26,17 @@ I'm the founder of **Nozbe** which you can find [here](https://nozbe.com/) - it'
 Do you want **Markdown** to be used *everywhere*?
 {% endhighlight %}
 
+or
+
+{% highlight %}
+<FilesMatch "(?i)\.(txt|md)$">
+AuthType Basic
+AuthName "My page is password protected!"
+AuthUserFile /home/username/.htpasswd
+Require valid-user
+</FilesMatch>
+{% endhighlight %}
+
 ## Another test
 
 <code>
