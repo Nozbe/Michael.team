@@ -1,5 +1,6 @@
 {% capture ad %}ad_post{{ langvar }}{% endcapture %}
+{% capture ad_slogan %}ad_slogan{{ langvar }}{% endcapture %}
 
-<p class="date">{{ site.data.main.[ad] | markdownify }}</p>
+<p class="date" style="padding: 0px 5px;">{{ site.data.main.[ad] | markdownify }}</p>
 
-<p><a href="https://nozbe.com/promo/?c=michaelteam&a=mike"><img src="/img/nozbeaff-2.jpg" alt="Nozbe - the fastest way to done in a team" border="0"></a></p>
+<p><a href="/gratis?to=na{{ langvar }}"><img src="/img/nozbeaff-2.jpg" alt="{{ site.data.main.[ad_slogan] }}" border="0"></a></p>

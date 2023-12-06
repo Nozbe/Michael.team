@@ -10,4 +10,8 @@ cover: michael.team.pl.3k.jpg
 
 {% include posts.html posts=site.categories.pl limit=10 more=1 %}
 
-[Zobacz wszystkie wpisy…](/pl/archiwum/)
+{% include hx.html text="🇵🇱 Zobacz wszytskie wpisy…" href="/pl/archiwum/" title="Archiwum mojego bloga" %}
+
+<a rel="me" href="https://social.nozbe.com/@michael">🐘 Śledź mnie na Mastodonie</a>
+
+{% include nozbe.html %}

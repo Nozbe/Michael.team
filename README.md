@@ -118,3 +118,5 @@ Code is here
 ```
 
 [Kramdown reference](https://kramdown.gettalong.org/quickref.html)
+
+[Liquid sandbox](https://jumpseller.com/support/liquid-sandbox/)

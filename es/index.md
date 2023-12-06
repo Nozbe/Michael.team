@@ -10,7 +10,7 @@ Pues, estoy aquí para ayudarte. Soy fundador de [Nozbe y Nozbe Teams](https://m
 
 ## Mi blog
 
-Aquí tienes [todas entradas de mi blog](/es/todo), también organizadas por [tags/categorías](/es/).
+Aquí tienes [todas entradas de mi blog](/es/todo):
 
 {% include search.html %}
 
@@ -22,7 +22,7 @@ Aquí tienes [todas entradas de mi blog](/es/todo), también organizadas por [ta
 
 Mi biografía corta para usar en prensa:
 
-> Michael Sliwinski es un experto en productividad personal y empresarial. Es el fundador de [Nozbe y Nozbe Teams](https://michael.gratis/nozbe){:target='_blank'}, aplicaciones que ayudan a los profesionales y equipos de trabajo, organizarse con mayor eficacia. Sus apps son disponibles en todas las plataformas (web con apps para Mac, Windows, Android, iPad y iPhone + Apple Watch). Michael está trabajando de la forma remota (#NoOffice) y con dispositivos móviles (#iPadOnly). Michael está casado con tres hijas.
+> Michael Sliwinski es un experto en productividad personal y empresarial. Es el fundador de [Nozbe](https://michael.gratis/nozbe){:target='_blank'}, una aplicación que ayuda a los profesionales y equipos de trabajo, organizarse con mayor eficacia. Nozbe es disponible en todas las plataformas (web con apps para Mac, Windows, Android, iPad y iPhone + Apple Watch). Michael está trabajando de la forma remota (#NoOffice) y con dispositivos móviles (#iPadOnly). Michael está casado con tres hijas.
 
 ## Fotos
 
@@ -32,7 +32,7 @@ Si necesitas fotos de Michael, "guarda como" cualquiera de estas fotos:
 
 ## Contacto
 
-En las redes sociales me puedes buscar en [Twitter](https://twitter.com/MSliwinski) o [LinkedIn](https://www.linkedin.com/in/michaelsliwinski).
+En las redes sociales me puedes buscar en [Mastodon](/gratis?to=ma), [LinkedIn](/gratis?to=in) o [Twitter](https://twitter.com/MSliwinski).
 
 Si tienes preguntas sobre [Nozbe, ponte en contacto con nuestro soporte de cliente](https://nozbe.com/contact){:target='_blank'}
 
@@ -43,3 +43,7 @@ También me puedes enviar un [correo electrónico][email] pero ya te digo que le
 ## Mis últimas entradas
 
 {% include posts.html posts=site.categories.es limit=5 more=1 %}
+
+{% include hx.html text="🇪🇸 Todas entradas de mi blog…" href="/es/todo/" title="Todas las entradas de mi blog" %}
+
+{% include nozbe.html %}

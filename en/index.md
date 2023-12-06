@@ -19,7 +19,6 @@ title: Michael Sliwinski
 {% include posts.html posts=site.categories.en limit=15 more=1 notpost=last_post_url %}
 
 {% include hx.html text="🌐 Browse all entries…" href="/archive/" title="Archive of michael.team" %}
-<br clear="all" />
 
 <a rel="me" href="https://social.nozbe.com/@michael">🐘 Follow me on Mastodon</a>
 or [see what I'm up to now](/now/)
