@@ -21,9 +21,9 @@ page.date: {{ page.date }}
 
 ## Hexagon test
 
-{% include hx.html name="Testing Javascript" href="javascript:alert('this and that');" %}
+{% include hx.html text="Testing Javascript" href="javascript:alert('this and that');" %}
 
-{% include hx.html name="Read more…" href="/action/" %}
+{% include hx.html text="Read more…" href="/action/" %}
 
 ## Highlighting and testing
 
