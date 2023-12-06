@@ -25,7 +25,7 @@ page.date: {{ page.date }}
 
 {% include hx.html text="Read more…" href="/action/" %}
 
-{% include hx.html text="<strong>&nbsp;N&nbsp;</strong>" href="https://nozbe.com/" after="&nbsp;is for Nozbe" %}
+{% include hx.html text="<strong>&nbsp;N&nbsp;</strong>" href="/gratis?to=nozbe" after="&nbsp;is for <a href='/gratis?to=nozbe'>Nozbe</a>" %}
 
 ## Highlighting and testing
 
