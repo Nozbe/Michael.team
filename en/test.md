@@ -31,6 +31,16 @@ page.date: {{ page.date }}
 
 {% include hx.html text=postit href="/action/" grey="true" %}
 
+{% capture nt %}ad_n{{ langvar }}{% endcapture %}
+{% capture ntafter %}&nbsp;{{ site.data.main.[nt] | markdownify }}{% endcapture %}
+{% capture ad_slogan %}ad_slogan{{ langvar }}{% endcapture %}
+{% capture ntslogan %}{{ site.data.main.[ad_slogan] }}{% endcapture %}
+{% capture ntlink %}/gratis?to=na{{ langvar }}{% endcapture %}
+
+<div style="max-width: 140pt; margin: auto;">
+{% include hx.html text="<strong>&nbsp;N&nbsp;</strong>" href=ntlink after=ntafter title=ntslogan %}
+</div>
+
 ## Highlighting and testing
 
 {% highlight markdown %}

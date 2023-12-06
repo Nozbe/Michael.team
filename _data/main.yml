@@ -53,9 +53,17 @@ ad: "notrue" #"true" so it displays, everything else to not show it, like "false
 ad_link: "https://nozbe.com/promo/?c=michaelteam"
 ad_text: "LAST CHANCE 💥 Nozbe is 50% OFF: buy 3️⃣ months and get 3️⃣ months 🆓"
 
-ad_post: "Hi, I'm Michael Sliwinski, the host of this site. Are you a fellow **small business owner**? Make sure to give [Nozbe](/nozbe/) a try - my app will help you and your team get your professional and private life organized in a simple way. **It's FREE and you'll get a bonus of $15 for Premium version by signing up below:**"
-ad_post_es: "Hi, I'm Michael Sliwinski, the host of this site. Are you a fellow **small business owner**? Make sure to give [Nozbe](/nozbe/) a try - my app will help you and your team get your professional and private life organized in a simple way. **It's FREE and you'll get a bonus of $15 for Premium version by signing up below:**" #translate to Spanish
-ad_post_pl: "Nazywam się Michał Śliwiński i witam Cię na mojej stronie. Czy też jesteś **przedsiębiorcą**? Jeśli tak, to wypróbuj [Nozbe](https://michael.gratis/nozbe_pl) - moja aplikacja pomoże Tobie i Twojemu zespołowi ogarnąć wszystkie sprawy firmowe i prywatne w prosty sposób. **Nozbe jest DARMOWE i dodatkowo dostaniesz 60 PLN na wersję Premium, jeśli zapiszesz się z banera poniżej:**"
+ad_post: "Hi, I'm Michael Sliwinski, the host of this site. Are you a fellow **small business owner**? Make sure to give [Nozbe](https://michael.gratis/na) a try - my app will help you and your team get your professional and private life organized in a simple way. **It's FREE and you'll get a bonus of $15 for Premium version by signing up below:**"
+ad_post_es: "Hi, I'm Michael Sliwinski, the host of this site. Are you a fellow **small business owner**? Make sure to give [Nozbe](https://michael.gratis/na) a try - my app will help you and your team get your professional and private life organized in a simple way. **It's FREE and you'll get a bonus of $15 for Premium version by signing up below:**" #translate to Spanish
+ad_post_pl: "Nazywam się Michał Śliwiński i witam Cię na mojej stronie. Czy też jesteś **przedsiębiorcą**? Jeśli tak, to wypróbuj [Nozbe](https://michael.gratis/na_pl) - moja aplikacja pomoże Tobie i Twojemu zespołowi ogarnąć wszystkie sprawy firmowe i prywatne w prosty sposób. **Nozbe jest DARMOWE i dodatkowo dostaniesz 60 PLN na wersję Premium, jeśli zapiszesz się z banera poniżej:**"
+
+ad_n: "is for [Nozbe](/gratis?to=na)"
+ad_n_pl: "to jest [Nozbe](/gratis?to=na_pl)"
+ad_n_es: "significa [Nozbe](/gratis?to=na_es)"
+
+ad_slogan: "Nozbe - the way for smart business owners to get their personal and business life organized in a simple way."
+ad_slogan_pl: "Nozbe - sposób dla smart przedsiębiorców do ogarnięcia swoich spraw prywatnych i firmowych w prosty sposób."
+ad_slogan_es: "Nozbe - the way for smart business owners to get their personal and business life organized in a simple way." #translate to Spanish
 
 descr: "[Hello](/now/), I'm [Michael Sliwinski](/about/), founder of [Nozbe](/nozbe/) - [to-do](/productivity/) app for [business owners](/business/) and their [teams](/vlog/). I [write essays](/archive/), [books](/books/), work on [projects](/projects) and I [podcast](/noofficefm/) for you using [#iPadOnly](/ipadonly/) in [#NoOffice](/nooffice/) as I [believe](/contact) that *work is not a place you go to, it's a thing you do.*"
 descr_pl: "Hej, tu [Michał Śliwiński](/pl/omnie), założyciel [Nozbe](https://michael.gratis/nozbe_pl){:target='_blank'} - aplikacji do zadań dla nowoczesnych przedsiębiorców i ich zespołów. [Po polsku](/pl/archiwum/) piszę o [produktywności](/pl/imagazine/). [Wierzę](/pl/kontakt/), że *praca to nie jest miejsce do którego idziesz, ale to co robisz.*"
