@@ -40,7 +40,7 @@ This way we can exclude a post that is currently featured on the home page!
 <p><a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/img/{{ postimage }}" alt="{{ post.title }}" /></a></p>
     {% endif %}
 
-{% capture posttext %}{{ site.data.main.[read] }}{% endcapture %}
+{%assign posttext = site.data.main.[read] %}
 {% include hx.html text=posttext href=post.url title=post.title %}
 <br clear="all" />
 

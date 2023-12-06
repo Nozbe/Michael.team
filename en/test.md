@@ -27,11 +27,9 @@ page.date: {{ page.date }}
 
 {%assign postit = site.data.main.[read] %}
 
-{% include hx.html text=posttext href="javascript:alert('this and that');" %}
+{% include hx.html text=posttext href="javascript:alert('this and that');" title="This is it!" %}
 
 {% include hx.html text=postit href="/action/" grey="true" %}
-
-{% include hx.html text="<strong>&nbsp;N&nbsp;</strong>" href="/gratis?to=na" after="&nbsp;is for <a href='/gratis?to=na'>Nozbe</a>" %}
 
 ## Highlighting and testing
 
