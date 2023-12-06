@@ -31,8 +31,11 @@ page.date: {{ page.date }}
 
 {% include hx.html text=postit href="/action/" grey="true" %}
 
+## Test of N
+
 {% capture nt %}ad_n{{ langvar }}{% endcapture %}
-{% capture ntafter %}&nbsp;{{ site.data.main.[nt] | markdownify }}{% endcapture %}
+{% capture nta %}&nbsp;{{ site.data.main.[nt] | markdownify }}{% endcapture %}
+{% assign ntafter = nta | remove: '<p>' | remove: '</p>' %}
 {% capture ad_slogan %}ad_slogan{{ langvar }}{% endcapture %}
 {% capture ntslogan %}{{ site.data.main.[ad_slogan] }}{% endcapture %}
 {% capture ntlink %}/gratis?to=na{{ langvar }}{% endcapture %}
