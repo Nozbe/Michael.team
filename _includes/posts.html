@@ -39,7 +39,9 @@ This way we can exclude a post that is currently featured on the home page!
     {% if postimage %}
 <p><a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/img/{{ postimage }}" alt="{{ post.title }}" /></a></p>
     {% endif %}
-<p><a href="{{ post.url }}" title="{{ post.title }}">{{ site.data.main.[read] }}…</a></p>
+
+{% include hx.html text="site.data.main.[read]" href="post.url" title="post.title" %}
+
   {% endif %}
   {% assign last_post_url = post.url %}
   {% if langindex==include_limit %}{% break %}{% endif %}

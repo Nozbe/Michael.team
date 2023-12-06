@@ -7,7 +7,7 @@ let links = new Map([
 //list of REDIRECT links
 ['nooffice', 'https://nooffice.org'],
 ['nozbe', 'https://nozbe.com/?c=michaelteam'],
-['na', 'https://nozbe.com/?a=mike'],
+['na', 'https://nozbe.com/?c=michaelteam&a=mike'],
 ['nozbepersonal', 'https://nozbe.com/personal/?c=michaelteam'],
 ['nozbemichael', 'https://nozbe.com/michael/?c=michaelteam'],
 ['nozbe_pl', 'https://nozbe.com/pl/?c=michaelteam'],

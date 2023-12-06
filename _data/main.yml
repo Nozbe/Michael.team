@@ -40,9 +40,9 @@ mastodon_pl: "🐘 Podyskutujmy na Mastodonie"
 thread: "🧵 Thread"
 thread_pl: "🧵 Wątek"
 
-read: "Read more"
-read_pl: "Czytaj dalej"
-read_es: "Sigue leyendo"
+read: "Read more…"
+read_pl: "Czytaj dalej…"
+read_es: "Sigue leyendo…"
 
 twitter: "MSliwinski"
 

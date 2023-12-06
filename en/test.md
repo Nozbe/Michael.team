@@ -23,9 +23,9 @@ page.date: {{ page.date }}
 
 {% include hx.html text="Testing Javascript" href="javascript:alert('this and that');" %}
 
-{% include hx.html text="Read more…" href="/action/" %}
+{% include hx.html text="Read more…" href="/action/" grey="true" %}
 
-{% include hx.html text="<strong>&nbsp;N&nbsp;</strong>" href="/gratis?to=nozbe" after="&nbsp;is for <a href='/gratis?to=nozbe'>Nozbe</a>" %}
+{% include hx.html text="<strong>&nbsp;N&nbsp;</strong>" href="/gratis?to=na" after="&nbsp;is for <a href='/gratis?to=na'>Nozbe</a>" %}
 
 ## Highlighting and testing
 

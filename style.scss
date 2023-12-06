@@ -200,6 +200,18 @@ article > footer {
 	border-bottom: 16pt solid transparent;
 }
 
+.hx1grey {
+	border-right: 12pt solid $textG;
+}
+
+.hx2grey {
+	background-color: $textG;
+}
+
+.hx3grey {
+	border-left: 12pt solid $textG;
+}
+
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 400;
 	line-height: 1.3em;
