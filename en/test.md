@@ -21,9 +21,15 @@ page.date: {{ page.date }}
 
 ## Hexagon test
 
-{% include hx.html text="Testing Javascript" href="javascript:alert('this and that');" %}
+{% capture read %}read{{ langvar }}{% endcapture %}
 
-{% include hx.html text="Read more…" href="/action/" grey="true" %}
+{% capture posttext %}{{ site.data.main.[read] }}{% endcapture %}
+
+{%assign postit = site.data.main.[read] %}
+
+{% include hx.html text=posttext href="javascript:alert('this and that');" %}
+
+{% include hx.html text=postit href="/action/" grey="true" %}
 
 {% include hx.html text="<strong>&nbsp;N&nbsp;</strong>" href="/gratis?to=na" after="&nbsp;is for <a href='/gratis?to=na'>Nozbe</a>" %}
 
