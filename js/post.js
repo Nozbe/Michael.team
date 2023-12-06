@@ -11,7 +11,7 @@ function getFeatured(slug, lang = '/') {
 	featured.setAttribute('id','featured');
 	featured.setAttribute('class','featured');
 	if (lang == '/') featured.innerHTML = '<h3>Featured article:</h3>';
-	if (lang == '/pl') featured.innerHTML = '<h3>Wyróżniony artykuł</h3>';
+	if (lang == '/pl') featured.innerHTML = '<h3>Wyróżniony artykuł:</h3>';
 	if (lang == '/es') featured.innerHTML = '<h3>Entrada destacada:</h3>';
 	//currently we only support ENGLISH featured anyway so the above is for the future
 	featured.style.visibility = "hidden"; //we hide it first, before we show all of the posts

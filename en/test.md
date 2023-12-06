@@ -19,6 +19,12 @@ site.url: {{ site.url }}
 
 page.date: {{ page.date }}
 
+## Hexagon test
+
+{% include hx.html name="Testing Javascript" href="javascript:alert('this and that');" %}
+
+{% include hx.html name="Read more…" href="/action/" %}
+
 ## Highlighting and testing
 
 {% highlight markdown %}

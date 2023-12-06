@@ -150,10 +150,50 @@ article > footer {
 }
 
 .featured {
-	border-top: 2px solid orange;
-	border-bottom: 2px solid orange;
+	border-top: 2px solid $featured;
+	border-bottom: 2px solid $featured;
 	padding-bottom: 10px;
 	margin-bottom: 20px;
+}
+
+// Hexagon "button" :-)
+
+.hx {
+	clear: both;
+	padding: 10px;
+}
+
+.hx1 {
+	float: left;
+	border-right: 14pt solid $hx;
+	border-top: 18pt solid transparent;
+	border-bottom: 18pt solid transparent;
+}
+
+.hx2 {
+	float: left;
+	height: 36pt;
+	background-color: $hx;
+	text-align: center;
+	line-height: 2em;
+	font-family: -apple-system, sans-serif;
+	font-size: 1.5em;
+	color: $textW;
+	a {
+		color: $textW;
+		text-decoration: none;
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+
+}
+
+.hx3 {
+	float: left;
+	border-left: 14pt solid $hx;
+	border-top: 18pt solid transparent;
+	border-bottom: 18pt solid transparent;
 }
 
 h1, h2, h3, h4, h5, h6 {
