@@ -53,9 +53,9 @@ Do you want **Markdown** to be used *everywhere*?
 
 ## Another test
 
-<code>
+<code><pre>
 I'm the founder of **Nozbe** which you can find [here](https://nozbe.com/) - it's *free*!
-</code>
+</pre></code>
 
 Or:
 
@@ -74,6 +74,27 @@ Require valid-user
 </FilesMatch>
 ```
 
+Or better yet:
+
+~~~
+<FilesMatch "(?i)\.txt$">
+AuthType Basic
+AuthName "My page is password protected!"
+AuthUserFile /home/username/.htpasswd
+Require valid-user
+</FilesMatch>
+~~~
+
+or
+
+{% highlight shell %}
+<FilesMatch "(?i)\.txt$">
+AuthType Basic
+AuthName "My page is password protected!"
+AuthUserFile /home/username/.htpasswd
+Require valid-user
+</FilesMatch>
+{% endhighlight %}
 
 ## Quote
 
