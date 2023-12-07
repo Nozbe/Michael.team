@@ -120,3 +120,5 @@ Code is here
 [Kramdown reference](https://kramdown.gettalong.org/quickref.html)
 
 [Liquid sandbox](https://jumpseller.com/support/liquid-sandbox/)
+
+[Types of code snippets](https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers)
