@@ -63,6 +63,18 @@ Or:
 I'm the founder of **Nozbe** which you can find [here](https://nozbe.com/) - it's *free*!
 ```
 
+Or even:
+
+```
+<FilesMatch "(?i)\.txt$">
+AuthType Basic
+AuthName "My page is password protected!"
+AuthUserFile /home/username/.htpasswd
+Require valid-user
+</FilesMatch>
+```
+
+
 ## Quote
 
 > I've seen dark before, but not like this\\
