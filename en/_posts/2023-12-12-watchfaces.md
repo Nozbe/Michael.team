@@ -11,7 +11,7 @@ I love my [Apple Watch Ultra 2](/ultra) but what I didn‘t like about it was th
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-## ## How to enable swiping between watch faces?
+## How to enable swiping between watch faces?
 
 [Apple](/apple) didn’t make it easy for us. When I upgraded to WatchOS 10.2 I couldn’t find this option anywhere. I looked in on the iPhone, on the Watch in Settings… and couldn’t find it.
 
