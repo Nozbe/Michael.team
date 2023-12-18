@@ -1,6 +1,7 @@
 ---
 tags: [short,applewatch]
 cover: watchfaces.jpg
+m: https://seths.blog/2023/12/eight-marketing-maxims/
 ---
 
 # How to re-enable swipe gesture between watch faces in Apple Watch OS 10.2

@@ -1,6 +1,7 @@
 ---
 tags: [books]
 cover: "marketing.jpg"
+m: https://seths.blog/2023/12/eight-marketing-maxims/
 ---
 
 # This is marketing by Seth Godin - (audio) book of the week
@@ -113,6 +114,20 @@ Especially for a recovering people-pleaser I need to learn to make sure I make i
 That's the hard part.
 
 I do recommend you get this book - you can use my links to get it on either [Amazon][am] or [Audible][au].
+
+## P.S. Eight Marketing Maxims by Seth
+
+[Seth just posted this on his blog](https://seths.blog/2023/12/eight-marketing-maxims/) which kind of sums up his book:
+
+- Trust is worth more than attention.
+- Helping people get to where they seek to go is more effective than hustling people to persuade them to go where you’re going.
+- Choose your customers, choose your future.
+- Tell ten people. If they don’t tell the others, make a better product.
+- Creating the conditions for the word to spread is the job of the marketer.
+- Customer service is free.
+- *“You’ll pay a lot but get more than you paid for!”* is a useful motto.
+- Act like people are watching. They are.
+
 
 [am]: https://www.amazon.com/dp/0241370140?tag=sliwinski-20
 [au]: https://www.audible.com/pd/B07DKSPL43?tag=sliwinski-20

@@ -1,6 +1,7 @@
 ---
 tags: [applewatch,shortcuts]
 cover: "watchnote.jpg"
+m: https://seths.blog/2023/12/eight-marketing-maxims/
 ---
 
 # WatchNote Siri Shortcut - how to add and view a note on Apple Watch Ultra without an iPhone!
