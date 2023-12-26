@@ -1,6 +1,7 @@
 ---
 tags: [shortcuts]
 cover: "dice-shortcut.jpg"
+m: https://social.nozbe.com/@michael/111646167751961622
 ---
 
 # Roll the Dice Shortcut for your iPhone or Apple Watch!
