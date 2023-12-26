@@ -1,5 +1,6 @@
 ---
 cover: michael.ewelina.18.jpg
+redirect_from: /ja/
 ---
 
 # O Michale Śliwińskim

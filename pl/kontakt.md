@@ -1,6 +1,7 @@
 ---
 cover: michael.team.now.3k.jpg
 title: Kontakt z Michałem Śliwińskim
+redirect_from: /kontakt/
 ---
 
 * TOC
