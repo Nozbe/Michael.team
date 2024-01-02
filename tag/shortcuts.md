@@ -1,5 +1,5 @@
 ---
-title: "Siri Shortcuts and automations"
+title: "Shortcuts and automations"
 permalink: /shortcuts/
 redirect_from:
   - /tag/shortcuts/
