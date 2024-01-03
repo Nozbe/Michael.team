@@ -37,6 +37,9 @@
 {% elsif page.img %}
 <meta name="twitter:image" content="{{ site.url }}/img/{{ page.img }}" />
 <meta property="og:image" content="{{ site.url }}/img/{{ page.img }}" />
+{% elsif page.social %}
+<meta name="twitter:image" content="{{ site.url }}/social/{{ page.social }}" />
+<meta property="og:image" content="{{ site.url }}/social/{{ page.social }}" />
 {% elsif page.vid %}
 <meta name="twitter:player" content="https://www.youtube.com/embed/{{ page.vid }}"/>
 <meta name="twitter:player:width" content="1280" />
