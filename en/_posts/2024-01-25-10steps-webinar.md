@@ -1,6 +1,8 @@
 ---
 tags: [news,productivity]
 img: "10steps-webinar.jpg"
+t: https://twitter.com/MSliwinski/status/1750541860341530962
+l: https://www.linkedin.com/pulse/steps-ultimate-productivity-work-michael-sliwinski-vknmf
 ---
 
 # 🔟 Steps To Ultimate Productivity At Work
