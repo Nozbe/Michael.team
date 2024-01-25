@@ -31,6 +31,8 @@ let links = new Map([
 ['passion-epub', 'http://MNoz.be/0e'],
 ['passion-mobi', 'http://MNoz.be/0f'],
 
+['webinar', 'https://nozbe.com/webinar-10steps?c=michaelteam'],
+
 //social media profiles
 
 ['in','https://www.linkedin.com/in/michaelsliwinski/'],
