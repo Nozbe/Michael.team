@@ -32,6 +32,8 @@ let links = new Map([
 ['passion-mobi', 'http://MNoz.be/0f'],
 
 ['webinar', 'https://nozbe.com/webinar-10steps?c=michaelteam'],
+['10krokow', 'https://nozbe.com/10krokow/'],
+
 
 //social media profiles
 
