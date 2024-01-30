@@ -38,7 +38,9 @@ function getYouTube(input = false) {
 		yt = urlParams.get('v'); //when the v= param is after & in a longer YouTube link
 		if (!yt) {
 			ytlink = urlParams.get('yt'); //we just get our normal yt param
-			if (ytlink.length == 11) yt = ytlink; //in case it's a YouTube ID
+			if (ytlink) {
+				if (ytlink.length == 11) yt = ytlink; //in case it's a YouTube ID
+			}
 		}
 	}
 	if (!yt) {
