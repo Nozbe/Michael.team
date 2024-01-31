@@ -2,7 +2,7 @@
 // written by Michael Sliwinski: https://michael.team
 // feel free to copy and give credit: https://michael.team/license
 
-const URL = "https://michael.team"; //my main domain
+const SITE_URL = "https://michael.team"; //my main domain
 const POSTS = "/searchposts.json"; //json with all the posts
 
 //get current latest featured blog post - slug is to exclude if the current page is the featured one!
@@ -19,7 +19,7 @@ function getFeatured(slug, lang = '/') {
 	let tempTitle = '';
 	let isFeatured = false;
 	let counter = 0; //we need only 1 featured post
-	fetch(URL + lang + POSTS)
+	fetch(SITE_URL + lang + POSTS)
 	.then((response) => response.text())
 	.then((responseText) => {
 		let posts = JSON.parse(responseText, function(key, value) {
@@ -63,7 +63,7 @@ function getRelated(slug) {
 	let tempTitle = '';
 	let tempSlug = '';
 	let addTag = false; //add this?
-	fetch(URL + lang + POSTS)
+	fetch(SITE_URL + lang + POSTS)
 	.then((response) => response.text())
 	.then((responseText) => {
 		let posts = JSON.parse(responseText, function(key, value) {
@@ -105,7 +105,7 @@ function getRelated(slug) {
 //add related or featrued links below the blog post
 function addLink (title, slug, where = 'related') {
 	let link = document.createElement('a');
-	link.setAttribute('href', URL + slug);
+	link.setAttribute('href', SITE_URL + slug);
 	link.innerHTML = goodTitle (title);
 	document.querySelector('#'+where).style.visibility = "visible";
 	document.querySelector('#'+where).append(link);
@@ -125,7 +125,7 @@ function getPrevNext(slug) {
 	let nextSlug = ''; //slug of next post
 	let thisTitle = ''; //title of this slug
 	let tempTitle = ''; //temporary title
-	fetch(URL + lang + POSTS)
+	fetch(SITE_URL + lang + POSTS)
 	.then((response) => response.text())
 	.then((responseText) => {
 		let posts = JSON.parse(responseText, function(key, value) {
@@ -160,7 +160,7 @@ function postPrevNext (title, slug, type = 'next') {
 	let link = document.createElement('a');
 	let titleNew = (type == 'next') ?  title + ' »' : '« ' + title;
 	if (title) {
-		link.setAttribute('href', URL + slug);
+		link.setAttribute('href', SITE_URL + slug);
 		link.innerHTML = goodTitle (titleNew);
 	}
 	if (type == 'next') {

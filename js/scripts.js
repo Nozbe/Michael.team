@@ -3,7 +3,7 @@
 // written by Michael Sliwinski: https://michael.team
 // feel free to copy and give credit: https://michael.team/license
 
-const URL = "https://michael.team"; //my main domain
+const SITE_URL = "https://michael.team"; //my main domain
 const POSTS = "/searchposts.json"; //json with all the posts
 
 //PUBLIC FUNCTIONS:
@@ -14,7 +14,7 @@ function getNow () {
 	let latestNow = getPostTag('now','#first','replace');
 }
 
-//substitute the first 
+//substitute the first
 function getNews () {
 	document.querySelector('#page').after(createSpinner()); //show spinner
 	let latestNow = getPostTag('news','#first','replace');
@@ -76,7 +76,7 @@ function getRandom() {
 	if (document.querySelector("#ajax")) document.querySelector("#ajax").remove();
 	let where = '#page';
 	document.querySelector(where).after(createSpinner());
-	fetch(URL + POSTS)
+	fetch(SITE_URL + POSTS)
 	.then((response) => response.text())
 	.then((responseText) => {
 		let urls = [];
@@ -120,7 +120,7 @@ function getDice (which=0) {
 	//rolling the dice!
 	dice.innerHTML = '';
 	dice.setAttribute('style','text-align: center;');
-	document.querySelector('#dice').after(createSpinner()); 
+	document.querySelector('#dice').after(createSpinner());
 	setTimeout (() => {
 		createSpinner(true);
 		if (which == 2) {
@@ -138,7 +138,7 @@ function getDice (which=0) {
 function getArticle (url, where, what = "add") {
 	let element = document.createElement('article'); //create article
 	element.setAttribute('id', 'ajax'); //so we can identify it!
-	fetch(URL+url)
+	fetch(SITE_URL+url)
 	.then((response) => response.text())
 	.then((responseText) => {
 		let parser = new DOMParser();
@@ -162,7 +162,7 @@ function getArticle (url, where, what = "add") {
 function getPostTag(tag, where, what = "add") {
 	let mytag = false;
 	let counter = 0; //to catch it only once
-	fetch(URL + POSTS)
+	fetch(SITE_URL + POSTS)
 	.then((response) => response.text())
 	.then((responseText) => {
 		let posts = JSON.parse(responseText, function(key, value) {
