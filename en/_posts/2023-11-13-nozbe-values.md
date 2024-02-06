@@ -1,5 +1,5 @@
 ---
-tags: [featured,nozbe]
+tags: [nozbe,featured]
 cover: "nozbe-values.jpg"
 m: https://social.nozbe.com/@michael/111403867458551389
 ---

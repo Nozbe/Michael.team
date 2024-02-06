@@ -1,5 +1,5 @@
 ---
-tags: [applewatch,shortcuts]
+tags: [shortcuts,applewatch]
 cover: "watchnote.jpg"
 m: https://seths.blog/2023/12/eight-marketing-maxims/
 ---

@@ -1,5 +1,5 @@
 ---
-tags: [short,applewatch]
+tags: [applewatch,short]
 cover: watchfaces.jpg
 m: https://seths.blog/2023/12/eight-marketing-maxims/
 ---
