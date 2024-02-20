@@ -51,7 +51,7 @@ function getFeatured(slug, lang = '/') {
 function getRelated(slug) {
 	let related = document.createElement('div');
 	related.setAttribute('id','related');
-	let lang = (slug.slice(3,4) == '/') ? slug.slice(0,3) : ''; //lang detect
+	let lang = langDetect(slug);
 	related.innerHTML = '<h3>Related posts:</h3>';
 	if (lang == '/pl') related.innerHTML = '<h3>Podobne wpisy:</h3>';
 	if (lang == '/es') related.innerHTML = '<h3>Entradas relacionadas:</h3>';
@@ -111,13 +111,23 @@ function addLink (title, slug, where = 'related') {
 	document.querySelector('#'+where).append(link);
 }
 
+//detects if the link is English, Polish or Spanish
+function langDetect(slug) {
+alert(slug.slice(0,3));
+	let langs = ['/pl', '/es'];
+	let lang = '';
+	if (slug.slice(3,4) == '/') {
+		lang = (langs.indexOf(slug.slice(0,3)) > -1) ? slug.slice(0,3) : '';
+	}
+	return lang;
+}
+
 //getting previous (older) and next post (newer) for the current post
 function getPrevNext(slug) {
 	let prevnext = document.createElement('div');
 	prevnext.setAttribute('id','prevnext');
 	document.querySelector('#sharelinks').append(prevnext);
-	//lang detect - if the fourth char is / then get the first three chars
-	let lang = (slug.slice(3,4) == '/') ? slug.slice(0,3) : '';
+	let lang = langDetect(slug);
 	//let's define vars and get on with it
 	let prevTitle = ''; //title of previous post
 	let prevSlug = ''; //slug of previous post
