@@ -113,7 +113,6 @@ function addLink (title, slug, where = 'related') {
 
 //detects if the link is English, Polish or Spanish
 function langDetect(slug) {
-alert(slug.slice(0,3));
 	let langs = ['/pl', '/es'];
 	let lang = '';
 	if (slug.slice(3,4) == '/') {
