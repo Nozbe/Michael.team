@@ -46,7 +46,7 @@ I've added this Shortcut to the [Action button](/action) on both my iPhone and i
 
 ⌚️ Enjoy taking notes from your Apple Watch!
 
-[w]:https://www.icloud.com/shortcuts/e14cab476f82417788c71591d8a8dcc3Two
+[w]: https://www.icloud.com/shortcuts/78a978eb72b747ca902be2326b7362bb
 
 [n]: https://michael.gratis/nozbe
 [np]: https://michael.gratis/nozbepersonal
