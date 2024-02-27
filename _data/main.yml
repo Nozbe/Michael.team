@@ -257,14 +257,14 @@ tags:
   emoj: "🔗"
   titl: "Shortcuts"
   tit2: |
-    I love automating stuff on my [iPad](/ipadonly) thanks to the built-in Shortcuts app (previously: Workflow). Here's the list of my best Shortcuts:
+    I love automating stuff on my [iPad](/ipadonly) thanks to the built-in Shortcuts app (previously: Workflow). Here's the list of my [best Shortcuts](/cuts/):
     * ✍️ [Journal](/journal)
     * 🙏 [Gratitude](/gratitude)
     * 📺 [YouTube Watcher](/yt)
     * 🎲 [Dice](/dice)
     * 📲 [Action button](/action)
     * ✅ [Add Task to Nozbe](/nozbe-add)
-    * ⌚️ [WatchNote](/watchnote) or [SMSnote](/smsnote)
+    * ⌚️ [WatchNote](/watchnote), [WatchNotes](/watchnotes) or [SMSnote](/smsnote)
 - name: sports
   emoj: "🎾"
   titl: "Sports"
