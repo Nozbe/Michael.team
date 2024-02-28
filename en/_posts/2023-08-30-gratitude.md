@@ -52,7 +52,7 @@ Now, to be more specific, the Shortcut asks you:
 - **Opportunity?** It asks you which opportunity has shown up that you're grateful for. Again, think of something new that happened in your life that you can thank for! If you can't come up with anything, just hit "OK" to skip the question.
 - **Small?** It asks you to think of something small that brought you joy and you'd like to thank for. Finding these small things that make us happy, teach us to appreciate the big ones, too!
 
-After these three gratitude question, there's an additional, completely optional, *focusing question* from **The One Thing** book by Jay Papasan and Gary Keller ([Audible](https://www.audible.com/pd/B00FPMTCGQ?tag=sliwinski-20) | [Amazon](https://www.amazon.com/dp/1885167776?tag=sliwinski-20)):
+After these three gratitude question, there's an additional, completely optional, *focusing question* from **The One Thing** book by Jay Papasan and Gary Keller ([Audible](https://www.audible.com/pd/B00FPMTCGQ?tag=sliwinski-20) or [Amazon](https://www.amazon.com/dp/1885167776?tag=sliwinski-20)):
 
 > What’s the ONE thing I can do such that by doing it everything else will be easier or unnecessary?
 
