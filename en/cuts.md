@@ -11,7 +11,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 - [Action button template](https://www.icloud.com/shortcuts/697fc874b91a42a7902e525e7273e984)
 - [Akcja 🇵🇱](https://www.icloud.com/shortcuts/116534d8a03b4aa59990916372c93198)
-- [My personal action button](https://www.icloud.com/shortcuts/46eeb23f998a4145b3c90351cdb702eb) (Jan 24)
+- [My personal action button](https://www.icloud.com/shortcuts/bf8bb92c6b1c47f78382ecc21956ba8c) (Feb 28)
 
 ## [Dice](/dice-shortcut/)
 
@@ -23,9 +23,9 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 ## Notes for [Apple Watch](/applewatch)
 
-- [WatchNote](https://www.icloud.com/shortcuts/b075cee4a0a54e61bc3758b3c88f2e0c) - [post](/watchnote/)
-- [WatchNotes](https://www.icloud.com/shortcuts/e14cab476f82417788c71591d8a8dcc3Two) - [post](/watchnotes/)
-- [SMSNote](https://www.icloud.com/shortcuts/65685f0a9c6e466a83eada7303b2b6fd) - [post](/smsnote/)
+- [WatchNote](https://www.icloud.com/shortcuts/b075cee4a0a54e61bc3758b3c88f2e0c) - [How I add a simple note to the Apple Watch](/watchnote/)
+- [WatchNotes](https://www.icloud.com/shortcuts/78a978eb72b747ca902be2326b7362bb) - [Advanced note taking with multiple notes on the Apple Watch](/watchnotes/)
+- [SMSNote](https://www.icloud.com/shortcuts/65685f0a9c6e466a83eada7303b2b6fd) - [Sending short messages to yourself as a substitute for note taking](/smsnote/)
 
 ## [Blogging and Social Media](/blogging/)
 
