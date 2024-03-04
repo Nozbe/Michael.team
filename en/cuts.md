@@ -34,8 +34,11 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 - [Check name on Michael.team](https://www.icloud.com/shortcuts/380a8d8dfb64400980e206f5f6ba894e) - check if certain post name already exists (required by above Shortcut)
 - [Blog Templating](https://www.icloud.com/shortcuts/710826c52f044d2da3138ea53115e6c2) - posting a blog from a template, especially useful for guest posts or podcast posts (very specific to my blog!)
 - [Quick Blog](https://www.icloud.com/shortcuts/08b7905810e94c7c80440171289898a8) - a way to post quickly something - like a Toot but directly on my blog!
-- [Link to Markdown](https://www.icloud.com/shortcuts/99030fe579e046cc908d00116db1c292) - copies link to Markdown format and in case of YouTube - adds embed
+- [Link to Markdown](https://www.icloud.com/shortcuts/3dd61f6b9b8f4c8b9d7a9474ff257128) - copies link to Markdown format and in case of YouTube - adds embed (normal and shorts)
 - [Save File](https://www.icloud.com/shortcuts/63109e313f6d4986a8b6167cc5422e85) - saves a PDF in Michael.team repository or a file in iCloud or a file somewhere else.
+
+## Social Media
+
 - [Play YouTube](https://www.icloud.com/shortcuts/88e084222ac440cc8b40cd7aa101aea8) - [my YouTube player](/yt/)
 - [Post Mastodon Text](https://www.icloud.com/shortcuts/50588896a82442b48c062182d9bc352f) - requires: `write:statuses` - I use it to post text-only Toots with Thread Master (below)
 - [Toot (with image)](https://www.icloud.com/shortcuts/eaaf8065a44149548103d8c24fb22dca) - requires: `write:media write:statuses` - I can even Toot from my watch!
