@@ -63,6 +63,9 @@ As a by-product of journal I've created a [Gratitude journal](/gratitude/) for t
 - [Gratitude](https://www.icloud.com/shortcuts/1206759d36c34963860e5985aff63466)
 - [Gratitude in Polish](https://www.icloud.com/shortcuts/a7d8401d7d124b05befd5b070d0b5425) - [announcement in Polish](/pl/wdziecznosc/)
 
+Previous versions of my Journaling Shortcut:
+
+
 ## Keynoter
 
 - [Keynoter 1.0](https://www.icloud.com/shortcuts/c3c17a7e771d4c3890cff2b76945a5cd)
