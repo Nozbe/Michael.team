@@ -1,5 +1,5 @@
 ---
-tags: [gadgets,iphone,show,video]
+tags: [show,gadgets,iphone,video]
 vid: "vfytLE18bOg"
 ---
 
