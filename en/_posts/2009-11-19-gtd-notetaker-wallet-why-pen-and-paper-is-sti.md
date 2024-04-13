@@ -1,5 +1,5 @@
 ---
-tags: [productivity]
+tags: [gadgets,productivity]
 img: "gtd-notetaker-wallet-why-pen-and-paper-is-sti.jpg"
 ---
 

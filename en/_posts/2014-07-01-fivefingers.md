@@ -1,5 +1,5 @@
 ---
-tags: [sports]
+tags: [sports,gadgets]
 img: "fivefingers.jpg"
 ---
 

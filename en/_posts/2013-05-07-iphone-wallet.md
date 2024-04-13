@@ -1,5 +1,5 @@
 ---
-tags: [iphone]
+tags: [gadgets,iphone]
 img: "iphone-wallet.jpg"
 ---
 

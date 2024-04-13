@@ -1,5 +1,5 @@
 ---
-tags: [imagazine,productivity,computers]
+tags: [gadgets,imagazine,productivity,computers]
 img: "headphones.jpg"
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: [short, iphone]
+tags: [gadgets, iphone]
 cover: airpodspro.jpg
 ---
 

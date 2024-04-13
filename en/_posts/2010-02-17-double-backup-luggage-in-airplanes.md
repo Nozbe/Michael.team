@@ -1,5 +1,5 @@
 ---
-tags: [computers,show,video]
+tags: [computers,gadgets,show,video]
 vid: "kBBwnI-bD1M"
 ---
 

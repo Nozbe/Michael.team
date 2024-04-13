@@ -1,5 +1,5 @@
 ---
-tags: [nooffice,office]
+tags: [gadgets,nooffice,office]
 cover: "streaming.jpg"
 ---
 

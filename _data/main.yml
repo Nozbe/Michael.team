@@ -169,6 +169,10 @@ tags:
   emoj: "⭐️"
   titl: "Featured"
   tit2: "My best articles or most viewed, researched and impotrant pieces of writing. In late 2023 I started the practice of writing 1-2 such articles per month and feature them on my home page. Later retroactively I'm planning to tag with this my articles from past years."
+- name: gadgets
+  emoj: "🕹️"
+  titl: "Gadgets"
+  tit2: "Small and big gadgets I use for my [iPhone](/iphone), [iPad](/ipadonly), [computers](/computers) or [travel](/travel). Things that help me out, bring me joy, are useful and I would recommend. These are not detailed reviews, but more of *impressions*."
 - name: guest
   emoj: "🤩"
   titl: "Guest appearances"
@@ -280,7 +284,7 @@ tags:
 - name: vlog
   emoj: "🎥"
   titl: "Vlog"
-  tit2: "My 'Team Productivity Show' video blog where I share my best team productivity tips and tricks. It's also hosted on [Nozbe blog](https://nozbe.com/tags/teamproductivity?a=mike){:target='_blank'}. You can subscribe [on YouTube](https://www.youtube.com/playlist?list=PL4VGcOPPsP4O0dJlcJLoMiGEWSTOFYulO) or [as audio on Apple Podcasts](https://podcasts.apple.com/us/podcast/team-productivity-show/id1538743591)."
+  tit2: "My 'Team Productivity Show' video blog where I share my best team productivity tips and tricks. Now [on a new YouTube channel](/channel) called [**@MichaelTeam**](https://www.youtube.com/@MichaelTeam){:target='_blank'}. My previous show was hosted on [Nozbe blog](https://nozbe.com/tags/teamproductivity?a=mike){:target='_blank'}, [on Nozbe's YouTube channel](https://www.youtube.com/playlist?list=PL4VGcOPPsP4O0dJlcJLoMiGEWSTOFYulO) and [as audio on Apple Podcasts](https://podcasts.apple.com/us/podcast/team-productivity-show/id1538743591)."
 - name: wrong
   emoj: "🙁"
   titl: "Wrong"

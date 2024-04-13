@@ -1,5 +1,5 @@
 ---
-tags: [imagazine,ipadonly]
+tags: [gadgets,imagazine,ipadonly]
 img: "ipadprokeyboard.jpg"
 ---
 

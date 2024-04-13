@@ -1,5 +1,5 @@
 ---
-tags: [travel,show,video]
+tags: [travel,gadgets,show,video]
 vid: "vuTodLtaUjo"
 redirect_from: /how-i-pack-in-carry-on-for-1-2-weeks-producti/
 ---
