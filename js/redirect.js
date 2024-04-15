@@ -55,5 +55,9 @@ function redirect () {
 	if (to) {
 		document.querySelector("#to").setAttribute("href", links.get(to));
 		document.querySelector('meta[http-equiv="Refresh"]').setAttribute("content", '0; ' + links.get(to));
+	} else {
+		let go = "https://michael.team/";
+		document.querySelector("#to").setAttribute("href", go);
+		document.querySelector('meta[http-equiv="Refresh"]').setAttribute("content", '0; ' + go);
 	}
 }
