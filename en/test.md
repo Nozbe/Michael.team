@@ -1,6 +1,7 @@
 ---
 permalink: /test/
 tags: [guest,video]
+social: "taiwan.jpg"
 ---
 
 # Testing playground

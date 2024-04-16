@@ -11,6 +11,7 @@
 {% if thisbook %}{% capture sharelink_name %}{{ site.data.main.domain }}{{ page.url }}{% endcapture %}{% endif %}
 <div id="sharelinks">
 {% if page.share!="noshow" %}
+{% if page.social %}<div id="social"><img src="{{ site.url }}/social/{{ page.social }}" alt="{{ page.title }}" /></div>{% endif %}
 <h3>{{ site.data.main.[share] }}: <a href="{{ sharelink }}">{{ sharelink_name }}</a></h3>
 {% capture source %}source{{ langvar }}{% endcapture %}
 <p><a href="{{ site.data.main.url_source }}{{ page.path }}?plain=1" target="_blank">{{ site.data.main.[source] }}</a></p>

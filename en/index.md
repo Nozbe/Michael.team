@@ -14,6 +14,10 @@ title: Michael Sliwinski
 {% include posts.html posts=site.tags.featured limit=1 more=1 %}
 </div>
 
+### Topics on my blog:
+
+{% include tags.html %}
+
 ### [Latest](/archive/) articles and posts:
 
 {% include posts.html posts=site.categories.en limit=15 more=1 notpost=last_post_url %}
