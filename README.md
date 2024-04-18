@@ -50,6 +50,7 @@ If you'd like to contribute to this site, maybe correct something in one of my b
 - layout - the default layout is being used or page layout for pages or post layout for posts, but then we can still customize it for tags and other views
 - cover - the image name of the cover image going behind the H1 (optional)
 - img - main image name of the site/post but NOT the one behind H1
+- social - the optional social sharing image of 1200*630 with an optional header built in - response to Twitter/X not including post titles properly
 - title - can be also done using the first H1 in the file
 - subtitle - for the blog posts where we really want to use it...
 - vid - YouTube ID of the video
@@ -81,6 +82,7 @@ Content is in its respective directories:
     - /js/ - JavaScript files
     - /pdf/ - PDF files
     - /img/ - images (duh!)
+	- /social/ - social images for posts that have them
 - Books have their own folders with underscore, like:
     - /_passion/ - for the "It's All About Passion!" book
 

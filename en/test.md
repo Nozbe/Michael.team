@@ -50,6 +50,13 @@ Require valid-user
 
 > O: Meetings are fun! But I understand you meant 3 meetings a day? That's really not that much.
 
+> M: Not really if you do it like we do - in a project our agenda points are tasks and all of them have comments or files attached to them…
+
+## More time for DEEP WORK…
+
+> M: …Sometimes in these comments we resolve the issues and when we do, it's another reason to cancel this week's meeting.
+
+> O: And when that happens, what do you do?
 
 ## Including video from a point in time
 
