@@ -423,11 +423,20 @@ blockquote {
 	background-color: $blockBack;
 	font-family: $fontserif;
 	font-style: italic;
-	transform: rotate(-2deg);
+	transform: rotate(-1deg);
 
 	@include dark-mode {
 		color: $blockD;
 		background-color: $blockDBack;
+	}
+}
+
+blockquote:nth-child(even) {
+	transform: rotate(1deg);
+	color: navy;
+
+	@include dark-mode {
+		color: lightblue;
 	}
 }
 
