@@ -40,6 +40,17 @@ Require valid-user
 >\\
 > Anna for Elsa
 
+## Discussion between Michaels
+
+> M: Hi, I'm Michael, the NoOffice guy, the remote guy, I work from home, I believe that work is not a place to go, it's a thing to do. And you are?
+
+> O: Hi, I'm the other Michael, the Office guy. I dress nicely. I go to an office every day, I practice management by walking around. I love running back-to-back meetings.
+
+> M: I also like meetings. I have two of them a week. Sometimes three.
+
+> O: Meetings are fun! But I understand you meant 3 meetings a day? That's really not that much.
+
+
 ## Including video from a point in time
 
 {% include video.html id="m-ugwoEOMvg" start="1425" %}
