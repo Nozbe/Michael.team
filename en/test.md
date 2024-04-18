@@ -43,7 +43,7 @@ Require valid-user
 ## Discussion between Michaels
 
 
-> **Introduction to Michaels**
+> **Introduction to Michaels**\\
 >\\
 > **NoOffice guy**: Hi, I'm Michael, the [NoOffice](/nooffice) guy, the remote guy, I work from home, I believe that **work is not a place to go, it's a thing to do**. And you are?
 
@@ -59,7 +59,7 @@ Require valid-user
 
 > **O**: You have days without meetings? Sorry, but if that's so, you don't seem to care much about if your team is working at all. What kind of manager are you?!
 
-> **[Nozbe][n] - projects, tasks and comments…**
+> **[Nozbe][n] - projects, tasks and comments…**\\
 >\\
 > **N**: Oh, I do care. A lot. But as we have everything laid out in Nozbe in projects, tasks and comments, I know exactly what people are working on and where they need my feedback. And when they do, I write comments to their tasks, sometimes very long ones!
 
@@ -75,3 +75,4 @@ Require valid-user
 
 {% include test.html id="m-ugwoEOMvg" %}
 
+[n]: https://nozbe.com/
