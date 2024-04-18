@@ -42,15 +42,15 @@ Require valid-user
 
 ## Discussion between Michaels
 
-> M: Hi, I'm Michael, the NoOffice guy, the remote guy, I work from home, I believe that work is not a place to go, it's a thing to do. And you are?
+> **NoOffice guy**: Hi, I'm Michael, the NoOffice guy, the remote guy, I work from home, I believe that work is not a place to go, it's a thing to do. And you are?
 
-> O: Hi, I'm the other Michael, the Office guy. I dress nicely. I go to an office every day, I practice management by walking around. I love running back-to-back meetings.
+> **Office guy**: Hi, I'm the other Michael, the Office guy. I dress nicely. I go to an office every day, I practice management by walking around. I love running back-to-back meetings.
 
-> M: I also like meetings. I have two of them a week. Sometimes three.
+> **Ng**: I also like meetings. I have two of them a week. Sometimes three.
 
-> O: Meetings are fun! But I understand you meant 3 meetings a day? That's really not that much.
+> **Og**: Meetings are fun! But I understand you meant 3 meetings a day? That's really not that much.
 
-> M: Not really if you do it like we do - in a project our agenda points are tasks and all of them have comments or files attached to them…
+> **N**: Not really if you do it like we do - in a project our agenda points are tasks and all of them have comments or files attached to them…
 
 ## More time for DEEP WORK…
 
