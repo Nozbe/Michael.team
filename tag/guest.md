@@ -1,6 +1,6 @@
 ---
-title: "Guest appearances for podcasts, press and media"
+title: "Guest appearances on conferences, podcasts, press and media"
 permalink: /guest/
 redirect_from: /tag/guest/
-cover: gtdsummit.jpg
+cover: speaker.jpg
 ---
