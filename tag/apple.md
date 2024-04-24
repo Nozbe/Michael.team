@@ -4,5 +4,5 @@ permalink: /apple/
 redirect_from:
  - /tag/apple/
  - /tag/google/
-cover: applepark.jpg
+cover: apple-tag.jpg
 ---
