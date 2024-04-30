@@ -232,7 +232,7 @@ tags:
 - name: now
   emoj: "📝"
   titl: "Now?"
-  tit2: "This is my **“now”** page inspired by [Derek Sievers](https://sivers.org/now){:target='_blank'}. It answers “what I'm doing now?“. My life, projects and priorities. I post an update here every 1-3 months."
+  tit2: "This is [my **“now”** page](https://nownownow.com/p/Wwy1){:target='_blank'} inspired by [Derek Sievers](https://sivers.org/now){:target='_blank'}. It answers “what I'm doing now?“. My life, projects and priorities. I post an update here every 1-3 months."
 - name: office
   emoj: "🏠"
   titl: "Office"
