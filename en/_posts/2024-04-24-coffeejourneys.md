@@ -1,6 +1,7 @@
 ---
 tags: [guest]
 img: "coffeejourneys.jpg"
+m: https://social.nozbe.com/@michael/112328053361433144
 ---
 
 # On Coffee Journeys about lessons from traveling with kids, earthquakes and intentional use of technology

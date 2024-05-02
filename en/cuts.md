@@ -11,20 +11,21 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 - [Action button template](https://www.icloud.com/shortcuts/697fc874b91a42a7902e525e7273e984)
 - [Akcja 🇵🇱](https://www.icloud.com/shortcuts/116534d8a03b4aa59990916372c93198) - [announcement in Polish](/pl/action/)
-- [My personal action button](https://www.icloud.com/shortcuts/bf8bb92c6b1c47f78382ecc21956ba8c) (Feb 28)
+- [My action button after Clipboard added](https://www.icloud.com/shortcuts/cfb96a3af9414087aee7f056eda8d12c) - 2.05.24
+- [My personal action button v.1](https://www.icloud.com/shortcuts/bf8bb92c6b1c47f78382ecc21956ba8c) - 28.02.24
 
 ## [Dice](/dice-shortcut/)
 
-- [Dice](https://www.icloud.com/shortcuts/a7f51ab434e6402f89829296ebd5e183)
+- [Dice](https://www.icloud.com/shortcuts/a7f51ab434e6402f89829296ebd5e183) - 26.12.23
 
 ## [Add task to Nozbe](/nozbe-add)
 
-- [To Do Nozbe](https://www.icloud.com/shortcuts/9e8eb326b6e1400e991f98834880184a)
+- [To Do Nozbe](https://www.icloud.com/shortcuts/9e8eb326b6e1400e991f98834880184a) - 27.11.23
 
 ## Notes for [Apple Watch](/applewatch)
 
-- [WatchNote](https://www.icloud.com/shortcuts/b075cee4a0a54e61bc3758b3c88f2e0c) - [How I add a simple note to the Apple Watch](/watchnote/)
-- [WatchNotes](https://www.icloud.com/shortcuts/78a978eb72b747ca902be2326b7362bb) - [Advanced note taking with multiple notes on the Apple Watch](/watchnotes/)
+- [WatchNote](https://www.icloud.com/shortcuts/b075cee4a0a54e61bc3758b3c88f2e0c) - [How I add a simple note to the Apple Watch](/watchnote/) - 07.12.23
+- [WatchNotes](https://www.icloud.com/shortcuts/78a978eb72b747ca902be2326b7362bb) - [Advanced note taking with multiple notes on the Apple Watch](/watchnotes/) - 27.02.24
 - [SMSNote](https://www.icloud.com/shortcuts/65685f0a9c6e466a83eada7303b2b6fd) - [Sending short messages to yourself as a substitute for note taking](/smsnote/)
 
 ## [Blogging and Social Media](/blogging/)
@@ -65,13 +66,24 @@ As a by-product of journal I've created a [Gratitude journal](/gratitude/) for t
 
 Previous versions of my Journaling Shortcut:
 
+- later…
 
 ## Keynoter
 
-- [Keynoter 1.0](https://www.icloud.com/shortcuts/c3c17a7e771d4c3890cff2b76945a5cd)
-- [Keynoter Slide 1.0](https://www.icloud.com/shortcuts/a6889f763dfd4ab585be242c4e253632)
+My un-published simpler version of iA Presenter as a Shortcut to create presentations from Markdown files:
+
+- [Keynoter 1.0](https://www.icloud.com/shortcuts/c3c17a7e771d4c3890cff2b76945a5cd) - 1.03.24
+- [Keynoter Slide 1.0](https://www.icloud.com/shortcuts/a6889f763dfd4ab585be242c4e253632) - 1.03.24
 
 Previous version:
 
-- [Keynoter](https://www.icloud.com/shortcuts/f4ac0b053ac6479a9f3aa54f9b9fd29a) - main Shortcut
-- [Keynoter Slide](https://www.icloud.com/shortcuts/9db0fa76294541b0ac1623e8efceaca2) - slide-crunching Shortcut for Keynoter
+- [Keynoter](https://www.icloud.com/shortcuts/f4ac0b053ac6479a9f3aa54f9b9fd29a) - main Shortcut - 1.02.24
+- [Keynoter Slide](https://www.icloud.com/shortcuts/9db0fa76294541b0ac1623e8efceaca2) - slide-crunching Shortcut for Keynoter - 1.02.24
+
+## Clipboard
+
+My clipboard manager:
+
+- [Clipboard 1.1](https://www.icloud.com/shortcuts/b9e5294f573047cc9e15d5d7ffa58874) - support for multi-line paste and indication which item is in clipboard currently - 2.05.24
+- [Clipboard 1.0](https://www.icloud.com/shortcuts/49b034b005ce432a9c40fff2bc574842) - supports 10 last rows and new menu, and mailto and web links - 2.05.24
+- [Clipboard 0.1 - proof of concept](https://www.icloud.com/shortcuts/fc33fbf9f9134ec0aa5f54839c1d8fd2) - 1.05.24
