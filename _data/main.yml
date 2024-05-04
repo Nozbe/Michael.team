@@ -268,7 +268,8 @@ tags:
     * 🎲 [Dice](/dice)
     * 📲 [Action button](/action)
     * ✅ [Add Task to Nozbe](/nozbe-add)
-    * ⌚️ [WatchNote](/watchnote), [WatchNotes](/watchnotes) or [SMSnote](/smsnote)
+    * ⌚️ [WatchNotes](/watchnotes) or ([WatchNote](/watchnote) or [SMSnote](/smsnote))
+    * 📋 [Clipboard Manager](/clipboard)
 - name: sports
   emoj: "🎾"
   titl: "Sports"

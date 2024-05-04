@@ -2,6 +2,7 @@
 tags: [shortcuts,iphone,featured]
 cover: "clipboard.jpg"
 social: "clipboard.jpg"
+m: https://social.nozbe.com/@michael/112376583381527932
 ---
 
 # Clipboard Manager using Shortcuts for iOS - perfect for iPhone 15 Pro Action Button
