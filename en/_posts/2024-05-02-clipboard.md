@@ -125,11 +125,12 @@ Enjoy and please let me know how it works for you. Thanks!
 
 As this Shortcut is being used, it surely will be updated and improved:
 
+- [Clipboard 1.2][c2] - support for my additional [shortcuts](/shortcuts): [YouTube Watcher](/youtube/) and [Link to Markdown](/markdown)
 - [Clipboard 1.1][c] - support for multi-line paste and indication which item is in clipboard currently - 2.05.24
 - [Clipboard 1.0](https://www.icloud.com/shortcuts/49b034b005ce432a9c40fff2bc574842) - supports 10 last rows and new menu, and mailto and web links - 2.05.24
 - [Clipboard 0.1 - proof of concept](https://www.icloud.com/shortcuts/fc33fbf9f9134ec0aa5f54839c1d8fd2) - 1.05.24
 
-
+[c2]: https://www.icloud.com/shortcuts/d57be30bc57b43b282f5deee6081810d
 [c]: https://www.icloud.com/shortcuts/b9e5294f573047cc9e15d5d7ffa58874
 [r]: https://runestone.app
 [cp]: https://www.macstories.net/reviews/copied-a-full-featured-clipboard-manager-for-ios-9/

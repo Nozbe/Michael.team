@@ -17,9 +17,9 @@ To watch any video, paste a YouTube link. Works with *youtube.com, m.youtube.com
 
 ## Share any YouTube video on iOS easily
 
-**[Get the Siri "Cookie-free YouTube" Shortcut for iOS][shortcut]**
+**[Get the "Cookie-free YouTube" Shortcut for iOS][shortcut]**
 
-This Siri Shortcut helps you to "share" any YouTube link to this page.
+This iOS/Mac Shortcut helps you to "share" any YouTube link to this page.
 
 ## Bonus 1: Just add a URL as a parameter
 
@@ -51,4 +51,5 @@ This page solves most of these problems. It lets you embed *any YouTube video* (
 **[Read more about this page and share with your friends! Thanks!][blog]**
 
 [blog]: https://michael.team/youtube/
-[shortcut]: https://www.icloud.com/shortcuts/a45cec1e83944253b6c0bd3cb2915bc4
+[shortcut]: https://www.icloud.com/shortcuts/1b20e7375c9f4a17b418f75736da46a1
+[shortcutx]: https://www.icloud.com/shortcuts/a45cec1e83944253b6c0bd3cb2915bc4

@@ -35,7 +35,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 - [Check name on Michael.team](https://www.icloud.com/shortcuts/380a8d8dfb64400980e206f5f6ba894e) - check if certain post name already exists (required by above Shortcut)
 - [Blog Templating](https://www.icloud.com/shortcuts/710826c52f044d2da3138ea53115e6c2) - posting a blog from a template, especially useful for guest posts or podcast posts (very specific to my blog!)
 - [Quick Blog](https://www.icloud.com/shortcuts/08b7905810e94c7c80440171289898a8) - a way to post quickly something - like a Toot but directly on my blog!
-- [Link to Markdown](https://www.icloud.com/shortcuts/3dd61f6b9b8f4c8b9d7a9474ff257128) - copies link to Markdown format and in case of YouTube - adds embed (normal and shorts)
+- [🔗 Link To Markdown](https://www.icloud.com/shortcuts/4a7ee7378c664ad58f0f265ce59d9011) - copies link to Markdown format and in case of YouTube - adds embed (normal and shorts) - 15.05.24
 - [Save File](https://www.icloud.com/shortcuts/63109e313f6d4986a8b6167cc5422e85) - saves a PDF in Michael.team repository or a file in iCloud or a file somewhere else.
 
 ## Social Media
@@ -84,6 +84,7 @@ Previous version:
 
 My clipboard manager:
 
+- [Clipboard 1.2](https://www.icloud.com/shortcuts/d57be30bc57b43b282f5deee6081810d) - support for my YouTube and Markdown Link shortcuts for URLs
 - [Clipboard 1.1](https://www.icloud.com/shortcuts/b9e5294f573047cc9e15d5d7ffa58874) - support for multi-line paste and indication which item is in clipboard currently - 2.05.24
 - [Clipboard 1.0](https://www.icloud.com/shortcuts/49b034b005ce432a9c40fff2bc574842) - supports 10 last rows and new menu, and mailto and web links - 2.05.24
 - [Clipboard 0.1 - proof of concept](https://www.icloud.com/shortcuts/fc33fbf9f9134ec0aa5f54839c1d8fd2) - 1.05.24
