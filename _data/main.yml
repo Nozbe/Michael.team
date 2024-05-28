@@ -249,6 +249,10 @@ tags:
   emoj: "🎧"
   titl: "ThePodcast.fm"
   tit2: "The Podcast was a conversation between [me](/about) and Radek ([@radexp](https://twitter.com/radexp), [radex.io](https://radex.io/)), Nozbe's ex-VP of Engineering, that we've been having for 4 years (2016-2020) about [productivity, business, books, and whatever else comes to mind](/podcast-toc)… **[Subscribe and check archives](https://podcasts.apple.com/podcast/the-podcast/id1012329770)**"
+- name: quotes
+  emoj: "🍿"
+  titl: "Impactful quotes"
+  tit2: "Quotes from tv series, movies or even YouTube videos that stuck and have made a permanent mark in my life. Some of them me and my family use daily. We are annoying this way. Many movie buffs are!"
 - name: show
   emoj: "📽"
   titl: "Productive! Show"
