@@ -1,0 +1,87 @@
+---
+tags: [ipadonly,productivity,featured]
+cover: "ipad-productivity.jpg"
+social: "ipad-productivity.jpg"
+---
+
+# How can I be so productive on the iPad?
+
+Despite my claims that [the iPad Pro](/ipad13pro) to me is the [most versatile computer in the world](/ipadv), people still can't believe I can get most of my work done on the iPad. I know the iPadOS is lacking when compared to the MacOS and it's severely limited. Yet, I still prefer it and I get stuff done on the iPad with lots of joy, here's why:
+
+<!--More-->
+
+![{{ page.title }}](/img/{{ page.cover }})
+
+* TOC
+{:toc}
+
+## The joy of using the iPad outweighs the limitations of the iPadOS
+
+Working on the iPad [brings me joy](/ipadv) - I can touch the screen, I can scribble with pencil, I'm online all the time, I can pick it up as a tablet (and the new one is even lighter!) and I can type on the keyboard if necessary.
+
+> Limitations of iPadOS suck, but the joy of using the iPad makes up for it!
+
+Yes, I'm aware of the limitations and [Federico Viticci](https://www.macstories.net/stories/not-an-ipad-pro-review/) pointed them all out in his article: no support for background operations, poor Files app, Safari being a mobile and not desktop browser, audio limitations and other things that an M4-powered machine should be able to support. Apple could do all that and so much more, yet keep iPadOS different than MacOS or iOS. It's time.
+
+However, despite these limitations, I still get joy from working on the iPad. Here's why:
+
+## My essential apps work great - Nozbe, iA Writer, Working Copy, Textastic, Linea Sketch, Reeder…
+
+Some of these apps I've been using [for more than a decade](/apps10). I get my tasks and projects done in [Nozbe][n] together with my team. We use this as our main communicator and project manager.
+
+I write texts in [iA Writer][i] and later with [Working Copy][w] send them to [GitHub](https://github.com/Nozbe/Michael.team/). I write code in [Textastic][t] and as a general text editor I use [Runestone][r]. I subscribe to blogs and videos with [Reeder][r]. I edit videos with [Luma Fusion][l]. I use [Zoom][z] for video conferencing with my team and [customers](/sarah). I [draw](/draw) and take handwritten notes in [Linea Sketch][s]
+
+> On iPad the apps are focused which helps my productivity!
+
+And then I have dedicated apps for entertainment, reading, and other things. Again, I'd love to have more pro apps on the iPad. However, with the ones I have, I get my job done ✅ 
+
+But apps are NOT enough…
+
+## I use iPad-specific features like pencil ✏️ to give great feedback
+
+I'm the CEO of [Nozbe][n] - an app for [smart](/smart) business owners that helps them organize their professional and private life. As the CEO I wear many hats, but mostly I'm involved with marketing and product design, but I'm also testing the latest features.
+
+For this, iPad is amazing. I take lots of screenshots and scribble on them with the Apple Pencil and then I attach these drawings together with my written feedback to tasks in [Nozbe][n] app.
+
+This makes giving feedback effortless.
+
+> iPad with Pencil is an ideal feedback-giving device!
+
+Yes, my scribbles are not really beautiful but who cares? My team gets a visual drawing and a written explanation so they know what to do next.
+
+## I use Shortcuts a lot… to get most of these apps and the iPad!
+
+The key to my [productivity](/productivity) on the [iPad](/ipadonly) is creating, using and improving [Shortcuts](/shortcuts). Thanks to them I automate the shit out of my iPad. Seriously. 
+
+> Automation using Shortcuts is glorious.
+
+I have shared [many of these Shortcuts officially](/shortcuts) on this blog, but some are still [unofficial](/cuts).
+
+I [journal](/journal) with a shortcut, I use [Action button](/action) a lot on all my Apple devices, I [add tasks to Nozbe](/nozbe-add), I [write notes](/watchnotes) (even on [Apple Watch](/applewatch)) and recently I've created my own [Clipboard manager](/clipboard).
+
+But that's not all. When you see my [unofficial page](/cuts) you'll see that when I write a post for this blog, I have a shortcut that formats it properly. When I need to post an image on my blog, I have a shortcut that optimizes it and adds it to where I want it to go. And I've got many more small automations like this…
+
+Again, while I'd love for the Shortcuts app to be better and more stable (currently it's an exercise in patience), it's still very powerful and it's my secret weapon to using the iPad.
+
+And the added benefit is that most of these Shortcuts also work on my [iPhone](/iphone) and [Mac](/computers) so I can automate stuff everywhere.
+
+## Great apps, Pencil and useful Shortcuts - that's the key 🔑 to my productivity on the iPad
+
+Yes, I understand that not everyone can be like me. I'm a CEO of [Nozbe][n], a [productivity app](/nozbe) that has a team of 20 people and I can lead the team and mange the company from an iPad. However I believe many more people can be like me if they want to come to terms with iPad limitations and try to have more joy in their computing life.
+
+P.S. There's a bonus point for the iPad which I keep mentioning - with iPad I'm online all the time - thanks to cellular 5G connection I can really be productive anywhere! No hunting for WiFi hotspots or tethering from the [iPhone](/iphone).
+
+P.P.S. Sent from the [M1 iPad Pro](/ipad13) but I've just ordered the new [M4 iPad Pro](/ipad24pro) and it's coming to me in a few weeks. This iPad will be given to my 15-year old daughter as it's still a great device and she needs a more powerful device for school. And drawing in [Procreate](https://procreate.com).
+
+[p]: https://procreate.com
+[l]: https://luma-touch.com/luma-fusion-for-ios/
+[r]: https://www.reederapp.com
+[ru]: https://runestone.app
+[w]: https://workingcopyapp.com
+[i]: https://ia.net
+[t]: https://www.textasticapp.com
+[z]: https://zoom.us
+[s]: https://linea-app.com
+
+[n]: https://michael.gratis/nozbe
+[np]: https://michael.gratis/nozbepersonal
