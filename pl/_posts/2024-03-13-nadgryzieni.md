@@ -1,5 +1,5 @@
 ---
-tags: [gosc]
+tags: [nadgryzieni,gosc]
 vid: "y7bjLhX5y_M"
 ---
 

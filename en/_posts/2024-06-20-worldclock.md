@@ -2,6 +2,7 @@
 tags: [applewatch]
 cover: "worldclock.jpg"
 social: "worldclock.jpg"
+m: https://social.nozbe.com/@michael/112676259224154374
 ---
 
 # Apple Watch Ultra Modular as a World Clock
