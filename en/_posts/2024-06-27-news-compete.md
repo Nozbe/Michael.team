@@ -14,6 +14,7 @@ I'm using my new 13" M4 iPad Pro to write a new essay on Apple called: "Abundanc
 ![{{ page.title }}](/img/{{ page.img }})
 
 > **Note:** this is a transcript of the email Newsletter I sent to my 1500+ subscribers a while back. If you want to be one of them, [sign up for my free Newsletter. You can unsubscribe anytime!](https://michael.gratis/n){:target='_blank'} or if you use [LinkedIn, you can subscribe there, too!](https://michael.gratis/inn){:target='_blank'}
+
 ## 🎟️ iPhone NFC module for more than Apple Wallet?
 
 If NFC module on the iPhone was available for developers, would we have an ecosystem of wireless car keys, house keys or public transport tickets?
