@@ -84,7 +84,8 @@ Previous version:
 
 My clipboard manager:
 
-
+- [Clipboard 2.0 beta](https://www.icloud.com/shortcuts/50f500e7fbbb4ace9022af0a47b09c1c) - major rewrite taking what I've learned from the original and from alpha. I'm testing this version right now, together with [ClipActions beta](https://www.icloud.com/shortcuts/992f1f58281d442cbbda3e20b92d51a9). - 06.24
+- [Clipboard 2.0 alpha](https://www.icloud.com/shortcuts/563c6a7352bf46bd81d7ca6b95e1b6e7) - unsuccessful version 2.0 with cool menu support and reverse chronology and FUNCTION support. Too overengineered but I'm keeping it here as a reference. - 05.24
 - [Clipboard 1.3](https://www.icloud.com/shortcuts/d0537039f6bd4a0d97ae4b5cc37af8d8) - Share Sheet fix - last major version before the 2.0 rewrite - 03.06.24
 - [Clipboard 1.2](https://www.icloud.com/shortcuts/d57be30bc57b43b282f5deee6081810d) - support for my YouTube and Markdown Link shortcuts for URLs
 - [Clipboard 1.1](https://www.icloud.com/shortcuts/b9e5294f573047cc9e15d5d7ffa58874) - support for multi-line paste and indication which item is in clipboard currently - 2.05.24
