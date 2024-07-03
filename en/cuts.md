@@ -84,6 +84,7 @@ Previous version:
 
 My clipboard manager:
 
+- [Clipboard 2.0 beta 2](https://www.icloud.com/shortcuts/cc7408a0324f4b95bf2b783e638ad4d3) - with self-healing mechanism of adding titles. But in the end it was buggy, complicated and wasn't worth it.
 - [Clipboard 2.0 beta](https://www.icloud.com/shortcuts/50f500e7fbbb4ace9022af0a47b09c1c) - major rewrite taking what I've learned from the original and from alpha. I'm testing this version right now, together with [ClipActions beta](https://www.icloud.com/shortcuts/992f1f58281d442cbbda3e20b92d51a9). - 06.24
 - [Clipboard 2.0 alpha](https://www.icloud.com/shortcuts/563c6a7352bf46bd81d7ca6b95e1b6e7) - unsuccessful version 2.0 with cool menu support and reverse chronology and FUNCTION support. Too overengineered but I'm keeping it here as a reference. - 05.24
 - [Clipboard 1.3](https://www.icloud.com/shortcuts/d0537039f6bd4a0d97ae4b5cc37af8d8) - Share Sheet fix - last major version before the 2.0 rewrite - 03.06.24
@@ -91,3 +92,7 @@ My clipboard manager:
 - [Clipboard 1.1](https://www.icloud.com/shortcuts/b9e5294f573047cc9e15d5d7ffa58874) - support for multi-line paste and indication which item is in clipboard currently - 2.05.24
 - [Clipboard 1.0](https://www.icloud.com/shortcuts/49b034b005ce432a9c40fff2bc574842) - supports 10 last rows and new menu, and mailto and web links - 2.05.24
 - [Clipboard 0.1 - proof of concept](https://www.icloud.com/shortcuts/fc33fbf9f9134ec0aa5f54839c1d8fd2) - 1.05.24
+
+## Other Shortcuts
+
+- [Function Test](https://www.icloud.com/shortcuts/fce5d8926ff74678b670042623108e0d) - testing functions - how you can ask for the same shortcut with different params - 05.24
