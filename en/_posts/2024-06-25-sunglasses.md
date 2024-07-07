@@ -1,6 +1,7 @@
 ---
 tags: [gadgets,short]
 cover: sunglasses.jpg
+m: https://social.nozbe.com/@michael/112694907464703815
 ---
 
 # Get yourself Bluetooth sunglasses this summer!
