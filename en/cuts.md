@@ -84,6 +84,7 @@ Previous version:
 
 My clipboard manager:
 
+- [Clipboard 2.0 beta 3](https://www.icloud.com/shortcuts/4746052ec6454ba492ffb05a2fe6814a) - the one I'm using now with all the features I need BUT not with the performance. [ClipActions beta 3](https://www.icloud.com/shortcuts/ff39311cdd744273a6522506345fc2f2)
 - [Clipboard 2.0 beta 2](https://www.icloud.com/shortcuts/cc7408a0324f4b95bf2b783e638ad4d3) - with self-healing mechanism of adding titles. But in the end it was buggy, complicated and wasn't worth it.
 - [Clipboard 2.0 beta](https://www.icloud.com/shortcuts/50f500e7fbbb4ace9022af0a47b09c1c) - major rewrite taking what I've learned from the original and from alpha. I'm testing this version right now, together with [ClipActions beta](https://www.icloud.com/shortcuts/992f1f58281d442cbbda3e20b92d51a9). - 06.24
 - [Clipboard 2.0 alpha](https://www.icloud.com/shortcuts/563c6a7352bf46bd81d7ca6b95e1b6e7) - unsuccessful version 2.0 with cool menu support and reverse chronology and FUNCTION support. Too overengineered but I'm keeping it here as a reference. - 05.24
@@ -96,3 +97,4 @@ My clipboard manager:
 ## Other Shortcuts
 
 - [Function Test](https://www.icloud.com/shortcuts/fce5d8926ff74678b670042623108e0d) - testing functions - how you can ask for the same shortcut with different params - 05.24
+- [Templates](https://www.icloud.com/shortcuts/eac30c7437264d54958326df32927e19) - templates v1 - so I can store templates of things I do regularly on the iPad or iPhone - 10.07.24
