@@ -11,6 +11,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 - [Action button template](https://www.icloud.com/shortcuts/697fc874b91a42a7902e525e7273e984)
 - [Akcja 🇵🇱](https://www.icloud.com/shortcuts/116534d8a03b4aa59990916372c93198) - [announcement in Polish](/pl/action/)
+- [My action button with Clippy beta and Templates](https://www.icloud.com/shortcuts/4c4f364c91d5410abba29121bac26340) - 18.07.24
 - [My action button after Clipboard added](https://www.icloud.com/shortcuts/cfb96a3af9414087aee7f056eda8d12c) - 2.05.24
 - [My personal action button v.1](https://www.icloud.com/shortcuts/bf8bb92c6b1c47f78382ecc21956ba8c) - 28.02.24
 
@@ -20,6 +21,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 ## [Add task to Nozbe](/nozbe-add)
 
+- [New To Do](https://www.icloud.com/shortcuts/1287fff8c121451db73d1215cadfe32a) - the latest Shortcut for Nozbe with multi-line support and adding several tasks at once! - 05.24
 - [To Do Nozbe](https://www.icloud.com/shortcuts/9e8eb326b6e1400e991f98834880184a) - 27.11.23
 
 ## Notes for [Apple Watch](/applewatch)
@@ -84,7 +86,7 @@ Previous version:
 
 My clipboard manager:
 
-- [Clippy beta 3](https://www.icloud.com/shortcuts/27f5219f450f462f833f90d723f29247) - pre-release version I'm using every day. Works great with lots of new [Clippy Actions](https://www.icloud.com/shortcuts/7c2b2c6e32bd441798aece78ef5debcd) with added support for all I need - 18.07.24
+- [Clippy beta 3](https://www.icloud.com/shortcuts/25bac00d2cdb4225ae9814f7151d6f59) - pre-release version I'm using every day. Works great with lots of new [Clippy Actions](https://www.icloud.com/shortcuts/7c2b2c6e32bd441798aece78ef5debcd) with added support for all I need - 18.07.24
 - [Clippy beta 2](https://www.icloud.com/shortcuts/d87b7a0a3a8743b6adedb96b82e4e416) - almost production ready with full support of [Clippy Actions beta](https://www.icloud.com/shortcuts/a3b8fab527004343ac13936ba1695739) with all the basic extensions set up, including Nozbe task add - 15.07.24
 - [Clippy beta 1](https://www.icloud.com/shortcuts/3a9337d207b6462a8ea08009c17d9e01) - rewritten from ground up - mixing 1.3 ideas and simplifying 2.0 concepts. Launches in 1-2 seconds and has all the basic options from Clipboard 1.3. Before extensions. - 07.24
 - [Clipboard 2.0 beta 3](https://www.icloud.com/shortcuts/4746052ec6454ba492ffb05a2fe6814a) - the one I'm using now with all the features I need BUT I don't like its performance or the lack of it. Launches in 4-5 seconds. [ClipActions beta 3](https://www.icloud.com/shortcuts/ff39311cdd744273a6522506345fc2f2) - 07.24
@@ -103,3 +105,4 @@ My clipboard manager:
 - [Templates](https://www.icloud.com/shortcuts/eac30c7437264d54958326df32927e19) - templates v1 - so I can store templates of things I do regularly on the iPad or iPhone - 10.07.24
 - [Ryanair](https://www.icloud.com/shortcuts/77fe11f529f540cbbbff6c9d89d140b5) - parsing "Ryanair Travel Itinerary" emails and adding an event to calendar - 17.07.24
 - [Vueling](https://www.icloud.com/shortcuts/74fbdd48d75145c194093b2d7f0397e7) - parsing "Your booking confirmation" emails from Vueling and adding them to the calendar - 17.07.24
+- [Templates](https://www.icloud.com/shortcuts/a770d39a3d2241b6b5f86e564fcee7c1) - my quick shortcut to create templates for tasks in Nozbe or other things - 18.07.24
