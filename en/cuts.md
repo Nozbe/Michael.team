@@ -84,8 +84,11 @@ Previous version:
 
 My clipboard manager:
 
-- [Clipboard 2.0 beta 3](https://www.icloud.com/shortcuts/4746052ec6454ba492ffb05a2fe6814a) - the one I'm using now with all the features I need BUT not with the performance. [ClipActions beta 3](https://www.icloud.com/shortcuts/ff39311cdd744273a6522506345fc2f2)
-- [Clipboard 2.0 beta 2](https://www.icloud.com/shortcuts/cc7408a0324f4b95bf2b783e638ad4d3) - with self-healing mechanism of adding titles. But in the end it was buggy, complicated and wasn't worth it.
+- [Clippy beta 3](https://www.icloud.com/shortcuts/27f5219f450f462f833f90d723f29247) - pre-release version I'm using every day. Works great with lots of new [Clippy Actions](https://www.icloud.com/shortcuts/7c2b2c6e32bd441798aece78ef5debcd) with added support for all I need - 18.07.24
+- [Clippy beta 2](https://www.icloud.com/shortcuts/d87b7a0a3a8743b6adedb96b82e4e416) - almost production ready with full support of [Clippy Actions beta](https://www.icloud.com/shortcuts/a3b8fab527004343ac13936ba1695739) with all the basic extensions set up, including Nozbe task add - 15.07.24
+- [Clippy beta 1](https://www.icloud.com/shortcuts/3a9337d207b6462a8ea08009c17d9e01) - rewritten from ground up - mixing 1.3 ideas and simplifying 2.0 concepts. Launches in 1-2 seconds and has all the basic options from Clipboard 1.3. Before extensions. - 07.24
+- [Clipboard 2.0 beta 3](https://www.icloud.com/shortcuts/4746052ec6454ba492ffb05a2fe6814a) - the one I'm using now with all the features I need BUT I don't like its performance or the lack of it. Launches in 4-5 seconds. [ClipActions beta 3](https://www.icloud.com/shortcuts/ff39311cdd744273a6522506345fc2f2) - 07.24
+- [Clipboard 2.0 beta 2](https://www.icloud.com/shortcuts/cc7408a0324f4b95bf2b783e638ad4d3) - with self-healing mechanism of adding titles. But in the end it was buggy, complicated and wasn't worth it. - 06.24
 - [Clipboard 2.0 beta](https://www.icloud.com/shortcuts/50f500e7fbbb4ace9022af0a47b09c1c) - major rewrite taking what I've learned from the original and from alpha. I'm testing this version right now, together with [ClipActions beta](https://www.icloud.com/shortcuts/992f1f58281d442cbbda3e20b92d51a9). - 06.24
 - [Clipboard 2.0 alpha](https://www.icloud.com/shortcuts/563c6a7352bf46bd81d7ca6b95e1b6e7) - unsuccessful version 2.0 with cool menu support and reverse chronology and FUNCTION support. Too overengineered but I'm keeping it here as a reference. - 05.24
 - [Clipboard 1.3](https://www.icloud.com/shortcuts/d0537039f6bd4a0d97ae4b5cc37af8d8) - Share Sheet fix - last major version before the 2.0 rewrite - 03.06.24
@@ -98,3 +101,5 @@ My clipboard manager:
 
 - [Function Test](https://www.icloud.com/shortcuts/fce5d8926ff74678b670042623108e0d) - testing functions - how you can ask for the same shortcut with different params - 05.24
 - [Templates](https://www.icloud.com/shortcuts/eac30c7437264d54958326df32927e19) - templates v1 - so I can store templates of things I do regularly on the iPad or iPhone - 10.07.24
+- [Ryanair](https://www.icloud.com/shortcuts/77fe11f529f540cbbbff6c9d89d140b5) - parsing "Ryanair Travel Itinerary" emails and adding an event to calendar - 17.07.24
+- [Vueling](https://www.icloud.com/shortcuts/74fbdd48d75145c194093b2d7f0397e7) - parsing "Your booking confirmation" emails from Vueling and adding them to the calendar - 17.07.24
