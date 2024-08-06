@@ -11,6 +11,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 - [Action button template](https://www.icloud.com/shortcuts/697fc874b91a42a7902e525e7273e984)
 - [Akcja 🇵🇱](https://www.icloud.com/shortcuts/116534d8a03b4aa59990916372c93198) - [announcement in Polish](/pl/action/)
+- [My action button with Clippy and new WatchNotes](https://www.icloud.com/shortcuts/ba4515334da04bf2b09b09ccff434a9e) - 06.08.24
 - [My action button with Clippy beta and Templates](https://www.icloud.com/shortcuts/4c4f364c91d5410abba29121bac26340) - 18.07.24
 - [My action button after Clipboard added](https://www.icloud.com/shortcuts/cfb96a3af9414087aee7f056eda8d12c) - 2.05.24
 - [My personal action button v.1](https://www.icloud.com/shortcuts/bf8bb92c6b1c47f78382ecc21956ba8c) - 28.02.24
@@ -26,6 +27,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 ## Notes for [Apple Watch](/applewatch)
 
+- [WatchNotes 2.0](https://www.icloud.com/shortcuts/7be32e54a3d242c18f629e4ae4cdd9a5) with sorting, improved menu with copy to clipboard, combining both WatchNotes and WatchNote essentially. - 06.08.24
 - [WatchNote](https://www.icloud.com/shortcuts/b075cee4a0a54e61bc3758b3c88f2e0c) - [How I add a simple note to the Apple Watch](/watchnote/) - 07.12.23
 - [WatchNotes](https://www.icloud.com/shortcuts/78a978eb72b747ca902be2326b7362bb) - [Advanced note taking with multiple notes on the Apple Watch](/watchnotes/) - 27.02.24
 - [SMSNote](https://www.icloud.com/shortcuts/65685f0a9c6e466a83eada7303b2b6fd) - [Sending short messages to yourself as a substitute for note taking](/smsnote/)
@@ -102,7 +104,6 @@ My clipboard manager:
 ## Other Shortcuts
 
 - [Function Test](https://www.icloud.com/shortcuts/fce5d8926ff74678b670042623108e0d) - testing functions - how you can ask for the same shortcut with different params - 05.24
-- [Templates](https://www.icloud.com/shortcuts/eac30c7437264d54958326df32927e19) - templates v1 - so I can store templates of things I do regularly on the iPad or iPhone - 10.07.24
 - [Ryanair](https://www.icloud.com/shortcuts/77fe11f529f540cbbbff6c9d89d140b5) - parsing "Ryanair Travel Itinerary" emails and adding an event to calendar - 17.07.24
 - [Vueling](https://www.icloud.com/shortcuts/74fbdd48d75145c194093b2d7f0397e7) - parsing "Your booking confirmation" emails from Vueling and adding them to the calendar - 17.07.24
 - [Templates](https://www.icloud.com/shortcuts/a770d39a3d2241b6b5f86e564fcee7c1) - my quick shortcut to create templates for tasks in Nozbe or other things - 18.07.24
