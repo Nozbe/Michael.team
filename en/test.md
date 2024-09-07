@@ -31,6 +31,26 @@ Require valid-user
 </FilesMatch>
 {% endhighlight %}
 
+OR
+
+{% highlight shell %}
+yt-dlp -f mp4 "https://www.youtube.com/watch?v=IvTR6LcjazU" -o "Nozbe-5min.mp4"
+{% endhighlight %}
+
+OR
+
+> yt-dlp -f mp4 "https://www.youtube.com/watch?v=IvTR6LcjazU" -o "Nozbe-5min.mp4"
+
+OR
+
+`yt-dlp -f mp4 "https://www.youtube.com/watch?v=IvTR6LcjazU" -o "Nozbe-5min.mp4"`
+
+OR
+
+```
+yt-dlp -f mp4 "https://www.youtube.com/watch?v=IvTR6LcjazU" -o "Nozbe-5min.mp4"
+```
+
 ## Quote
 
 > I've seen dark before, but not like this\\

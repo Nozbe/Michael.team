@@ -44,7 +44,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 ## Social Media
 
-- [Play YouTube](https://www.icloud.com/shortcuts/88e084222ac440cc8b40cd7aa101aea8) - [my YouTube player](/yt/)
+- [Play YouTube](https://www.icloud.com/shortcuts/56ebe64991fc441ea1bf0d4b52eaa2dd) in my [web YouTube player](/yt/) - version 2.0 simplified - 07.09.24
 - [Post Mastodon Text](https://www.icloud.com/shortcuts/50588896a82442b48c062182d9bc352f) - requires: `write:statuses` - I use it to post text-only Toots with Thread Master (below)
 - [Toot (with image)](https://www.icloud.com/shortcuts/eaaf8065a44149548103d8c24fb22dca) - requires: `write:media write:statuses` - I can even Toot from my watch!
 - [Thread Master](https://www.icloud.com/shortcuts/ce691c0d758f48f3aceefbbb526c250b) - my way of posting Threads on Twitter/X (via Typefully), LinkedIn or Mastodon. Or e-mail Newsletters.

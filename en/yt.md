@@ -17,7 +17,7 @@ To watch any video, paste a YouTube link. Works with *youtube.com, m.youtube.com
 
 ## Share any YouTube video on iOS easily
 
-**[Get the "Cookie-free YouTube" Shortcut for iOS][shortcut]**
+**[Get the "Cookie-free YouTube" Shortcut for iOS][s]**
 
 This iOS/Mac Shortcut helps you to "share" any YouTube link to this page.
 
@@ -46,10 +46,11 @@ I hope Google will not sue me for ordering a similar domain. It's for a good cau
 
 I created this because the experience of watching video on YouTube got worse. They show pop-ups, they track you and they tempt you to bindge-watch by suggesting lots of videos on the side.
 
-This page solves most of these problems. It lets you embed *any YouTube video* (that has not been disabled for embedding) and watch it without being tracked (it uses the `nocookie` parameter), with full screen and picture-in-picture support on iPads. As a bonus, it somehow skips most YouTube ads.
+This page solves most of these problems. It lets you embed *any YouTube video* (that has not been disabled for embedding) and watch it without being tracked (it uses the `nocookie` parameter), with full screen and picture-in-picture support on iPads. As a bonus, it somehow skips most YouTube ads, even though it wasn't the main point of it.
 
 **[Read more about this page and share with your friends! Thanks!][blog]**
 
 [blog]: https://michael.team/youtube/
+[s]: https://www.icloud.com/shortcuts/56ebe64991fc441ea1bf0d4b52eaa2dd
 [shortcut]: https://www.icloud.com/shortcuts/1b20e7375c9f4a17b418f75736da46a1
 [shortcutx]: https://www.icloud.com/shortcuts/a45cec1e83944253b6c0bd3cb2915bc4
