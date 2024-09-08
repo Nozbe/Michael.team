@@ -92,7 +92,6 @@
 		<div class="topright">{% for item in site.data.main.nav %}&nbsp;<a href="{{ site.url }}{{ item.url }}"{% if item.url == '/' %}{% if page.lang=='en' %} class="bold"{% endif %}{% else %}{% capture navlang %}/{{ page.lang }}/{% endcapture %}{% if item.url contains navlang %} class="bold"{% endif %}{% endif %}>{{ item.title }}</a>{% endfor %}
 		</div>
 		{{ site.data.main.[pagedescr] | markdownify | remove: '</p>' }}
-		{% capture pagemenumore %}menumore{{ langvar }}{% endcapture %}
 	</div>
 </div>
 

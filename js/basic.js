@@ -5,7 +5,8 @@
 
 //opens the extra menu in the header with the focus set on the search box
 function getSearch () {
-	document.querySelector('#searchfield').style.display = 'block';
+	document.querySelector('#search-link').style.display = 'none';
+	document.querySelector('#search-thing').style.display = 'inline';
 	document.querySelector('#search-menu').style.display = 'inline';
 	document.querySelector('#search-input').focus();
 }
