@@ -93,11 +93,10 @@
 		</div>
 		{{ site.data.main.[pagedescr] | markdownify | remove: '</p>' }}
 		{% capture pagemenumore %}menumore{{ langvar }}{% endcapture %}
-		<a href="javascript:getSearch();">{{ site.data.main.[pagemenumore] }}</a></p>
 	</div>
 </div>
 
-<div id="searchfield" class="begend" style="display: none;">
+<div id="searchfield" class="begend">
 	<div class="begender center">{% include search.html %}</div>
 </div>
 
