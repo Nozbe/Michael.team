@@ -1,7 +1,8 @@
 {% include lang.html %}
 {% capture searchbox %}searchbox{{ langvar }}{% endcapture %}
 {% capture searchbox_no %}searchbox{{ langvar }}_no{% endcapture %}
-<div id="search-container">{% for item in site.data.main.[pagemenu] %}{{ searchseparator }}<a href="{{ site.url }}{{ item.url }}"{% if item.url == page.url %} class="bold"{% endif %}>{{ item.title }}</a>{% assign searchseparator = " | " %}{% endfor %} &nbsp; <input type="text" id="search-input" placeholder="{{ site.data.main.[searchbox] }}">{% capture pagemenu %}menu{{ langvar }}{% endcapture %}<div id="search-menu" style="display:none;"></div>
+{% capture pagemenu %}menu{{ langvar }}{% endcapture %}
+<div id="search-container">{% for item in site.data.main.[pagemenu] %}{{ searchseparator }}<a href="{{ site.url }}{{ item.url }}"{% if item.url == page.url %} class="bold"{% endif %}>{{ item.title }}</a>{% assign searchseparator = " | " %}{% endfor %} &nbsp; <input type="text" id="search-input" placeholder="{{ site.data.main.[searchbox] }}"><div id="search-menu" style="display:none;"></div>
 	<ul id="search-results"></ul>
 </div>
 
