@@ -27,6 +27,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 ## Notes for [Apple Watch](/applewatch)
 
+- [Watchnotes 2.1](https://www.icloud.com/shortcuts/fc7ab4aa9329407bb625869c8bad4aa7) - adding option for opening or even editing particular note - 08.09.24
 - [WatchNotes 2.0](https://www.icloud.com/shortcuts/7be32e54a3d242c18f629e4ae4cdd9a5) with sorting, improved menu with copy to clipboard, combining both WatchNotes and WatchNote essentially. - 06.08.24
 - [WatchNote](https://www.icloud.com/shortcuts/b075cee4a0a54e61bc3758b3c88f2e0c) - [How I add a simple note to the Apple Watch](/watchnote/) - 07.12.23
 - [WatchNotes](https://www.icloud.com/shortcuts/78a978eb72b747ca902be2326b7362bb) - [Advanced note taking with multiple notes on the Apple Watch](/watchnotes/) - 27.02.24
@@ -88,6 +89,12 @@ Previous version:
 
 My clipboard manager:
 
+- [Clippy RC](https://www.icloud.com/shortcuts/47afd5ba8b5b4f85a92d8e35fac8f3c8) - release candidate of Clippy after months of using it. - 08.09.24
+- [Clippy Actions - mine](https://www.icloud.com/shortcuts/0037ffb087ac4ba09ff42468a3c90ac2) - my Clippy Actions with custom stuff for me like Ryanair, Vueling, etc. - 08.09.24
+- [Clippy Actions - release version](https://www.icloud.com/shortcuts/e4bc379cb8484fd7ad90684f3c7cc84d) - just with some basic actions to show how it works - 08.09.24
+
+Previous versions:
+
 - [Clippy beta 3](https://www.icloud.com/shortcuts/25bac00d2cdb4225ae9814f7151d6f59) - pre-release version I'm using every day. Works great with lots of new [Clippy Actions](https://www.icloud.com/shortcuts/7c2b2c6e32bd441798aece78ef5debcd) with added support for all I need - 18.07.24
 - [Clippy beta 2](https://www.icloud.com/shortcuts/d87b7a0a3a8743b6adedb96b82e4e416) - almost production ready with full support of [Clippy Actions beta](https://www.icloud.com/shortcuts/a3b8fab527004343ac13936ba1695739) with all the basic extensions set up, including Nozbe task add - 15.07.24
 - [Clippy beta 1](https://www.icloud.com/shortcuts/3a9337d207b6462a8ea08009c17d9e01) - rewritten from ground up - mixing 1.3 ideas and simplifying 2.0 concepts. Launches in 1-2 seconds and has all the basic options from Clipboard 1.3. Before extensions. - 07.24
@@ -107,3 +114,4 @@ My clipboard manager:
 - [Ryanair](https://www.icloud.com/shortcuts/77fe11f529f540cbbbff6c9d89d140b5) - parsing "Ryanair Travel Itinerary" emails and adding an event to calendar - 17.07.24
 - [Vueling](https://www.icloud.com/shortcuts/74fbdd48d75145c194093b2d7f0397e7) - parsing "Your booking confirmation" emails from Vueling and adding them to the calendar - 17.07.24
 - [Templates](https://www.icloud.com/shortcuts/a770d39a3d2241b6b5f86e564fcee7c1) - my quick shortcut to create templates for tasks in Nozbe or other things - 18.07.24
+- [IMDB Rating](https://www.icloud.com/shortcuts/f6c15fca5df54de49654dd2342107294) - based on the IMDB trivia page shows IMDB rating - 08.09.24
