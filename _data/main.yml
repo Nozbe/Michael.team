@@ -224,7 +224,7 @@ tags:
 - name: noofficefm
   emoj: "🎙"
   titl: "No Office FM"
-  tit2: "New bi-weekly podcast related to my [#NoOffice book](https://nooffice.org/){:target='_blank'}. I'm recording it with Rafal, the VP of Product at [Nozbe](https://michael.gratis/nozbe){:target='_blank'}. Visit [the official web site](https://nooffice.fm/){:target='_blank'} or **[Subscribe](https://podcasts.apple.com/podcast/no-office/id1527466890){:target='_blank'}**."
+  tit2: "New bi-weekly podcast related to my [#NoOffice book](https://nooffice.org/){:target='_blank'} and [Nozbe](https://michael.gratis/nozbe){:target='_blank'}. Visit [the official web site](https://nooffice.fm/){:target='_blank'} or **[Subscribe](https://podcasts.apple.com/podcast/no-office/id1527466890){:target='_blank'}**."
 - name: nozbe
   emoj: "✅"
   titl: "Nozbe"
@@ -319,7 +319,7 @@ tags_pl:
 - name: niemabiura
   emoj: "🎙"
   titl: "Nie Ma Biura"
-  tit2: "Wszystkie odcinki podacastu o pracy zdalnej, który nagrywam co dwa tygodnie z Rafałem, szefem produktu [Nozbe](https://michael.gratis/nozbe_pl){:target='_blank'}. Zobacz [oficjalną stronę podcastu](https://niemabiura.pl/){:target='_blank'} albo od razu **[zasubskrybuj](https://podcasts.apple.com/pl/podcast/nie-ma-biura/id1526795631){:target='_blank'}**."
+  tit2: "Wszystkie odcinki podacastu o pracy zdalnej, który nagrywam co dwa tygodnie komentując jak pracujemy w i z [Nozbe](https://michael.gratis/nozbe_pl){:target='_blank'}. Zobacz [oficjalną stronę podcastu](https://niemabiura.pl/){:target='_blank'} albo od razu **[zasubskrybuj](https://podcasts.apple.com/pl/podcast/nie-ma-biura/id1526795631){:target='_blank'}**."
 - name: produktywnosc
   emoj: "☑️"
   titl: "Produktywność"

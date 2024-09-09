@@ -36,8 +36,9 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 ## [Blogging and Social Media](/blogging/)
 
 - [JPG/PNG Images](https://www.icloud.com/shortcuts/9696f209e4384c0a9fb2f95b920f17d7) - my internal way to compress images using Tinify and putting the stuff in my Repos and posting on Mastodon.
-- [Michael.team post](https://www.icloud.com/shortcuts/a5d0d0ecdcfb45e783b8f2356c5192a9) - conversion of text from raw text to a blog post
-- [Check name on Michael.team](https://www.icloud.com/shortcuts/380a8d8dfb64400980e206f5f6ba894e) - check if certain post name already exists (required by above Shortcut)
+- [PNG/JPG Images](https://www.icloud.com/shortcuts/49ee1aa8af6c4a27a63df4cbe3fa58cf) - version without Tinify, just with 0.5 JPG compression, when Tinify failed me - 09.09.24
+- [Michael.team post](https://www.icloud.com/shortcuts/22475550ff894df6a1eafa1df92c54a0) - conversion of text from raw text to a blog post - updated on 09.09.24
+- [Check name on Michael.team](https://www.icloud.com/shortcuts/4d591ebb44cc4975bb325a6de917b752) - check if certain post name already exists (required by above Shortcut) - updated after bug ":" discovered - 09.09.24
 - [Blog Templating](https://www.icloud.com/shortcuts/710826c52f044d2da3138ea53115e6c2) - posting a blog from a template, especially useful for guest posts or podcast posts (very specific to my blog!)
 - [Quick Blog](https://www.icloud.com/shortcuts/08b7905810e94c7c80440171289898a8) - a way to post quickly something - like a Toot but directly on my blog!
 - [🔗 Link To Markdown](https://www.icloud.com/shortcuts/4a7ee7378c664ad58f0f265ce59d9011) - copies link to Markdown format and in case of YouTube - adds embed (normal and shorts) - 15.05.24
