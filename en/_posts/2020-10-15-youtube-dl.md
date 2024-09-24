@@ -5,7 +5,7 @@ cover: "youtube-dl.jpg"
 
 # How to download video and audio from YouTube using youtube-dl on the iPad
 
-My iPad Pro has 256GB of storage and I usually use only half of it. Recently I started downloading more stuff to take advantage of that storage and be able to watch things later when the Internet connection is flaky. I download Netflix or Prime Video movies or shows, some of my purchased iTunes content... and most recently I started downloading YouTube videos thanks to a brilliant `youtube-dl` script and a cool shell-like iPad app. Here's how I do it.
+[**Update September 24, 2024**: This post has been updated](/ytd) and this old post is no longer relevant: My iPad Pro has 256GB of storage and I usually use only half of it. Recently I started downloading more stuff to take advantage of that storage and be able to watch things later when the Internet connection is flaky. I download Netflix or Prime Video movies or shows, some of my purchased iTunes content... and most recently I started downloading YouTube videos thanks to a brilliant `youtube-dl` script and a cool shell-like iPad app. Here's how I do it. [Again, update, now it's yt-dlp and here are new instructions.](/ytd)
 
 <!--More-->
 

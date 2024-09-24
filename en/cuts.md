@@ -116,3 +116,4 @@ Previous versions:
 - [Vueling](https://www.icloud.com/shortcuts/74fbdd48d75145c194093b2d7f0397e7) - parsing "Your booking confirmation" emails from Vueling and adding them to the calendar - 17.07.24
 - [Templates](https://www.icloud.com/shortcuts/a770d39a3d2241b6b5f86e564fcee7c1) - my quick shortcut to create templates for tasks in Nozbe or other things - 18.07.24
 - [IMDB Rating](https://www.icloud.com/shortcuts/f6c15fca5df54de49654dd2342107294) - based on the IMDB trivia page shows IMDB rating - 08.09.24
+- [YouTube Download](https://www.icloud.com/shortcuts/2deca4dcb2d94e7e83eab56a340cac08) - [YouTube TLD download](/ytd) or how I download video or audio versions of videos - 24.09.24
