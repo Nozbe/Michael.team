@@ -2,6 +2,7 @@
 tags: [iphone,applewatch,featured]
 cover: "iphone15ultra.jpg"
 social: "iphone15ultra.jpg"
+m: https://social.nozbe.com/@michael/113192929475759099
 ---
 
 # Year later - iPhone 15 Pro and Apple Watch Ultra 2
