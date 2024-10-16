@@ -1,6 +1,7 @@
 ---
 tags: [applewatch]
 cover: "summerface.jpg"
+m: https://social.nozbe.com/@michael/113312099251194427
 ---
 
 # Apple Watch face for the Summer and weekends

@@ -22,8 +22,9 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 ## [Add task to Nozbe](/nozbe-add)
 
-- [New To Do](https://www.icloud.com/shortcuts/1287fff8c121451db73d1215cadfe32a) - the latest Shortcut for Nozbe with multi-line support and adding several tasks at once! - 05.24
-- [To Do Nozbe](https://www.icloud.com/shortcuts/9e8eb326b6e1400e991f98834880184a) - 27.11.23
+- [New To Do](https://www.icloud.com/shortcuts/97cf4b78a7e54cc5ac1e7bebdcd3b151) - updated for iOS18 - 16.10.24
+- [Nowe Zadanie](https://www.icloud.com/shortcuts/28a3043fc0be4390b150334ffce50daf) - as above, but in Polish - 16.10.24
+- [To Do Nozbe](https://www.icloud.com/shortcuts/9e8eb326b6e1400e991f98834880184a) - old Nozbe shortcut - 27.11.23
 
 ## Notes for [Apple Watch](/applewatch)
 
@@ -111,6 +112,7 @@ Previous versions:
 
 ## Other Shortcuts
 
+- [Test - Blanks or Not](https://www.icloud.com/shortcuts/c6e74555225b41f099ef21bd4f62af21) - testing [blanks on iOS18 and beyond](/blanks) - 16.10.24
 - [Function Test](https://www.icloud.com/shortcuts/fce5d8926ff74678b670042623108e0d) - testing functions - how you can ask for the same shortcut with different params - 05.24
 - [Ryanair](https://www.icloud.com/shortcuts/77fe11f529f540cbbbff6c9d89d140b5) - parsing "Ryanair Travel Itinerary" emails and adding an event to calendar - 17.07.24
 - [Vueling](https://www.icloud.com/shortcuts/74fbdd48d75145c194093b2d7f0397e7) - parsing "Your booking confirmation" emails from Vueling and adding them to the calendar - 17.07.24

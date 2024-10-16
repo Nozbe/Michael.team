@@ -3,6 +3,7 @@ tags: [news,productivity]
 cover: "news-habits.jpg"
 t: https://x.com/MSliwinski/status/1843992060011143572
 l: https://www.linkedin.com/pulse/7-reasons-why-good-habits-important-michael-sliwinski-xltyf
+m: https://social.nozbe.com/@michael/113311912034313495
 ---
 
 # 7 reasons why good habits are important
