@@ -38,7 +38,7 @@ Korzystaj ze specjalnych aplikacji do komunikacji z przejrzystą strukturą: PRO
 
 W ciągu niecałej godziny omawiamy metody na skuteczną komunikację poprzez zadania, uwzględniając pułapki, strategie i praktyczne wskazówki:
 
-[🔗➡️](niemabiura.pl/62)
+[🔗 Nie Ma Biura 62 ➡️](/pl/niemabiura-62/)
 
 [n]: https://michael.gratis/nozbe_pl
 [np]: https://michael.gratis/nozbepersonal_pl

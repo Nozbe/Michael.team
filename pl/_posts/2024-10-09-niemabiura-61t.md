@@ -42,7 +42,7 @@ W przeciwieństwie do krótkoterminowych wysiłków, które szybko porzucasz, na
 
 Jak budować i trzymać się nawyków, nawet przy napiętym harmonogramie. Jak tworzyć je w oparciu o zasadę: wyzwalacz, rutyna i nagroda, o tym dowiesz się w najnowszym odcinku:
 
-[🔗➡️](NieMaBiura.pl/61)
+[🔗 Nie Ma Biura 61 ➡️](/pl/niemabiura-61/)
 
 
 [n]: https://michael.gratis/nozbe_pl

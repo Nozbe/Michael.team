@@ -35,7 +35,7 @@ W Nozbe każdy projekt, sekcja i zadanie ma odrębny adres email! Automatycznie 
 
 W zeszłym tygodniu podzieliłem się wszystkimi moimi doświadczeniam i wskazówkami dotyczącymi e-maili w 59 odcinku w nowym sezonie podcastu Nie Ma Biura. Zobacz:
 
-[🔗➡️](niemabiura.pl/59)
+[🔗 Nie Ma Biura 59 ➡️](/pl/niemabiura-59/)
 
 [n]: https://michael.gratis/nozbe_pl
 [np]: https://michael.gratis/nozbepersonal_pl

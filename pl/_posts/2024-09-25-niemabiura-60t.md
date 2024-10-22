@@ -34,7 +34,7 @@ Podstawowa struktura projekty > zadania > komentarze jest świetna, ale dzięki 
 
 W najnowszym odcinku podcastu #NieMaBiura dowiesz się wszystkiego na ten temat dzięki praktycznym przykładom pochodzącym od tysięcy produktywnych klientów Nozbe:
 
-[🔗➡️](NieMaBiura.pl/60)
+[🔗 Nie Ma Biura 60 ➡️](/pl/niemabiura-60/)
 
 [n]: https://michael.gratis/nozbe_pl
 [np]: https://michael.gratis/nozbepersonal_pl
