@@ -1,6 +1,6 @@
 ---
 tags: [news,productivity]
-cover: "news-habits.jpg"
+img: "noofficefm-51t.jpg"
 t: https://x.com/MSliwinski/status/1843992060011143572
 l: https://www.linkedin.com/pulse/7-reasons-why-good-habits-important-michael-sliwinski-xltyf
 m: https://social.nozbe.com/@michael/113311912034313495
@@ -11,7 +11,7 @@ m: https://social.nozbe.com/@michael/113311912034313495
 Creating and maintaining good habits helps you simplify decision-making, conserve mental energy and leads to long-term success. Here are 7️⃣ reasons why it's good for you:
 <!--More-->
 
-![{{ page.title }}](/img/{{ page.cover }})
+![{{ page.title }}](/img/{{ page.img }})
 
 > **Note:** this is a transcript of the email Newsletter I sent to my 1500+ subscribers a while back. If you want to be one of them, [sign up for my free Newsletter. You can unsubscribe anytime!](https://michael.gratis/n){:target='_blank'} or if you use [LinkedIn, you can subscribe there, too!](https://michael.gratis/inn){:target='_blank'}
 
