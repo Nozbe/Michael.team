@@ -2,6 +2,7 @@
 tags: [vlog]
 cover: "notebooklm.jpg"
 social: "notebooklm.jpg"
+podcast: 1538743591
 ---
 
 # Team Productivity Podcast re-started with NotebookLM!
