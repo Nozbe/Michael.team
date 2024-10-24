@@ -14,6 +14,7 @@ m: https://social.nozbe.com/@michael/113362192523169567
 ![{{ page.title }}](/img/{{ page.img }})
 
 > **Note:** this is a transcript of the email Newsletter I sent to my 1500+ subscribers a while back. If you want to be one of them, [sign up for my free Newsletter. You can unsubscribe anytime!](https://michael.gratis/n){:target='_blank'} or if you use [LinkedIn, you can subscribe there, too!](https://michael.gratis/inn){:target='_blank'}
+
 ## 1️⃣ Clarify Expectations 🎯
 
 When you create a task for someone, don't just write an outcome you want, but add a clear expected deadline, explain your priority level and just take your time to set expectations correctly.
