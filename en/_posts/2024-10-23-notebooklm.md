@@ -3,6 +3,7 @@ tags: [vlog]
 cover: "notebooklm.jpg"
 social: "notebooklm.jpg"
 podcast: 1538743591
+m: https://social.nozbe.com/@michael/113356163032699976
 ---
 
 # Team Productivity Podcast re-started with NotebookLM!

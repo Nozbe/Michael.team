@@ -2,6 +2,8 @@
 tags: [news]
 img: "noofficefm-51t.jpg"
 l: https://www.linkedin.com/pulse/why-task-based-communication-rocks-michael-sliwinski-d8axf
+t: https://x.com/MSliwinski/status/1849414355835846987
+m: https://social.nozbe.com/@michael/113362192523169567
 ---
 
 # Why Task-Based Communication rocks? 🎸✅
