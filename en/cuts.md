@@ -50,6 +50,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 - [Play YouTube](https://www.icloud.com/shortcuts/56ebe64991fc441ea1bf0d4b52eaa2dd) in my [web YouTube player](/yt/) - version 2.0 simplified - 07.09.24
 - [Post Mastodon Text](https://www.icloud.com/shortcuts/50588896a82442b48c062182d9bc352f) - requires: `write:statuses` - I use it to post text-only Toots with Thread Master (below)
 - [Toot (with image)](https://www.icloud.com/shortcuts/eaaf8065a44149548103d8c24fb22dca) - requires: `write:media write:statuses` - I can even Toot from my watch!
+- [Thread Master 2.0](https://www.icloud.com/shortcuts/9757263f7e1245f1a9a9f6c58120faf7) - updated to iOS18 and supports Keynoter files - 7.11.24
 - [Thread Master](https://www.icloud.com/shortcuts/ce691c0d758f48f3aceefbbb526c250b) - my way of posting Threads on Twitter/X (via Typefully), LinkedIn or Mastodon. Or e-mail Newsletters.
 
 ## [Journaling](/journal/)
@@ -79,11 +80,13 @@ Previous versions of my Journaling Shortcut:
 
 My un-published simpler version of iA Presenter as a Shortcut to create presentations from Markdown files:
 
-- [Keynoter 1.0](https://www.icloud.com/shortcuts/c3c17a7e771d4c3890cff2b76945a5cd) - 1.03.24
-- [Keynoter Slide 1.0](https://www.icloud.com/shortcuts/a6889f763dfd4ab585be242c4e253632) - 1.03.24
+- [Keynoter 1.1](https://www.icloud.com/shortcuts/a85fbaad40884fafbb2fe1c23ef0bd05) - fixed for iOS18 and added shortcut input - 7.11.24
+- [Keynoter Slide 1.1](https://www.icloud.com/shortcuts/443a771bdfc44e7697e71d176462b68d) - updated to iOS18 - 7.11.24
 
 Previous version:
 
+- [Keynoter 1.0](https://www.icloud.com/shortcuts/c3c17a7e771d4c3890cff2b76945a5cd) - 1.03.24
+- [Keynoter Slide 1.0](https://www.icloud.com/shortcuts/a6889f763dfd4ab585be242c4e253632) - 1.03.24
 - [Keynoter](https://www.icloud.com/shortcuts/f4ac0b053ac6479a9f3aa54f9b9fd29a) - main Shortcut - 1.02.24
 - [Keynoter Slide](https://www.icloud.com/shortcuts/9db0fa76294541b0ac1623e8efceaca2) - slide-crunching Shortcut for Keynoter - 1.02.24
 
