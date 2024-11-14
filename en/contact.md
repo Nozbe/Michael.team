@@ -10,13 +10,22 @@ redirect_from: /Contact/
 
 ## Social media
 
-This is the fastest way to get in touch with me:
+I'm active on:
 
-* I'm starting with [Mastodon: @michael@nozbe.com](https://social.nozbe.com/@michael)
-* I'm very active on [LinkedIn](https://www.linkedin.com/in/michaelsliwinski)
-* I sometimes post a story on [Instagram](https://www.instagram.com/michaelsliwinski/)
-* I used to be active on [Twitter](https://twitter.com/MSliwinski) but [Elon Musk](/elon/) has completely ruined it.
-* I'm no longer active on [Facebook](https://www.facebook.com/michael.sliwinski) because I disagree with Mark Zuckerberg's stance on privacy and creepiness (yeah, I know Instagram is also owned by FB, so that's why I'm also not as active there as I used to be…)
+* [Mastodon: @michael@nozbe.com](https://social.nozbe.com/@michael)
+* [LinkedIn](https://www.linkedin.com/in/michaelsliwinski)
+* and [this very blog](/archive) - subscribe via [RSS](https://michael.team/atom.xml)
+
+Every 2 weeks I send out a Newsletter - subscribe to it:
+
+* via [email (Substack)](/gratis/?to=n)
+* or [LinkedIn](/gratis/?to=inn)
+
+I'm sometimes posting a story on:
+
+* [Instagram](https://www.instagram.com/michaelsliwinski/) which gets re-posted to [Facebook](https://www.facebook.com/michael.sliwinski), which I usually ignore.
+
+I **no longer** post on [Twitter](/twitter).
 
 ## [Nozbe][n] questions?
 
@@ -46,5 +55,4 @@ I do read all the email but I sometimes can take time to respond and when I do, 
 
 [n]: https://michael.gratis/nozbe
 [support]: https://nozbe.com/contact
-[tn]: https://twitter.com/nozbe
 [email]: mailto:michaels@hey.com
