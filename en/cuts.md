@@ -11,7 +11,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 - [Action button template](https://www.icloud.com/shortcuts/697fc874b91a42a7902e525e7273e984) - 31.01.24
 - [Akcja 🇵🇱](https://www.icloud.com/shortcuts/116534d8a03b4aa59990916372c93198) - [announcement in Polish](/pl/action/) - 31.01.24
-- [My action button with Clippy and new WatchNotes](https://www.icloud.com/shortcuts/07e1c495d67549d98413e2b90c007fed) - 18.11.24
+- [My action button with Clippy and new WatchNotes](https://www.icloud.com/shortcuts/85ca502fdc8a4dd4b6f5f331c183d53a) - 18.11.24
 
 ## [Dice](/dice-shortcut/)
 
@@ -126,13 +126,15 @@ Previous versions:
 
 - [Test - Blanks or Not](https://www.icloud.com/shortcuts/c6e74555225b41f099ef21bd4f62af21) - testing [blanks on iOS18 and beyond](/blanks) - 16.10.24
 - [Function Test](https://www.icloud.com/shortcuts/fce5d8926ff74678b670042623108e0d) - testing functions - how you can ask for the same shortcut with different params - 05.24
+- [Rich Text from Markdown](https://www.icloud.com/shortcuts/04fe79d8e9a74cea9448733fe0db8c4c) - hack how to use utf-8 to convert markdown to rich text properly - 18.11.24
+- [View Source](https://www.icloud.com/shortcuts/05e26e88a1b3452c8b913ec0e7569b9d) - gets source code of a web page - 18.11.24
+- [Photo info](https://www.icloud.com/shortcuts/fdc585a3e4ce4639a5bda6d70893b86f) - show real size of an image and resize if necessary - 18.11.24
 - [Templates](https://www.icloud.com/shortcuts/8a9515aef43f49d6be57578e8d6be0e8) - my quick shortcut to create templates for tasks in Nozbe or other things - 18.07.24
 - [IMDB Rating](https://www.icloud.com/shortcuts/f6c15fca5df54de49654dd2342107294) - based on the IMDB trivia page shows IMDB rating - 08.09.24
 - [YouTube Download](https://www.icloud.com/shortcuts/2deca4dcb2d94e7e83eab56a340cac08) - [YouTube TLD download](/ytd) or how I download video or audio versions of videos - 24.09.24
 - [TeleprompterText](https://www.icloud.com/shortcuts/07a8312f3f614724aba65e560b2f58c5) - strips empty lines of text and copies them to be pasted in the iPad's TeleprompterPad app - 18.11.24
-
-## Reviewed other shortcuts
-
+- [Nozbe Holidays](https://www.icloud.com/shortcuts/f42b3ef17c0b472b97851805a7ae1cd4) - Jarek's Shortcut to add holidays to Nozbe calendar - 18.11.24
+- [Amazon/Audible book](https://www.icloud.com/shortcuts/bbc7207bd2ca4ef998fbb515b9c10349) - finding a book on Amazon.com and Audible.com to recommend in my blog posts - 18.11.24
 - [Period](https://www.icloud.com/shortcuts/f1c65a28e75540f39451955f329c83f3) - 18.11.24
 - [Regexp](https://www.icloud.com/shortcuts/5b83b00665934f1abbda27c39bd4ffa8) - playground for regular expressions - 18.11.24
 
