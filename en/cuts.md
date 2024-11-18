@@ -9,12 +9,9 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 ## [Action button](/action/)
 
-- [Action button template](https://www.icloud.com/shortcuts/697fc874b91a42a7902e525e7273e984)
-- [Akcja 🇵🇱](https://www.icloud.com/shortcuts/116534d8a03b4aa59990916372c93198) - [announcement in Polish](/pl/action/)
-- [My action button with Clippy and new WatchNotes](https://www.icloud.com/shortcuts/ba4515334da04bf2b09b09ccff434a9e) - 06.08.24
-- [My action button with Clippy beta and Templates](https://www.icloud.com/shortcuts/4c4f364c91d5410abba29121bac26340) - 18.07.24
-- [My action button after Clipboard added](https://www.icloud.com/shortcuts/cfb96a3af9414087aee7f056eda8d12c) - 2.05.24
-- [My personal action button v.1](https://www.icloud.com/shortcuts/bf8bb92c6b1c47f78382ecc21956ba8c) - 28.02.24
+- [Action button template](https://www.icloud.com/shortcuts/697fc874b91a42a7902e525e7273e984) - 31.01.24
+- [Akcja 🇵🇱](https://www.icloud.com/shortcuts/116534d8a03b4aa59990916372c93198) - [announcement in Polish](/pl/action/) - 31.01.24
+- [My action button with Clippy and new WatchNotes](https://www.icloud.com/shortcuts/07e1c495d67549d98413e2b90c007fed) - 18.11.24
 
 ## [Dice](/dice-shortcut/)
 
@@ -22,12 +19,14 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 ## [Add task to Nozbe](/nozbe-add)
 
+- [New To Do EN/PL](https://www.icloud.com/shortcuts/6d9d69dfecca4d159d122a53b7704049) - the bilingual version of the new to do Shortcut - 18.11.24
 - [New To Do](https://www.icloud.com/shortcuts/97cf4b78a7e54cc5ac1e7bebdcd3b151) - updated for iOS18 - 16.10.24
 - [Nowe Zadanie](https://www.icloud.com/shortcuts/28a3043fc0be4390b150334ffce50daf) - as above, but in Polish - 16.10.24
 - [To Do Nozbe](https://www.icloud.com/shortcuts/9e8eb326b6e1400e991f98834880184a) - old Nozbe shortcut - 27.11.23
 
 ## Notes for [Apple Watch](/applewatch)
 
+- [Watchnotes 2.2](https://www.icloud.com/shortcuts/c51575ee09e24831b44e01c4bcf191d5) - polished version 2.1 - 18.11.24
 - [Watchnotes 2.1](https://www.icloud.com/shortcuts/fc7ab4aa9329407bb625869c8bad4aa7) - adding option for opening or even editing particular note - 08.09.24
 - [WatchNotes 2.0](https://www.icloud.com/shortcuts/7be32e54a3d242c18f629e4ae4cdd9a5) with sorting, improved menu with copy to clipboard, combining both WatchNotes and WatchNote essentially. - 06.08.24
 - [WatchNote](https://www.icloud.com/shortcuts/b075cee4a0a54e61bc3758b3c88f2e0c) - [How I add a simple note to the Apple Watch](/watchnote/) - 07.12.23
@@ -42,17 +41,19 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 - [Michael.team post](https://www.icloud.com/shortcuts/ae705fd23dfc4eba8b13f3a5ff5a341e) - conversion of text from raw text to a blog post - 13.11.24
 - [Check name on Michael.team](https://www.icloud.com/shortcuts/4d591ebb44cc4975bb325a6de917b752) - check if certain post name already exists (required by above Shortcut) - updated after bug ":" discovered - 09.09.24
 - [Blog Templating](https://www.icloud.com/shortcuts/5f7f64c9f42949daa4642dbb7b21eed2) - posting a blog from a template, especially useful for guest posts or podcast posts (very specific to my blog!) - 13.11.24
-- [Quick Blog](https://www.icloud.com/shortcuts/08b7905810e94c7c80440171289898a8) - a way to post quickly something - like a Toot but directly on my blog!
+- [Quick Blog](https://www.icloud.com/shortcuts/134b408b5a534abda9d92af667d0e61f) - a way to post quickly something - like a Toot but directly to my blog! - 18.11.24
+- [Blog Something](https://www.icloud.com/shortcuts/daecdb54b60f4b1aa9307683bbb954e0) - quickly adding a draft of a post off an idea to iA Writer - 18.11.24
 - [🔗 Link To Markdown](https://www.icloud.com/shortcuts/4a7ee7378c664ad58f0f265ce59d9011) - copies link to Markdown format and in case of YouTube - adds embed (normal and shorts) - 15.05.24
+- [YouTube Watcher](https://www.icloud.com/shortcuts/d60a182c44374c7897ccc0964b6b4769) - [Watching YouTube distraction-free](/yt) - 18.11.24
 - [Save File](https://www.icloud.com/shortcuts/63109e313f6d4986a8b6167cc5422e85) - saves a PDF in Michael.team repository or a file in iCloud or a file somewhere else.
 
 ## Social Media
 
 - [Play YouTube](https://www.icloud.com/shortcuts/56ebe64991fc441ea1bf0d4b52eaa2dd) in my [web YouTube player](/yt/) - version 2.0 simplified - 07.09.24
-- [Post Mastodon Text](https://www.icloud.com/shortcuts/50588896a82442b48c062182d9bc352f) - requires: `write:statuses` - I use it to post text-only Toots with Thread Master (below)
-- [Toot (with image)](https://www.icloud.com/shortcuts/eaaf8065a44149548103d8c24fb22dca) - requires: `write:media write:statuses` - I can even Toot from my watch!
-- [Thread Master 2.0](https://www.icloud.com/shortcuts/9757263f7e1245f1a9a9f6c58120faf7) - updated to iOS18 and supports Keynoter files - 7.11.24
-- [Thread Master](https://www.icloud.com/shortcuts/ce691c0d758f48f3aceefbbb526c250b) - my way of posting Threads on Twitter/X (via Typefully), LinkedIn or Mastodon. Or e-mail Newsletters.
+- [Toot](https://www.icloud.com/shortcuts/30ee8aadef9f42bc90bfda90bd0fe2aa) - post toots to Mastodon - both just text or also images - 18.11.24
+- [Toot Text](https://www.icloud.com/shortcuts/cc59c1bfb83f474d80465b954bf6b772) - simpler than above, used in Thread Master to post Threads to Mastodon - 18.11.24
+- [Thread Master 2.1](https://www.icloud.com/shortcuts/928e6694fa8147128f9dcbf8abe1ce91) - my way of posting Threads on Twitter/X (via Typefully), LinkedIn or Mastodon. Or e-mail Newsletters. Now also expanded to Keynoter support and Teleprompter text. Requires "Toot Text" and "Keynoter" - 18.11.24
+- [Threads](https://www.icloud.com/shortcuts/d94f2af13d544a2494002eacd3a56b3c) - "Thread Master" stripped of my custom stuff for official distribution - 18.11.24
 
 ## [Journaling](/journal/)
 
@@ -114,12 +115,30 @@ Previous versions:
 - [Clipboard 1.0](https://www.icloud.com/shortcuts/49b034b005ce432a9c40fff2bc574842) - supports 10 last rows and new menu, and mailto and web links - 2.05.24
 - [Clipboard 0.1 - proof of concept](https://www.icloud.com/shortcuts/fc33fbf9f9134ec0aa5f54839c1d8fd2) - 1.05.24
 
+## Clipboard Actions
+
+- [Ryanair](https://www.icloud.com/shortcuts/9a57cf090e2349df8e7b6767a5b79757) - getting flight details and adding them to calendar - 18.11.24
+- [Vueling](https://www.icloud.com/shortcuts/76618551b46d48bea7e8257ac9bd2afb) - as above for Vueling - 18.11.24
+- [Wizzair](https://www.icloud.com/shortcuts/29b2ae2e73a2488ab5a06cafbf5ff582) - as above but for Wizzair - 18.11.24
+- [New video blog](https://www.icloud.com/shortcuts/90a257ff0eae4c409745a796666036d1) - posting vimeo to nozbe.team blog - 18.11.24
+
 ## Other Shortcuts
 
 - [Test - Blanks or Not](https://www.icloud.com/shortcuts/c6e74555225b41f099ef21bd4f62af21) - testing [blanks on iOS18 and beyond](/blanks) - 16.10.24
 - [Function Test](https://www.icloud.com/shortcuts/fce5d8926ff74678b670042623108e0d) - testing functions - how you can ask for the same shortcut with different params - 05.24
-- [Ryanair](https://www.icloud.com/shortcuts/77fe11f529f540cbbbff6c9d89d140b5) - parsing "Ryanair Travel Itinerary" emails and adding an event to calendar - 17.07.24
-- [Vueling](https://www.icloud.com/shortcuts/74fbdd48d75145c194093b2d7f0397e7) - parsing "Your booking confirmation" emails from Vueling and adding them to the calendar - 17.07.24
-- [Templates](https://www.icloud.com/shortcuts/a770d39a3d2241b6b5f86e564fcee7c1) - my quick shortcut to create templates for tasks in Nozbe or other things - 18.07.24
+- [Templates](https://www.icloud.com/shortcuts/8a9515aef43f49d6be57578e8d6be0e8) - my quick shortcut to create templates for tasks in Nozbe or other things - 18.07.24
 - [IMDB Rating](https://www.icloud.com/shortcuts/f6c15fca5df54de49654dd2342107294) - based on the IMDB trivia page shows IMDB rating - 08.09.24
 - [YouTube Download](https://www.icloud.com/shortcuts/2deca4dcb2d94e7e83eab56a340cac08) - [YouTube TLD download](/ytd) or how I download video or audio versions of videos - 24.09.24
+- [TeleprompterText](https://www.icloud.com/shortcuts/07a8312f3f614724aba65e560b2f58c5) - strips empty lines of text and copies them to be pasted in the iPad's TeleprompterPad app - 18.11.24
+
+## Reviewed other shortcuts
+
+- [Period](https://www.icloud.com/shortcuts/f1c65a28e75540f39451955f329c83f3) - 18.11.24
+- [Regexp](https://www.icloud.com/shortcuts/5b83b00665934f1abbda27c39bd4ffa8) - playground for regular expressions - 18.11.24
+
+## WRSM
+
+- [WRSM Kalendarz](https://www.icloud.com/shortcuts/bd86a4c2547546fc95cdf7cab79d070f) - dodawanie rodzin do kalendarza WRSM - 18.11.24 (potrzebne nazwiska)
+- [WRSM Kalendarz fix](https://www.icloud.com/shortcuts/212aee175955466fb269fe773aed7b80) - 18.11.24
+- [WRSM Losowanie](https://www.icloud.com/shortcuts/0d20b66712844bc69e1f4cdb1115ea2c) - 18.11.24 (nazwiska i animatorzy)
+- [Adwent Rodzinny](https://www.icloud.com/shortcuts/e96176779abd478ca484d2d58f87d98d) - 18.11.24
