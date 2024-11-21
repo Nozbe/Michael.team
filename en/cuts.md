@@ -127,8 +127,10 @@ Previous versions:
 - [Test - Blanks or Not](https://www.icloud.com/shortcuts/c6e74555225b41f099ef21bd4f62af21) - testing [blanks on iOS18 and beyond](/blanks) - 16.10.24
 - [Function Test](https://www.icloud.com/shortcuts/fce5d8926ff74678b670042623108e0d) - testing functions - how you can ask for the same shortcut with different params - 05.24
 - [Rich Text from Markdown](https://www.icloud.com/shortcuts/04fe79d8e9a74cea9448733fe0db8c4c) - hack how to use utf-8 to convert markdown to rich text properly - 18.11.24
+- [Copy Text to Markdown](https://www.icloud.com/shortcuts/15604b1e6bf448888f85389ff1f9129a) - selected rich formatted text convert to markdown - 18.11.24
 - [View Source](https://www.icloud.com/shortcuts/05e26e88a1b3452c8b913ec0e7569b9d) - gets source code of a web page - 18.11.24
-- [Photo info](https://www.icloud.com/shortcuts/fdc585a3e4ce4639a5bda6d70893b86f) - show real size of an image and resize if necessary - 18.11.24
+- [Photo info](https://www.icloud.com/shortcuts/8f6d6f77f0b54a319023cb1f98fc89b7) - show real size of an image and resize if necessary - 19.11.24
+- [Combine photos](https://www.icloud.com/shortcuts/96df4f6230a5481684a97b81df6e2ade) - combines two photos together - 18.11.24
 - [Templates](https://www.icloud.com/shortcuts/8a9515aef43f49d6be57578e8d6be0e8) - my quick shortcut to create templates for tasks in Nozbe or other things - 18.07.24
 - [IMDB Rating](https://www.icloud.com/shortcuts/f6c15fca5df54de49654dd2342107294) - based on the IMDB trivia page shows IMDB rating - 08.09.24
 - [YouTube Download](https://www.icloud.com/shortcuts/2deca4dcb2d94e7e83eab56a340cac08) - [YouTube TLD download](/ytd) or how I download video or audio versions of videos - 24.09.24
@@ -137,6 +139,11 @@ Previous versions:
 - [Amazon/Audible book](https://www.icloud.com/shortcuts/bbc7207bd2ca4ef998fbb515b9c10349) - finding a book on Amazon.com and Audible.com to recommend in my blog posts - 18.11.24
 - [Period](https://www.icloud.com/shortcuts/f1c65a28e75540f39451955f329c83f3) - 18.11.24
 - [Regexp](https://www.icloud.com/shortcuts/5b83b00665934f1abbda27c39bd4ffa8) - playground for regular expressions - 18.11.24
+- [Safari to iA Writer](https://www.icloud.com/shortcuts/564a2276e2ac42b4a71966cc1597c770) - saving an article in Markdown format in iA Writer - 18.11.24
+- [Book Notes](https://www.icloud.com/shortcuts/e2716c3f0ea94e6490e7bf5d43992709) - pasting first 3 pieces of information from Audible to create a note about a book which we can later use for a blog post - 18.11.24
+- [Date in English](https://www.icloud.com/shortcuts/38545f02d5cf4c818ed1c52e37054566) - handful way to format dates in English for today and tomorrow - 18.11.24
+- [Bible](https://www.icloud.com/shortcuts/58564eea2a8e4de3a0591a8fcf993d6e) - reading for today in Polish - also compatible with Apple Watch - 18.11.24
+- [Czytanie na dzisiaj](https://www.icloud.com/shortcuts/6e01093de19945229385b1d1cca25071) - reading for today or other dates - 18.11.24
 
 ## WRSM
 
