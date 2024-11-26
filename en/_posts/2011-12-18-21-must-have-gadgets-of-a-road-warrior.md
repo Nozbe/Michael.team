@@ -1,5 +1,5 @@
 ---
-tags: [computers]
+tags: [computers, gadgets]
 img: "21-must-have-gadgets-of-a-road-warrior.jpg"
 ---
 
