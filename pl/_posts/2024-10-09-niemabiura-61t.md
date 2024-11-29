@@ -2,6 +2,7 @@
 tags: [produktywnosc]
 img: "niemabiura-61t.jpg"
 t: https://x.com/nozbePL/status/1843997893633744925
+l: https://www.linkedin.com/feed/update/urn:li:activity:7250134846021222400
 ---
 
 # 7️⃣ powodów dla których wyrabianie NAWYKÓW jest takie ważne!

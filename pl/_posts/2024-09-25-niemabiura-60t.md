@@ -2,6 +2,7 @@
 tags: [produktywnosc]
 img: "niemabiura-60t.jpg"
 t: https://x.com/nozbePL/status/1841103303721304396
+l: https://www.linkedin.com/feed/update/urn:li:activity:7246871362177257472
 ---
 
 # Dlaczego grupowanie zadań zwiększa produktywność?

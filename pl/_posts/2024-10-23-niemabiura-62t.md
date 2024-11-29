@@ -2,6 +2,7 @@
 tags: [produktywnosc]
 img: "niemabiura-62t.jpg"
 t: https://x.com/nozbePL/status/1848680839640694893
+l: https://www.linkedin.com/feed/update/urn:li:activity:7255208272381497344
 ---
 
 # Dlaczego wybraliśmy komunikację przez zadania?

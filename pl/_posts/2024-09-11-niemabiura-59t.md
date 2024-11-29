@@ -2,6 +2,7 @@
 tags: [produktywnosc]
 img: "niemabiura-59t.jpg"
 t: https://x.com/nozbePL/status/1833789884009681088
+l: https://www.linkedin.com/feed/update/urn:li:activity:7239674906311835648
 ---
 
 # Jak produktywnie korzystać z maili… i mieć ich znacznie mniej
