@@ -46,7 +46,7 @@ Double everyone's productivity, get rid of chaos or stress, and regain the sense
 
 Learn more about how you can work TWICE as good and while you are at it, check out our BLACK FRIDAY offer. Details at:
 
-[🔗➡️](NoOffice.fm/53)
+[🔗➡️ NoOffice FM / 53](/noofficefm-53)
 
 [n]: https://michael.gratis/nozbe
 [np]: https://michael.gratis/nozbepersonal

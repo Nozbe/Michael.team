@@ -46,7 +46,7 @@ Once you find a way to save ONE hour, you will find more areas to save more time
 
 If you're curious how you can make up to $110 or more 💰 per month by saving time, listen to real examples of Nozbe users that make money by saving time:
 
-[🔗➡️](nooffice.fm/52)
+[🔗➡️ No Office FM / 52](/noofficefm-52)
 
 [n]: https://michael.gratis/nozbe
 [np]: https://michael.gratis/nozbepersonal
