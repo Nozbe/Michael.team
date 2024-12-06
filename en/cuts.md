@@ -12,6 +12,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 - [Action button template](https://www.icloud.com/shortcuts/697fc874b91a42a7902e525e7273e984) - 31.01.24
 - [Akcja 🇵🇱](https://www.icloud.com/shortcuts/116534d8a03b4aa59990916372c93198) - [announcement in Polish](/pl/action/) - 31.01.24
 - [My action button with Clippy and new WatchNotes](https://www.icloud.com/shortcuts/85ca502fdc8a4dd4b6f5f331c183d53a) - 18.11.24
+- [Launcher](https://www.icloud.com/shortcuts/cd9d3494fe3f492295b797e19fae5e01) - my old pre-coursor of the action button - 01.20 - features side-by-side set up as well. No longer need it.
 
 ## [Dice](/dice-shortcut/)
 
@@ -46,6 +47,9 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 - [🔗 Link To Markdown](https://www.icloud.com/shortcuts/4a7ee7378c664ad58f0f265ce59d9011) - copies link to Markdown format and in case of YouTube - adds embed (normal and shorts) - 15.05.24
 - [YouTube Watcher](https://www.icloud.com/shortcuts/d60a182c44374c7897ccc0964b6b4769) - [Watching YouTube distraction-free](/yt) - 18.11.24
 - [Save File](https://www.icloud.com/shortcuts/63109e313f6d4986a8b6167cc5422e85) - saves a PDF in Michael.team repository or a file in iCloud or a file somewhere else.
+- [Sliwinski.com HTML](https://www.icloud.com/shortcuts/db9fff1961594886b190d3d555f9c872) - my old html importer.
+- [Sliwinski.com import](https://www.icloud.com/shortcuts/06f8e020f954428da29cd8cc94c29ea4) - my old importer from my old blog.
+- [Sliwinski.com migrator](https://www.icloud.com/shortcuts/a67ff69eaf254a539da53e6955e9eacc) - my old migrator from my Dropbox-based blog to Jekyll.
 
 ## Social Media
 
@@ -97,7 +101,7 @@ Previous version:
 My clipboard manager:
 
 - [Clippy RC](https://www.icloud.com/shortcuts/47afd5ba8b5b4f85a92d8e35fac8f3c8) - release candidate of Clippy after months of using it. - 08.09.24
-- [Clippy Actions - mine](https://www.icloud.com/shortcuts/0037ffb087ac4ba09ff42468a3c90ac2) - my Clippy Actions with custom stuff for me like Ryanair, Vueling, etc. - 08.09.24
+- [Clippy Actions Michael](https://www.icloud.com/shortcuts/6237430b7d4b433faf773f9555589263) - my Clippy Actions with custom stuff for me like Ryanair, Vueling, etc. and source code - 04.12.24
 - [Clippy Actions - release version](https://www.icloud.com/shortcuts/e4bc379cb8484fd7ad90684f3c7cc84d) - just with some basic actions to show how it works - 08.09.24
 
 Previous versions:
@@ -126,6 +130,7 @@ Previous versions:
 
 - [Test - Blanks or Not](https://www.icloud.com/shortcuts/c6e74555225b41f099ef21bd4f62af21) - testing [blanks on iOS18 and beyond](/blanks) - 16.10.24
 - [Function Test](https://www.icloud.com/shortcuts/fce5d8926ff74678b670042623108e0d) - testing functions - how you can ask for the same shortcut with different params - 05.24
+- [Menu Test](https://www.icloud.com/shortcuts/c57d2da75abe4b5ca1af843f4955c5fd) - example of creating menu using Contacts list hack. - 04.12.24
 - [Rich Text from Markdown](https://www.icloud.com/shortcuts/04fe79d8e9a74cea9448733fe0db8c4c) - hack how to use utf-8 to convert markdown to rich text properly - 18.11.24
 - [Copy Text to Markdown](https://www.icloud.com/shortcuts/15604b1e6bf448888f85389ff1f9129a) - selected rich formatted text convert to markdown - 18.11.24
 - [View Source](https://www.icloud.com/shortcuts/05e26e88a1b3452c8b913ec0e7569b9d) - gets source code of a web page - 18.11.24
@@ -137,6 +142,7 @@ Previous versions:
 - [TeleprompterText](https://www.icloud.com/shortcuts/07a8312f3f614724aba65e560b2f58c5) - strips empty lines of text and copies them to be pasted in the iPad's TeleprompterPad app - 18.11.24
 - [Nozbe Holidays](https://www.icloud.com/shortcuts/f42b3ef17c0b472b97851805a7ae1cd4) - Jarek's Shortcut to add holidays to Nozbe calendar - 18.11.24
 - [Amazon/Audible book](https://www.icloud.com/shortcuts/bbc7207bd2ca4ef998fbb515b9c10349) - finding a book on Amazon.com and Audible.com to recommend in my blog posts - 18.11.24
+- [Amazon Link](https://www.icloud.com/shortcuts/9a2f1c85a81b4ca0911aa30271f0ed67) - converting Amazon or Audible link to my partner link. - 01.24
 - [Period](https://www.icloud.com/shortcuts/f1c65a28e75540f39451955f329c83f3) - 18.11.24
 - [Regexp](https://www.icloud.com/shortcuts/5b83b00665934f1abbda27c39bd4ffa8) - playground for regular expressions - 18.11.24
 - [Safari to iA Writer](https://www.icloud.com/shortcuts/564a2276e2ac42b4a71966cc1597c770) - saving an article in Markdown format in iA Writer - 18.11.24
@@ -144,6 +150,9 @@ Previous versions:
 - [Date in English](https://www.icloud.com/shortcuts/38545f02d5cf4c818ed1c52e37054566) - handful way to format dates in English for today and tomorrow - 18.11.24
 - [Bible](https://www.icloud.com/shortcuts/58564eea2a8e4de3a0591a8fcf993d6e) - reading for today in Polish - also compatible with Apple Watch - 18.11.24
 - [Czytanie na dzisiaj](https://www.icloud.com/shortcuts/6e01093de19945229385b1d1cca25071) - reading for today or other dates - 18.11.24
+- [GIF](https://www.icloud.com/shortcuts/67ee5cdda8244416807fdcba13c78268) - making GIF from Images. - 01.24
+- [Blog No Office.org](https://www.icloud.com/shortcuts/8c28ae55c6684381b0e85e057c1688be) - post a blog post to NoOffice.org - 01.20
+- [Spreadsheet to Markdown Table](https://www.icloud.com/shortcuts/6db110139c4c45d1a3b438462d9338a2) - by Federico Viticci
 
 ## WRSM
 
