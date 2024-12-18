@@ -63,6 +63,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 I've been [journaling](/journal/) since 2016 with Shortcuts (and before that Workflow) and [this is my latest version (3.0)](/journal3):
 
+- [Journal 3.1](https://www.icloud.com/shortcuts/022b9991ccdf46859d9f23fe44335c64) - my latest version that is still unpublished - 9.12.24
 - [**Journal 3.0**](https://www.icloud.com/shortcuts/eac9efc4c5d7488ebe0a1874b75840a8)
 - [Journal 3.0 in Spanish](https://www.icloud.com/shortcuts/2b7884fd37b2474da1beb96b7711f5af)
 - [Journal 3.0 in Polish](https://www.icloud.com/shortcuts/f25ab65899e74bbcbcb6a61adc178109) - [announcement in Polish](/pl/dziennik3/)
@@ -77,6 +78,7 @@ As a by-product of journal I've created a [Gratitude journal](/gratitude/) for t
 
 - [Gratitude](https://www.icloud.com/shortcuts/1206759d36c34963860e5985aff63466)
 - [Gratitude in Polish](https://www.icloud.com/shortcuts/a7d8401d7d124b05befd5b070d0b5425) - [announcement in Polish](/pl/wdziecznosc/)
+- [Gratitude Translations](https://www.icloud.com/shortcuts/01f035c0753e4c228da706edcf2571d8) - translations of Gratitude in one Shortcut.
 
 Previous versions of my Journaling Shortcut:
 
@@ -100,6 +102,7 @@ Previous version:
 
 My clipboard manager:
 
+- [Clippy 2.1 debug version](https://www.icloud.com/shortcuts/ebfe7cee4a174332a35990453cf0dd28) - testing version to finally get issues out of my iPhone - 10.12.24
 - [Clippy RC](https://www.icloud.com/shortcuts/47afd5ba8b5b4f85a92d8e35fac8f3c8) - release candidate of Clippy after months of using it. - 08.09.24
 - [Clippy Actions Michael](https://www.icloud.com/shortcuts/6237430b7d4b433faf773f9555589263) - my Clippy Actions with custom stuff for me like Ryanair, Vueling, etc. and source code - 04.12.24
 - [Clippy Actions - release version](https://www.icloud.com/shortcuts/e4bc379cb8484fd7ad90684f3c7cc84d) - just with some basic actions to show how it works - 08.09.24
@@ -128,7 +131,7 @@ Previous versions:
 
 ## Other Shortcuts
 
-- [Test - Blanks or Not](https://www.icloud.com/shortcuts/c6e74555225b41f099ef21bd4f62af21) - testing [blanks on iOS18 and beyond](/blanks) - 16.10.24
+- [Test - Blanks or Not](https://www.icloud.com/shortcuts/b5981baf7bf645c390aeec624fd15cb3) - testing [blanks on iOS18 and beyond](/blanks) - 10.12.24
 - [Function Test](https://www.icloud.com/shortcuts/fce5d8926ff74678b670042623108e0d) - testing functions - how you can ask for the same shortcut with different params - 05.24
 - [Menu Test](https://www.icloud.com/shortcuts/c57d2da75abe4b5ca1af843f4955c5fd) - example of creating menu using Contacts list hack. - 04.12.24
 - [Rich Text from Markdown](https://www.icloud.com/shortcuts/04fe79d8e9a74cea9448733fe0db8c4c) - hack how to use utf-8 to convert markdown to rich text properly - 18.11.24
