@@ -2,6 +2,8 @@
 permalink: /test/
 tags: [guest,video]
 social: "taiwan.jpg"
+redirect_from:
+  - /dupa/
 ---
 
 # Testing playground
