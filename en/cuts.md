@@ -41,7 +41,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 - [Compress Image with Tinify](https://www.icloud.com/shortcuts/98eb76b7bbbc4c5996d39bc567f3b654) - official shortcut - 10.24
 - [Michael.team post](https://www.icloud.com/shortcuts/ae705fd23dfc4eba8b13f3a5ff5a341e) - conversion of text from raw text to a blog post - 13.11.24
 - [Check name on Michael.team](https://www.icloud.com/shortcuts/4d591ebb44cc4975bb325a6de917b752) - check if certain post name already exists (required by above Shortcut) - updated after bug ":" discovered - 09.09.24
-- [Blog Templating](https://www.icloud.com/shortcuts/5f7f64c9f42949daa4642dbb7b21eed2) - posting a blog from a template, especially useful for guest posts or podcast posts (very specific to my blog!) - 13.11.24
+- [Blog Templating](https://www.icloud.com/shortcuts/51d3d63ab96c4eea95007c94b5a532fb) - (v.2.0) posting a blog from a template, especially useful for guest posts or podcast posts (very specific to my blog!) - 13.01.25
 - [Quick Blog](https://www.icloud.com/shortcuts/134b408b5a534abda9d92af667d0e61f) - a way to post quickly something - like a Toot but directly to my blog! - 18.11.24
 - [Blog Something](https://www.icloud.com/shortcuts/daecdb54b60f4b1aa9307683bbb954e0) - quickly adding a draft of a post off an idea to iA Writer - 18.11.24
 - [🔗 Link To Markdown](https://www.icloud.com/shortcuts/4a7ee7378c664ad58f0f265ce59d9011) - copies link to Markdown format and in case of YouTube - adds embed (normal and shorts) - 15.05.24
@@ -63,7 +63,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 I've been [journaling](/journal/) since 2016 with Shortcuts (and before that Workflow) and [this is my latest version (3.0)](/journal3):
 
-- [Journal 3.1](https://www.icloud.com/shortcuts/022b9991ccdf46859d9f23fe44335c64) - my latest version that is still unpublished - 9.12.24
+- [Journal 3.1](https://www.icloud.com/shortcuts/36636f64c0c04974b1ef97944a0ca0b2) - my latest "working" version which will be a base for 4.0 - 13.01.25
 - [**Journal 3.0**](https://www.icloud.com/shortcuts/eac9efc4c5d7488ebe0a1874b75840a8)
 - [Journal 3.0 in Spanish](https://www.icloud.com/shortcuts/2b7884fd37b2474da1beb96b7711f5af)
 - [Journal 3.0 in Polish](https://www.icloud.com/shortcuts/f25ab65899e74bbcbcb6a61adc178109) - [announcement in Polish](/pl/dziennik3/)
