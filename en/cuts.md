@@ -63,8 +63,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 I've been [journaling](/journal/) since 2016 with Shortcuts (and before that Workflow) and [this is my latest version (3.0)](/journal3):
 
-- [Journal 3.1](https://www.icloud.com/shortcuts/36636f64c0c04974b1ef97944a0ca0b2) - my latest "working" version which will be a base for 4.0 - 13.01.25
-- [**Journal 3.0**](https://www.icloud.com/shortcuts/eac9efc4c5d7488ebe0a1874b75840a8)
+- [**Journal 3.0**](https://www.icloud.com/shortcuts/eac9efc4c5d7488ebe0a1874b75840a8) - the latest [published Journal](/journal3/)
 - [Journal 3.0 in Spanish](https://www.icloud.com/shortcuts/2b7884fd37b2474da1beb96b7711f5af)
 - [Journal 3.0 in Polish](https://www.icloud.com/shortcuts/f25ab65899e74bbcbcb6a61adc178109) - [announcement in Polish](/pl/dziennik3/)
 - [Morning Planning](https://www.icloud.com/shortcuts/ea2b8d8ccd634d6596bc88d7521b4507)
@@ -80,9 +79,19 @@ As a by-product of journal I've created a [Gratitude journal](/gratitude/) for t
 - [Gratitude in Polish](https://www.icloud.com/shortcuts/a7d8401d7d124b05befd5b070d0b5425) - [announcement in Polish](/pl/wdziecznosc/)
 - [Gratitude Translations](https://www.icloud.com/shortcuts/01f035c0753e4c228da706edcf2571d8) - translations of Gratitude in one Shortcut.
 
-Previous versions of my Journaling Shortcut:
+### Journal 4 in development
 
-- later…
+I'm working currently on Journal4 with JSON support for languages and settings and more cool features (and dropping Notes support):
+
+- [Jounal 3.3](https://www.icloud.com/shortcuts/08fd43e46fef4d8282a9e8f03480af04) - added JSON settings support - 14.01.25
+- [Journal 3.2](https://www.icloud.com/shortcuts/7f01ef2256314dd7ab6125dcac8594eb) - WIP with new date formatting and images preview - 13.01.25
+- [Journal 3.1](https://www.icloud.com/shortcuts/36636f64c0c04974b1ef97944a0ca0b2) - my latest "working" version which will be a base for 4.0 - 13.01.25
+
+With legacy Shortcuts updated:
+
+- [Morning Planning DEV](https://www.icloud.com/shortcuts/f2ab66845a204be7a4dbbfe8a00145ba)
+- [Open Today DEV](https://www.icloud.com/shortcuts/d9a73fc2e3b74f70810c100f581a7c4c)
+
 
 ## Keynoter
 
