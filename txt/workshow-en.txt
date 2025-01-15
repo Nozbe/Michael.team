@@ -1,0 +1,180 @@
+# Mighty Fridays in Nozbe
+### For 8 years (2016) we've been working only 4 days a week!
+
+![TVP2](/img/tvp2.jpg)
+
+Let me tell you how my small but global company Nozbe became a pioneer of the 4-day work week, thanks to *Mighty Fridays*! We introduced this concept in 2016 and it was so successful that two years later I was invited to talk about it on national Breakfast Television. Which followed many articles in local and national press about our company.
+
+<!--Theme: 10steps2-->
+<!--More-->
+
+## Nozbe - founded in 2007 (18 yrs)
+### #NoOffice: currently 14 people from PL, DE and ES
+
+![Team](/img/nozbe-waw.jpg)
+
+Let's start with my company. We have been on the market for almost 18 years. It started with me, then the company grew to a dozen or so people. Currently, there are 14 of us full-time. In the meantime, over a million users have passed through our software. Here is the photo of most of our current team.
+
+## Productivity app
+### We empower SMART business owners and their teams!
+
+![10krokow](/img/10steps-projects-tasks.jpg)
+
+Our app is about productivity, initially inspired by David Allen's methodology, called Getting Things Done (GTD). Nozbe has a simple structure: "Projects > Tasks > Comments" - and works on all platforms, i.e. on personal computers such as Mac and PC, as well as on Android, iPad and iPhone.
+
+Thanks to our application, teams are in control. They know who is working on what. Thanks to Nozbe, the use of email is reduced to a minimum and the number of meetings can be reduced by half. Easily.
+
+## 1️⃣ Why Mighty Fridays?
+### Origins of the idea to work LESS but BETTER
+
+One of the main ideas included in David Allen's book, GTD, was the "Weekly Review". You should do such a review every week. This means to take a meeting with yourself  and look at the week that has just passed and then plan the next one, so that on Monday you can show up to work with a plan.
+
+At that time, back in 2016, I had so much work that on Fridays I didn't find the time for this review for several weeks, so when I finally got down to it… what I saw terrified me.
+
+##### 🥾 Shoemaker without shoes?
+
+It turned out that we, the ones building a productivity app, don't do such review ourselves because we can't find the time. When reviewing tasks - and in our case most of the team has access to most projects - we operate very transparently - it was obvious that many places were not tidy. I asked my closest directors - when was the last time they did such a review. A month, two months ago... three months... it was bad. I knew we needed to change.
+
+##### 🧹 Was the desk tidy?
+
+There's a mess everywhere, even on the desk! But at some point our "home office" has to be tidied up. We don't go to the office, we don't have cleaners, so everyone has to do it, but when? After hours?
+
+##### 📈 Personal development?
+
+We don't even have the time to develop our skills! Do we know our tools well enough? It turned out that when I asked about some new technologies, my people didn't know some of them anymore. And they were supposed to be experts. And yet we are building a cutting-edge technology app! Again, the answer was that… there's no time! Too much work!
+
+##### 🤓 20%? Creativity!
+
+And what if we also devoted this time to our own projects. To creativity? Google did that back then, so why can't we try. Let's give ourselves some space for creativity!
+
+## 2️⃣ How to implement it?
+### Why "Mighty Friday" and not Monday?
+
+Here are the main ideas behind our concept of "Mighty Fridays" in Nozbe.
+
+##### 👩‍💻 Work: Mon➡️Thu
+
+We work on day to day matters 4 days a week. Monday through Thursday. On Friday, we don't!
+
+##### 🖐️ Friday - REVIEW!
+
+Friday is for a review of the week. We summarize what we worked on, plan the next week. Check what's ahead of us.
+
+##### ❓ Monday with a plan!
+
+The idea is that when we go to work on Monday, we have a plan. Everything is ready and we can tackle specific tasks!
+
+##### 🕐 Friday - time for YOU!
+
+Time for the employee. For whatever they want. They can learn, watch courses, whatever they fancy doing, but NOT working on current matters.
+
+##### ✏️ Whatever you want! 📺
+
+A lot of people watch conferences, lectures, or do their own projects. The boss can't tell you what to do on a Mighty Friday.
+
+##### 🏃‍♀️💨 Skipping work? OK!
+
+If you want to finish work earlier, or go for a longer run, why not! You can do it on Friday, if the review has been done!
+
+## 3️⃣ Problems?
+### People feel the duty to work!
+
+![Left Tomek Iwona](/img/tomek-iwona.jpg)
+
+After the review, people want to catch up on work. Instead of planning personal development, they feel guilty that something is unfinished.
+
+Customer support worked normally anyway, so they complained that customers were eager to write emails on Fridays, and our team wants to reply quickly.
+
+It turned out that introducing Fridays was not that easy at all, because old habits die hard, so you have to create new ones!
+
+## 4️⃣ Solution?
+### Thursday is the end of the "current" week!
+
+##### 4️⃣🗓️ Thursday closes work
+
+On Thursdays, we now summarize work in the afternoon - people update their status tasks, we determine whether a new version of the Nozbe app will be released on Monday.
+
+##### 5️⃣🗓️ Friday is like the weekend, even in customer support!
+
+We have shifts on Friday just like we had shifts on weekends. It's not a normal workday, but a day when we encourage even customers to relax!
+
+##### 📺📄 Learn and watch on Friday!
+
+All non-current topics on Friday. Even in the app, we now have a new setting that you can set a reminder on a Friday. Thanks to this, we leave things to watch or read for Friday. It has become the culture of our company!
+
+## We've added Fridays to Nozbe!
+### In our app, you can set a reminder "for Friday" on any day of the week!
+
+![Left Nozbe Reminders](/img/nozbe-piatek-en.jpg)
+
+Since we use our own Nozbe app to build the business and the Nozbe app, we decided that in order to help employees implement Fridays, we would add a dedicated menu for reminders "for Friday".
+
+Thanks to this, if there is a task that I want to include in the weekly review or it is a conference or a video or reading that I want to do on a Friday, I can easily set a reminder for that day.
+
+## 5️⃣ Outcome?
+### Growth, ideas, innovation, curiosity and organization!
+
+##### 😁 Satisfaction, less stress
+
+First of all, Friday serves as a buffer, because we know that if anything happens on Friday we can cool down, calmly review everything, think about what and how.
+
+##### ✅ Tasks are more organized
+
+People keep an eye on each other to make sure everything is in order. They are not afraid to add passive-aggressive comments like - *is this project necessary? Is something going to happen here?*
+
+##### 🙋‍♀️ Agency!
+
+People are not afraid to make decisions. They realistically determine whether we should take care of this or that. They see that if they postpone something every Friday to "next week", they can decide what to do with it themselves.
+
+##### 🤓 Experts!
+
+We are getting better at our job, people often wait for their applications to be updated to learn about new features. We encourage our clients to do the same, so that they can watch tutorials showing Nozbe's functionality on Friday.
+
+##### 🤔 Curiosity! New ideas!
+
+We develop our ideas. In a moment I will demonstrate a few examples of what else happened in the company thanks to Fridays!
+
+## 🚀 Friday innovation!
+### How Fridays stimulate creative ideas!
+
+##### 👩‍💻 Dominika learned programming
+
+A customer support person started programming. What's even better, she started actively helping out develop our internal customer support panel!
+
+##### 🧑‍💻 Radek chose new tech for Nozbe
+
+React and React Native - new technologies were tested by Radek on Fridays. He studied them and now they are the backbone of our new application!
+
+##### 💌 Jarek - a GMail add-on
+
+You will be able to add tasks directly from Gmail to Nozbe, because Jarek wanted such functionality!
+
+##### 📺 Team meets customers
+
+We watch conversations with customers recorded by me. We learn from them how to better develop our software for them!
+
+##### 🤳 I learned Short videos!
+
+I started posting short productivity videos myself and thanks to Fridays I had time to learn how to compose, edit and put them together.
+
+## ⁉️ Four days or Fridays?
+### Friday as a buffer means happiness at work!
+
+![The way](/img/keynoter-ipad.jpg)
+
+I believe that in today's world we need a buffer. Time to think. To stop. To plan work. To stop hustling. That's what Fridays are for.
+
+It is me, as CEO, who has to make sure that my people have time to plan, to work, to learn, to reflect, to have new ideas. Time for creativity and innovation. I need it myself.
+
+If we worked only 4 days, without Fridays, there would be no benefits. We would push in 4 days but there would be no time to make plans or focus on personal development.
+
+## Michael Sliwinski
+### ❓ 📧 michael@nozbe.com 📧 ➡️ nozbe.com/demo ✅
+
+![Left Michael](/img/keynoter-michael.jpg)
+
+I encourage you to contact me or find me on social media. I am particularly active on LinkedIn as **[Michael Sliwinski](https://www.linkedin.com/in/michaelsliwinski/)**.
+
+And if you want to get to know Nozbe and see how to work more effectively and maybe try to implement Fridays in your team or your company, I encourage you to schedule a personalized demo with my colleague, Magda, who will guide you through Nozbe and show why thousands of teams and professionals around the world have been choosing Nozbe for almost 18 years.
+
+Here you can schedule a demo: **[Nozbe.com/demo](https://nozbe.com/demo/)**
