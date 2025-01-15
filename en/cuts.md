@@ -140,6 +140,7 @@ Previous versions:
 
 ## Other Shortcuts
 
+- [LinkTitle](https://www.icloud.com/shortcuts/e5af29b9e8c04892bedfa974cc810c87) - Getting the titles of web pages - 15.01.25 - for Nadgryzieni.
 - [Test - Blanks or Not](https://www.icloud.com/shortcuts/b5981baf7bf645c390aeec624fd15cb3) - testing [blanks on iOS18 and beyond](/blanks) - 10.12.24
 - [Function Test](https://www.icloud.com/shortcuts/fce5d8926ff74678b670042623108e0d) - testing functions - how you can ask for the same shortcut with different params - 05.24
 - [Menu Test](https://www.icloud.com/shortcuts/c57d2da75abe4b5ca1af843f4955c5fd) - example of creating menu using Contacts list hack. - 04.12.24
