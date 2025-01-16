@@ -140,7 +140,7 @@ Previous versions:
 
 ## Other Shortcuts
 
-- [LinkTitle](https://www.icloud.com/shortcuts/e5af29b9e8c04892bedfa974cc810c87) - Getting the titles of web pages - 15.01.25 - for Nadgryzieni.
+- [LinkTitle](https://www.icloud.com/shortcuts/d864d14881b848c28475a76960e256d3) - Getting the titles of web pages - 15.01.25 - for Nadgryzieni. [LinkTitle page](/linktitle)
 - [Test - Blanks or Not](https://www.icloud.com/shortcuts/b5981baf7bf645c390aeec624fd15cb3) - testing [blanks on iOS18 and beyond](/blanks) - 10.12.24
 - [Function Test](https://www.icloud.com/shortcuts/fce5d8926ff74678b670042623108e0d) - testing functions - how you can ask for the same shortcut with different params - 05.24
 - [Menu Test](https://www.icloud.com/shortcuts/c57d2da75abe4b5ca1af843f4955c5fd) - example of creating menu using Contacts list hack. - 04.12.24
@@ -156,7 +156,7 @@ Previous versions:
 - [Nozbe Holidays](https://www.icloud.com/shortcuts/f42b3ef17c0b472b97851805a7ae1cd4) - Jarek's Shortcut to add holidays to Nozbe calendar - 18.11.24
 - [Amazon/Audible book](https://www.icloud.com/shortcuts/bbc7207bd2ca4ef998fbb515b9c10349) - finding a book on Amazon.com and Audible.com to recommend in my blog posts - 18.11.24
 - [Amazon Link](https://www.icloud.com/shortcuts/9a2f1c85a81b4ca0911aa30271f0ed67) - converting Amazon or Audible link to my partner link. - 01.24
-- [Period](https://www.icloud.com/shortcuts/f1c65a28e75540f39451955f329c83f3) - 18.11.24
+- [Period 2.0](https://www.icloud.com/shortcuts/f6b3141aa2f6414baced52b4c954de2d) - improved period calculator and history keeper - 16.01.25 ([Period OLD](https://www.icloud.com/shortcuts/f1c65a28e75540f39451955f329c83f3) - 18.11.24)
 - [Regexp](https://www.icloud.com/shortcuts/5b83b00665934f1abbda27c39bd4ffa8) - playground for regular expressions - 18.11.24
 - [Safari to iA Writer](https://www.icloud.com/shortcuts/564a2276e2ac42b4a71966cc1597c770) - saving an article in Markdown format in iA Writer - 18.11.24
 - [Book Notes](https://www.icloud.com/shortcuts/e2716c3f0ea94e6490e7bf5d43992709) - pasting first 3 pieces of information from Audible to create a note about a book which we can later use for a blog post - 18.11.24
