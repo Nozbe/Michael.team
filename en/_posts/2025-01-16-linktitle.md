@@ -17,7 +17,7 @@ When you're working online like I do (["I write random stuff on the Internet"](/
 
 After installation the Shortcut will be available both in Share Sheet, so you can tap on it on any web site:
 
-![{{ page.title }} share](/img/linktitle-share.jpg)
+![{{ page.title }} share](/img/linktitle-sheet.jpg)
 
 Also, if you copy an URL/link address, you can just launch this Shortcut and it will use the Clipboard and get the title automatically for you.
 
