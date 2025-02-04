@@ -22,6 +22,8 @@ site.url: {{ site.url }}
 
 page.date: {{ page.date }}
 
+Adding a line from Mac Mini!
+
 ## Highlights
 
 {% highlight shell %}
