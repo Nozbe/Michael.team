@@ -2,6 +2,7 @@
 tags: [news]
 img: "news-double.jpg"
 l: https://www.linkedin.com/pulse/do-you-want-your-team-double-productivity-michael-sliwinski-nhu9f
+m: https://social.nozbe.com/@michael/113567139189901212
 ---
 
 # Do you want your team to DOUBLE productivity?

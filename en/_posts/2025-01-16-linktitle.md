@@ -1,6 +1,7 @@
 ---
 tags: [shortcuts]
 img: "linktitle.jpg"
+m: https://social.nozbe.com/@michael/113854584216849594
 ---
 
 # LinkTitle - an easy way to get a title of any page
