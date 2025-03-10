@@ -2,5 +2,5 @@
 title: "Home Office evolution - the #NoOffice way"
 permalink: /office/
 redirect_from: /tag/office/
-cover: now220919.jpg
+cover: office2025.jpg
 ---
