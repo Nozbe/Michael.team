@@ -11,11 +11,11 @@ On my [#iPadOnly](/ipadonly/) journey I keep making lots of [Shortcuts](/shortcu
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-## Photo Info - not only info… but also actions!
+## Photo Info… and manipulations!
 
 Get this free Shortcut here:
 
-### [Photo Info][l]
+### 🔗 [Photo Info][l]
 
 I created this Shortcut many iOS releases ago, where getting to the info of an image was really hard. Now it's there if you press and hold a file or photo. However recently I've enhanced this Shortcut so that it would give me additional actions to choose from:
 
