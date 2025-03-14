@@ -1,6 +1,7 @@
 ---
 tags: [shortcuts]
 cover: "photoinfo.jpg"
+m: https://social.nozbe.com/@michael/114161600402022918
 ---
 
 # Photo Info - quickly manipulate photos on iOS and Mac
