@@ -141,7 +141,7 @@ Previous versions:
 
 ## Other Shortcuts
 
-- [LinkTitle](https://www.icloud.com/shortcuts/d864d14881b848c28475a76960e256d3) - Getting the titles of web pages - 15.01.25 - for Nadgryzieni. [LinkTitle page](/linktitle)
+- [Link Title](https://www.icloud.com/shortcuts/5be8c6fe784e458e8377b5a4a0847799) - Getting the titles of web pages - 17.03.25 - for Nadgryzieni. [Link Title page](/linktitle) - updated with my embed code.
 - [Test - Blanks or Not](https://www.icloud.com/shortcuts/b5981baf7bf645c390aeec624fd15cb3) - testing [blanks on iOS18 and beyond](/blanks) - 10.12.24
 - [Function Test](https://www.icloud.com/shortcuts/fce5d8926ff74678b670042623108e0d) - testing functions - how you can ask for the same shortcut with different params - 05.24
 - [Menu Test](https://www.icloud.com/shortcuts/c57d2da75abe4b5ca1af843f4955c5fd) - example of creating menu using Contacts list hack. - 04.12.24

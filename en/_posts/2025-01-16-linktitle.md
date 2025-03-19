@@ -14,7 +14,7 @@ When you're working online like I do (["I write random stuff on the Internet"](/
 
 ## LinkTitle Shortcut to copy title of any page:
 
-### [LinkTitle][l]
+### 🔗 [LinkTitle][l]
 
 After installation the Shortcut will be available both in Share Sheet, so you can tap on it on any web site:
 
@@ -51,7 +51,13 @@ If there are any other web pages that are not compatible with this shortcut, [pl
 
 Other than that, enjoy [this LinkTitle Shortcut][l].
 
+## P.S. Updated it with "embed" support for YouTube videos
 
+On my blog I have a special "embed" code block for videos so for that purpose I updated this Shortcut (March 17, 2025) to support my kind of embed. If you have your own embed code, you can customize it.
+
+### 🔗 [Link Title 1.5 with embed support][l2]
+
+[l2]: https://www.icloud.com/shortcuts/5be8c6fe784e458e8377b5a4a0847799
 [l]: https://www.icloud.com/shortcuts/d864d14881b848c28475a76960e256d3
 
 [n]: https://michael.gratis/nozbe
