@@ -3,6 +3,7 @@ tags: [news]
 cover: "news-hacks.jpg"
 l: https://www.linkedin.com/pulse/remote-work-hacks-fighting-dark-side-nooffice-michael-sliwinski-0tfhf
 t: https://x.com/nozbe/status/1901629888756597029
+m: https://social.nozbe.com/@michael/114195236133192710
 ---
 
 # Remote Work Hacks: Fighting the 'Dark Side' of #NoOffice
@@ -14,9 +15,6 @@ Remote work offers many benefits BUT it comes with some challenges that can make
 ![{{ page.title }}](/img/{{ page.cover }})
 
 > **Note:** this is a transcript of the email Newsletter I sent to my 1500+ subscribers a while back. If you want to be one of them, [sign up for my free Newsletter. You can unsubscribe anytime!](https://michael.gratis/n){:target='_blank'} or if you use [LinkedIn, you can subscribe there, too!](https://michael.gratis/inn){:target='_blank'}
-
-* TOC
-{:toc}
 
 ## 🤷‍♀️ No recognition from family and friends 
 
