@@ -1,12 +1,12 @@
 ---
 tags: [vlog]
-cover: "notebooklm.jpg"
+cover: "thenotebooklm.jpg"
 social: "notebooklm.jpg"
 podcast: 1538743591
 m: https://social.nozbe.com/@michael/113356163032699976
 ---
 
-# Team Productivity Podcast re-started with NotebookLM!
+# The Podcast resurrected with NotebookLM!
 
 I've officially joined the AI craze and finally started testing many AI tools consistently. One of them is [NotebookLM](https://notebooklm.google) which lets you create "notebooks" where you feed it with documents, sources, data and it summarizes things for you or answers your questions… or **creates a podcast!** Now, that last bit is really interesting and I'm using it now to  publish a podcast based off [of my writing](/money/):
 
@@ -14,7 +14,7 @@ I've officially joined the AI craze and finally started testing many AI tools co
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-## Listen to the latest episode "Time is Money"
+## The two AI hosts are really smart!
 
 Before I explain how this podcast episode was done, just spend your next 8 minutes listening to it (the AI magic starts after my 1-minute intro):
 
@@ -22,7 +22,11 @@ Before I explain how this podcast episode was done, just spend your next 8 minut
 <source src="https://media.transistor.fm/4fddcca8/8ea55655.mp3" type="audio/mpeg">
 </audio>
 
-Alternatively: [Listen with Overcast](https://overcast.fm/+liSHHmdHA){:target='_blank'} or [Podcast website](https://teamproductivity.transistor.fm/14){:target='_blank'}
+## How about The Podcast FM? Why not "ressurect" it this way?
+
+Radek and I recorded [The Podcast FM](/podcast) for 4 years straight (2017-2021) and we stopped in May of 2021… but we still had a few hundred listeners ready for more content so instead of completely leaving this podcast be, I decided to "ressurect it" by using the AI co-hosts.
+
+What's cool about it is that now the episodes are shorter but they are still very interesting as the discussions are based on my essays. Usually [the featured ones](/featured).
 
 ## From an essay to a podcast episode of two co-hosts talking!
 
@@ -36,13 +40,13 @@ Here's how this podcast was magically produced:
 4. I downloaded the audio file, imported to the Garage Band on my iPad.
 5. I recorded intro in QuickTime on my Mac using my [podcasting setup and microphone](/streaming/) and also saved this file in iCloud and imported it to Garageband on the iPad.
 6. I glued the two files together in Garageband and exported the project as an audiofile.
-7. I created an episode in [Transistor.fm](https://teamproductivity.transistor.fm) where we host also [NoOffice podcast](/noofficefm) and [The Podcast](/podcast) and that's it! Done.
+7. I created an episode in **Transistor.fm** where we host also [NoOffice podcast](/noofficefm) and that's it! Done.
 
 ![{{ page.title }} garageband](/img/notebooklm-garageband.jpg)
 
 ## What's the conversation like?
 
-Just [subscribe to my "Team Productivity" podcast][t] to listen to the latest episode and the future ones.
+Just [subscribe to my "The Podcast"](/podcast) to listen to the latest episode and the future ones.
 
 > Wait, future ones? Will I be publishing more? Hell yes!
 
