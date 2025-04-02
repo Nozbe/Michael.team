@@ -36,11 +36,11 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 ## [Blogging and Social Media](/blogging/)
 
-- [JPG/PNG Images](https://www.icloud.com/shortcuts/f4913c64aa4344fca34d6887e75544d2) - my internal way to compress images using Tinify and putting the stuff in my Repos and posting on Mastodon. - 13.11.24
+- [JPG/PNG Images](https://www.icloud.com/shortcuts/42b979d708464f2aac4f807a162034ad) - my internal way to compress images using Tinify and putting the stuff in my Repos and posting on Mastodon. - update 01.04.25
 - [PNG/JPG Images](https://www.icloud.com/shortcuts/49ee1aa8af6c4a27a63df4cbe3fa58cf) - version without Tinify, just with 0.5 JPG compression, when Tinify failed me - 09.09.24
 - [Compress Image with Tinify](https://www.icloud.com/shortcuts/98eb76b7bbbc4c5996d39bc567f3b654) - official shortcut - 10.24
-- [Michael.team post](https://www.icloud.com/shortcuts/ae705fd23dfc4eba8b13f3a5ff5a341e) - conversion of text from raw text to a blog post - 13.11.24
-- [Check name on Michael.team](https://www.icloud.com/shortcuts/4d591ebb44cc4975bb325a6de917b752) - check if certain post name already exists (required by above Shortcut) - updated after bug ":" discovered - 09.09.24
+- [Michael.team post](https://www.icloud.com/shortcuts/8199e988f62e45d895b420ac49f64171) - conversion of text from raw text to a blog post - update 1.1 adding campaigns to nozbe links - 1.04.25
+- [Check name on Michael.team](https://www.icloud.com/shortcuts/c64fabdd915247e48b92759144f746a1) - check if certain post name already exists (required by above Shortcut) - update 01.04.25
 - [Blog Templating](https://www.icloud.com/shortcuts/51d3d63ab96c4eea95007c94b5a532fb) - (v.2.0) posting a blog from a template, especially useful for guest posts or podcast posts (very specific to my blog!) - 13.01.25
 - [Quick Blog](https://www.icloud.com/shortcuts/134b408b5a534abda9d92af667d0e61f) - a way to post quickly something - like a Toot but directly to my blog! - 18.11.24
 - [Blog Something](https://www.icloud.com/shortcuts/daecdb54b60f4b1aa9307683bbb954e0) - quickly adding a draft of a post off an idea to iA Writer - 18.11.24
@@ -143,6 +143,7 @@ Previous versions:
 
 - [Link Title](https://www.icloud.com/shortcuts/5be8c6fe784e458e8377b5a4a0847799) - Getting the titles of web pages - 17.03.25 - for Nadgryzieni. [Link Title page](/linktitle) - updated with my embed code.
 - [Test - Blanks or Not](https://www.icloud.com/shortcuts/b5981baf7bf645c390aeec624fd15cb3) - testing [blanks on iOS18 and beyond](/blanks) - 10.12.24
+- [Nozbe Parser](https://www.icloud.com/shortcuts/5a024c83f7f248f68db2ce274b02b485) - regexp way of adding automatically my campaign ID to any Nozbe link - 1.04.25
 - [Function Test](https://www.icloud.com/shortcuts/fce5d8926ff74678b670042623108e0d) - testing functions - how you can ask for the same shortcut with different params - 05.24
 - [Menu Test](https://www.icloud.com/shortcuts/c57d2da75abe4b5ca1af843f4955c5fd) - example of creating menu using Contacts list hack. - 04.12.24
 - [Rich Text from Markdown](https://www.icloud.com/shortcuts/04fe79d8e9a74cea9448733fe0db8c4c) - hack how to use utf-8 to convert markdown to rich text properly - 18.11.24
