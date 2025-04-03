@@ -83,6 +83,8 @@ As a by-product of journal I've created a [Gratitude journal](/gratitude/) for t
 
 I'm working currently on Journal4 with JSON support for languages and settings and more cool features (and dropping Notes support):
 
+- [Planning 1.0](https://www.icloud.com/shortcuts/96a1be217a4947948d1b6903afa15893) - new planning NOT based on additional files. Later to be integrated in the main Journal Shortcut.
+- [Journal 3.6](https://www.icloud.com/shortcuts/72a47fe708794a43b9cd1de97300a1a8) - support for new Planning
 - [Journal 3.41](https://www.icloud.com/shortcuts/e8a2dfc2af144e81be1b6f4071657be6) - support for evening drafts
 - [Jounal 3.3](https://www.icloud.com/shortcuts/08fd43e46fef4d8282a9e8f03480af04) - added JSON settings support - 14.01.25
 - [Journal 3.2](https://www.icloud.com/shortcuts/7f01ef2256314dd7ab6125dcac8594eb) - WIP with new date formatting and images preview - 13.01.25
