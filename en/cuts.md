@@ -9,7 +9,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 ## [Action button](/action/)
 
-- [Action button template](https://www.icloud.com/shortcuts/697fc874b91a42a7902e525e7273e984) - 31.01.24
+- [Action button template](https://www.icloud.com/shortcuts/6c66883d182a47dbb75fec0015d5cb93) - latest version of Action button with native Orientation - 4.04.25
 - [Akcja 🇵🇱](https://www.icloud.com/shortcuts/116534d8a03b4aa59990916372c93198) - [announcement in Polish](/pl/action/) - 31.01.24
 - [My action button with Clippy and new WatchNotes](https://www.icloud.com/shortcuts/85ca502fdc8a4dd4b6f5f331c183d53a) - 18.11.24
 - [Launcher](https://www.icloud.com/shortcuts/cd9d3494fe3f492295b797e19fae5e01) - my old pre-coursor of the action button - 01.20 - features side-by-side set up as well. No longer need it.

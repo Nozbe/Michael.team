@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michael.team to-do list</title>
+	<link rel="stylesheet" href="/css/todo.css">
+    <script src="/js/todo-lists.js"></script>
+</head>
+<body>
+    <h1>To-Do List "<span id="listSpan"></span>" for <span id="userSpan"></span></h1>
+    
+    <!-- Form for adding tasks -->
+    <form id="taskForm">
+        <input type="text" id="taskInput" placeholder="Enter a task" required>
+        <button type="submit">Add Task</button>
+    </form>
+    
+    <!-- Display the to-do list -->
+    <h2>Your To-Do List:</h2>
+    <ul id="todoList"></ul>
+    
+    <button id="resetButton">Reset To-Do List</button>
+    <script src="/js/todo.js"></script>
+</body>
+</html>
