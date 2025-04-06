@@ -8,20 +8,17 @@
     <script src="/js/todo-lists.js"></script>
 </head>
 <body>
-    <h1>To-Do List<span id="listSpan"></span> for <span id="userSpan"></span></h1>
-    
+    <h1>To-Do List<span id="listSpan"></span> for <span id="userSpan"></span></h1>    
+    <ul id="todoList"></ul>
     <!-- Form for adding tasks -->
-    <form id="taskForm">
-        <input type="text" id="taskInput" placeholder="Enter a task" required>
+<button id="showTaskFormButton">Add Task</button>
+<div id="taskFormContainer" style="display: none;">
+    <form id="taskForm"><a style="text-decoration:none;" id="hideTaskForm">❌</a>&nbsp;<input type="text" id="taskInput" placeholder="Enter a task" required>
         <button type="submit">Add Task</button>
     </form>
-    
-    <!-- Display the to-do list -->
-    <h2>Your To-Do List:</h2>
-    <ul id="todoList"></ul>
-    
-    <button id="resetButton">Reset To-Do List</button>
+</div>
 
+<p><br><a style="text-decoration:none;" id="resetLink">Reset to do list</a></p>
     <!-- Detect Safari so we can load different versions for iOS9 on my old iPad -->
     <script>
         function isSafariBelow10() {
@@ -40,6 +37,7 @@
             script.src = "/js/todo-old.js"; // old Safari
             document.body.appendChild(script);
         } else {
+            console.log("Loading modern JavaScript");
             var script = document.createElement("script");
             script.src = "/js/todo.js"; // Modern
             document.body.appendChild(script);

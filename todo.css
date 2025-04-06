@@ -32,15 +32,6 @@ button:hover {
     background-color: #45a049;
 }
 
-#resetButton {
-    background-color: #f44336; /* Red for Reset button */
-    margin: 10px 0;
-}
-
-#resetButton:hover {
-    background-color: #d32f2f;
-}
-
 /* Task input form */
 #taskForm {
     margin: 20px auto;
@@ -120,4 +111,17 @@ button:hover {
 #listSelector:focus {
     outline: none;
     border-color: #4CAF50;
+}
+
+@keyframes highlight {
+    0% {
+        background-color: #ffff99;
+    }
+    100% {
+        background-color: #f9f9f9;
+    }
+}
+
+.highlight {
+    animation: highlight 2s ease-in-out;
 }

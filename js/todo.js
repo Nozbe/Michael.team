@@ -7,7 +7,11 @@ let todoList = JSON.parse(localStorage.getItem(params.save)) || lists[params.lis
 const taskForm = document.getElementById("taskForm");
 const taskInput = document.getElementById("taskInput");
 const todoListElement = document.getElementById("todoList");
-const resetButton = document.getElementById("resetButton");
+const resetButton = document.getElementById("resetLink");
+
+const showTaskFormButton = document.getElementById("showTaskFormButton");
+const taskFormContainer = document.getElementById("taskFormContainer");
+const hideTaskForm = document.getElementById("hideTaskForm");
 
 function getParams () {
 	const queryString = window.location.search;
@@ -56,6 +60,14 @@ function addTask(task) {
     todoList.push({ text: task, completed: false }); // Add a new task object with `completed` state
     saveToLocalStorage();
     updateTaskList();
+    // Add highlight to the newly added task
+    const firstListItem = todoListElement.lastChild; // Select the last list item
+    if (firstListItem) {
+        firstListItem.classList.add("highlight");
+        setTimeout(() => {
+            firstListItem.classList.remove("highlight"); // Remove the class after animation ends
+        }, 2000); // Match the animation duration
+    }
 }
 
 // Function to update the HTML view of tasks
@@ -125,12 +137,26 @@ taskForm.addEventListener("submit", (event) => {
     if (task) {
         addTask(task);
         taskInput.value = "";
+        taskFormContainer.style.display = "none";
+        showTaskFormButton.style.display = "inline-block";
     }
 });
 
 // Event listener for Reset button
 resetButton.addEventListener("click", () => {
     resetTodoList();
+});
+
+// Toggle the visibility of the task form
+showTaskFormButton.addEventListener("click", function () {
+	taskFormContainer.style.display = "block"; // Show the form
+	showTaskFormButton.style.display = "none";
+	taskInput.focus();
+});
+
+hideTaskForm.addEventListener("click", function () {
+	taskFormContainer.style.display = "none"; // Hide the form
+	showTaskFormButton.style.display = "inline-block";
 });
 
 //Capitalize first letter

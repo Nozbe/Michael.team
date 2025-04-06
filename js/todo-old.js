@@ -10,7 +10,11 @@ var todoList = JSON.parse(localStorage.getItem(params.save)) || lists[params.lis
 var taskForm = document.getElementById("taskForm");
 var taskInput = document.getElementById("taskInput");
 var todoListElement = document.getElementById("todoList");
-var resetButton = document.getElementById("resetButton");
+var resetButton = document.getElementById("resetLink");
+
+var showTaskFormButton = document.getElementById("showTaskFormButton");
+var taskFormContainer = document.getElementById("taskFormContainer");
+var hideTaskForm = document.getElementById("hideTaskForm");
 
 // Function to retrieve URL parameters (replaces URLSearchParams)
 function getParams() {
@@ -65,6 +69,14 @@ function addTask(task) {
     todoList.push({ text: task, completed: false }); // Add a new task object
     saveToLocalStorage();
     updateTaskList();
+    // Add highlight manually
+    var firstListItem = todoListElement.lastChild;
+    if (firstListItem) {
+        firstListItem.style.backgroundColor = "#ffff99"; // Highlight color
+        setTimeout(function() {
+            firstListItem.style.backgroundColor = "#f9f9f9"; // Default color
+        }, 2000);
+    }
 }
 
 // Function to update the HTML view of tasks
@@ -142,12 +154,26 @@ taskForm.addEventListener("submit", function (event) {
     if (task) {
         addTask(task);
         taskInput.value = "";
+        taskFormContainer.style.display = "none";
+        showTaskFormButton.style.display = "inline-block";
     }
 });
 
 // Add event listener for Reset button
 resetButton.addEventListener("click", function () {
     resetTodoList();
+});
+
+// Toggle the visibility of the task form
+showTaskFormButton.addEventListener("click", function () {
+	taskFormContainer.style.display = "block"; // Show the form
+	showTaskFormButton.style.display = "none";
+	taskInput.focus();
+});
+
+hideTaskForm.addEventListener("click", function () {
+	taskFormContainer.style.display = "none"; // Hide the form
+	showTaskFormButton.style.display = "inline-block";
 });
 
 // Function to capitalize the first letter of a string
