@@ -25,19 +25,18 @@ function getParams () {
 	}
 	let listName = "default";
 	let listNamePrint = "";
-	if (list) {
-//		console.log(lists[list]);
-		if (lists[list]) {
-			listName = list;
-		}
-	}
+    if (list && lists[list]) {
+        listName = list;
+    }
 	let userSpan = user;
+	let savedListName = "todoList";
 	if (!user) {
 		userSpan = "you";
+	} else {
+		savedListName = "todoList"+user;
 	}
-	let savedListName = "todoList"+user;
 	if (listName!=="default") {
-		savedListName = "todoList"+user+"-"+listName;
+		savedListName = savedListName+"-"+listName;
 		listNamePrint = " \""+listName+"\"";
 	}
 	document.getElementById("userSpan").textContent = capitalizeFirstLetter(userSpan);
@@ -51,7 +50,6 @@ function getParams () {
 
 // Function to save tasks to Local Storage
 function saveToLocalStorage() {
-	console.log(params.save);
     localStorage.setItem(params.save, JSON.stringify(todoList));
 }
 

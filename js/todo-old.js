@@ -43,11 +43,14 @@ function getParams() {
         listName = list;
     }
     var userSpan = user ? user : "you";
-    var savedListName = "todoList" + user;
-    if (listName !== "default") {
-        savedListName = "todoList" + user + "-" + listName;
+	var savedListName = "todoList";
+	if (user) {
+		savedListName = "todoList"+user;
+	}
+	if (listName!=="default") {
+		savedListName = savedListName+"-"+listName;
 		listNamePrint = " \""+listName+"\"";
-    }
+	}
     document.getElementById("userSpan").textContent = capitalizeFirstLetter(userSpan);
     document.getElementById("listSpan").textContent = capitalizeFirstLetter(listNamePrint);
 
