@@ -1,10 +1,10 @@
 const lists = {
     "default": [
-        "Put clothes on 🩲",
-        "Eat Breakfast 🥐",
+        "Put clothes on 👕",
+        "Eat Breakfast 🍱",
         "Fill the water bottle 🍼",
 		"Put shoes on 👟",
-		"Comb hair 🪮"
+		"Comb hair 💆"
     ],
     "usa": [
 		"Flipflops 🩴",

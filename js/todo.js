@@ -20,6 +20,7 @@ function getParams () {
     	const listdata = JSON.parse(decodeURIComponent(encodedJson));
 	}
 	let listName = "default";
+	let listNamePrint = "";
 	if (list) {
 //		console.log(lists[list]);
 		if (lists[list]) {
@@ -33,9 +34,10 @@ function getParams () {
 	let savedListName = "todoList"+user;
 	if (listName!=="default") {
 		savedListName = "todoList"+user+"-"+listName;
+		listNamePrint = " \""+listName+"\"";
 	}
 	document.getElementById("userSpan").textContent = capitalizeFirstLetter(userSpan);
-	document.getElementById("listSpan").textContent = capitalizeFirstLetter(listName);
+	document.getElementById("listSpan").textContent = capitalizeFirstLetter(listNamePrint);
 	return {
 		'user' : user,
 		'list' : listName,

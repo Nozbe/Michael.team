@@ -8,7 +8,7 @@
     <script src="/js/todo-lists.js"></script>
 </head>
 <body>
-    <h1>To-Do List "<span id="listSpan"></span>" for <span id="userSpan"></span></h1>
+    <h1>To-Do List<span id="listSpan"></span> for <span id="userSpan"></span></h1>
     
     <!-- Form for adding tasks -->
     <form id="taskForm">
@@ -40,7 +40,6 @@
             script.src = "/js/todo-old.js"; // old Safari
             document.body.appendChild(script);
         } else {
-            console.log("Loading modern JavaScript");
             var script = document.createElement("script");
             script.src = "/js/todo.js"; // Modern
             document.body.appendChild(script);
