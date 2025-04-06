@@ -21,6 +21,30 @@
     <ul id="todoList"></ul>
     
     <button id="resetButton">Reset To-Do List</button>
-    <script src="/js/todo.js"></script>
+
+    <!-- Detect Safari so we can load different versions for iOS9 on my old iPad -->
+    <script>
+        function isSafariBelow10() {
+            var userAgent = navigator.userAgent.toLowerCase(); // Get the browser's user agent string
+            var isSafari = userAgent.includes("safari") && !userAgent.includes("chrome"); // Detect Safari (exclude Chrome)
+            if (isSafari) {
+                var safariVersionMatch = userAgent.match(/version\/(\d+)/); // Extract Safari version
+                if (safariVersionMatch && parseInt(safariVersionMatch[1], 10) < 10) {
+                    return true; // Safari version is below 10
+                }
+            }
+            return false; // Not Safari below version 10
+        }
+        if (isSafariBelow10()) {
+            var script = document.createElement("script");
+            script.src = "/js/todo-old.js"; // old Safari
+            document.body.appendChild(script);
+        } else {
+            console.log("Loading modern JavaScript");
+            var script = document.createElement("script");
+            script.src = "/js/todo.js"; // Modern
+            document.body.appendChild(script);
+        }
+    </script>
 </body>
 </html>
