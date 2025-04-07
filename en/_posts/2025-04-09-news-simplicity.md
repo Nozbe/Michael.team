@@ -2,6 +2,7 @@
 tags: [news]
 img: "news-simplicity.jpg"
 t: https://x.com/nozbe/status/1909242996501156241
+l: https://www.linkedin.com/pulse/why-less-more-productivity-michael-sliwinski-awacf
 ---
 
 # Why less is more in productivity?
