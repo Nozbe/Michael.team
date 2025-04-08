@@ -11,7 +11,7 @@ vid: "vq8O3VZJpd4"
 
 <!--More-->
 
-
+### [Magda opisała ten wywiad też na blogu Nozbe](https://nozbe.com/pl/blog/efektywny-podcast-z-michalem-sliwinskim/)
 
 
 [n]: https://michael.gratis/nozbe_pl
