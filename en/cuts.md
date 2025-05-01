@@ -82,7 +82,9 @@ As a by-product of journal I've created a [Gratitude journal](/gratitude/) for t
 ### Journal 4 in development
 
 I'm working currently on Journal4 with JSON support for languages and settings and more cool features (and dropping Notes support):
-- [Journal 4.23](https://www.icloud.com/shortcuts/5f467be5dd7f47d389a0ca6147812f52) - latest Journal 4 re-written from sratch in April 2025 with planning and all.
+
+- [Journal 4.233 beta](https://www.icloud.com/shortcuts/34ba0a330c46445f9844020180ee9205) - release candidate of the Journal 4 - renamed from previous "Journaling" code name. 01.05.25
+- [Journaling 4.232 beta](https://www.icloud.com/shortcuts/92fc63cc02194444878b4e287b8f9bc5) - latest Journal 4 re-written from sratch in April 2025 with planning and all. [And config in JSON](https://michael.team/txt/journal4.json). 01.05.25
 - [Planning 1.0](https://www.icloud.com/shortcuts/96a1be217a4947948d1b6903afa15893) - new planning NOT based on additional files. Later to be integrated in the main Journal Shortcut.
 - [Journal config](https://www.icloud.com/shortcuts/1ce9ff7e44f04903a70ef062f33d68b3) - testing remote config - 03.25
 - [Journal 3.6](https://www.icloud.com/shortcuts/72a47fe708794a43b9cd1de97300a1a8) - support for new Planning
