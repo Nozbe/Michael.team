@@ -1,0 +1,50 @@
+{
+  "LANG": {
+    "English": {
+  "ALANG": "EN",
+  "A_NO": "❌ No",
+  "A_YES": "👍 Yes",
+  "ADD_MENU": "✍️ Add something to journal…",
+  "CALENDAR": "Calendar",
+  "EVENING": "Evening",
+  "EVENING_MENU": "📝 Evening Journal",
+  "MORNING": "Morning",
+  "MORNING_MENU": "🙏 Morning Gratitude",
+  "GOALS": "Review Your Goals!",
+  "GOALS_DEF": "— This Quarter —\n☑️ Goal\n\n— This Year —\n✅ Accomplishment\n\n— My Life —\n💪 Important",
+  "GOALS_MENU": "💪 Set/Review Goals",
+  "GOALS_NO": "Clear and leave blank for no goals.",
+  "JOURNAL": "Journal",
+  "JOURNAL_MENU": "📖 Open Journal file",
+  "PHOTO": "Choose a day for photo memory",
+  "PHOTO_DEL": "🗑️ Delete it and skip photo memory",
+  "PHOTO_KEEP": "📷 Keep this photo memory",
+  "PHOTO_MENU": "📸 Photos of the day",
+  "PHOTO_NO": "No photos taken today so a photo memory can’t be created.",
+  "PHOTO_REGEN": "🔄 Re-generate photo memory",
+  "PLAN": "✅ deep work\n🤝 meeting\n📊 shallow work\n❌ no work",
+  "PLAN_MENU": "Plan your day",
+  "PLAN_SAVE": "Save plan to journal?",
+  "QAW": "What was AWESOME today?",
+  "QBE": "What could have made today BETTER?",
+  "QCA": "What’s in calendar (one event per line)?",
+  "QNO": "Anything else?",
+  "QONE": "What’s the ONE thing I can do such that by doing it everything else will be easier or unnecessary?",
+  "QOP": "Thankful for an OPPORTUNITY?",
+  "QSM": "Thankful for something SMALL?",
+  "QSP": "Which SPORTS I did?",
+  "QTA": "What needs to be done tomorrow? Let’s list 1-3 Most Important Tasks (one per line)",
+  "QYE": "Thankful for what happened YESTERDAY?",
+  "START": "🗓️ New start date of the journal?",
+  "START_MENU": "🗓️ Change date",
+  "TASKS": "Tasks",
+  "TIME": "Time of entry?",
+  "WORK": "Work"
+},
+    "Polski": {
+
+    }
+  },
+  "VERSION": "4.0",
+"DAY":"8-8:30\n8:30-9\n9-9:30\n9:30-10\n10-10:30\n10:30-11\n11-11:30\n11:30-12\n12-12:30\n12:30-13\n13-13:30\n13:30-14\n14-14:30\n14:30-15\n15-15:30\n15:30-16\n16-16:30\n16:30-17\n17-17:30\n17:30-18\n18-18:30\n18:30-19\n19-19:30\n19:30-20"
+}
