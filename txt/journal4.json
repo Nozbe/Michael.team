@@ -16,6 +16,7 @@
       "GOALS_NO": "Clear and leave blank for no goals.",
       "JOURNAL": "Journal",
       "JOURNAL_ADD": "✍️ Entry added to Journal.",
+      "JOURNAL_ERR": "⚠️ Error getting setup information from my blog: Michael.team - please try again later. 🌐",
       "JOURNAL_GE": "Good night! 🌛",
       "JOURNAL_GM": "Have a wonderful day! ☀️",
       "JOURNAL_MENU": "📖 Open Journal file",
@@ -61,6 +62,7 @@
       "GOALS_NO": "Wyczyść i zostaw puste jeśli nie chcesz widzieć celów.",
       "JOURNAL": "Dziennik",
       "JOURNAL_ADD": "✍️ Wpis dodany do Dziennika.",
+      "JOURNAL_ERR": "⚠️ Błąd przy pobieraniu danych konfiguracyjnych z mojego bloga: Michael.team - proszę spróbuj później. 🌐",
       "JOURNAL_GE": "Dobrej nocy! 🌛",
       "JOURNAL_GM": "Miłego dnia! ☀️",
       "JOURNAL_MENU": "📖 Otwórz plik dziennika",
@@ -93,5 +95,5 @@
   },
   "DAY": "8-8:30\n8:30-9\n9-9:30\n9:30-10\n10-10:30\n10:30-11\n11-11:30\n11:30-12\n12-12:30\n12:30-13\n13-13:30\n13:30-14\n14-14:30\n14:30-15\n15-15:30\n15:30-16\n16-16:30\n16:30-17\n17-17:30\n17:30-18\n18-18:30\n18:30-19\n19-19:30\n19:30-20",
   "CHANGELOG": "- 4.31 - added notifications\n- 4.27 - update mechanism\n- 4.25 - simplified code\n- 4.24 - new ID and planning to CSV\n- 4.23 - fix New Year\n- 4.22 - setup\n- 4.20 - photo fixes \n- 4.19 - planning\n- 4.18 - morning done\n- 4.16 - goals update \n- 4.15 - photo as function + menu option to regenerate \n- 4.13 - evening works + adding  + reset",
-  "VERSION": 32
+  "VERSION": 34
 }
