@@ -5,5 +5,5 @@ redirect_from:
   - /tag/applewatch/
   - /tag/AppleWatch/
   - /AppleWatch/
-cover: now210103.jpg
+cover: jeepwatch.jpg
 ---
