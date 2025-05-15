@@ -1,6 +1,6 @@
 ---
 tags: [produktywnosc]
-cover: "niemabiura-71t.jpg"
+img: "niemabiura-71t.jpg"
 t: https://x.com/nozbePL/status/1902317103585337749
 ---
 
@@ -9,7 +9,7 @@ t: https://x.com/nozbePL/status/1902317103585337749
 Praca zdalna ma mnóstwo zalet, ALE wiąże się też z wyzwaniami, które mogą utrudniać utrzymanie produktywności i zdrowej równowagi między życiem prywatnym i zawodowym. Oto one:
 <!--More-->
 
-![{{ page.title }}](/img/{{ page.cover }})
+![{{ page.title }}](/img/{{ page.img }})
 
 * TOC
 {:toc}
@@ -54,7 +54,7 @@ Jeśli twoje mieszkanie jest za małe, możesz skorzystać z przestrzeni co-work
 
 Przykłady z życia wzięte znajdziesz w najnowszym odcinku podcastu #NieMaBiura na:
 
-niemabiura.pl/71
+[🔗➡️ NieMaBiura.pl/71](/pl/niemabiura-71/)
 
 [n]: https://michael.gratis/nozbe_pl
 [np]: https://michael.gratis/nozbepersonal_pl
