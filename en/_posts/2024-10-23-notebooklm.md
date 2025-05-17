@@ -1,5 +1,5 @@
 ---
-tags: [vlog]
+tags: [productivity]
 cover: "thenotebooklm.jpg"
 social: "notebooklm.jpg"
 podcast: 1538743591
