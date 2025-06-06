@@ -153,7 +153,7 @@ Previous versions:
 
 ## Other Shortcuts
 
-- [Link Title](https://www.icloud.com/shortcuts/5be8c6fe784e458e8377b5a4a0847799) - Getting the titles of web pages - 17.03.25 - for Nadgryzieni. [Link Title page](/linktitle) - updated with my embed code.
+- [Link Title](https://www.icloud.com/shortcuts/5be8c6fe784e458e8377b5a4a0847799) - Getting the titles of web pages - 17.03.25 - for Nadgryzieni. [Link Title page](/linktitle)
 - [Test - Blanks or Not](https://www.icloud.com/shortcuts/b5981baf7bf645c390aeec624fd15cb3) - testing [blanks on iOS18 and beyond](/blanks) - 10.12.24
 - [Nozbe Parser](https://www.icloud.com/shortcuts/5a024c83f7f248f68db2ce274b02b485) - regexp way of adding automatically my campaign ID to any Nozbe link - 1.04.25
 - [Function Test](https://www.icloud.com/shortcuts/fce5d8926ff74678b670042623108e0d) - testing functions - how you can ask for the same shortcut with different params - 05.24

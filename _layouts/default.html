@@ -7,7 +7,7 @@
 	{% capture descbook %}book{{ langvar }}{% endcapture %}
 {% endif %}
 
-<title>{% if page.title %}{{ page.title }}{% if thisbook %} - {{ site.data.main.[descbook] }} - {{ site.data.[thisbook].title }}{% endif %} – {{ site.data.main.[pagetitleshort] }}{% else %}{{ site.data.main.[pagetitle] }}{% endif %}</title>
+<title>{% if page.title %}{{ page.title }}{% if thisbook %} - {{ site.data.[thisbook].title }} | {{ site.data.main.[descbook] }}{% endif %} | {{ site.data.main.[pagetitleshort] }}{% else %}{{ site.data.main.[pagetitle] }}{% endif %}</title>
 
 <meta charset="utf-8" />
 <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>

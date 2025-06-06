@@ -51,14 +51,16 @@ If there are any other web pages that are not compatible with this shortcut, [pl
 
 Other than that, enjoy [this LinkTitle Shortcut][l].
 
-## P.S. Updated it with "embed" support for YouTube videos
+## Version history
 
-On my blog I have a special "embed" code block for videos so for that purpose I updated this Shortcut (March 17, 2025) to support my kind of embed. If you have your own embed code, you can customize it.
+- **[1.6][l]** - June 6, 2025 - support for removing names of the sites from title links, like "| The Verge" or "| iMagazine"
+- **[1.5][l15]** - March 17, 2025 - on my blog I have a special "embed" code block for videos so I updated this Shortcut withmy kind of embed. If you have your own embed code, feel free to customize it.
+- **[1.0][l1]** - January 15, 2025 - initial version.
 
-### 🔗 [Link Title 1.5 with embed support][l2]
+### 🔗 [Link Title 1.6][l]
 
-[l2]: https://www.icloud.com/shortcuts/5be8c6fe784e458e8377b5a4a0847799
-[l]: https://www.icloud.com/shortcuts/d864d14881b848c28475a76960e256d3
+[l]: https://www.icloud.com/shortcuts/2aa4a337e71445e79d62bb35f5277e91
+[l15]: https://www.icloud.com/shortcuts/5be8c6fe784e458e8377b5a4a0847799
+[l1]: https://www.icloud.com/shortcuts/d864d14881b848c28475a76960e256d3
 
 [n]: https://michael.gratis/nozbe
-[np]: https://michael.gratis/nozbepersonal

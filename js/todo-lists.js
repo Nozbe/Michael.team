@@ -1,12 +1,15 @@
 const lists = {
-    "default": [
-        "Put clothes on 👕",
-        "Eat Breakfast 🍱",
-        "Fill the water bottle 🍼",
+	"default": [
+		"Write tasks below 👇"
+	],
+	"daily": [
+		"Put clothes on 👕",
+		"Eat Breakfast 🍱",
+		"Fill the water bottle 🍼",
 		"Put shoes on 👟",
 		"Comb hair 💆"
-    ],
-    "usa": [
+	],
+	"usa": [
 		"Flipflops 🩴",
 		"Sandals 👡",
 		"Bathing Suit 🩱",
@@ -24,7 +27,7 @@ const lists = {
 		"PJ short",
 		"PJ long",
 		"Headphones 🎧"
-    ],
+	],
 	"trip": [
 		"🎒 SMALL BACKPACK with water bottle and a game, book, or similar item",
 		"🪥 Toiletry bag: comb or brush, shower gel and shampoo toothbrush and toothpaste, etc.",

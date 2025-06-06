@@ -8,17 +8,17 @@ title: "Michael.team by Michael Sliwinski"
 title_pl: "Michael.team/pl Michała Śliwińskiego"
 title_es: "Michael.team/es de Michael Sliwinski"
 
-titleshort: "by Michael Sliwinski"
+titleshort: "Michael Sliwinski"
 titleshort_pl: "Michał Śliwiński"
-titleshort_es: "de Michael Sliwinski"
+titleshort_es: "Michael Sliwinski"
 
 locale: en_EN
 locale_pl: pl_PL
 locale_es: es_ES
 
-book: Book
-book_pl: "Książka"
-book_es: "Libro"
+book: "Book by Michael Sliwinski"
+book_pl: "Książka Michała Śliwińskiego"
+book_es: "Libro de Michael Sliwinski"
 
 share: "Copy & share"
 share_pl: "Prześlij dalej"
