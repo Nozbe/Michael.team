@@ -39,7 +39,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 - [JPG/PNG Images](https://www.icloud.com/shortcuts/42b979d708464f2aac4f807a162034ad) - my internal way to compress images using Tinify and putting the stuff in my Repos and posting on Mastodon. - update 01.04.25
 - [PNG/JPG Images](https://www.icloud.com/shortcuts/49ee1aa8af6c4a27a63df4cbe3fa58cf) - version without Tinify, just with 0.5 JPG compression, when Tinify failed me - 09.09.24
 - [Compress Image with Tinify](https://www.icloud.com/shortcuts/98eb76b7bbbc4c5996d39bc567f3b654) - official shortcut - 10.24
-- [Michael.team post](https://www.icloud.com/shortcuts/8199e988f62e45d895b420ac49f64171) - conversion of text from raw text to a blog post - update 1.1 adding campaigns to nozbe links - 1.04.25
+- [Michael.team post](https://www.icloud.com/shortcuts/c005686e2b2f432aa030347c5fd48a16) - conversion of text from raw text to a blog post - update 1.2 with png support - 7.06.25
 - [Check name on Michael.team](https://www.icloud.com/shortcuts/c64fabdd915247e48b92759144f746a1) - check if certain post name already exists (required by above Shortcut) - update 01.04.25
 - [Blog Templating](https://www.icloud.com/shortcuts/51d3d63ab96c4eea95007c94b5a532fb) - (v.2.0) posting a blog from a template, especially useful for guest posts or podcast posts (very specific to my blog!) - 13.01.25
 - [Quick Blog](https://www.icloud.com/shortcuts/134b408b5a534abda9d92af667d0e61f) - a way to post quickly something - like a Toot but directly to my blog! - 18.11.24
@@ -61,27 +61,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 ## [Journaling](/journal/)
 
-I've been [journaling](/journal/) since 2016 with Shortcuts (and before that Workflow) and [this is my latest version (3.0)](/journal3):
-
-- [**Journal 3.0**](https://www.icloud.com/shortcuts/eac9efc4c5d7488ebe0a1874b75840a8) - the latest [published Journal](/journal3/)
-- [Journal 3.0 in Spanish](https://www.icloud.com/shortcuts/2b7884fd37b2474da1beb96b7711f5af)
-- [Journal 3.0 in Polish](https://www.icloud.com/shortcuts/f25ab65899e74bbcbcb6a61adc178109) - [announcement in Polish](/pl/dziennik3/)
-- [Morning Planning](https://www.icloud.com/shortcuts/ea2b8d8ccd634d6596bc88d7521b4507)
-- [Morning Planning in Spanish](https://www.icloud.com/shortcuts/a28014d33e2a4fe1acd64c6beea08a2b)
-- [Morning Planning in Polish](https://www.icloud.com/shortcuts/7e83a2b485fa4331945e6088536c48d5)
-- [Open Today](https://www.icloud.com/shortcuts/dbcb8dbd05da404bbaf805a70bb867d9)
-- [Open Today in Spanish](https://www.icloud.com/shortcuts/8f6a276759f34b58bc2adab4f4e061df)
-- [Open Today in Polish](https://www.icloud.com/shortcuts/7e83a2b485fa4331945e6088536c48d5)
-
-As a by-product of journal I've created a [Gratitude journal](/gratitude/) for those who want to just practice gratitude every day:
-
-- [Gratitude](https://www.icloud.com/shortcuts/1206759d36c34963860e5985aff63466)
-- [Gratitude in Polish](https://www.icloud.com/shortcuts/a7d8401d7d124b05befd5b070d0b5425) - [announcement in Polish](/pl/wdziecznosc/)
-- [Gratitude Translations](https://www.icloud.com/shortcuts/01f035c0753e4c228da706edcf2571d8) - translations of Gratitude in one Shortcut.
-
-### Journal 4 in development
-
-I'm working currently on Journal4 with JSON support for languages and settings and more cool features (and dropping Notes support):
+I've been [journaling](/journal/) since 2016 with Shortcuts (and before that Workflow) and [this is my latest version 4)](/journal4):
 
 - [Journal 4.38](https://www.icloud.com/shortcuts/23704c3c59bd48789222d219193624ce) - release version 13.05.25
 - [Journal 4.36](https://www.icloud.com/shortcuts/0a7875d161c84de794d3ef69d2dacde7) - pre-release version - 12.05.25
@@ -153,7 +133,7 @@ Previous versions:
 
 ## Other Shortcuts
 
-- [Link Title](https://www.icloud.com/shortcuts/5be8c6fe784e458e8377b5a4a0847799) - Getting the titles of web pages - 17.03.25 - for Nadgryzieni. [Link Title page](/linktitle)
+- [Link Title](https://www.icloud.com/shortcuts/2aa4a337e71445e79d62bb35f5277e91) - Getting the titles of web pages - 6.06.25 - for Nadgryzieni. [Link Title page](/linktitle)
 - [Test - Blanks or Not](https://www.icloud.com/shortcuts/b5981baf7bf645c390aeec624fd15cb3) - testing [blanks on iOS18 and beyond](/blanks) - 10.12.24
 - [Nozbe Parser](https://www.icloud.com/shortcuts/5a024c83f7f248f68db2ce274b02b485) - regexp way of adding automatically my campaign ID to any Nozbe link - 1.04.25
 - [Function Test](https://www.icloud.com/shortcuts/fce5d8926ff74678b670042623108e0d) - testing functions - how you can ask for the same shortcut with different params - 05.24
