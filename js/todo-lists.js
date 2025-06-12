@@ -1,5 +1,5 @@
 const lists = {
-	"default": [
+	"todo": [
 		"Write tasks below 👇"
 	],
 	"daily": [
@@ -28,6 +28,21 @@ const lists = {
 		"PJ long",
 		"Headphones 🎧"
 	],
+	"week": [
+"📥Clean up inboxes and desk",
+"💌Clean up Email inbox",
+"☑️Clean up Nozbe inbox",
+"💻Clean up Downloads folder",
+"💪Review your goals",
+"🗓️Review last week’s calendar",
+"⏰Check what’s coming next week",
+"✅Go through each of your projects",
+"⁉️Ask yourself: does it belong here? Is it still relevant? Is there anything new to be added here? Is the due date realistic?",
+"✔️Complete some projects and clean up to focus on the essential.",
+"✍️Set your new goals for next week",
+"📝Plan next week, block times for deep work",
+"🎉Celebrate a weekly review done well!"
+],
 	"trip": [
 		"🎒 SMALL BACKPACK with water bottle and a game, book, or similar item",
 		"🪥 Toiletry bag: comb or brush, shower gel and shampoo toothbrush and toothpaste, etc.",
