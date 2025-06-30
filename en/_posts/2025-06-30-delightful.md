@@ -5,7 +5,7 @@ vid: "0CDSRTx6kkA"
 
 # Delightful feature - converting a section or task to a project
 
-I’ve been running [Nozbe][n] for the last [18 years](/immature) and the value of [simplicity](/nozbe-values) has always been my northern star. That’s why whenever a Nozbe user finds one of these simplifying features **delightful** it always makes my day. Watch one of our [Nozbe experts](https://nozbe.com/expert?c=michaelteam), **[Mike St Pierre](https://www.mikestpierre.com)** discovered how easy it is to convert a section of a project into its own project in [Nozbe][n] with one easy click:
+I’ve been running [Nozbe][n] for the last [18 years](/immature) and the value of [simplicity](/nozbe-values) has always been my northern star. That’s why whenever a Nozbe user finds one of these simplifying features **delightful** it always makes my day. Watch one of our users and [experts!](https://nozbe.com/expert?c=michaelteam), **[Mike St Pierre](https://www.mikestpierre.com)** discovering how easy it is to convert a section of a project into its own project in [Nozbe][n] with one easy click:
 
 {% include video.html id=page.vid %}
 
