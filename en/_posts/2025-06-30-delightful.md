@@ -25,7 +25,7 @@ Splitting projects into sections can be very powerful:
 
 …if you use a check list. Here’s Mike’s section if it was a checklist in a task and how easy it’d be to convert it to a project right from this task:
 
-<!--Image-->task
+![{{ page.title }} task](/img/delightful-task.png)
 
 All you have to do is tap on task's options and choose "convert into a project" and voila!
 
