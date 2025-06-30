@@ -3,13 +3,13 @@ permalink: /promo/
 img: promo-25.jpg
 ---
 
-# Nozbe promo?
+# Nozbe promo!
 
-On this page I post if/when we are running a special offer for [Nozbe][n] - my [task and project manager](/nozbe) that helps *SMART business owners and their teams get their private and professional life organized in a simple way*.
+Special offer for [Nozbe - my task and project manager](/nozbe) that helps *SMART business owners and their teams get their private and professional life organized in a simple way*.
 
 [![{{ page.title }}](/img/{{ page.img }})][l]
 
-## Promo: Get 3 months of Nozbe Premium/Business for free!
+## Get 3 months of Nozbe Premium/Business for free!
 
 Terms:
 
@@ -35,7 +35,7 @@ Does it matter which tier of Premium or Business I buy?
 
 > Doesn't matter, if you buy any plan for a year, you'll get the additional 3 months on top of it. Premium plan for 3 people? Business plan for 1 person? Premium for 5? Same difference. 😛
 
-What's the difference between Nozbe Premium or Business
+What's the difference between Nozbe Premium or Business?
 
 > With Nozbe Premium, you upgrade 1 workspace to unlimited projects. With Nozbe Business you can have [many workspaces with unlimited projects][l]. Plus additional smaller features.
 
@@ -45,7 +45,7 @@ What's the difference between Nozbe Premium or Business
 
 [![{{ page.title }}](/img/{{ page.img }})][ln]
 
-## Promo: get $15USD / 60PLN in credits!
+## Get $15USD / 60PLN in credits if you sign up today!
 
 Terms:
 
@@ -58,6 +58,10 @@ What does it mean in practice?
 ### [Claim your 💰 bonus today][ln]
 
 -->
+
+🎁
+
+✅
 
 [l]: https://nozbe.com/pricing/?c=michaelteam
 [ln]: https://nozbe.com/?c=michaelteam
