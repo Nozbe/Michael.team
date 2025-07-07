@@ -7,6 +7,8 @@ img: promo-25.jpg
 
 Special offer for [Nozbe - my task and project manager](/nozbe) that helps *SMART business owners and their teams get their private and professional life organized in a simple way*.
 
+<!--
+
 [![{{ page.title }}](/img/{{ page.img }})][l]
 
 ## Get 3 months of Nozbe Premium/Business for free!
@@ -40,10 +42,9 @@ What's the difference between Nozbe Premium or Business?
 > With Nozbe Premium, you upgrade 1 workspace to unlimited projects. With Nozbe Business you can have [many workspaces with unlimited projects][l]. Plus additional smaller features.
 
 ### [Claim your 3️⃣ extra months today][l]
+-->
 
-<!--
-
-[![{{ page.title }}](/img/{{ page.img }})][ln]
+[![{{ page.title }}](/img/promo-25.jpg)][ln]
 
 ## Get $15USD / 60PLN in credits if you sign up today!
 
@@ -57,7 +58,7 @@ What does it mean in practice?
 
 ### [Claim your 💰 bonus today][ln]
 
--->
+
 
 🎁
 
