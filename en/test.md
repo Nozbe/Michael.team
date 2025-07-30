@@ -99,4 +99,25 @@ yt-dlp -f mp4 "https://www.youtube.com/watch?v=IvTR6LcjazU" -o "Nozbe-5min.mp4"
 
 {% include test.html id="m-ugwoEOMvg" %}
 
+## Emoji
+
+👋 hello
+🎁 gift
+🎧 intro
+🔗 shortcut
+✏️ pencil
+✍️ write
+📝 note
+💪 power
+📲 iphone
+👌 good
+👍 ok
+🌙 moon
+☀️ sun
+🚀 power
+✅ done
+☑️ tick
+😀 smile
+🫵 you
+
 [n]: https://nozbe.com/
