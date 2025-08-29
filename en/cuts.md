@@ -79,6 +79,7 @@ I've been [journaling](/journal/) since 2016 with Shortcuts (and before that Wor
 - [Jounal 3.3](https://www.icloud.com/shortcuts/08fd43e46fef4d8282a9e8f03480af04) - added JSON settings support - 14.01.25
 - [Journal 3.2](https://www.icloud.com/shortcuts/7f01ef2256314dd7ab6125dcac8594eb) - WIP with new date formatting and images preview - 13.01.25
 - [Journal 3.1](https://www.icloud.com/shortcuts/36636f64c0c04974b1ef97944a0ca0b2) - my latest "working" version which will be a base for 4.0 - 13.01.25
+- [Dictionaries](https://www.icloud.com/shortcuts/9c3cd23a5c574091aeee8a0bbcddf5b6) - my old dictionaries of translations for Journal
 
 With legacy Shortcuts updated:
 
