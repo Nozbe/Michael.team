@@ -36,6 +36,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 ## [Blogging and Social Media](/blogging/)
 
+- [To-do List](https://www.icloud.com/shortcuts/31d450b9c77145d8a610982a5d44d94c) - sends a list of to-do items to my [vibe-coded](/list) javascript-based [to do list app](/todo) - 04.09.25
 - [JPG/PNG Images](https://www.icloud.com/shortcuts/42b979d708464f2aac4f807a162034ad) - my internal way to compress images using Tinify and putting the stuff in my Repos and posting on Mastodon. - update 01.04.25
 - [PNG/JPG Images](https://www.icloud.com/shortcuts/49ee1aa8af6c4a27a63df4cbe3fa58cf) - version without Tinify, just with 0.5 JPG compression, when Tinify failed me - 09.09.24
 - [Compress Image with Tinify](https://www.icloud.com/shortcuts/98eb76b7bbbc4c5996d39bc567f3b654) - official shortcut - 10.24
