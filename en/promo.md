@@ -1,6 +1,7 @@
 ---
 permalink: /promo/
-img: promo-25.jpg
+img: promo-no.jpg
+img25: promo-25.jpg
 ---
 
 # Nozbe promo!
@@ -44,7 +45,7 @@ What's the difference between Nozbe Premium or Business?
 ### [Claim your 3️⃣ extra months today][l]
 -->
 
-[![{{ page.title }}](/img/promo-25.jpg)][ln]
+[![{{ page.title }}](/img/{{ page.img }})][ln]
 
 ## Get $15USD / 60PLN in credits if you sign up today!
 
@@ -56,13 +57,11 @@ What does it mean in practice?
 
 > If you're on a Premium plan for 1 person, you get 1.5 months of Nozbe Premium for free. If you are on a Business plan, you get 1 month of Nozbe gratis. It's a gift from me to you!
 
-### [Claim your 💰 bonus today][ln]
+### ➡️ [Claim your 💰 bonus today][ln]
+
+⬆️
 
 
-
-🎁
-
-✅
 
 [l]: https://nozbe.com/pricing/?c=michaelteam
 [ln]: https://nozbe.com/?c=michaelteam
