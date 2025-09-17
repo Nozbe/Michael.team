@@ -40,7 +40,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 - [JPG/PNG Images](https://www.icloud.com/shortcuts/42b979d708464f2aac4f807a162034ad) - my internal way to compress images using Tinify and putting the stuff in my Repos and posting on Mastodon. - update 01.04.25
 - [PNG/JPG Images](https://www.icloud.com/shortcuts/49ee1aa8af6c4a27a63df4cbe3fa58cf) - version without Tinify, just with 0.5 JPG compression, when Tinify failed me - 09.09.24
 - [Compress Image with Tinify](https://www.icloud.com/shortcuts/98eb76b7bbbc4c5996d39bc567f3b654) - official shortcut - 10.24
-- [Michael.team post](https://www.icloud.com/shortcuts/c005686e2b2f432aa030347c5fd48a16) - conversion of text from raw text to a blog post - update 1.2 with png support - 7.06.25
+- [Michael.team post](https://www.icloud.com/shortcuts/272e55e44df648c39e10176e68c58371) - conversion of text from raw text to a blog post fixed for iOS26 - 15.09.25
 - [Check name on Michael.team](https://www.icloud.com/shortcuts/c64fabdd915247e48b92759144f746a1) - check if certain post name already exists (required by above Shortcut) - update 01.04.25
 - [Blog Templating](https://www.icloud.com/shortcuts/51d3d63ab96c4eea95007c94b5a532fb) - (v.2.0) posting a blog from a template, especially useful for guest posts or podcast posts (very specific to my blog!) - 13.01.25
 - [Quick Blog](https://www.icloud.com/shortcuts/134b408b5a534abda9d92af667d0e61f) - a way to post quickly something - like a Toot but directly to my blog! - 18.11.24
@@ -64,6 +64,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 I've been [journaling](/journal/) since 2016 with Shortcuts (and before that Workflow) and [this is my latest version 4)](/journal4):
 
+- [Journal 4.39](https://www.icloud.com/shortcuts/81b02b149baf454c9e045464c27643fc) - improvements for calendar to just choose events - 16.09.25
 - [Journal 4.38](https://www.icloud.com/shortcuts/23704c3c59bd48789222d219193624ce) - release version 13.05.25
 - [Journal 4.36](https://www.icloud.com/shortcuts/0a7875d161c84de794d3ef69d2dacde7) - pre-release version - 12.05.25
 - [Journal 4.31](https://www.icloud.com/shortcuts/35185ae2ecb449d48e4e886d674f4706) - added notifications - 11.05.25
@@ -135,6 +136,7 @@ Previous versions:
 
 ## Other Shortcuts
 
+- [Flashlight](https://www.icloud.com/shortcuts/72720850fa174d84958896e4778a0883) - flashlight toggling shortcut to use with Action button - 16.09.25
 - [Link Title](https://www.icloud.com/shortcuts/2aa4a337e71445e79d62bb35f5277e91) - Getting the titles of web pages - 6.06.25 - for Nadgryzieni. [Link Title page](/linktitle)
 - [Test - Blanks or Not](https://www.icloud.com/shortcuts/b5981baf7bf645c390aeec624fd15cb3) - testing [blanks on iOS18 and beyond](/blanks) - 10.12.24
 - [Nozbe Parser](https://www.icloud.com/shortcuts/5a024c83f7f248f68db2ce274b02b485) - regexp way of adding automatically my campaign ID to any Nozbe link - 1.04.25

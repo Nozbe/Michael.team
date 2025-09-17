@@ -43,6 +43,21 @@ const lists = {
 		"📝 Plan next week, block times for deep work",
 		"🎉 Celebrate a weekly review done well!"
 	],
+	"uk": [
+		"🎒 SMALL BACKPACK with only necessary stuff",
+		"📱 iPad",
+		"👕 4 t-shirts",
+		"🩲 3 pairs of underwear",
+		"🧦 3 pairs of socks",
+		"🥼 hoodie / crewneck",
+		"🥼 sweater",
+		"👖 long pants and leggins",
+		"🧥 jacket",
+		"💤 PJ long-sleeved",
+		"🧢 Cap",
+		"🥾 Shoes for UK",
+		"🧴 Cosmetics"
+	],
 	"trip": [
 		"🎒 SMALL BACKPACK with water bottle and a game, book, or similar item",
 		"🪥 Toiletry bag: comb or brush, shower gel and shampoo toothbrush and toothpaste, etc.",
