@@ -9,6 +9,12 @@ const lists = {
 		"Put shoes on 👟",
 		"Comb hair 💆"
 	],
+	"homework": [
+		"Spelling 📝",
+		"Maths 📐",
+		"Book 📗",
+		"Polski 🇵🇱"
+	],
 	"usa": [
 		"Flipflops 🩴",
 		"Sandals 👡",
@@ -45,7 +51,7 @@ const lists = {
 	],
 	"uk": [
 		"🎒 SMALL BACKPACK with only necessary stuff",
-		"📱 iPad",
+		"📱 iPad + chargers",
 		"👕 4 t-shirts",
 		"🩲 3 pairs of underwear",
 		"🧦 3 pairs of socks",
