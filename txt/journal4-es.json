@@ -42,5 +42,8 @@
   "START_MENU": "🗓️ Cambiar fecha",
   "TASKS": "Tareas",
   "TIME": "¿Hora?",
-  "WORK": "Trabajo"
+  "WORK": "Trabajo",
+  "JOURNAL_Q": "¿Leer o modificar el Diario?",
+  "JOURNAL_READ": "📖 Solo leer",
+  "JOURNAL_EDIT": "📝 Modificar en el editor Markdown por defecto"
 }

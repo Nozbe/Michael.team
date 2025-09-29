@@ -63,6 +63,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 ## [Journaling](/journal/)
 
 I've been [journaling](/journal/) since 2016 with Shortcuts (and before that Workflow) and [this is my latest version 4)](/journal4):
+- [Journal 4.42](https://www.icloud.com/shortcuts/86dbf93e2258411b82944a4c3f7145c9) - support for auto updates of language files - 29.09.25
 - [Journal 4.40](https://www.icloud.com/shortcuts/413f4d0842934cc7aa41b1e793f6276d) - viewing and editing journal but without translation - 23.09.25
 - [Journal 4.39](https://www.icloud.com/shortcuts/81b02b149baf454c9e045464c27643fc) - improvements for calendar to just choose events - 16.09.25
 - [Journal 4.38](https://www.icloud.com/shortcuts/23704c3c59bd48789222d219193624ce) - release version 13.05.25

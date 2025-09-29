@@ -42,5 +42,8 @@
   "START_MENU": "🗓️ Change date",
   "TASKS": "Tasks",
   "TIME": "Time of entry?",
-  "WORK": "Work"
+  "WORK": "Work",
+  "JOURNAL_Q": "Read or edit journal file?",
+  "JOURNAL_READ": "📖 Just read",
+  "JOURNAL_EDIT": "📝 Edit file in default Markdown editor"
 }

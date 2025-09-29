@@ -42,5 +42,8 @@
   "START_MENU": "🗓️ Zmień datę",
   "TASKS": "Zadania",
   "TIME": "Czas wpisu?",
-  "WORK": "Praca"
+  "WORK": "Praca",
+  "JOURNAL_Q": "Przeczytać czy edytować plik Dziennika?",
+  "JOURNAL_READ": "📖 Tylko czytać",
+  "JOURNAL_EDIT": "📝 Edytuj w domyślnym edytorze plików Markdown"
 }
