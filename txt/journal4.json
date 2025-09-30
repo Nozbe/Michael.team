@@ -47,7 +47,14 @@
       "START_MENU": "🗓️ Change date",
       "TASKS": "Tasks",
       "TIME": "Time of entry?",
-      "WORK": "Work"
+      "WORK": "Work",
+      "SHORTCUT_SET": "▶️ Set up / change",
+      "DISABLE": "❌ Disable",
+      "SAVED": "⚙️ Saved ",
+      "SHORTCUT_RUN": "▶️ Run Shortcut:",
+      "SHORTCUT_EVENING": "🌜 Shortcut after Evening journal",
+      "SHORTCUT_MORNING": "☀️ Shortcut after Morning journal",
+      "SETTINGS_MENU": "⚙️ Settings"
     },
     "Polski": {
       "ALANG": "PL",
@@ -96,7 +103,14 @@
       "START_MENU": "🗓️ Zmień datę",
       "TASKS": "Zadania",
       "TIME": "Czas wpisu?",
-      "WORK": "Praca"
+      "WORK": "Praca",
+      "SHORTCUT_SET": "▶️ Ustaw / zmień",
+      "DISABLE": "❌ Wyłącz",
+      "SAVED": "⚙️ Zapisane ",
+      "SHORTCUT_RUN": "▶️ Uruchom Skrót:",
+      "SHORTCUT_EVENING": "🌜 Skrót po Wieczornym dzienniku",
+      "SHORTCUT_MORNING": "☀️ Skrót po Porannym dzienniku",
+      "SETTINGS_MENU": "⚙️ Ustawienia"
     },
     "Español": {
       "ALANG": "ES",
@@ -145,10 +159,17 @@
       "START_MENU": "🗓️ Cambiar fecha",
       "TASKS": "Tareas",
       "TIME": "¿Hora?",
-      "WORK": "Trabajo"
+      "WORK": "Trabajo",
+      "SHORTCUT_SET": "▶️ Establecer / cambiar",
+      "DISABLE": "❌ Deshabilitar",
+      "SAVED": "⚙️ Guardado ",
+      "SHORTCUT_RUN": "▶️ Lanzar Atajo:",
+      "SHORTCUT_EVENING": "🌜 Atajo despúes de diario de Noche",
+      "SHORTCUT_MORNING": "☀️ Atajo despúes de diario de Mañana",
+      "SETTINGS_MENU": "⚙️ Ajustes"
     }
   },
   "DAY": "8-8:30\n8:30-9\n9-9:30\n9:30-10\n10-10:30\n10:30-11\n11-11:30\n11:30-12\n12-12:30\n12:30-13\n13-13:30\n13:30-14\n14-14:30\n14:30-15\n15-15:30\n15:30-16\n16-16:30\n16:30-17\n17-17:30\n17:30-18\n18-18:30\n18:30-19\n19-19:30\n19:30-20",
-  "CHANGELOG": "- 4.42 - support for viewing Journal and language updates\n- 4.38 - public release version\n- 4.36 - tested release version\n- 4.31 - added notifications\n- 4.27 - update mechanism\n- 4.25 - simplified code\n- 4.24 - new ID and planning to CSV\n- 4.23 - fix New Year\n- 4.22 - setup\n- 4.20 - photo fixes \n- 4.19 - planning\n- 4.18 - morning done\n- 4.16 - goals update \n- 4.15 - photo as function + menu option to regenerate \n- 4.13 - evening works + adding  + reset",
-  "VERSION": 42
+  "CHANGELOG": "- 4.45 - new Settings with Shortcuts after journaling\n- 4.42 - viewing Journal and language updating\n- 4.38 - public release version\n- 4.36 - tested release version\n- 4.31 - added notifications\n- 4.27 - update mechanism\n- 4.25 - simplified code\n- 4.24 - new ID and planning to CSV\n- 4.23 - fix New Year\n- 4.22 - setup\n- 4.20 - photo fixes \n- 4.19 - planning\n- 4.18 - morning done\n- 4.16 - goals update \n- 4.15 - photo as function + menu option to regenerate \n- 4.13 - evening works + adding  + reset",
+  "VERSION": 45
 }

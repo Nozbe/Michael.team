@@ -45,5 +45,12 @@
   "WORK": "Work",
   "JOURNAL_Q": "Read or edit journal file?",
   "JOURNAL_READ": "📖 Just read",
-  "JOURNAL_EDIT": "📝 Edit file in default Markdown editor"
+  "JOURNAL_EDIT": "📝 Edit file in default Markdown editor",
+  "SHORTCUT_SET": "▶️ Set up / change",
+  "DISABLE": "❌ Disable",
+  "SAVED": "⚙️ Saved ",
+  "SHORTCUT_RUN": "▶️ Run Shortcut:",
+  "SHORTCUT_EVENING": "🌜 Shortcut after Evening journal",
+  "SHORTCUT_MORNING": "☀️ Shortcut after Morning journal",
+  "SETTINGS_MENU": "⚙️ Settings"
 }

@@ -45,5 +45,12 @@
   "WORK": "Trabajo",
   "JOURNAL_Q": "¿Leer o modificar el Diario?",
   "JOURNAL_READ": "📖 Solo leer",
-  "JOURNAL_EDIT": "📝 Modificar en el editor Markdown por defecto"
+  "JOURNAL_EDIT": "📝 Modificar en el editor Markdown por defecto",
+  "SHORTCUT_SET": "▶️ Establecer / cambiar",
+  "DISABLE": "❌ Deshabilitar",
+  "SAVED": "⚙️ Guardado ",
+  "SHORTCUT_RUN": "▶️ Lanzar Atajo:",
+  "SHORTCUT_EVENING": "🌜 Atajo despúes de diario de Noche",
+  "SHORTCUT_MORNING": "☀️ Atajo despúes de diario de Mañana",
+  "SETTINGS_MENU": "⚙️ Ajustes"
 }

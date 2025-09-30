@@ -45,5 +45,12 @@
   "WORK": "Praca",
   "JOURNAL_Q": "Przeczytać czy edytować plik Dziennika?",
   "JOURNAL_READ": "📖 Tylko czytać",
-  "JOURNAL_EDIT": "📝 Edytuj w domyślnym edytorze plików Markdown"
+  "JOURNAL_EDIT": "📝 Edytuj w domyślnym edytorze plików Markdown",
+  "SHORTCUT_SET": "▶️ Ustaw / zmień",
+  "DISABLE": "❌ Wyłącz",
+  "SAVED": "⚙️ Zapisane ",
+  "SHORTCUT_RUN": "▶️ Uruchom Skrót:",
+  "SHORTCUT_EVENING": "🌜 Skrót po Wieczornym dzienniku",
+  "SHORTCUT_MORNING": "☀️ Skrót po Porannym dzienniku",
+  "SETTINGS_MENU": "⚙️ Ustawienia"
 }
