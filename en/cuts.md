@@ -77,13 +77,17 @@ I've been [journaling](/journal/) since 2016 with Shortcuts (and before that Wor
 - [Journal 4.233 beta](https://www.icloud.com/shortcuts/34ba0a330c46445f9844020180ee9205) - release candidate of the Journal 4 - renamed from previous "Journaling" code name. 01.05.25
 - [Journaling 4.232 beta](https://www.icloud.com/shortcuts/92fc63cc02194444878b4e287b8f9bc5) - latest Journal 4 re-written from sratch in April 2025 with planning and all. [And config in JSON](https://michael.team/txt/journal4.json). 01.05.25
 - [Journal Day](https://www.icloud.com/shortcuts/e56cd3846d224479a7eea184a88ae705) - generating PDF of one journal day based on Journal 4.31 and above - 11.05.25
-- [Planning 1.0](https://www.icloud.com/shortcuts/96a1be217a4947948d1b6903afa15893) - new planning NOT based on additional files. Later to be integrated in the main Journal Shortcut. - 04.25
 - [Journal config](https://www.icloud.com/shortcuts/1ce9ff7e44f04903a70ef062f33d68b3) - testing remote config - 03.25
 - [Journal 3.6](https://www.icloud.com/shortcuts/72a47fe708794a43b9cd1de97300a1a8) - support for new Planning
 - [Journal 3.41](https://www.icloud.com/shortcuts/e8a2dfc2af144e81be1b6f4071657be6) - support for evening drafts
 - [Jounal 3.3](https://www.icloud.com/shortcuts/08fd43e46fef4d8282a9e8f03480af04) - added JSON settings support - 14.01.25
 - [Journal 3.2](https://www.icloud.com/shortcuts/7f01ef2256314dd7ab6125dcac8594eb) - WIP with new date formatting and images preview - 13.01.25
 - [Journal 3.1](https://www.icloud.com/shortcuts/36636f64c0c04974b1ef97944a0ca0b2) - my latest "working" version which will be a base for 4.0 - 13.01.25
+
+Additional Shortcuts useful for creating Journal:
+
+- [Edit Questions](https://www.icloud.com/shortcuts/e8ce111b606f4648927389b4ea28fc37) - shortcut for [editing questions in a JSON file](/json) - 12.10.25
+- [Planning 1.0](https://www.icloud.com/shortcuts/96a1be217a4947948d1b6903afa15893) - new planning NOT based on additional files. Later to be integrated in the main Journal Shortcut. - 04.25
 - [Dictionaries](https://www.icloud.com/shortcuts/9c3cd23a5c574091aeee8a0bbcddf5b6) - my old dictionaries of translations for Journal
 
 With legacy Shortcuts updated:
