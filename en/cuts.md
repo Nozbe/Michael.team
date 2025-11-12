@@ -36,6 +36,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 ## [Blogging and Social Media](/blogging/)
 
+- [Cleanup](https://www.icloud.com/shortcuts/2682f8ecc6364bf9b34de726a0025ece) - way for me to parse my blog posts while extracting titles, subtitles and content and removing links if necessary - 13.10.25 - [v1](https://www.icloud.com/shortcuts/6c29c4d32e544c66a65c8390bd6f78f1)
 - [To-do List](https://www.icloud.com/shortcuts/31d450b9c77145d8a610982a5d44d94c) - sends a list of to-do items to my [vibe-coded](/list) javascript-based [to do list app](/todo) - 04.09.25
 - [JPG/PNG Images](https://www.icloud.com/shortcuts/42b979d708464f2aac4f807a162034ad) - my internal way to compress images using Tinify and putting the stuff in my Repos and posting on Mastodon. - update 01.04.25
 - [PNG/JPG Images](https://www.icloud.com/shortcuts/49ee1aa8af6c4a27a63df4cbe3fa58cf) - version without Tinify, just with 0.5 JPG compression, when Tinify failed me - 09.09.24
