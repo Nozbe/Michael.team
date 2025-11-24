@@ -36,9 +36,12 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 ## [Blogging and Social Media](/blogging/)
 
-- [Cleanup](https://www.icloud.com/shortcuts/2682f8ecc6364bf9b34de726a0025ece) - way for me to parse my blog posts while extracting titles, subtitles and content and removing links if necessary - 13.10.25 - [v1](https://www.icloud.com/shortcuts/6c29c4d32e544c66a65c8390bd6f78f1)
+
+- [Poster](https://www.icloud.com/shortcuts/a3f90770204f4aada4bbc198a2ce8c16) - to post Cleaneup'ed text to Mastodon and to blog post and to Nozbe using unpublished Nozbe actions - 24.11.25
+- [Cleanup](https://www.icloud.com/shortcuts/0e1f27c6a9f74ced88b041b7ea49c1f3) - way for me to parse my blog posts while extracting titles, subtitles and content and removing links if necessary - support for iMag exception - 24.11.25
+- [iMagazine](https://www.icloud.com/shortcuts/7b5e5962ad9b44e9a197320d7b2cba43) - using Cleanup and new iMag exception to format iMagazine blog posts to texts correctly - 24.11.25
 - [To-do List](https://www.icloud.com/shortcuts/31d450b9c77145d8a610982a5d44d94c) - sends a list of to-do items to my [vibe-coded](/list) javascript-based [to do list app](/todo) - 04.09.25
-- [JPG/PNG Images](https://www.icloud.com/shortcuts/42b979d708464f2aac4f807a162034ad) - my internal way to compress images using Tinify and putting the stuff in my Repos and posting on Mastodon. - update 01.04.25
+- [JPG/PNG Images](https://www.icloud.com/shortcuts/8e9fc366464245519e18cf1dc4c66a11) - my internal way to compress images using Tinify and putting the stuff in my Repos and posting on Mastodon - added support for Poster 24.11.25
 - [PNG/JPG Images](https://www.icloud.com/shortcuts/49ee1aa8af6c4a27a63df4cbe3fa58cf) - version without Tinify, just with 0.5 JPG compression, when Tinify failed me - 09.09.24
 - [Compress Image with Tinify](https://www.icloud.com/shortcuts/98eb76b7bbbc4c5996d39bc567f3b654) - official shortcut - 10.24
 - [Michael.team post](https://www.icloud.com/shortcuts/272e55e44df648c39e10176e68c58371) - conversion of text from raw text to a blog post fixed for iOS26 - 15.09.25
@@ -56,7 +59,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 ## Social Media
 
 - [Play YouTube](https://www.icloud.com/shortcuts/56ebe64991fc441ea1bf0d4b52eaa2dd) in my [web YouTube player](/yt/) - version 2.0 simplified - 07.09.24
-- [Toot](https://www.icloud.com/shortcuts/30ee8aadef9f42bc90bfda90bd0fe2aa) - post toots to Mastodon - both just text or also images - 18.11.24
+- [Toot](https://www.icloud.com/shortcuts/30ee8aadef9f42bc90bfda90bd0fe2aa) - post toots to Mastodon - both just text or also images - version 2.0 - 24.11.25
 - [Toot Text](https://www.icloud.com/shortcuts/cc59c1bfb83f474d80465b954bf6b772) - simpler than above, used in Thread Master to post Threads to Mastodon - 18.11.24
 - [Thread Master 2.1](https://www.icloud.com/shortcuts/928e6694fa8147128f9dcbf8abe1ce91) - my way of posting Threads on Twitter/X (via Typefully), LinkedIn or Mastodon. Or e-mail Newsletters. Now also expanded to Keynoter support and Teleprompter text. Requires "Toot Text" and "Keynoter" - 18.11.24
 - [Threads](https://www.icloud.com/shortcuts/d94f2af13d544a2494002eacd3a56b3c) - "Thread Master" stripped of my custom stuff for official distribution - 18.11.24
