@@ -50,7 +50,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 - [Quick Blog](https://www.icloud.com/shortcuts/134b408b5a534abda9d92af667d0e61f) - a way to post quickly something - like a Toot but directly to my blog! - 18.11.24
 - [Blog Something](https://www.icloud.com/shortcuts/daecdb54b60f4b1aa9307683bbb954e0) - quickly adding a draft of a post off an idea to iA Writer - 18.11.24
 - [🔗 Link To Markdown](https://www.icloud.com/shortcuts/4a7ee7378c664ad58f0f265ce59d9011) - copies link to Markdown format and in case of YouTube - adds embed (normal and shorts) - 15.05.24
-- [YouTube Watcher](https://www.icloud.com/shortcuts/d60a182c44374c7897ccc0964b6b4769) - [Watching YouTube distraction-free](/yt) - 18.11.24
+- [YouTube Watcher](https://www.icloud.com/shortcuts/de73d6ea8cd349649a7ad2c7846728db) - [Watching YouTube distraction-free](/yt) - version 3 - 18.12.25
 - [Save File](https://www.icloud.com/shortcuts/63109e313f6d4986a8b6167cc5422e85) - saves a PDF in Michael.team repository or a file in iCloud or a file somewhere else.
 - [Sliwinski.com HTML](https://www.icloud.com/shortcuts/db9fff1961594886b190d3d555f9c872) - my old html importer.
 - [Sliwinski.com import](https://www.icloud.com/shortcuts/06f8e020f954428da29cd8cc94c29ea4) - my old importer from my old blog.
@@ -116,6 +116,10 @@ Previous version:
 
 ## Clipboard
 
+ClipCut 1.0 - 3.0 rewrite and speed enhancements:
+
+- [ClipCut Dev 18](https://www.icloud.com/shortcuts/eb6f42913e74454889ab4e57038ec90e) - 18.12.25 - almost complete version, based on Clippy's file structure.
+
 My clipboard manager:
 
 - [Clippy 2.1 debug version](https://www.icloud.com/shortcuts/ebfe7cee4a174332a35990453cf0dd28) - testing version to finally get issues out of my iPhone - 10.12.24
@@ -144,15 +148,17 @@ Previous versions:
 - [Vueling](https://www.icloud.com/shortcuts/76618551b46d48bea7e8257ac9bd2afb) - as above for Vueling - 18.11.24
 - [Wizzair](https://www.icloud.com/shortcuts/29b2ae2e73a2488ab5a06cafbf5ff582) - as above but for Wizzair - 18.11.24
 - [New video blog](https://www.icloud.com/shortcuts/90a257ff0eae4c409745a796666036d1) - posting vimeo to nozbe.team blog - 18.11.24
+- [Read Later](https://www.icloud.com/shortcuts/8dfb072f77f8467b9770d992013ad816) - adding links to Read Later - 18.12.25
+- [Link Title](https://www.icloud.com/shortcuts/b09ee4e37c95424e8b81c90bcb4d63a8) - Getting the titles of web pages - 1.8 - 18.12.25 - for Nadgryzieni. [Link Title page](/linktitle)
 
 ## Other Shortcuts
 
+- [Templut](https://www.icloud.com/shortcuts/cdde8995025a471eae58be0c83cc21f9) - basic template file for a complicated shortcut, like Journal or ClipCut
 - [Flashlight](https://www.icloud.com/shortcuts/72720850fa174d84958896e4778a0883) - flashlight toggling shortcut to use with Action button - 16.09.25
-- [Link Title](https://www.icloud.com/shortcuts/2aa4a337e71445e79d62bb35f5277e91) - Getting the titles of web pages - 6.06.25 - for Nadgryzieni. [Link Title page](/linktitle)
 - [Test - Blanks or Not](https://www.icloud.com/shortcuts/b5981baf7bf645c390aeec624fd15cb3) - testing [blanks on iOS18 and beyond](/blanks) - 10.12.24
 - [Nozbe Parser](https://www.icloud.com/shortcuts/5a024c83f7f248f68db2ce274b02b485) - regexp way of adding automatically my campaign ID to any Nozbe link - 1.04.25
 - [Function Test](https://www.icloud.com/shortcuts/fce5d8926ff74678b670042623108e0d) - testing functions - how you can ask for the same shortcut with different params - 05.24
-- [Menu Test](https://www.icloud.com/shortcuts/c57d2da75abe4b5ca1af843f4955c5fd) - example of creating menu using Contacts list hack. - 04.12.24
+- [Menu Test](https://www.icloud.com/shortcuts/c57d2da75abe4b5ca1af843f4955c5fd) - example of creating menu using Contacts list hack. - 04.12.24 - no longer works in iOS26.2 - [new Menu Test](https://www.icloud.com/shortcuts/37aaa1110bdd42acbcda5441e7d1bc14)
 - [Rich Text from Markdown](https://www.icloud.com/shortcuts/04fe79d8e9a74cea9448733fe0db8c4c) - hack how to use utf-8 to convert markdown to rich text properly - 18.11.24
 - [Copy Text to Markdown](https://www.icloud.com/shortcuts/15604b1e6bf448888f85389ff1f9129a) - selected rich formatted text convert to markdown - 18.11.24
 - [View Source](https://www.icloud.com/shortcuts/05e26e88a1b3452c8b913ec0e7569b9d) - gets source code of a web page - 18.11.24

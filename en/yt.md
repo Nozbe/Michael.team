@@ -51,6 +51,7 @@ This page solves most of these problems. It lets you embed *any YouTube video* (
 **[Read more about this page and share with your friends! Thanks!][blog]**
 
 [blog]: https://michael.team/youtube/
-[s]: https://www.icloud.com/shortcuts/56ebe64991fc441ea1bf0d4b52eaa2dd
+[s]: https://www.icloud.com/shortcuts/de73d6ea8cd349649a7ad2c7846728db
+[s-old]: https://www.icloud.com/shortcuts/56ebe64991fc441ea1bf0d4b52eaa2dd
 [shortcut]: https://www.icloud.com/shortcuts/1b20e7375c9f4a17b418f75736da46a1
 [shortcutx]: https://www.icloud.com/shortcuts/a45cec1e83944253b6c0bd3cb2915bc4
