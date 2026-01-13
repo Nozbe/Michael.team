@@ -118,6 +118,8 @@ Previous version:
 
 ClipCut 1.0 - 3.0 rewrite and speed enhancements:
 
+- [ClipCut Dev 35](https://www.icloud.com/shortcuts/ead0750a8bcd49e18fbb5d68f2936a9f) - 13.01.26 - release-ready version but still the Action menu missing… or do we need it?
+- [ClipCut Dev 27](https://www.icloud.com/shortcuts/d2e96e84afc745d99ba8cb1e36fc1007) - 04.01.26 - most recent version - with lots of fixes and search terms and settings.
 - [ClipCut Dev 18](https://www.icloud.com/shortcuts/eb6f42913e74454889ab4e57038ec90e) - 18.12.25 - almost complete version, based on Clippy's file structure.
 
 My clipboard manager:
