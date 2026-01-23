@@ -1,6 +1,6 @@
 ---
 tags: [productivity]
-cover: "thenotebooklm.jpg"
+img: "thenotebooklm.jpg"
 social: "notebooklm.jpg"
 podcast: 1538743591
 m: https://social.nozbe.com/@michael/113356163032699976
@@ -12,7 +12,7 @@ I've officially joined the AI craze and finally started testing many AI tools co
 
 <!--More-->
 
-![{{ page.title }}](/img/{{ page.cover }})
+![{{ page.title }}](/img/{{ page.img }})
 
 ## The two AI hosts are really smart!
 
