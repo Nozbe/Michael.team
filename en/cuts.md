@@ -36,7 +36,6 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 ## [Blogging and Social Media](/blogging/)
 
-
 - [Poster](https://www.icloud.com/shortcuts/a3f90770204f4aada4bbc198a2ce8c16) - to post Cleaneup'ed text to Mastodon and to blog post and to Nozbe using unpublished Nozbe actions - 24.11.25
 - [Cleanup](https://www.icloud.com/shortcuts/0e1f27c6a9f74ced88b041b7ea49c1f3) - way for me to parse my blog posts while extracting titles, subtitles and content and removing links if necessary - support for iMag exception - 24.11.25
 - [iMagazine](https://www.icloud.com/shortcuts/7b5e5962ad9b44e9a197320d7b2cba43) - using Cleanup and new iMag exception to format iMagazine blog posts to texts correctly - 24.11.25
@@ -118,6 +117,7 @@ Previous version:
 
 ClipCut 1.0 - 3.0 rewrite and speed enhancements:
 
+- [ClipCut Dev 44](https://www.icloud.com/shortcuts/ef76fd29b37a4023abda517c43fb7aec) - 28.01.26 - with Action menu and many improvements. Release candidate?
 - [ClipCut Dev 35](https://www.icloud.com/shortcuts/ead0750a8bcd49e18fbb5d68f2936a9f) - 13.01.26 - release-ready version but still the Action menu missing… or do we need it?
 - [ClipCut Dev 27](https://www.icloud.com/shortcuts/d2e96e84afc745d99ba8cb1e36fc1007) - 04.01.26 - most recent version - with lots of fixes and search terms and settings.
 - [ClipCut Dev 18](https://www.icloud.com/shortcuts/eb6f42913e74454889ab4e57038ec90e) - 18.12.25 - almost complete version, based on Clippy's file structure.
@@ -152,6 +152,8 @@ Previous versions:
 - [New video blog](https://www.icloud.com/shortcuts/90a257ff0eae4c409745a796666036d1) - posting vimeo to nozbe.team blog - 18.11.24
 - [Read Later](https://www.icloud.com/shortcuts/8dfb072f77f8467b9770d992013ad816) - adding links to Read Later - 18.12.25
 - [Link Title](https://www.icloud.com/shortcuts/b09ee4e37c95424e8b81c90bcb4d63a8) - Getting the titles of web pages - 1.8 - 18.12.25 - for Nadgryzieni. [Link Title page](/linktitle)
+- [Currency](https://www.icloud.com/shortcuts/c3c3590a10c74ff2859bcbd62bf32d8a) - using ChatGPT to calculate stuff in currency - 23.01.26
+- [Calsheet](https://www.icloud.com/shortcuts/0dcd4cf4b654456e9fa499c2e41e1ed0) - easy way to share from Calsheet and get a Nadgryzieni-approved TMDB link - 26.01.26
 
 ## Other Shortcuts
 
