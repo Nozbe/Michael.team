@@ -36,11 +36,13 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 ## [Blogging and Social Media](/blogging/)
 
+- [Social Post](https://www.icloud.com/shortcuts/89e8bac541c047a9895c33604f3e7d06) - adding a post to Social folder in IA Writer - 29.01.26
 - [Poster](https://www.icloud.com/shortcuts/a3f90770204f4aada4bbc198a2ce8c16) - to post Cleaneup'ed text to Mastodon and to blog post and to Nozbe using unpublished Nozbe actions - 24.11.25
-- [Cleanup](https://www.icloud.com/shortcuts/0e1f27c6a9f74ced88b041b7ea49c1f3) - way for me to parse my blog posts while extracting titles, subtitles and content and removing links if necessary - support for iMag exception - 24.11.25
+- [Poster Text](https://www.icloud.com/shortcuts/591418a621df499d8f0cb506cf91c036) - simplified poster - 28.01.26
+- [Cleanup](https://www.icloud.com/shortcuts/78639ccb809441d5966904daab85decb) - way for me to parse my blog posts while extracting titles, subtitles and content and removing links if necessary - support for iMag exception - 24.11.25
 - [iMagazine](https://www.icloud.com/shortcuts/7b5e5962ad9b44e9a197320d7b2cba43) - using Cleanup and new iMag exception to format iMagazine blog posts to texts correctly - 24.11.25
 - [To-do List](https://www.icloud.com/shortcuts/31d450b9c77145d8a610982a5d44d94c) - sends a list of to-do items to my [vibe-coded](/list) javascript-based [to do list app](/todo) - 04.09.25
-- [JPG/PNG Images](https://www.icloud.com/shortcuts/8e9fc366464245519e18cf1dc4c66a11) - my internal way to compress images using Tinify and putting the stuff in my Repos and posting on Mastodon - added support for Poster 24.11.25
+- [JPG/PNG Images](https://www.icloud.com/shortcuts/3eea6c5135864f54affc3420c8d07dce) - my internal way to compress images using Tinify and putting the stuff in my Repos and posting on Mastodon - added support for Poster 24.11.25
 - [PNG/JPG Images](https://www.icloud.com/shortcuts/49ee1aa8af6c4a27a63df4cbe3fa58cf) - version without Tinify, just with 0.5 JPG compression, when Tinify failed me - 09.09.24
 - [Compress Image with Tinify](https://www.icloud.com/shortcuts/98eb76b7bbbc4c5996d39bc567f3b654) - official shortcut - 10.24
 - [Michael.team post](https://www.icloud.com/shortcuts/272e55e44df648c39e10176e68c58371) - conversion of text from raw text to a blog post fixed for iOS26 - 15.09.25
