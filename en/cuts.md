@@ -100,7 +100,6 @@ With legacy Shortcuts updated:
 - [Morning Planning DEV](https://www.icloud.com/shortcuts/f2ab66845a204be7a4dbbfe8a00145ba)
 - [Open Today DEV](https://www.icloud.com/shortcuts/d9a73fc2e3b74f70810c100f581a7c4c)
 
-
 ## Keynoter
 
 My un-published simpler version of iA Presenter as a Shortcut to create presentations from Markdown files:
@@ -157,7 +156,6 @@ Previous versions:
 - [Currency](https://www.icloud.com/shortcuts/c3c3590a10c74ff2859bcbd62bf32d8a) - using ChatGPT to calculate stuff in currency - 23.01.26
 - [Calsheet](https://www.icloud.com/shortcuts/5e17b54520984352ba67517a4888c86e) - easy way to share from Calsheet and get a Nadgryzieni-approved TMDB link - 30.01.26
 - [🎬 Callsheet PL](https://www.icloud.com/shortcuts/85c051bd6a3a4efd991035c3ef3124b2)
-
 
 ## Other Shortcuts
 
