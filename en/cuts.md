@@ -37,10 +37,10 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 ## [Blogging and Social Media](/blogging/)
 
 - [Social Post](https://www.icloud.com/shortcuts/89e8bac541c047a9895c33604f3e7d06) - adding a post to Social folder in IA Writer - 29.01.26
-- [Poster](https://www.icloud.com/shortcuts/a3f90770204f4aada4bbc198a2ce8c16) - to post Cleaneup'ed text to Mastodon and to blog post and to Nozbe using unpublished Nozbe actions - 24.11.25
-- [Poster Text](https://www.icloud.com/shortcuts/591418a621df499d8f0cb506cf91c036) - simplified poster - 28.01.26
-- [Cleanup](https://www.icloud.com/shortcuts/78639ccb809441d5966904daab85decb) - way for me to parse my blog posts while extracting titles, subtitles and content and removing links if necessary - support for iMag exception - 24.11.25
-- [iMagazine](https://www.icloud.com/shortcuts/7b5e5962ad9b44e9a197320d7b2cba43) - using Cleanup and new iMag exception to format iMagazine blog posts to texts correctly - 24.11.25
+- [Cleanup](https://www.icloud.com/shortcuts/ddaed7f73bc24d5595788b6e51c5d483) - way for me to parse my blog posts while extracting titles, subtitles and content and removing links if necessary - support for Posts, Articles and Social texts - 3.2.26
+- [iMagazine](https://www.icloud.com/shortcuts/d9953221d7e741d092513b80d98f535f) - using Cleanup with Article parameter for iMagazine and saving in AI writer export - 3.2.26
+- [Poster](https://www.icloud.com/shortcuts/bf42be252fd6497e89a7f39fbdf66116) - to post Cleaneup'ed text to Mastodon and to blog post and to Nozbe using unpublished Nozbe actions - 3.2.26
+- [Poster Text](https://www.icloud.com/shortcuts/4df2afee12c244fdbf4527f001a3ef16) - simplified poster - 3.2.26
 - [To-do List](https://www.icloud.com/shortcuts/31d450b9c77145d8a610982a5d44d94c) - sends a list of to-do items to my [vibe-coded](/list) javascript-based [to do list app](/todo) - 04.09.25
 - [JPG/PNG Images](https://www.icloud.com/shortcuts/3eea6c5135864f54affc3420c8d07dce) - my internal way to compress images using Tinify and putting the stuff in my Repos and posting on Mastodon - added support for Poster 24.11.25
 - [PNG/JPG Images](https://www.icloud.com/shortcuts/49ee1aa8af6c4a27a63df4cbe3fa58cf) - version without Tinify, just with 0.5 JPG compression, when Tinify failed me - 09.09.24
