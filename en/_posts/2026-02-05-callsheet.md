@@ -37,6 +37,12 @@ Basically the same Shortcut, but enhanced for Poland as it also asks ChatGPT abo
 
 So with Polish official title in the brackets.
 
+### [🎬 Callsheet PL + RT][ct]
+
+I've also created a version, where it also asks for Rotten Tomaatoes score (Critics/People):
+
+> The Hunt for Red October (Polowanie na Czerwony Październik) (PY) https://www.themoviedb.org/movie/1669 🍅88/76
+
 ## Why I love the Callsheet app?
 
 Many reasons. Most of them is the convenience of browsing an app where there are no ads and everything is very intuitive. I love it. Yes, there is a limited free version, but Casey is very generous with his $9 yearly plan. I've already paid him twice as I've been using this app since the beginning - two years!
@@ -49,6 +55,7 @@ Anyway, this app is amazing, [go get it from the App Store][ca]
 
 [c]: https://www.icloud.com/shortcuts/00ce534e7176414cac008f3181dd5a81
 [cp]: https://www.icloud.com/shortcuts/838196f57b434b6fbe7e040fa1e93ceb
+[ct]: https://www.icloud.com/shortcuts/1fae66862dd64f3f9685c37d34279567
 [ca]: https://callsheetapp.com
 
 
