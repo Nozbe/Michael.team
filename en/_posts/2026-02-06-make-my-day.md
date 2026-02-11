@@ -2,6 +2,7 @@
 tags: [business,short]
 cover: "make-my-day.jpg"
 m: https://social.nozbe.com/users/michael/statuses/115973465677423848
+l: https://www.linkedin.com/posts/michaelsliwinski_every-positive-comment-counts-when-activity-7425546486844661760-T_si
 ---
 
 # Every single positive comment counts!
