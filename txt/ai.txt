@@ -1,0 +1,135 @@
+# Nozbe-AI
+
+![Slide of Nozbe](/img/nozbe-robot-ai.jpg)
+
+Welcome to the era of AI!
+
+<!--Theme: ai -->
+
+## 🎂 19 lat Nozbe!
+
+![Logo](/img/nozbe-robot-logo.jpg)
+
+## 2007-2020 Classic ➡️ 2020+ Nozbe
+
+![Devices](/img/nozbe-devices.jpg)
+
+- Przez pierwsze 13 lat rozwijaliśmy Nozbe, które potem przemianowaliśmy na Personal i potem Classic
+- Obecne Nozbe, to kiedyś nazwane Nozbe Teams. Teraz po prostu Nozbe.
+- Można łatwo zmigrować
+- Funkcje AI będą tylko dodawane do nowej Nozbe już
+- Mamy tysiące klientów, więc oni ciągle będą mogli używać Classic
+
+## ✅ Struktura (solo i w zespole)
+
+![Struktura](/img/10krokow-projekty.jpg)
+
+<!--10steps-projects-tasks-->
+
+## 📲 Nozbe jest mobilne…
+
+### …i silne 💪
+
+![Right mobile Nozbe](/img/keynoter-mobile.jpg)
+
+- Takie same funkcje dostępne i na komputerze i na telefonie
+- Również te funkcje AI, które już dzisiaj zademonstruję, będą dostępne na telefonie!
+
+## 🤖 Jak używamy AI w Nozbe?
+
+### 🎧 Nie Ma Biura #90
+
+![Logo](/img/niemabiura-90.jpg)
+<!--EN:niemabiura-90-->
+
+- Jak korzystać z AI zamiast tradycyjnego wyszukiwania Google
+AI jako wsparcie w nauce, analizie danych i automatyzacji procesów
+- Automatyzacja powtarzalnych zadań i workflow
+- Tłumaczenia i zachowanie własnego stylu pisania dzięki AI
+- AI w kodowaniu - jak dodaje supermocy?
+
+## 🤖 Nozbe i AI ✨
+### O czym będzie dzisiaj?
+
+![Left with Robot](/img/nozbe-robot-half.jpg)
+
+##### 🤖 Nasze podejście do AI
+##### 🔒 Bezpieczeństwo danych
+##### ✨ Dodawanie zadań z AI
+##### 🤝 Nozbe i inne AI
+##### 💡 Pomysły na AI
+
+## 🤖 W czym AI jest dobre?
+
+### Tworzenie, uzupełnianie, tłumaczenie i podsumowywanie treści…
+
+![Left Robot](/img/nozbe-robot-half.jpg)
+
+My od tego zaczynamy - tworzenia i uzupełniania…
+
+## 🔒 Bezpieczeństwo + serwery
+
+![EU](/img/eu.jpg)
+
+- szyfrowane załączniki
+- 3 serwery w EU
+- Wysyłanie danych użytkowników - tylko za ich przyzwoleniem
+- Nasz własny server AI
+
+## ✨ Dodawanie zadań z AI
+### Nowy projekt, szablon…
+
+![](/img/ai-demo.jpg)
+
+1. Rozmowa z Chatem GPT - skopiowana
+2. Możesz wyeksportować do CSV - inna forma
+3. Możesz po prostu dodać do naszego zapytanie
+
+Przetestuj i zobacz samemu. Wyślij do naszego supportu.
+
+## 💭 Coś sobie wymarzysz?
+
+### ✅ Nozbe ci to zaplanuje!
+
+![Right](/img/10steps-mobile.jpg)
+
+## ✅ Dlaczego zaczynamy od dodawania projektów?
+
+### Nie wysyłamy danych… na razie…
+
+##### ✅ Dodawanie zadań
+##### ➡️ Uzupełnianie zadań?
+##### ☑️ Dodawanie głosowo?
+##### ⏯️ Głosówki w komentarzach?
+##### 📝 Podsumowania projektów?
+
+## 🤝 Nozbe i inne AI
+
+### Użyj własnego AI - MCP (Model Context Protocol)
+
+![Right Robot](/img/nozbe-robot-half.jpg)
+
+## ✨ Nozbe i Claude AI
+
+![](/img/ai-demo.jpg)
+
+## 🎯 Nozbe ci sugeruje co zrobić!?
+
+![](/img/keynoter-ipad.jpg)
+
+## ✨ Nozbe.AI w 2026
+
+### Powoli, po kolei, bezpiecznie, skutecznie…
+
+##### 3️⃣ Zapytania na FREE
+##### 👊 Premium i Biz - fair use
+##### 📲 Wszystkie platformy
+
+## Nozbe.pl/demo
+
+![](/img/demo-pl.jpg)
+
+
+## 🤖 Nozbe i AI ✨
+### ⁉️ Pytania? Wątpliwości? Pomysły?
+
