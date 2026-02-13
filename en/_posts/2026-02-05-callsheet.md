@@ -54,7 +54,8 @@ What I also love is the small details like ages of actors. You can see how old e
 Anyway, this app is amazing, [go get it from the App Store][ca]
 
 [c]: https://www.icloud.com/shortcuts/00ce534e7176414cac008f3181dd5a81
-[cp]: https://www.icloud.com/shortcuts/838196f57b434b6fbe7e040fa1e93ceb
+[cp]: https://www.icloud.com/shortcuts/6066386ff84643859cf3a7b4c82c6c75
+[cp1]: https://www.icloud.com/shortcuts/838196f57b434b6fbe7e040fa1e93ceb
 [ct]: https://www.icloud.com/shortcuts/1fae66862dd64f3f9685c37d34279567
 [ca]: https://callsheetapp.com
 
