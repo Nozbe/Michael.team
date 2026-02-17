@@ -31,15 +31,12 @@ Copied to my clipboard.
 
 ### [🎬 Callsheet PL][cp]
 
-Basically the same Shortcut, but enhanced for Poland as it also asks ChatGPT about the official title in Polish. So in the above example I'd get:
+Basically the same Shortcut, but a little enhanced for our internal use at [Nadgryzieni podcast](/pl/nadgryzieni):
 
-> The Hunt for Red October (Polowanie na Czerwony Październik) (PY) https://www.themoviedb.org/movie/1669
+1. It asks ChatGPT about the official title in Polish
+2. It asks for Rotten Tomaatoes score (Critics/People)
 
-So with Polish official title in the brackets.
-
-### [🎬 Callsheet PL + RT][ct]
-
-I've also created a version, where it also asks for Rotten Tomaatoes score (Critics/People):
+So in the above example I'd get:
 
 > The Hunt for Red October (Polowanie na Czerwony Październik) (PY) https://www.themoviedb.org/movie/1669 🍅88/76
 
@@ -53,7 +50,7 @@ What I also love is the small details like ages of actors. You can see how old e
 
 Anyway, this app is amazing, [go get it from the App Store][ca]
 
-[c]: https://www.icloud.com/shortcuts/00ce534e7176414cac008f3181dd5a81
+[c]: https://www.icloud.com/shortcuts/227188e79d124046ac584c048b66338d
 [cp]: https://www.icloud.com/shortcuts/e56b74efb6c640bdaf0ca817c4ee4a45
 [cp1]: https://www.icloud.com/shortcuts/80f29a3bdaee4caeb938da2a5246a39b
 [cp2]: https://www.icloud.com/shortcuts/838196f57b434b6fbe7e040fa1e93ceb
