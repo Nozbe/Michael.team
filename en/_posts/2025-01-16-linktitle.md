@@ -54,7 +54,7 @@ Other than that, enjoy [this LinkTitle Shortcut][l].
 ## Version history
 
 - **[2.0][l]** - Feb 24, 2026 - fixed YouTube parameters error for non-video YouTube links
-- [1.8][l18] - Dec 18, 2025 - add "just link” export in case we need it only URL
+- [1.8][l18] - Dec 18, 2025 - add "just link” export in case we need just URL
 - [1.6][l16] - June 6, 2025 - support for removing names of the sites from title links, like `| The Verge` or `| iMagazine`
 - [1.5][l15] - March 17, 2025 - on my blog I have a special "embed" code block for videos so I updated this Shortcut withmy kind of embed. If you have your own embed code, feel free to customize it.
 - [1.0][l1] - January 15, 2025 - initial version.
