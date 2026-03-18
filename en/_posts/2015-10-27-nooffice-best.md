@@ -11,42 +11,54 @@ In Nozbe we’re a small team of 24 people in the core team and 10+ cooperating 
 
 ![{{ page.title }}](/img/{{ page.cover }})
 
-## Myth 1: While working from home rarely can be a good thing, doing it too much reduces productivity and happiness…
+## Myth 1: While working from home can be a good thing, doing it too much reduces productivity and happiness…
 
-First off, all the productivity gurus these days tell you we can only achieve better productivity when we find more “focus”. Working from home creates possibilities of much longer stretches of “focused time” also called “the flow” than working in an office, especially an “open office” so popular these days. Happiness? Study after study shows commuting as the single biggest reason of stress every day. When you commute to work you get to work stressed. And that’s supposed to make you feel happy?
+First off, all the productivity experts these days tell you we can only achieve better productivity when we find more “focus”. Working from home creates possibilities of much longer stretches of “focused time” also called “the flow” than working in an office, especially an “open office” so popular these days.
 
-## Myth 2: there’s “little empirical evidence to suggest that telecommuting is a generally effective way to mitigate work-family conflict,”
+Happiness? Study after study shows commuting as the single biggest reason of stress every day. When you commute to work you get to work stressed. And that’s supposed to make you feel happy?
+
+## Myth 2: little empirical evidence to suggest that telecommuting is a way to mitigate work-family conflict
 
 Of course there isn’t. For two reasons:
 
 1. There is no family conflict when you work from home, because you’re closer to your family, you have flexible working hours and your family is happy you’re around. So there’s nothing to mitigate.
 2. Working in an office indeed is a great way to mitigate work family conflict because when you work 12 hour days and commute you hardly see your family anyway, so avoidance is the best way of mitigation :-)
 
-## Myth 3: the collaboration argument: the vast majority of stuff we do at work today — teamwork, not individual work — that is the stuff that really measurably suffers.
+## Myth 3: the collaboration argument: the vast majority of work today — teamwork, not individual work — really measurably suffers.
 
-First off, do we really? Do we collaborate so much? Like all the time? In my company when we build our software our work looks like this: we do our work for a longer period of time, then we ask for feedback, do some brainstorming sessions, then we get back to working on our thing. We do collaborate, but “in between” longer stretches of work. Focused work. So don’t give me the “collaboration argument” here because it doesn’t apply.
+First off, do we really? Do we collaborate so much? Like all the time? In my company when we build our software our work looks like this: we do our work for a longer period of time, then we ask for feedback, do some brainstorming sessions, then we get back to working on our thing.
+
+We do collaborate, but “in between” longer stretches of work. Focused work. So don’t give me the “collaboration argument” here because it doesn’t apply.
 
 And by the way, there are many different ways of collaborating than just talking. Way more. And talking is the most time consuming and very often least effective. But we’ve got another myth exactly about that:
 
 ## Myth 4: despite the panoply of tools that facilitate remote work, communicating digitally will always be less efficient than talking face-to-face.
 
-Seriously? Talking is more efficient for tracking a complex project? For getting all the feedback from all the stakeholders, for following up and making sure things don’t fall through the cracks? Talking is the least effective, right next to email or post-it notes. Actually people in the offices should be using these collaboration tools and stop relying on their “talking time” to get things done. [Go read “Checklist manifesto”](/checklist-manifesto/) if you don’t believe me.
+Seriously? Talking is more efficient for tracking a complex project? For getting all the feedback from all the people involved, for following up and making sure things don’t fall through the cracks? 
 
-## Myth 5: quick feedback, or: “If I want to ask my editor about an edit while working from home, I have to write an email or message him, wait for him to see it and respond, and then respond again if I have any questions. If we’re right across the office, I can swivel my chair over and talk about it right away.”
+Talking is the least effective, right next to email or post-it notes. Actually people in the offices should be using these collaboration tools and stop relying on their “talking time” to get things done. [Go read “Checklist manifesto”](/checklist-manifesto/) if you don’t believe me.
 
-Yes, you can. And by doing just that you get him out of his “flow” state of working on a very important article. After you swivel and talk to him, he’ll need around 30 minutes to get back to his work and focus again… before someone else “swivels” to him, too. Don’t you see it’s so selfish? Was your work so important that you had to “swivel” at this very moment and ask him and disturb him without taking his work under consideration?
+## Myth 5: when I'm in the office I can get quick feedback all the time!
 
-## Myth 6: you’re u’re more likely to come up with something brilliant if you’re interacting spontaneously with people who have different ideas and areas of expertise, rather than just seeing their avatars in an app. “The technology we have today is not good enough to facilitate those interactions,”
+Yes, the typical complaint about working remotely:
 
-Yes, those famous inspiring “corridor” chats. Rather than let random chats in, let people use slack and schedule brainstorming meetings. So that people can bring their best ideas to the table and be really prepared to be bombarded with ideas. [We have our design fight just for that.](/podcast-19) And trust me, great “random” ideas come out of these meetings.
+> “If I want to ask my editor about an edit while working from home, I have to write an email or message him, wait for him to see it and respond, and then respond again if I have any questions. If we’re right across the office, I can swivel my chair over and talk about it right away.”
+
+Yes, you can get *quick feedback* easily when in the office, however by doing just that you get him out of his “flow” state of working on a very important article. After you swivel and talk to him, he’ll need around 30 minutes to get back to his work and focus again… before someone else “swivels” to him, too. Don’t you see it’s so selfish? Was your work so important that you had to “swivel” at this very moment and ask him and disturb him without taking his work under consideration?
+
+## Myth 6: serendipity, or that you’re more likely to come up with something brilliant if you’re interacting spontaneously with people who have different ideas and areas of expertise
+
+People argue that when you're working remotely and only see people's avatars in an app, *“the technology we have today is not good enough to facilitate those interactions”*.
+
+Yes, those famous inspiring “corridor” chats. Rather than let random chats in, let people use slack and schedule brainstorming meetings. So that people can bring their best ideas to the table and be really prepared to be bombarded with ideas. [We have our design fight just for that](/podcast-19). And trust me, great “random” ideas come out of these meetings.
 
 ## Myth 7: It makes sense that some of the biggest tech companies in Silicon Valley, including Google, Facebook and Apple, have discouraged working from home…
 
-[I’ve posted about it a week ago.](/sv-remote) But let’s repeat here: it makes no sense at all. Have you seen their offices? [Their open spaces where it’s hard to get anything done?](/podcast-5) It makes sense for them as much as it makes sense for the banks to build headquarters in the centers of big cities. Just because they do it doesn’t mean it’s right. The SV companies have the resources to do it and they hire lots of developers. If any company had so many engineers, they’d also eventually come up with something useful. But our small team does so much with just that, a small, effectively-working remote team.
+[I’ve written about it in the past](/sv-remote). But let’s repeat here: it makes no sense at all. Have you seen their offices? [Their open spaces where it’s hard to get anything done](/podcast-5)? It makes sense for them as much as it makes sense for the banks to build headquarters in the centers of big cities. Just because they do it doesn’t mean it’s right. The Silicon Valley companies have the resources to do it and they hire lots of programmers and want to create an illusion of control over them. But our small team does so much with just that, a small, effectively-working remote team.
 
 ## Myth 8: When you have a really tight-knit group of co-workers, those people tend to be a lot happier.
 
-Our team is tight. We love spending time with each other. At least twice a year. But thanks to the fact we’re working from home we have a life. Outside of work. We know our neighbors, we attend local barbecues, we attend our kids’ school events. And we develop friendships outside of work.
+Our team is tight. We love spending time with each other. Once or twice a year. But thanks to the fact we’re working from home we have a life. Outside of work. We know our neighbors, we attend local barbecues, we attend our kids’ school events. And we develop friendships outside of work.
 
 > People like us for who we are, not for what we are…
 
@@ -60,7 +72,7 @@ This makes no sense at all.
 
 ## Myth 10: while we will have earned some cost savings for our companies, we will have lost an essential part of work: the sense of belonging.
 
-You can develop a sense of belonging by fostering company culture though tools we use, the way we communicate, the way we schedule and do meetings, times we meet in person, and everything in between. I feel we’re a tighter team now than ever. Thanks to the right balance of focused time and [online tools](/podcast-17) and online meetings we’re a great group and I don’t feel lonely at all. [And I’m an extrovert.](/podcast-15)
+You can develop a sense of belonging by fostering company culture though tools we use, the way we communicate, the way we schedule and do meetings, times we meet in person, and everything in between. I feel we’re a tighter team now than ever. Thanks to the right balance of focused time and [online tools](/podcast-17) and online meetings we’re a great group and I don’t feel lonely at all. [And I’m an extrovert](/podcast-15).
 
 ## To sum up:
 
@@ -70,7 +82,6 @@ You can develop a sense of belonging by fostering company culture though tools w
 
 Stay tuned and meanwhile don’t be a stranger and let me know what you think and how do you see yourself working remotely instead of doing it in a traditional office. What are your biggest pros and cons? Any concerns? Any hidden benefits?
 
-[m]: https://nooffice.org/it-s-official-working-from-home-is-the-best-2de0ebd11478#.q55qqk1rx
 [mo]: https://nooffice.org/
 [mu]: https://medium.com/@MSliwinski
 [tp]: http://thepodcast.fm
