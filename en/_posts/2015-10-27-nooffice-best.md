@@ -1,6 +1,7 @@
 ---
 tags: [nooffice]
 cover: "nooffice-best.jpg"
+l: https://www.linkedin.com/pulse/its-official-working-from-home-best-michael-sliwinski-91gqf
 ---
 
 # It’s official: working from home is the best
