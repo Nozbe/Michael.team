@@ -45,7 +45,7 @@ const lists = {
 		"Pants 👖",
 		"Hoodie/Jumper 🥼",
 		"Sweater 👕🦺",
-		"Jacket 🧥"
+		"Jacket 🧥",
 		"PJ long",
 		"phone📱",
 		"chargers 🔌",
