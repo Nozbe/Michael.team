@@ -34,6 +34,23 @@ const lists = {
 		"PJ long",
 		"Headphones 🎧"
 	],
+	"japan": [
+		"Flipflops 🩴",
+		"Bathing Suit 🩱",
+		"Cap 🧢",
+		"Shorts 🩳",
+		"T-shirts 7️⃣👚",
+		"Panties 7️⃣🩲",
+		"Socks 7️⃣🧦",
+		"Pants 👖",
+		"Hoodie/Jumper 🥼",
+		"Sweater 👕🦺",
+		"Jacket 🧥"
+		"PJ long",
+		"phone📱",
+		"chargers 🔌",
+		"Headphones 🎧"
+	],
 	"week": [
 		"📥 Clean up inboxes and desk",
 		"💌 Clean up Email inbox",
