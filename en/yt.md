@@ -13,7 +13,7 @@ domain: Xoutu.be
 {% include hx.html text="Watch YouTube video!" href="javascript:getYouTube(true);" title="Watch YouTube" %}
 </form>
 
-To watch any video, paste a YouTube link. Works with *youtube.com, m.youtube.com, youtu.be* or just the bare unique YouTube video ID.
+To watch any video, paste a YouTube link. Works with *youtube.com, m.youtube.com, youtu.be* or just the bare unique YouTube video ID. Also works with *LIVE* video links.
 
 ## Share any YouTube video on iOS easily
 
@@ -50,6 +50,11 @@ This page solves most of these problems. It lets you embed *any YouTube video* (
 
 **[Read more about this page and share with your friends! Thanks!][blog]**
 
+## How can you help/support this page?
+
+If you want to thank me, feel free to [contact me](/contact) or better yet, give my app - [Nozbe][n] a try - it's the only productivity app you and your team will actually use and love. It's free for up to 3 active projects and 3 team members…
+
+[n]: https://michael.gratis/nozbe
 [blog]: https://michael.team/youtube/
 [s]: https://www.icloud.com/shortcuts/de73d6ea8cd349649a7ad2c7846728db
 [s-old]: https://www.icloud.com/shortcuts/56ebe64991fc441ea1bf0d4b52eaa2dd
