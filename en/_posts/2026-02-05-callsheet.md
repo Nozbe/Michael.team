@@ -35,10 +35,11 @@ Basically the same Shortcut, but a little enhanced for our internal use at [Nadg
 
 1. It asks ChatGPT about the official title in Polish
 2. It asks for Rotten Tomaatoes score (Critics/People)
+3. It asks if we want to select who of us watched the title
 
 So in the above example I'd get:
 
-> The Hunt for Red October (Polowanie na Czerwony Październik) (PY) https://www.themoviedb.org/movie/1669 🍅88/76
+> The Hunt for Red October (Polowanie na Czerwony Październik) (PY) 🍅88/76 https://www.themoviedb.org/movie/1669
 
 ## Why I love the Callsheet app?
 
@@ -51,7 +52,8 @@ What I also love is the small details like ages of actors. You can see how old e
 Anyway, this app is amazing, [go get it from the App Store][ca]
 
 [c]: https://www.icloud.com/shortcuts/227188e79d124046ac584c048b66338d
-[cp]: https://www.icloud.com/shortcuts/e56b74efb6c640bdaf0ca817c4ee4a45
+[cp]: https://www.icloud.com/shortcuts/3ba9b7757a1c4770acc05d25d3c0d865
+[cp3]: https://www.icloud.com/shortcuts/e56b74efb6c640bdaf0ca817c4ee4a45
 [cp1]: https://www.icloud.com/shortcuts/80f29a3bdaee4caeb938da2a5246a39b
 [cp2]: https://www.icloud.com/shortcuts/838196f57b434b6fbe7e040fa1e93ceb
 [ct]: https://www.icloud.com/shortcuts/1fae66862dd64f3f9685c37d34279567
