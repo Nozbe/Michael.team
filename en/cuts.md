@@ -11,7 +11,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 - [Action button template](https://www.icloud.com/shortcuts/6c66883d182a47dbb75fec0015d5cb93) - latest version of Action button with native Orientation - 4.04.25
 - [Akcja 🇵🇱](https://www.icloud.com/shortcuts/116534d8a03b4aa59990916372c93198) - [announcement in Polish](/pl/action/) - 31.01.24
-- [My action button with Clippy and new WatchNotes](https://www.icloud.com/shortcuts/85ca502fdc8a4dd4b6f5f331c183d53a) - 18.11.24
+- [My action button](https://www.icloud.com/shortcuts/50d89b22227e4edca669262fdfb06e13) - 14.05.26
 - [Launcher](https://www.icloud.com/shortcuts/cd9d3494fe3f492295b797e19fae5e01) - my old pre-coursor of the action button - 01.20 - features side-by-side set up as well. No longer need it.
 
 ## [Dice](/dice-shortcut/)
@@ -20,6 +20,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 ## [Add task to Nozbe](/nozbe-add)
 
+- [Add task to Nozbe](https://www.icloud.com/shortcuts/7aab27369ae143b593344f59845a412d) - just like the one below, but text only and also can be used on the Apple Watch - 14.05.26
 - [Nozbe](https://www.icloud.com/shortcuts/0c9f8265b4ba4fa9bf9e6f957e43455c) - new Shortcut based on new Action native from [Nozbe][n] - 03.26
 - [New To Do EN/PL](https://www.icloud.com/shortcuts/6d9d69dfecca4d159d122a53b7704049) - the bilingual version of the new to do Shortcut - 18.11.24
 - [New To Do](https://www.icloud.com/shortcuts/97cf4b78a7e54cc5ac1e7bebdcd3b151) - updated for iOS18 - 16.10.24
