@@ -52,7 +52,8 @@ What I also love is the small details like ages of actors. You can see how old e
 Anyway, this app is amazing, [go get it from the App Store][ca]
 
 [c]: https://www.icloud.com/shortcuts/227188e79d124046ac584c048b66338d
-[cp]: https://www.icloud.com/shortcuts/3ba9b7757a1c4770acc05d25d3c0d865
+[cp]: https://www.icloud.com/shortcuts/0c907351c80f4d5b96ce33468c2a3d6a
+[cp4]: https://www.icloud.com/shortcuts/3ba9b7757a1c4770acc05d25d3c0d865
 [cp3]: https://www.icloud.com/shortcuts/e56b74efb6c640bdaf0ca817c4ee4a45
 [cp1]: https://www.icloud.com/shortcuts/80f29a3bdaee4caeb938da2a5246a39b
 [cp2]: https://www.icloud.com/shortcuts/838196f57b434b6fbe7e040fa1e93ceb

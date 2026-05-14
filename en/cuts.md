@@ -20,6 +20,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 ## [Add task to Nozbe](/nozbe-add)
 
+- [Nozbe](https://www.icloud.com/shortcuts/0c9f8265b4ba4fa9bf9e6f957e43455c) - new Shortcut based on new Action native from [Nozbe][n] - 03.26
 - [New To Do EN/PL](https://www.icloud.com/shortcuts/6d9d69dfecca4d159d122a53b7704049) - the bilingual version of the new to do Shortcut - 18.11.24
 - [New To Do](https://www.icloud.com/shortcuts/97cf4b78a7e54cc5ac1e7bebdcd3b151) - updated for iOS18 - 16.10.24
 - [Nowe Zadanie](https://www.icloud.com/shortcuts/28a3043fc0be4390b150334ffce50daf) - as above, but in Polish - 16.10.24
@@ -67,8 +68,19 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 
 ## [Journaling](/journal/)
 
-I've been [journaling](/journal/) since 2016 with Shortcuts (and before that Workflow) and [this is my latest version 4)](/journal4):
+I've been [journaling](/journal/) since 2016 with Shortcuts (and before that Workflow).
 
+### Journal version 5 - unreleased
+
+- [Journal 5.24](https://www.icloud.com/shortcuts/c6bb4e3a4971406498e3721519f4afb1) - the one I'm using now already as my main Journal app - already has custom questions - 10.05.26
+- [Watch Journal](https://www.icloud.com/shortcuts/4d2dd7d6ea1a4b30b03b90c10711361f) - adding a journal entry from wherever - including the Apple Watch - 10.05.26
+- [Editing JSON files](https://www.icloud.com/shortcuts/bf26d52ba87e42988bb3b8357dcbdd8f) - [dictionary editing I needed](/json) - 10.05.26
+- [Radio button options](https://www.icloud.com/shortcuts/7dee855d7ffc49fcadf26b86c7c5747e) - [creating a custom "radio" button for settings](/options) - 12.05.26
+- [Dict sort](https://www.icloud.com/shortcuts/fe037a35043449f6a431521d0b3891dd) - sorting dictionary for translation checking - 04.26
+
+### [Journal version 4 and below](/journal4):
+
+- [Journal 4.53](https://www.icloud.com/shortcuts/04257e705cd340a8ab135278561f5313) - lots of improvements including changing to txt - never published - 04.26
 - [Journal 4.45](https://www.icloud.com/shortcuts/a47e0b470fea41f390570543c83bab7b) - support for defining Shortcuts after journaling and simplified menu with Settings - 30.09.25
 - [Journal 4.42](https://www.icloud.com/shortcuts/86dbf93e2258411b82944a4c3f7145c9) - support for auto updates of language files - 29.09.25
 - [Journal 4.40](https://www.icloud.com/shortcuts/413f4d0842934cc7aa41b1e793f6276d) - viewing and editing journal but without translation - 23.09.25
@@ -91,7 +103,6 @@ I've been [journaling](/journal/) since 2016 with Shortcuts (and before that Wor
 
 Additional Shortcuts useful for creating Journal:
 
-- [Edit Questions](https://www.icloud.com/shortcuts/e8ce111b606f4648927389b4ea28fc37) - shortcut for [editing questions in a JSON file](/json) - 12.10.25
 - [Planning 1.0](https://www.icloud.com/shortcuts/96a1be217a4947948d1b6903afa15893) - new planning NOT based on additional files. Later to be integrated in the main Journal Shortcut. - 04.25
 - [Dictionaries](https://www.icloud.com/shortcuts/9c3cd23a5c574091aeee8a0bbcddf5b6) - my old dictionaries of translations for Journal
 
@@ -118,12 +129,13 @@ Previous version:
 
 ClipCut 1.0 - 3.0 rewrite and speed enhancements:
 
+- [ClipCut DEV 46](https://www.icloud.com/shortcuts/13112bcc0c2d4f5ebc33056cdb6afab4) - 02.26 - improvements
 - [ClipCut Dev 44](https://www.icloud.com/shortcuts/ef76fd29b37a4023abda517c43fb7aec) - 28.01.26 - with Action menu and many improvements. Release candidate?
 - [ClipCut Dev 35](https://www.icloud.com/shortcuts/ead0750a8bcd49e18fbb5d68f2936a9f) - 13.01.26 - release-ready version but still the Action menu missing… or do we need it?
 - [ClipCut Dev 27](https://www.icloud.com/shortcuts/d2e96e84afc745d99ba8cb1e36fc1007) - 04.01.26 - most recent version - with lots of fixes and search terms and settings.
 - [ClipCut Dev 18](https://www.icloud.com/shortcuts/eb6f42913e74454889ab4e57038ec90e) - 18.12.25 - almost complete version, based on Clippy's file structure.
 
-My clipboard manager:
+My old clipboard manager:
 
 - [Clippy 2.1 debug version](https://www.icloud.com/shortcuts/ebfe7cee4a174332a35990453cf0dd28) - testing version to finally get issues out of my iPhone - 10.12.24
 - [Clippy RC](https://www.icloud.com/shortcuts/47afd5ba8b5b4f85a92d8e35fac8f3c8) - release candidate of Clippy after months of using it. - 08.09.24
@@ -147,6 +159,8 @@ Previous versions:
 
 ## Clipboard Actions
 
+- [Call Number](https://www.icloud.com/shortcuts/a9fd3cb29c4b4fa1bd3d66595325b614) - initiates a call to a number - 05.26
+- [QR Code](https://www.icloud.com/shortcuts/803d134836e946b3aa9ff95e17c5a32f) - get a QR code of a web site or scan a qr code to add it to clipboard. - 02.26
 - [Ryanair](https://www.icloud.com/shortcuts/9a57cf090e2349df8e7b6767a5b79757) - getting flight details and adding them to calendar - 18.11.24
 - [Vueling](https://www.icloud.com/shortcuts/76618551b46d48bea7e8257ac9bd2afb) - as above for Vueling - 18.11.24
 - [Wizzair](https://www.icloud.com/shortcuts/29b2ae2e73a2488ab5a06cafbf5ff582) - as above but for Wizzair - 18.11.24
@@ -155,12 +169,13 @@ Previous versions:
 - [Link Title](https://www.icloud.com/shortcuts/b09ee4e37c95424e8b81c90bcb4d63a8) - Getting the titles of web pages - 1.8 - 18.12.25 - for Nadgryzieni. [Link Title page](/linktitle)
 - [Currency](https://www.icloud.com/shortcuts/c3c3590a10c74ff2859bcbd62bf32d8a) - using ChatGPT to calculate stuff in currency - 23.01.26
 - [🎬 Callsheet](https://www.icloud.com/shortcuts/00ce534e7176414cac008f3181dd5a81) easy way to share from Calsheet and get a Nadgryzieni-approved TMDB link - 5.02.26
-- [🎬 Callsheet PL](https://www.icloud.com/shortcuts/838196f57b434b6fbe7e040fa1e93ceb) - as above with the option to ask for Polish title of the movie - 5.02.26
-- [Too big](https://www.icloud.com/shortcuts/77c1f3b1266149e99c1ad477d6c0915f) - my shortcut for "too big clipboard" so I can enhance it. - 10.02.26
+- [🎬 Callsheet PL](https://www.icloud.com/shortcuts/0c907351c80f4d5b96ce33468c2a3d6a) - as above with the option to ask for Polish title of the movie, Rotten tomatoes and customized for our [Nadgryzieni podcast](/pl/nadgryzieni/) - 14.05.26
+- [Too big](https://www.icloud.com/shortcuts/c02812aee15d485db79cd115ad8df011) - my shortcut for "too big clipboard" so I can enhance it. - 10.02.26
 
 
 ## Other Shortcuts
 
+- [Voice](https://www.icloud.com/shortcuts/56d43e0a2d514774b4c0109be7b3d47e) - write to speak shortcut with history - for Milena - 04.26
 - [Templut](https://www.icloud.com/shortcuts/cdde8995025a471eae58be0c83cc21f9) - basic template file for a complicated shortcut, like Journal or ClipCut
 - [Flashlight](https://www.icloud.com/shortcuts/72720850fa174d84958896e4778a0883) - flashlight toggling shortcut to use with Action button - 16.09.25
 - [Test - Blanks or Not](https://www.icloud.com/shortcuts/b5981baf7bf645c390aeec624fd15cb3) - testing [blanks on iOS18 and beyond](/blanks) - 10.12.24
