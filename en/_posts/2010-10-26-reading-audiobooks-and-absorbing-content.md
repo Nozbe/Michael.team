@@ -1,6 +1,8 @@
 ---
 tags: [books,productivity]
 img: "reading-audiobooks-and-absorbing-content.jpg"
+redirect_from:
+  - /audiobooks/
 ---
 
 # Reading audiobooks and absorbing content
