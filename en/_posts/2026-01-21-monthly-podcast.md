@@ -1,6 +1,7 @@
 ---
 tags: [business,short]
 cover: "monthly-podcast.jpg"
+c: 1
 ---
 
 # Switching to monthly cadence for No Office podcasts
