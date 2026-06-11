@@ -31,9 +31,10 @@ let links = new Map([
 ['passion-epub', 'http://MNoz.be/0e'],
 ['passion-mobi', 'http://MNoz.be/0f'],
 
-['webinar', 'https://nozbe.com/10steps?c=michaelteam'],
-['10krokow', 'https://nozbe.com/10krokow/'],
-
+['webinar', 'https://nozbe.com/10steps/?c=michaelteam'],
+['10krokow', 'https://nozbe.com/10krokow/?c=michaelteam'],
+['pyramid', 'https://nozbe.com/remote-teamwork-the-ultimate-guide/?c=michaelteam'],
+['piramida', 'https://nozbe.com/praca-zdalna-wspolpraca-w-zespole-kurs/?c=michaelteam'],
 
 //social media profiles
 
@@ -46,7 +47,7 @@ let links = new Map([
 ['ma', 'https://social.nozbe.com/@michael'],
 ['y','https://www.youtube.com/@MichaelTeam'],
 ['t','https://www.tiktok.com/@twomichaels?lang=en'],
-['test', 'test'],
+['test', 'https://michael.team/test'],
 
 
 ]);
