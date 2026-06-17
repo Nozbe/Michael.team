@@ -73,6 +73,7 @@ I've been [journaling](/journal/) since 2016 with Shortcuts (and before that Wor
 
 ### Journal version 5 - unreleased
 
+- [Journal 5.33](https://www.icloud.com/shortcuts/b886eefe211c47b5941bf51028cc257e) - support for iOS Journal App built in plus weekly planning - 16.06.26
 - [Journal 5.24](https://www.icloud.com/shortcuts/c6bb4e3a4971406498e3721519f4afb1) - the one I'm using now already as my main Journal app - already has custom questions - 10.05.26
 - [Watch Journal](https://www.icloud.com/shortcuts/4d2dd7d6ea1a4b30b03b90c10711361f) - adding a journal entry from wherever - including the Apple Watch - 10.05.26
 - [Editing JSON files](https://www.icloud.com/shortcuts/bf26d52ba87e42988bb3b8357dcbdd8f) - [dictionary editing I needed](/json) - 10.05.26
