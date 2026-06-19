@@ -73,12 +73,14 @@ I've been [journaling](/journal/) since 2016 with Shortcuts (and before that Wor
 
 ### Journal version 5 - unreleased
 
+- [Journal 5.34](https://www.icloud.com/shortcuts/435e315a6d1345678229243188e02e79) - support for ChatGPT 6-day in the past analysis and asking questions. Shrink mode. - 18.06.26
 - [Journal 5.33](https://www.icloud.com/shortcuts/b886eefe211c47b5941bf51028cc257e) - support for iOS Journal App built in plus weekly planning - 16.06.26
 - [Journal 5.24](https://www.icloud.com/shortcuts/c6bb4e3a4971406498e3721519f4afb1) - the one I'm using now already as my main Journal app - already has custom questions - 10.05.26
 - [Watch Journal](https://www.icloud.com/shortcuts/4d2dd7d6ea1a4b30b03b90c10711361f) - adding a journal entry from wherever - including the Apple Watch - 10.05.26
 - [Editing JSON files](https://www.icloud.com/shortcuts/bf26d52ba87e42988bb3b8357dcbdd8f) - [dictionary editing I needed](/json) - 10.05.26
 - [Radio button options](https://www.icloud.com/shortcuts/7dee855d7ffc49fcadf26b86c7c5747e) - [creating a custom "radio" button for settings](/options) - 12.05.26
 - [Dict sort](https://www.icloud.com/shortcuts/fe037a35043449f6a431521d0b3891dd) - sorting dictionary for translation checking - 04.26
+- [Lists](https://www.icloud.com/shortcuts/5f5d79cc87c74039980493fb33290f0b) - [Formatting lists in Shortcuts](/lists) - 10.06.26
 
 ### [Journal version 4 and below](/journal4):
 
@@ -131,6 +133,7 @@ Previous version:
 
 ClipCut 1.0 - 3.0 rewrite and speed enhancements:
 
+- [ClipCut DEV 47](https://www.icloud.com/shortcuts/65a66682084b43328ce55e3bb87deb1c) - 18.06.26 - added ASK AI feature so I can ask AI stuff
 - [ClipCut DEV 46](https://www.icloud.com/shortcuts/13112bcc0c2d4f5ebc33056cdb6afab4) - 02.26 - improvements
 - [ClipCut Dev 44](https://www.icloud.com/shortcuts/ef76fd29b37a4023abda517c43fb7aec) - 28.01.26 - with Action menu and many improvements. Release candidate?
 - [ClipCut Dev 35](https://www.icloud.com/shortcuts/ead0750a8bcd49e18fbb5d68f2936a9f) - 13.01.26 - release-ready version but still the Action menu missing… or do we need it?
@@ -161,6 +164,7 @@ Previous versions:
 
 ## Clipboard Actions
 
+- [Calculate](https://www.icloud.com/shortcuts/82ce46ecca654374bbba0d9f0b5ed42f) - a portable Soulver - calculates stuff with ChatGPT based on the input and copies stuff to clipboard - 18.06.26
 - [Call Number](https://www.icloud.com/shortcuts/a9fd3cb29c4b4fa1bd3d66595325b614) - initiates a call to a number - 05.26
 - [QR Code](https://www.icloud.com/shortcuts/803d134836e946b3aa9ff95e17c5a32f) - get a QR code of a web site or scan a qr code to add it to clipboard. - 02.26
 - [Ryanair](https://www.icloud.com/shortcuts/9a57cf090e2349df8e7b6767a5b79757) - getting flight details and adding them to calendar - 18.11.24
@@ -177,8 +181,9 @@ Previous versions:
 
 ## Other Shortcuts
 
-- [Voice](https://www.icloud.com/shortcuts/56d43e0a2d514774b4c0109be7b3d47e) - write to speak shortcut with history - for Milena - 04.26
-- [Templut](https://www.icloud.com/shortcuts/cdde8995025a471eae58be0c83cc21f9) - basic template file for a complicated shortcut, like Journal or ClipCut
+- [Speak](https://www.icloud.com/shortcuts/3e1e9969b2714957b8e25cdedb076e4c) - write to speak shortcut with history - for Milena - 19.06.26
+- [Speak Polish](https://www.icloud.com/shortcuts/5e494eca7a0a456390a902c56297eb6b) - Polish version of the "Speak" shortcut - 19.06.26
+- [Templut](https://www.icloud.com/shortcuts/3504a1b9e5aa492f9253699909392699) - basic template file for a complicated shortcut, like Journal, ClipCut or Keynoter - updated 19.06.26
 - [Flashlight](https://www.icloud.com/shortcuts/72720850fa174d84958896e4778a0883) - flashlight toggling shortcut to use with Action button - 16.09.25
 - [Test - Blanks or Not](https://www.icloud.com/shortcuts/b5981baf7bf645c390aeec624fd15cb3) - testing [blanks on iOS18 and beyond](/blanks) - 10.12.24
 - [Nozbe Parser](https://www.icloud.com/shortcuts/5a024c83f7f248f68db2ce274b02b485) - regexp way of adding automatically my campaign ID to any Nozbe link - 1.04.25
