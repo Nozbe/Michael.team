@@ -79,8 +79,8 @@ I've been [journaling](/journal/) since 2016 with Shortcuts (and before that Wor
 - [Watch Journal](https://www.icloud.com/shortcuts/4d2dd7d6ea1a4b30b03b90c10711361f) - adding a journal entry from wherever - including the Apple Watch - 10.05.26
 - [Editing JSON files](https://www.icloud.com/shortcuts/bf26d52ba87e42988bb3b8357dcbdd8f) - [dictionary editing I needed](/json) - 10.05.26
 - [Radio button options](https://www.icloud.com/shortcuts/7dee855d7ffc49fcadf26b86c7c5747e) - [creating a custom "radio" button for settings](/options) - 12.05.26
-- [Dict sort](https://www.icloud.com/shortcuts/fe037a35043449f6a431521d0b3891dd) - sorting dictionary for translation checking - 04.26
 - [Lists](https://www.icloud.com/shortcuts/5f5d79cc87c74039980493fb33290f0b) - [Formatting lists in Shortcuts](/lists) - 10.06.26
+- [Dict sort](https://www.icloud.com/shortcuts/fe037a35043449f6a431521d0b3891dd) - sorting dictionary for translation checking - 04.26
 
 ### [Journal version 4 and below](/journal4):
 
@@ -116,6 +116,11 @@ With legacy Shortcuts updated:
 - [Open Today DEV](https://www.icloud.com/shortcuts/d9a73fc2e3b74f70810c100f581a7c4c)
 
 ## Keynoter
+
+Re-written modern Keynoter 2.0:
+
+- [Keynoter 2.1 DEV 11](https://www.icloud.com/shortcuts/19836c5615a64a9391298e85a54f669c) - release candidate version - ready! 22.06.26
+- [Keynoter 2.1 DEV 3](https://www.icloud.com/shortcuts/6eaa0d435c2b40c9998b1da50a4a5f55) - rewritten for testing new Keynoter - 22.06.26 (code name: *Keynote*)
 
 My un-published simpler version of iA Presenter as a Shortcut to create presentations from Markdown files:
 
