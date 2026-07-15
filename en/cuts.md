@@ -119,6 +119,7 @@ With legacy Shortcuts updated:
 
 Re-written modern Keynoter 2.0:
 
+- [Keynoter 2.1 DEV 12](https://www.icloud.com/shortcuts/872e31f4957b4c3ebae27b22020c4e99) - working in progress - 3.07.26
 - [Keynoter 2.1 DEV 11](https://www.icloud.com/shortcuts/19836c5615a64a9391298e85a54f669c) - release candidate version - ready! 22.06.26
 - [Keynoter 2.1 DEV 3](https://www.icloud.com/shortcuts/6eaa0d435c2b40c9998b1da50a4a5f55) - rewritten for testing new Keynoter - 22.06.26 (code name: *Keynote*)
 

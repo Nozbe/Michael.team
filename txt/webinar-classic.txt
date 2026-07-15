@@ -1,0 +1,512 @@
+# How to get things done in 2026?
+
+Hello and welcome to the latest Nozbe webinar. I'm Michael Sliwinski, founder of Nozbe, your host for today! I see you're coming from all over the world - we have people from Europe, Americas and even Asia joining in! It's great to see you all.
+
+This webinar will be a little over an hour. At first I'm going to walk you through a presentation, showcasing the latest developments in Nozbe and productivity in 2026. Later we'll have a live Questions and Answers session, so make sure to take notes during the presentation and prepare your questions.
+
+All right, let's get going. I see we have more and more people joining in. Let's start as we have a lot to cover today!
+
+Let's talk about productivity. How to get things done in 2026?
+
+- How to make sure nothing falls through the cracks?
+- How to plan your work and not forget anything, like ever?
+- How to make time for deep work?
+- How to have fewer meetings that are really good?
+- How to work with others in a way that's efficient?
+
+We'll look at productivity through the latest developments in Nozbe - how our simple, yet powerful app can help you get things done better in 2026!
+
+![Slide for Webinar of 2026](/img/26-slide.jpg)
+
+<!--Style: 10steps-->
+
+## 19+ years…  Thank you! 🙏
+
+If you're here on this webinar, chances are you're an active Nozbe user or you've been using Nozbe in the past. Either way you've been a part of this journey - so thank you for your support. Thanks to you, a small mission-driven company like ours gets to help you and people and teams like yours get things done every single day.
+
+Again, thank you so much! I do appreciate you.
+
+### NOZBE - to BE Naturally OrganiZed
+
+##### 2007 - Nozbe Web 🌐
+
+Nozbe launched back in 2007 - as a web application for a desktop computer and for the just-launched iPhone!
+
+Just like in Getting Things Done methodology, idea behind Nozbe was NOT to remember what to do, because your mind sucks at storing information, but to have a trusted system. System like Nozbe.
+
+Word NOZBE comes from the phrase "To Be Naturally Organized" - and you and all our users have been naturally organized all these years.
+
+##### 2013 - Nozbe Classic 💻📲
+
+6 years after launch, we built the "suite of apps". The first version of Nozbe Classic. We had Nozbe running not only on the web, but also on the Mac, Windows, Android, iPad and the iPhone!
+
+##### 2020 - Nozbe Teams 🤝
+
+After 13 years we launched a completely new take on Nozbe, which was more focused on team collaboration and we called it Nozbe Teams to distinguish it from the regular Nozbe app.
+
+Turned out, our Nozbe customers wanted to use Nozbe Teams also for themselves so we've worked hard to incorporate many missing one-person features from Nozbe Classic and announced that from 2022, Nozbe Teams becomes the new Nozbe.
+
+We also introduced a new simpler way to migrate from Nozbe Classic to the new Nozbe.
+
+##### 2026 - New Nozbe 🏆
+
+Now, as many of our Nozbe Classic customers migrated to the new Nozbe, it's become our main app.
+
+We never forced Nozbe Classic users to migrate - you can still keep using it if you want, but I hope that with this webinar you'll be convinced to give the new Nozbe a try and finally migrate to the new platform.
+
+Remember, migration is very easy AND new Nozbe costs the same as the Nozbe Classic.
+
+## 2007: Simply Get Things Done!
+
+![Slide Nozbe center](/img/nozbe-07.jpg)
+
+Now for a warmup, here's how it started - in 2007 this is what Nozbe web site and interface and logo looked like.
+
+Just notice that from the very beginning it was about **Simply** getting things done!
+
+## 2013: All the platforms!
+
+![Nozbe center](/img/nozbe-13.jpg)
+
+As the smartphones and tablets became the norm, there was a need for a unified experience on all the platforms. Nozbe was one of the first productivity apps in the world that synced between all devices.
+
+## 2026: Nozbe Teams ➡️ new Nozbe
+
+![Nozbe center](/img/26-nozbe.jpg)
+
+Now the new Nozbe combines the best of Nozbe Classic and Nozbe Teams. And this webinar will be about all that - how to get things done in 2026 with the new Nozbe!
+
+Let's get started.
+
+## It's all about Simplicity
+
+### New Project ↩️ New task ↩️
+
+With all this progress over the years, let's focus on what stayed the same. Simplicity.
+
+Back when I built Nozbe, adding a task to Microsoft Outlook was like filling out a long form. I wanted to keep it simple.
+
+![Left New Project - New Task - center](/img/26-simple.jpg)
+
+In the new Nozbe, just like in all previous versions of Nozbe:
+
+- To create a project - you type the name of the project and hit ENTER - you can change some project's parameters, or even use AI but you don't have to.
+- When the project is created, it automatically opens - you can type your first task - and hit ENTER - again, there are some options to choose from but you can do that later.
+- So basically - new project, name, enter, task name, enter. Easy peasy.
+
+This is just one of many examples of Simplicity in action - many customers say they come back to Nozbe after using other tools because Nozbe not only helps them to add tasks quickly, like here, but later is not in the way of getting these tasks done.
+
+Nozbe is not a task manager, it's a task DOer.
+
+- Screenshot:
+- Deliver a great webinar
+- Section: Preparation
+- Prepare presentation
+- Create great screenshots
+- Record draft of the presentation
+- Section: Marketing
+- Send email to Nozbe Classic users
+
+## Manage - DO - Get details
+
+So let's talk about doing things.
+
+Great and simple ideas last for decades. When I built Nozbe I had this simple 3-column structure in mind: projects, tasks and then task details. It's very logical as it translates to: Manage - DO - Get details.
+
+In new Nozbe we simplified it, while making it more powerful.
+
+Our main view is sidebar with projects - active projects are right there - you don't have to go to "projects view" like in Nozbe Classic. **They are right there.**
+
+When you click on the project you have tasks. And when you click on the task, you have your task details and comments.
+
+Take a look at the new Nozbe - it's been all modernized.
+
+Later in this webinar we'll dive deeper into the Side bar, the task list with project sections, and task parameters with powerful comments.
+
+As you can see, Nozbe is a truly mobile-first app. It's as powerful on your smartphone as it is on your computer.
+
+![Structure Mobile center](/img/26-structure.jpg)
+
+- Screenshot
+- Step by step
+- Write a rough draft
+- Review the outline
+- Fill in the blanks
+- I'm going to be using screenshots from iPhone for easier delivery.
+
+## Structure on desktop
+
+![Slide](/img/26-columns.jpg)
+
+Here's Nozbe on a desktop.
+
+You can see the structure even better. And when you download apps for Mac and Windows, you can open several windows of Nozbe at the same time and have an even better overview of your tasks and projects.
+
+## Project list - no sub-projects!
+### Get organized in GROUPS and SECTIONS
+
+![Projects - Groups - Sections center](/img/26-projects.jpg)
+
+Now, Can you believe that Nozbe survived 19 years without adding sub-projects? That's right. We always believed in simple flat project structure.
+
+We know that a structure of projects, sub-projects, then tasks and sub-tasks may appear to look better. But it's not sustainable! 
+
+Over the years we had many customers leave us for other systems because we didn't offer sub-projects - to them - an obvious feature - but later many would come back saying they found our simple structure helped them get things done better!
+
+Without sub-projects in Nozbe you can still get organized pretty well:
+
+First off, you can group projects together. It's better than sub-projects or project folders because one project can belong to several groups. Like this "nozbe.com web site" project can belong to both marketing and development groups.
+
+Second - you can add sections to a project - to make them more scrollable. They say scrolling is like falling - so in new Nozbe you can divide a project into different groups of tasks - sections - you can hide them, move them up or down and of course move tasks between sections. Many of our customers use it as a vertical Kanban view.
+
+- Screenshot Project list:
+- Webinar
+- Social Media
+- Secret
+- Nozbe.com web site
+- Nozbe app for iPhone
+- Mac and Windows
+- Group: Development or Programming
+- Group: Marketing
+
+## Task details improved!
+### Sections, custom Repeats, powerful Reminders
+
+![Details - Due date - Repeat](/img/26-detail.jpg)
+
+When you look at task details in Nozbe, everything makes sense. Here's an example task. It says "Diana Prince" which must be a name of one of our customers, because it's in the project called "Customer Meetings" and in the section "Scheduled" where all new meetings get added. I'm responsible for this task and I've set no tags for it yet.
+
+To schedule this task, I click on "due date" and I set date and time.
+
+BTW, if this was a recurring meeting, I could set up any repeat pattern. Not just every week or every month, but every first day of the month or first Monday of the month. Or any type of recurrence.
+
+Now, have you ever had a situation when you were so busy you didn't see a notification about a meeting and you were late?
+
+We just launched a feature for iPhone users that you can set an alarm 5 minutes before the meeting. The iPhone will sound off an alarm even if it's in Do Not Disturb mode.
+
+This alarm feature is part of the new Reminders.
+
+Reminders are powerful because if not used as alarms, they can be used as "start date" of a task. Or if you delegate a task to someone, you can set a reminder for the future to review the task. Your reminders are not visible to anyone on your team. They're just for you.
+
+## Task Comments 💬
+
+### Notes with video, paperless office and checklists
+
+Task comments in Nozbe look simple but they are powerful! When back in the day we introduced comments to tasks in Nozbe Classic, we realized this was a game changer because they can serve many purposes.
+
+![Add comment - View comment - Player center](/img/26-comments.jpg)
+
+Use Comments as Notes! Even if you work alone, add a comment to a task to better describe a task for yourself, especially when a task repeats once a year, you might not remember what needs to be done - the future you will thank you for detailed instructions.
+
+I use comments to post progress on what I'm doing. As a way to journal - after each step I add a comment…
+
+You can also embed YouTube or Vimeo videos for better instructions and view them inside the app!
+
+Many of our customers are using Nozbe as their "paperless office". You can upload attachments to the task so you have all the documentation at hand.
+
+And now on an iPhone you can directly scan a document to Nozbe
+
+For example: at Nozbe we share a project with our accounting company. I create a task, scan the invoice, explain what's the reason for the cost in a comment and delegate to my accountant. Done and done.
+
+As I mentioned, at Nozbe we want to keep a simple structure. No sub-projects or sub-tasks. We solved sub-tasks with checklists in comments.
+
+In Nozbe Classic we introduced a type of comment that is a checklist. In new Nozbe we made checklists as a part of the comment. So you can have one checklist as a comment, or you can have several smaller checklists.
+
+But remember, if a checklist has grown too much, you can still convert it to a project with one click!
+
+- Screenshot:
+- A comment can be note to self…
+- Or it can be
+- A simple checklist
+- Which can be added anytime
+- Or you can use attachments for "paperless office"
+- Or you can even embed videos
+- Important-document.pdf
+
+ Comments with others
+
+## Task-based communication!
+
+![Comments - Links - Pinned center](/img/26-pinc.jpg)
+
+Now comes the kicker - at Nozbe we NEVER email each other.
+
+Let me repeat: we don't send emails to each other in our team.
+
+We communicate through tasks.
+
+This makes our communication focused. We discuss everything related to a task in the comments. And if during a discussion we go off topic, we create a new task for it. We exchange comments to work together better.
+
+In Nozbe Classic when we introduced comments, the latest comment was at the top of the list… however as we started really working a lot more together and our company grew, we realized, this is not how reading works.
+
+When you read a message thread - you want to be able to read from top to bottom. This is natural.
+
+Reading from bottom to top is not - it requires moving up, reading down, moving up, reading down… and if you have several comments to catch up on, it's really annoying.
+
+That's why in new Nozbe it's the same way as in your favorite chat program. Like in WhatsApp or Messages app. You read from top to bottom.
+
+That's why we say - Nozbe is like WhatsApp but a lot more organized! In fact, many customers come to us because they tried to manage their company via WhatsApp and started failing.
+
+You can also mention people - they'll be notified that you talked about them in this task. 
+
+Sometimes the shortest comment is just a reaction. You can add one of 5 reactions to a comment. We love it especially if you're asking someone with a mention and are waiting for their confirmation and when you get it in a form of "thumbs up" it's so satisfying.
+
+You can also easily link to other projects or tasks… When a task linked to a comment is done, you'll see its state changes.
+
+And lastly - when a task has too many comments, how to distill signal from noise? Simply pin the comments that are really important or describe the task best. Later you can view all the pinned comments to catch up easily.
+
+- Screenshot:
+- Michael: Here's the outline of the webinar
+- Paul: Great outline, @Michael - don't you think you should mention creating projects with AI and MCP server?
+- Michael: @Paul please start preparing slides as outlined in the "Prepare presentation"
+- Paul: BTW @Michael, I'm working on "Set up page on nozbe.com"
+
+## Collaboration in projects
+
+![Project - Limited - Joint](/img/26-sharing.jpg)
+
+Back in 2007 when I launched Nozbe, you couldn't share projects with anyone. Projects were yours only. Later we introduced "sharing" of projects which was another game changer. This gave birth to our concept of task-based communication.
+
+In new Nozbe we took this to a whole new level. And as with everything - we simplified it.
+
+When your team or company grows and you start embracing our task-based communication, micro managing who is invited to each project can be annoying.
+
+Also, we learned over the years from our own company and our customers, that when the team has access to more information, people feel more trusted, more empowered and are making better and more informed decisions.
+
+Remember this form for creating a project? It's still as simple - put the project name and hit ENTER. By default the project will be accessible to everyone on your team. No need for invites. You just create a project, add tasks, delegate them to others or mention people in the comments - this is how they find out about it.
+
+Of course sometimes you don't want to share a project with everyone yet, so you can limit the project to just yourself or to only few people. While we have projects like this, in practice most of our projects are accessible to everyone.
+
+And you can share a project with a different team - When I talked about scanning a document for my accountant I mentioned that we share a project with them. Just like in Nozbe Classic you could share a project with people from outside of your team, you can do the same with projects in the new Nozbe.
+
+We call it "joint projects" as these are projects shared between two teams - on both sides you can decide how many people from each team participate in such a project.
+
+- Screenshot:
+- Accessible by everyone
+- Accessible by those invited
+- Subcontractor@
+
+## Share a task with anyone!
+
+### No Nozbe account needed…
+
+![Right GTM center](/img/26-gtm.jpg)
+
+Even though we've had over 1 Million people set up a Nozbe account in the last two decades and had customers from 165 countries, well… still not everyone knows about Nozbe.
+
+And you as a Nozbe user wants ALL of your tasks to be in Nozbe and maybe sometimes you don't want to be that person who forces people to use Nozbe so that you can only share a task with them. Or maybe they need to see Nozbe in action to be convinced?
+
+Now in new Nozbe you can share a task with anyone who has an email address! Or better yet, you can generate a link to a task and send it to them via WhatsApp or other messaging platform.
+
+They can open the task in a browser and reply to your comments and collaborate with you. The task remains in your Nozbe account and - they can either keep viewing the task in their browser or set up their free Nozbe account… it's up to them.
+
+## Email to Nozbe
+
+### To a project, section… or task!
+
+![Left Email center](/img/26-email.jpg)
+
+If you're not creating tasks for others, people are very often creating tasks for you by sending traditional emails to you. In Nozbe Classic, converting emails to tasks was one of our killer features.
+
+In New Nozbe we've taken it to a whole new level. Again!
+
+In New Nozbe not only can you send an email to your account and it'll automatically convert it to a task with subject line as the task name and email content as a comment, but you can also generate separate email addresses for projects, project sections and even specific tasks.
+
+And when you forward an email to a task you can then use the sender's email address to start sharing this task with them, just as I previously explained. Nozbe recognizes the sender and suggests them to you. This way you can truly convert an email to a task productively.
+
+- Screenshot
+- Project: Nozbe app for iPhone
+- New scanning feature
+- Section: Upcoming features
+- Interactive widgets
+- Alarm reminders
+
+## Refreshed Nozbe navigation
+
+### DEMO with customizable tiles!
+
+![Slide](/img/26-demo.jpg)
+
+Now that we've discussed the cool improvements of Nozbe, let's show you how new Nozbe looks like in action. How we've recently refreshed the side bar and made it very customizable.
+
+Also, how we've simplified the interface so that it's not overwhelming to new users and also to those of you who migrate from Nozbe Classic.
+
+I think especially for Nozbe Classic users this new interface will be a breath of fresh air!
+
+Start demo.
+
+Perfect, now that we know how cool Nozbe can be customized, let's get back to our webinar and explain some additional features.
+
+## Priority view
+
+### ⭐️ Manually "star" your next actions!
+
+![Left Priority center](/img/26-priority.jpg)
+
+To make a task a priority - something I want to work on - back in 2007 I basically took the design from Gmail where you could "star" an email message. In Nozbe you can star a task.
+
+As I mentioned, good design lasts decades and this is still the best way to mark a task as something you want to work on. As your "next action" in GTD speak.
+
+In Nozbe Classic we made automations, that triggered some tasks to become your priority automatically. Like when a date of the task was due, or like when someone delegated a task to you.
+
+Again, just like with other things, when we started using Nozbe exclusively as our way of getting things done together - implementing task-based communication, we realized that it wasn't OK for people to add tasks to our priority list.
+
+It's like when you have a priority list you prepared for the day and suddenly someone just slams a task in your face and puts it in front of you. Normally they'd put it in your inbox.
+
+## Incoming - Notification Center
+
+### 📥 Dates, Reminders, Mentions, Delegations…
+
+![Right Incoming center](/img/26-incoming.jpg)
+
+That's why in new Nozbe we've built "Incoming" view - which is our novel concept - list of tasks that require your attention:
+
+- Tasks due today
+- Tasks you're being reminded about
+- Tasks delegated to you
+- Tasks where people mentioned you
+- Tasks added to Nozbe from other places like email integration that we just talked about
+
+The goal of this view is to decide what to do next. You need to be reviewing all these tasks to clear out this view.
+
+When you mark it as reviewed, it disappears from this view, but not from Nozbe.
+
+When you perform an action on a task, like marking it with a star, or commenting on it, or delegating it further, the task is automatically reviewed.
+
+Still, if you like to have tasks which are due for today automatically marked with a star and added to your priority list, you can set it up the Nozbe Classic way.
+
+## 💬 Messages in Nozbe!
+
+### …because not everything must be task-related
+
+![Left Messages center](/img/26-messages.jpg)
+
+Speaking of working with others - one of our most requested feature was being able to exchange messages between team members. Because not all comments must be related to a task.
+
+You don't need Teams, Slack, Whatsapp or any other messaging platforms where you can easily get distracted. You can just use Nozbe to communicate with your team.
+
+You can send messages to your entire team, have a one-to-one discussion or create a group chat.
+
+And there's a Bonus - just like in task-based comments, you can link to tasks or projects directly in messages - to explain what you're referring to.
+
+And when you believe a messages should be actionable - you can create a task from this message with just one click!
+
+In Nozbe you have truly productive conversations!
+
+- Screenshot:
+- Here's the message to our entire team!
+- Let's meet on Zoom?
+- When, in like 5 minutes I can join you. What do you want to discuss?
+- I like to brainstorm this idea: LINKTOPROJECT. Is that ok with you?
+- Sure, let's do this, Meet you in 5!
+
+## Additional workspaces
+
+### Private space or Business with unlimited spaces
+
+![Right Spaces Business center](/img/26-biz.jpg)
+
+As mentioned in the demo video, in new Nozbe it's very easy to separate your work and private life by using workspaces. If you already belong to one Premium workspace, you can have additional free workspace with up to 3 people and 3 active projects.
+
+It's a perfect setup to invite your partner and manage your private tasks, commitments and plan your vacations together.
+
+However, some of our customers have bigger teams with departments or different company offices and they prefer to be able to manage several premium workspaces together.
+
+Instead of paying for each premium workspace, you can just upgrade your entire team to the Business plan and manage unlimited workspaces. This way you can decide who has access to which workspace.
+
+## 🏖️ Vacation mode
+
+### Don't be notified about work when you're on vacation!
+
+![Left vacation center](/img/26-vacation.jpg)
+
+Thanks to the fact that you can now have your premium workspace for work and your free workspace for personal planning, you can set up "vacation mode".
+
+This way you won't be notified about anything that's work-related. Your co-workers will also see that you're on vacation whenever they are tempted to delegate a task to you or mention you in a comment. They'll be alerted that you're away and when you'll be able to get back to them.
+
+Again, work life balance is very important!
+
+## Nozbe AI
+
+### Create projects with AI or nozbe.com/mcp
+
+![Right AI center](/img/26-ai.jpg)
+
+Lastly, let's talk about AI. We believe AI will help you be more productive. We've introduced new AI features in the beginning of this year with the first one being - create projects with AI - you can describe a project to the AI and it will create one for you.
+
+We're also using AI models to help you import stuff to Nozbe - you can just paste any CSV file from Excel and Nozbe will try to understand it to create appropriate tasks and comments for you including due dates.
+
+We are also offering an MCP server for your AI agents like ChatGPT or Claude so you can connect to your Nozbe account and ask Chat about your priorities, tell them to create new projects for you or check for status updates.
+
+What's important. We've set up our own AI infrastructure to make sure that we don't send your personal data to AI without your consent. We're making sure your data stays private.
+
+- Screenshot:
+- Design me an onboarding process for our new customer support employee. Suggest best practices so that our new team member feels welcome. We are a 15 person fully remote team running nozbe.com app with values: Passion, Simplicity, Fairness, Freedom and Trust.
+
+## Simplicity, Flexibility + Sync
+
+### 2 decades, over 1M users, customers from 165 countries!
+
+![Nozbe](/img/nozbe-neon.jpg)
+
+Time to wrap up this intensive webinar - as you can see, our Nozbe way works. The new Nozbe is a much improved version of the original Nozbe from back in 2007 as well as Nozbe Classic.
+
+Jeff Bezos, the founder of Amazon, always said - invest in things that will be true for a long time.
+
+Like **Simplicity** - now with so many competitors on the market, people keep coming back to Nozbe - because very rarely people say:
+
+> I wish getting things done was more complicated. I wish working with my team wasn't that simple.
+
+Yes, sometimes entrepreneurs want to complicate their lives and say - Nozbe doesn't have this or that feature, I always tell them - give it a try with the features we have, you'll feel relief and sense of control - and if you have a team, they will thank you for it - because when you give them access to Nozbe, they'll also feel in control.
+
+Flexibility - we have customers from many industries: law firms, real estate brokers, manufacturing plants, universities and countless mom-and-pop businesses as well as solopreneurs who just want to be in control of their commitments.
+
+Thanks to more advanced features like tags (which we didn't even discuss on this webinar), calendar and many more enhancements, they use Nozbe to manage their entire business.
+
+Synchronization - you want to stay in sync and your data should be in sync, so you can be productive from any device. And even work offline if your Internet connection is spotty. Nozbe gives you access to your trusted productivity system from anywhere!
+
+## Nozbe Classic? Upgrade today!
+
+### ✅ Nozbe.com/compare
+
+![Left Nozbe Mac](/img/ipad-nozbe.jpg)
+
+If you're still a Nozbe Classic user, it's time to upgrade to the new Nozbe. If you're worried about the migration process, contact us and we'll guide you through it.
+
+We cannot be building features for both apps that's why we've kept Nozbe Classic the way it is, but we keep upgrading the new Nozbe.
+
+As you've seen in this webinar, the new Nozbe is the same concept of simplicity, flexibility and synchronization as the old one, just upgraded and modernized.
+
+Even if you're on your own, you'll benefit from new Nozbe features mentioned today and the moment you want to work with someone, sharing a task or a project is a breeze.
+
+Your unused credits will be migrated to the new Nozbe and you will be paying the same rate for the new one as you're paying for Nozbe Classic.
+
+## Talk to productivity expert
+
+### ➡️ Nozbe.com/demo
+
+![Right Demo](/img/demo-m.jpg)
+
+Not only our legendary customer support is ready to answer any question you might have, but now you can schedule a demo with Magda, our productivity expert, who will answer any question you might have about new Nozbe interface.
+
+For DE, ES, JA: Magda doesn't speak Japanese/German/Spanish, but we have dedicated customer support person who can run the demo in your language.
+
+## Setting up a new 5-person team?
+
+### ➡️ Nozbe.com/setup
+
+![Left](/img/brainstorming.jpg)
+
+For companies of 5 people or more we offer personalized guidance. All you have to do is simply schedule a demo and together you'll create a plan of implementing Nozbe in your team.
+
+If you are an avid Nozbe user but never tried implementing Nozbe in your team or business. We will help you with that.
+
+## Questions?
+
+### Ask us about Nozbe, Classic migration or #NoOffice or AI?
+
+![Audience](/img/audience.jpg)
+
+OK, that's it for now. Thank you so much for participating in this webinar. Now it's time for some questions.
+
+And remember, if we haven't answered something here, you can always email us at support@nozbe.com - you will not receive an automated response or be forced to talk to an AI agent - a real person will take care of you. We are famous for our personalized and dedicated customer support team.
