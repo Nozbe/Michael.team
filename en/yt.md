@@ -13,7 +13,7 @@ domain: Xoutu.be
 {% include hx.html text="Watch YouTube video!" href="javascript:getYouTube(true);" title="Watch YouTube" %}
 </form>
 
-To watch any video, paste a YouTube link. Works with *youtube.com, m.youtube.com, youtu.be* or just the bare unique YouTube video ID. Also works with *LIVE* video links.
+To watch any video, paste a YouTube link. Works with *youtube.com, m.youtube.com, youtu.be* or just the bare unique YouTube video ID. Also works with *LIVE* video links and *Shorts*.
 
 ## Share any YouTube video on iOS easily
 
@@ -40,7 +40,7 @@ To:
 xoutu.be/VIDEOID
 {% endhighlight %}
 
-I hope Google will not sue me for ordering a similar domain. It's for a good cause!
+I hope Google doesn't sue me for ordering a similar domain. It's for a good cause!
 
 ## [Why this page?][blog]
 

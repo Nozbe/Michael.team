@@ -26,10 +26,12 @@ function getYouTube(input = false) {
 	//https://www.youtube.com/watch?feature=emb_logo&v=BmlB8y5Sig8&app=desktop
 	//https://youtu.be/BmlB8y5Sig8
 	//https://www.youtube.com/watch?v=BmlB8y5Sig8
-	//https://www.youtube.com/live/BmlB8y5Sig8
+	//https://www.youtube.com/live/V6l8LFxZAy0 - LIVE links
+	//https://www.youtube.com/shorts/v47rciCJWNU - SHORTS
 	//…or just Video ID
 	let yt = '';
 	let ytlink = '';
+	let isShort = false;
 	if (input) {
 		ytlink = document.forms.link.yt.value;
 		window.scrollTo(0, 0);
@@ -44,29 +46,18 @@ function getYouTube(input = false) {
 			}
 		}
 	}
-	if (!yt) {
-		if (ytlink) {
-			//case 1 - v=ID is in the middle before "&"
-			let video = ytlink.match(/v=([a-zA-Z0-9_-]{11})/);
-			if (video) yt = video[1];
-			else {
-				//case 2 - it's a youtube.com/live/ID link ← NEW
-				video = ytlink.match(/youtube\.com\/live\/([a-zA-Z0-9_-]{11})/);
-				if (video) yt = video[1];
-				else {
-					//case 3 - it's a youtu.be/ID link (strip any trailing params)
-					video = ytlink.match(/youtu\.be\/([a-zA-Z0-9_-]{11})/);
-					if (video) yt = video[1];
-				}
-			}
-		}
+	if (!yt && ytlink) {
+		let video = ytlink.match(/(?:youtube\.com\/(shorts)\/|youtube\.com\/(?:live\/|watch\?(?:.*&)?v=)|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
+		if (video) { isShort = !!video[1]; yt = video[2]; }
 	}
 	if (yt) {
+		//set dimensions based on short or regular video
+		let w = isShort ? 270 : 853;
 		//set meta attributes
 		document.querySelector('meta[name="twitter:image"]').setAttribute("content", 'https://i.ytimg.com/vi/'+yt+'/maxresdefault.jpg');
 		document.querySelector('meta[property="og:image"]').setAttribute("content", 'https://i.ytimg.com/vi/'+yt+'/maxresdefault.jpg');
 		//embed video
-		document.querySelector("#yt").innerHTML = '<div id="embed" class="embed-container"><iframe src="https://www.youtube-nocookie.com/embed/' + yt + '" width="853" height="480" frameborder="0" webkitallowfullscreen="1" mozallowfullscreen="1" allowfullscreen="1"></iframe></div>';
+		document.querySelector("#yt").innerHTML = '<div id="embed" class="embed-container"><iframe src="https://www.youtube-nocookie.com/embed/' + yt + '" width="'+w+'" height="480" frameborder="0" webkitallowfullscreen="1" mozallowfullscreen="1" allowfullscreen="1"></iframe></div>';
 		//add page to browser history if it was from input
 		if (input) window.history.pushState('video','YouTube watcher - Michael.team','https://michael.team/yt/?yt=https://www.youtube.com/watch?v='+yt);
 	}
