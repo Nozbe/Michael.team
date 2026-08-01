@@ -81,6 +81,20 @@ const lists = {
 		"🥾 Shoes for UK",
 		"🧴 Cosmetics"
 	],
+	"camper": [
+		"Flipflops 🩴",
+		"Bathing Suit 🩱",
+		"Cap 🧢",
+		"Shorts 2️⃣🩳",
+		"T-shirts 7️⃣👚",
+		"Panties 7️⃣🩲",
+		"Socks 7️⃣🧦",
+		"Pants 2️⃣👖",
+		"Hoodie/Jumper 2️⃣🥼",
+		"Sweater 👕🦺",
+		"Jacket 🧥",
+		"PJ long"
+	],	
 	"trip": [
 		"🎒 SMALL BACKPACK with water bottle and a game, book, or similar item",
 		"🪥 Toiletry bag: comb or brush, shower gel and shampoo toothbrush and toothpaste, etc.",
