@@ -49,7 +49,7 @@ I regularly update and post about my [Shortcuts](/shortcuts) but on this page I'
 - [Compress Image with Tinify](https://www.icloud.com/shortcuts/98eb76b7bbbc4c5996d39bc567f3b654) - official shortcut - 10.24
 - [Michael.team post](https://www.icloud.com/shortcuts/272e55e44df648c39e10176e68c58371) - conversion of text from raw text to a blog post fixed for iOS26 - 15.09.25
 - [Check name on Michael.team](https://www.icloud.com/shortcuts/c64fabdd915247e48b92759144f746a1) - check if certain post name already exists (required by above Shortcut) - update 01.04.25
-- [Blog Templating](https://www.icloud.com/shortcuts/51d3d63ab96c4eea95007c94b5a532fb) - (v.2.0) posting a blog from a template, especially useful for guest posts or podcast posts (very specific to my blog!) - 13.01.25
+- [Blog Templating](https://www.icloud.com/shortcuts/a3466df976d44e19b02924ad36558905) - (v.2.2) posting a blog from a template, especially useful for guest posts or podcast posts (very specific to my blog!) - 30.07.26
 - [Quick Blog](https://www.icloud.com/shortcuts/134b408b5a534abda9d92af667d0e61f) - a way to post quickly something - like a Toot but directly to my blog! - 18.11.24
 - [Blog Something](https://www.icloud.com/shortcuts/daecdb54b60f4b1aa9307683bbb954e0) - quickly adding a draft of a post off an idea to iA Writer - 18.11.24
 - [🔗 Link To Markdown](https://www.icloud.com/shortcuts/4a7ee7378c664ad58f0f265ce59d9011) - copies link to Markdown format and in case of YouTube - adds embed (normal and shorts) - 15.05.24
@@ -73,6 +73,7 @@ I've been [journaling](/journal/) since 2016 with Shortcuts (and before that Wor
 
 ### Journal version 5 - unreleased
 
+- [Journal 5.37](https://www.icloud.com/shortcuts/5d64eec207a546ba9d84a6a4a201e10f) - pre-release version with fixed JSON download - 17.08.26
 - [Journal 5.34](https://www.icloud.com/shortcuts/435e315a6d1345678229243188e02e79) - support for ChatGPT 6-day in the past analysis and asking questions. Shrink mode. - 18.06.26
 - [Journal 5.33](https://www.icloud.com/shortcuts/b886eefe211c47b5941bf51028cc257e) - support for iOS Journal App built in plus weekly planning - 16.06.26
 - [Journal 5.24](https://www.icloud.com/shortcuts/c6bb4e3a4971406498e3721519f4afb1) - the one I'm using now already as my main Journal app - already has custom questions - 10.05.26
@@ -81,6 +82,7 @@ I've been [journaling](/journal/) since 2016 with Shortcuts (and before that Wor
 - [Radio button options](https://www.icloud.com/shortcuts/7dee855d7ffc49fcadf26b86c7c5747e) - [creating a custom "radio" button for settings](/options) - 12.05.26
 - [Lists](https://www.icloud.com/shortcuts/5f5d79cc87c74039980493fb33290f0b) - [Formatting lists in Shortcuts](/lists) - 10.06.26
 - [Dict sort](https://www.icloud.com/shortcuts/fe037a35043449f6a431521d0b3891dd) - sorting dictionary for translation checking - 04.26
+- [Choose from list](https://www.icloud.com/shortcuts/3d2cc222509e42e4b0b2323aec73967c) - new menu idea for the release of the 5.X Journal - 17.08.26
 
 ### [Journal version 4 and below](/journal4):
 
@@ -140,6 +142,7 @@ Previous version:
 
 ClipCut 1.0 - 3.0 rewrite and speed enhancements:
 
+- [ClipCut DEV 50](https://www.icloud.com/shortcuts/acb294034ce64d1898d0ccf1f1acaa17) - 17.08.26 - pre-release version to test with iOS27 and setup JSON.
 - [ClipCut DEV 47](https://www.icloud.com/shortcuts/65a66682084b43328ce55e3bb87deb1c) - 18.06.26 - added ASK AI feature so I can ask AI stuff
 - [ClipCut DEV 46](https://www.icloud.com/shortcuts/13112bcc0c2d4f5ebc33056cdb6afab4) - 02.26 - improvements
 - [ClipCut Dev 44](https://www.icloud.com/shortcuts/ef76fd29b37a4023abda517c43fb7aec) - 28.01.26 - with Action menu and many improvements. Release candidate?
@@ -190,7 +193,7 @@ Previous versions:
 
 - [Speak](https://www.icloud.com/shortcuts/3e1e9969b2714957b8e25cdedb076e4c) - write to speak shortcut with history - for Milena - 19.06.26
 - [Speak Polish](https://www.icloud.com/shortcuts/5e494eca7a0a456390a902c56297eb6b) - Polish version of the "Speak" shortcut - 19.06.26
-- [Templut](https://www.icloud.com/shortcuts/3504a1b9e5aa492f9253699909392699) - basic template file for a complicated shortcut, like Journal, ClipCut or Keynoter - updated 19.06.26
+- [Templut](https://www.icloud.com/shortcuts/757203e0cdb244e7bfd1aa6bc31b68f8) - basic template file for a complicated shortcut, like Journal, ClipCut or Keynoter - 17.08.26
 - [Flashlight](https://www.icloud.com/shortcuts/72720850fa174d84958896e4778a0883) - flashlight toggling shortcut to use with Action button - 16.09.25
 - [Test - Blanks or Not](https://www.icloud.com/shortcuts/b5981baf7bf645c390aeec624fd15cb3) - testing [blanks on iOS18 and beyond](/blanks) - 10.12.24
 - [Nozbe Parser](https://www.icloud.com/shortcuts/5a024c83f7f248f68db2ce274b02b485) - regexp way of adding automatically my campaign ID to any Nozbe link - 1.04.25
