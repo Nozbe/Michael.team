@@ -43,10 +43,12 @@
       "SELECT": "☑️ Select multiple clipboard items",
       "NONE": "Not set",
       "UPDATED": "Shortcut successfully updated to the latest version. Please restart it now!",
-      "ACTIONB": "📲 Assign ClipCut to “Action button” on iPhone!",
-      "ACTIONB_MORE": "1. Go to “Settings” app on iPhone\n2. Scroll down to “Action button” option\n3. Swipe to “Shortcut”\n4. Tap “Choose a Shortcut…”\n5. Choose “ClipCut”\n\nAnd from now on you’ll have ClipCut - your multi-clipboard manager, always available to you with the Action button.",
-      "WEB": " 🌍 For intructions and updates visit: https://michael.team/clipcut",
-      "WEBN": "✅ Need your team to be more organized and communicate better? Get FREE Nozbe at https://nozbe.com/?c=clipcut"
+      "ACTIONB": "📲 Assign ClipCut to “Action button”!",
+      "ACTIONB_MORE": "1. Go to “Settings” app on iPhone\n2. Scroll down to “Action button”\n3. Swipe to “Shortcut”\n4. Tap “Choose a Shortcut…”\n5. Choose “ClipCut”\n\nAnd from now on you’ll have ClipCut - your multi-clipboard manager, always available to you with the Action button.",
+      "WEB": "For intructions and updates visit: https://michael.team/clipcut 🌍",
+      "WEBN": "Need your team to be more organized and communicate better? Get FREE Nozbe at https://nozbe.com/?c=clipcut ✅",
+      "ERROR": "Error downloading Shortcut settings from Michael.team page. Please try again later.",
+      "UPDATE": "To update this Shortcut, please visit its dedicated page and install the latest version."
     },
     "Polski": {
       "ALANG": "PL",
@@ -91,11 +93,14 @@
       "URLB": "🌐 Otwórz w przeglądarce",
       "WHICH": "☑️ Wykryto wiele linii w Schowku. Które wybrać?",
       "UPDATED": "Skrót zaktualizowany do najnowszej wersji. Proszę uruchom go ponownie teraz.",
-      "ACTIONB": "📲 Przypisz ClipCut to „Przycisku Akcji” na iPhonie!",
-      "ACTIONB_MORE": "1. Idź do aplikacji “Ustawienia”\n2. Zjedź w dół do ustawień “Przycisk Akcji”\n3. Przejdź do opcji “Skrót”\n4. Naciśnij “Wybierz Skrót…”\n5. Wybierz “ClipCut”\n\nOd tej pory będziesz mieć dostęp do ClipCut, czyli twojego podręcznego schowka na wiele elementów zawsze pod przyciskiem Akcji, na każde zawołanie!",
-      "WEB": " 🌍 Instrukcje i aktualizacje do ClipCut zawsze znajdziesz na stronie: https://michael.team/clipcut",
-      "WEBN": "✅ Potrzebujesz aby twój zespół się lepiej zorganizował i komunikował skutecznie? Spróbuj darmową aplikację Nozbe: https://nozbe.com/?c=clipcut"
+      "ACTIONB": "📲 Przypisz ClipCut to „Przycisku Akcji”!",
+      "ACTIONB_MORE": "1. Idź do aplikacji “Ustawienia”\n2. Zjedź w dół do: “Przycisk Akcji”\n3. Przejdź do opcji “Skrót”\n4. Naciśnij “Wybierz Skrót…”\n5. Wybierz “ClipCut”\n\nOd tej pory będziesz mieć dostęp do ClipCut, czyli twojego podręcznego schowka na wiele elementów zawsze pod przyciskiem Akcji, na każde zawołanie!",
+      "WEB": "Instrukcje i aktualizacje do ClipCut zawsze znajdziesz na stronie: https://michael.team/clipcut 🌍",
+      "WEBN": "Potrzebujesz aby twój zespół się lepiej zorganizował i komunikował skutecznie? Spróbuj darmową aplikację Nozbe: https://nozbe.com/?c=clipcut ✅",
+      "UPDATE": "Aby ściągnąć najnowszą wersję Skrótu zachęcam do odwiedzenia dedykowanej strony na moim blogu Michael.team",
+      "ERROR": "Błąd w pobraniu ustawień tego Skrótu z bloga Michael.team - spróbuj ponownie za jakiś czas."
     }
   },
-  "VERSION": "1"
+  "VERSION": "50",
+  "CHANGELOG": "60 - initial public release (probably…)\n50 - test release to some friends and iOS27 beta\n1-50 - building it and using internally since Dec’25"
 }
