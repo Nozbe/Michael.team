@@ -142,7 +142,7 @@ Previous version:
 
 ClipCut 1.0 - 3.0 rewrite and speed enhancements:
 
-- [ClipCut DEV 50](https://www.icloud.com/shortcuts/acb294034ce64d1898d0ccf1f1acaa17) - 17.08.26 - pre-release version to test with iOS27 and setup JSON.
+- [ClipCut DEV 51](https://www.icloud.com/shortcuts/167e0873c5814e65be39c0010a2f2e51) - 18.08.26 - pre-release version to test with iOS27 and setup JSON.
 - [ClipCut DEV 47](https://www.icloud.com/shortcuts/65a66682084b43328ce55e3bb87deb1c) - 18.06.26 - added ASK AI feature so I can ask AI stuff
 - [ClipCut DEV 46](https://www.icloud.com/shortcuts/13112bcc0c2d4f5ebc33056cdb6afab4) - 02.26 - improvements
 - [ClipCut Dev 44](https://www.icloud.com/shortcuts/ef76fd29b37a4023abda517c43fb7aec) - 28.01.26 - with Action menu and many improvements. Release candidate?
