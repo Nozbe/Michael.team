@@ -191,6 +191,7 @@ Previous versions:
 
 ## Other Shortcuts
 
+- [Functions](https://www.icloud.com/shortcuts/dbcf12e048624570bcf53a12b0d69055) - example of how I write [functions in Shortcuts](/functions) - 1.09.26
 - [Speak](https://www.icloud.com/shortcuts/3e1e9969b2714957b8e25cdedb076e4c) - write to speak shortcut with history - for Milena - 19.06.26
 - [Speak Polish](https://www.icloud.com/shortcuts/5e494eca7a0a456390a902c56297eb6b) - Polish version of the "Speak" shortcut - 19.06.26
 - [Templut](https://www.icloud.com/shortcuts/757203e0cdb244e7bfd1aa6bc31b68f8) - basic template file for a complicated shortcut, like Journal, ClipCut or Keynoter - 17.08.26
