@@ -1,6 +1,7 @@
 ---
 tags: [shortcuts]
 img: "functions.jpg"
+m: https://social.nozbe.com/@michael/117196558412039308
 ---
 
 # A hack to create FUNCTIONS in Shortcuts
