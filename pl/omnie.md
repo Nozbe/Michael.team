@@ -10,7 +10,7 @@ redirect_from: /ja/
 
 ## To ja - założyciel Nozbe
 
-Cześć, nazywam się [Michał Śliwiński](/){:target='_blank'} i jestem [założycielem](https://michael.gratis/nozbemichael_pl){:target='_blank'} aplikacji [Nozbe](https://michael.gratis/nozbe_pl){:target='_blank'} - do zarządzania czasem i projektami dla zapracowanych ludzi i zespołów. Prowadzę zespół [20+ osób, które w pracują w pełni zdalnie ze swoich "biur domowych"](https://nozbe.com/pl/about?a=mike){:target='_blank'} i robimy to już od ponad 16 lat. Aplikacje Nozbe mają prawie milion użytkownikow na całym świecie.
+Cześć, nazywam się [Michał Śliwiński](/){:target='_blank'} i jestem [założycielem](https://michael.gratis/nozbemichael_pl){:target='_blank'} aplikacji [Nozbe](https://michael.gratis/nozbe_pl){:target='_blank'}, która w prosty sposób pomaga zapracowanym profesjonalistom i ich zespołom ogarnąć swoje sprawy prywatne i firmowe. Prowadzę zespół [15 osób, które w pracują w pełni zdalnie ze swoich "biur domowych"](https://nozbe.com/pl/about?a=mike){:target='_blank'} i robimy to już od prawie 20 lat. Przez aplikacje Nozbe na wszystkich platformach przewinęło się już ponad milion użytkowników i klienci ze 165 krajów na świecie.
 
 ## Moja misja to pomagać małym przedsiębiorcom i ich zespołom osiągać wielkie rzeczy!
 
