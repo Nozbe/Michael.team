@@ -1,4 +1,6 @@
-
+{% if langlang==nil %}{% include lang.html %}{% endif %}
+{% capture podcast %}podcast{{ langvar }}{% endcapture %}
+{% capture podcast_more %}podcast_more{{ langvar }}{% endcapture %}
 <h2>{{ site.data.main.[podcast] }}</h2>
-<p><a href="/{{ include.url }}">{{ site.data.main.[podcast] }}</a></p>
+<p><a href="/{{ include.url }}">{{ site.data.main.[podcast_more] }}</a></p>
 {% include podcast.html id=include.id episode=include.episode %}
