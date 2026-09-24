@@ -1,4 +1,5 @@
 {% assign podcasturl = nil %}
+{% assign podcastid = nil %}
 {% case include.id %}
   {% when "noofficefm" %}
     {% assign podcasturl = "us/podcast/no-office/id1527466890" %}
@@ -7,12 +8,15 @@
   {% when "podcast" %}
     {% assign podcasturl = "us/podcast/the-podcast/id1012329770" %}
 {% endcase %}
+{% if include.episode %}
+{% capture podcastid %}&amp;i={{ include.episode }}{% endcapture %}
+{% endif %}
 {% if podcasturl %}
 <iframe
   title="Apple Podcasts player"
-  src="https://embed.podcasts.apple.com/{{ podcasturl }}?theme=auto&amp;size=small"
+  src="https://embed.podcasts.apple.com/{{ podcasturl }}?theme=auto&amp;size=small{{ podcastid }}"
   loading="lazy"
   allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write"
-  style="border:0; border-radius:12px; width:100%; height:450px; max-width:660px;">
+  style="border:0; border-radius:12px; width:100%; height:160px; max-width:660px;">
 </iframe>
 {% endif %}

@@ -40,6 +40,9 @@ mastodon_pl: "🐘 Podyskutujmy na Mastodonie"
 thread: "🧵 Thread"
 thread_pl: "🧵 Wątek"
 
+podcast: "🎙️ Listen as a podcast"
+podcast_more: "🤖 Short discussion of two AI co-hosts about topics from this essay."
+
 read: "Read more…"
 read_pl: "Czytaj dalej…"
 read_es: "Sigue leyendo…"
