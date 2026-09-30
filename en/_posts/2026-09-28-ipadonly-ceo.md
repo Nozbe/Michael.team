@@ -1,6 +1,8 @@
 ---
 tags: [guest]
 cover: "ipadonly-ceo.jpg"
+m: https://social.nozbe.com/@michael/117360127122840328
+l: https://lnkd.in/p/eQkEjswq
 ---
 
 # Profile at iPad Productivity - the #iPadOnly CEO
