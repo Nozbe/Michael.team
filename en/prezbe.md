@@ -1,4 +1,5 @@
 ---
+permalink: /prezbe/
 cover: prezbe.jpg
 domain: Prezbe.com
 ---
