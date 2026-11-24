@@ -392,9 +392,10 @@ article > footer { padding: 0 var(--s3) var(--s4); }
 
 /* ----------------------------------------------------------------------------
    7. NAVIGATION AND SEARCH
-   The `|` separators are bare text nodes, so CSS cannot reach them. They are
-   kept and toned down instead. Removing them in the template would allow a
-   proper flex row with 44px tap targets.
+   The template used to emit `|` separators between the nav links as bare text
+   nodes, which CSS cannot reach. They have since been removed from
+   _includes/search.html, so the links now sit directly against each other with
+   nothing but their own padding between them — hence the roomier pills below.
    -------------------------------------------------------------------------- */
 
 #searchfield .begender { padding: var(--s2) var(--s3); }
@@ -402,18 +403,22 @@ article > footer { padding: 0 var(--s3) var(--s4); }
 #search-container {
   padding: 0;
   font-size: .95rem;
-  color: color-mix(in oklab, var(--muted) 40%, transparent);   /* the pipes */
 }
 
+/* CHANGED: padding went from .3rem/.4rem to .4rem/.75rem once the separators
+   went away. Measured on /about/: text-to-text separation 13px before, 24px
+   after, and the current page now reads as a filled pill rather than relying
+   on weight alone. Tap target is 38px tall; at 375px the row wraps to two
+   lines without overlapping. */
 #searchfield a {
   display: inline-block;
   text-decoration: none;
   color: var(--muted);
-  padding: .3rem .4rem;
-  border-radius: 7px;
+  padding: .4rem .75rem;
+  border-radius: 999px;
 }
 #searchfield a:hover { color: var(--accent); background: var(--accent-soft); }
-#searchfield a.bold  { color: var(--fg); font-weight: 620; }
+#searchfield a.bold  { color: var(--fg); font-weight: 620; background: var(--accent-soft); }
 
 #search-menu { display: inline; margin-left: 10px; }
 @media (max-width: 640px) {
@@ -635,6 +640,32 @@ header > div:not(.header):not(.headerblack) {
   color: var(--muted);
   font-size: .85rem;
   margin-top: var(--s1);
+}
+
+/* FIX: a paragraph holding a RUN of images — the "Selfies" strip on /about/,
+   which is six <img> inside one <p> — is a gallery, not a figure. The
+   `img { display: block }` in the reset above is right for a single post image
+   (it removes the baseline gap underneath) but stacked these one per line, six
+   rows deep. :has(> img + img) matches only paragraphs with two or more
+   adjacent images, so every single-image paragraph is untouched.
+   Measured on /about/: six rows and 1,116px tall becomes two rows of three
+   and 372px. */
+.entry p:has(> img + img) {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s2);
+  align-items: flex-start;
+  max-width: none;          /* a photo strip is not running text */
+}
+.entry p:has(> img + img) img { margin: 0; border-radius: var(--radius-sm); }
+
+/* Those photos carry an inline style="height: 180px" from the template, which
+   at phone width still leaves one per row and a 1,140px strip. This is the
+   second and last place !important is warranted in this file: nothing else
+   outranks an inline style, and it is scoped to images inside a gallery
+   paragraph on small screens. Measured at 375px: three rows of two, 384px. */
+@media screen and (max-width: 480px) {
+  .entry p:has(> img + img) img { height: 120px !important; }
 }
 
 .entry blockquote p:first-child { padding-top: 0; }
