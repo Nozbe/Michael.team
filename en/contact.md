@@ -1,6 +1,7 @@
 ---
 permalink: /contact/
-cover: michael.team.pl.3k.jpg
+cover: michael.2026.contact.jpg
+c: 1
 title: Connect with Michael Sliwinski
 redirect_from: /Contact/
 ---

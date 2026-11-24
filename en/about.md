@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-cover: michael.2026.office.jpg
+cover: michael.2026.japan.jpg
 c: 1
 redirect_from:
  - /About/
