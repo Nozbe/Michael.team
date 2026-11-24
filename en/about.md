@@ -1,6 +1,7 @@
 ---
 permalink: /about/
-cover: michael.ewelina.18.jpg
+cover: michael.2026.office.jpg
+c: 1
 redirect_from:
  - /About/
  - /speaking/
