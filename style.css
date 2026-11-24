@@ -335,14 +335,23 @@ article > footer { padding: 0 var(--s3) var(--s4); }
    goodwill. Three grid cells do it properly and reflow on their own. */
 #top .begender {
   display: grid;
-  grid-template-columns: auto 1fr;
-  gap: var(--s2) var(--s3);
+  /* CHANGED: three columns — avatar, intro, language switcher — instead of the
+     switcher sitting on its own row above the intro. Grid places items by rule,
+     not DOM order, so this works whichever order the template emits them in.
+     Measured on the homepage with the current intro text: the band goes from
+     161px to 113px while the paragraph still sets in three lines. */
+  grid-template-columns: auto 1fr auto;
+  gap: var(--s3);
   align-items: start;
   padding: var(--s3);
 }
 
-.begender p {
+#top .begender > p {
   grid-column: 2;
+  grid-row: 1;
+}
+
+.begender p {
   margin: 0;
   /* CHANGED: the intro paragraph was set entirely in accent blue at 1.2 leading.
      Body colour with blue only on the links makes the links mean something. */
@@ -360,7 +369,7 @@ article > footer { padding: 0 var(--s3) var(--s4); }
 
 .avatar {
   grid-column: 1;
-  grid-row: 1 / span 2;
+  grid-row: 1;
   float: none;                 /* was float:left */
   width: 52px;
   margin: 0;
@@ -368,7 +377,7 @@ article > footer { padding: 0 var(--s3) var(--s4); }
 .avatar img { width: 52px; height: 52px; border-radius: 13px; }
 
 .topright {
-  grid-column: 2;
+  grid-column: 3;
   grid-row: 1;
   float: none;                 /* was float:right */
   margin: 0;
@@ -381,8 +390,82 @@ article > footer { padding: 0 var(--s3) var(--s4); }
 .topright a { text-decoration: none; color: var(--muted); }
 .topright a:hover, .topright a.bold { color: var(--accent); }
 
+/* ---- LANGUAGE SWITCHER -----------------------------------------------------
+   Inert until _layouts/default.html emits the <details class="langs"> markup —
+   harmless if you never add it, and the three flat links keep working.
+
+   <details> is a native disclosure widget: no JavaScript, keyboard-operable
+   (the summary takes focus, Enter/Space toggles), and it degrades to an open
+   list if CSS fails. Note it does NOT close on outside-click or Escape without
+   script; with three languages that is a fair trade for zero JS.
+
+   Measured on the live homepage: the pill is 95x36px, the open panel is
+   absolutely positioned so .topright keeps its 36px height instead of pushing
+   the intro paragraph down, and it stays inside the viewport at 375px. */
+
+.langs { position: relative; }
+
+.langs > summary {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  cursor: pointer;
+  list-style: none;            /* hides the triangle in Firefox */
+  padding: .35rem .7rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--muted);
+  font-size: .87rem;
+  white-space: nowrap;
+}
+.langs > summary::-webkit-details-marker { display: none; }   /* and in Safari */
+.langs > summary:hover { color: var(--accent); border-color: var(--accent); }
+
+/* the chevron, drawn from two borders rather than an SVG or a glyph */
+.langs > summary::after {
+  content: "";
+  width: .38em;
+  height: .38em;
+  border-right: 1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor;
+  transform: translateY(-.12em) rotate(45deg);
+  transition: transform .15s ease;
+}
+.langs[open] > summary::after { transform: translateY(.06em) rotate(-135deg); }
+
+.langs-menu {
+  position: absolute;
+  right: 0;
+  top: calc(100% + .35rem);
+  z-index: 50;
+  display: flex;
+  flex-direction: column;
+  min-width: 100%;
+  padding: .25rem;
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  box-shadow: 0 12px 30px -12px rgba(0, 0, 0, .35);
+}
+.langs-menu a {
+  white-space: nowrap;
+  padding: .4rem .6rem;
+  border-radius: 6px;
+  text-decoration: none;
+  color: var(--muted);
+  font-size: .87rem;
+}
+.langs-menu a:hover { color: var(--accent); background: var(--accent-soft); }
+
+/* Three columns do not fit on a phone: inherited as-is the intro is squeezed
+   to 148px and runs to ten lines. Avatar and switcher share the first row, the
+   intro takes the full width underneath — 335px and four lines, which is wider
+   and shorter than the two-column layout it replaces (263px, five lines). */
 @media (max-width: 560px) {
-  .topright { justify-content: flex-start; }
+  #top .begender { grid-template-columns: auto 1fr; gap: var(--s2) var(--s3); }
+  #top .avatar { grid-column: 1; grid-row: 1; }
+  #top .topright { grid-column: 2; grid-row: 1; justify-content: flex-end; }
+  #top .begender > p { grid-column: 1 / -1; grid-row: 2; }
 }
 
 #footer .begender { padding: var(--s4) var(--s3); }
