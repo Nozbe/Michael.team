@@ -1,7 +1,6 @@
 ---
 cover: michael.team.now.3k.jpg
 title: Kontakt z Michałem Śliwińskim
-redirect_from: /kontakt/
 ---
 
 * TOC
@@ -12,7 +11,7 @@ redirect_from: /kontakt/
 Tak najprościej mnie złapać:
 
 * Dużo piszę na [LinkedIn](https://www.linkedin.com/in/michaelsliwinski)
-* Zaczynam działać na [Mastodon: @michael@nozbe.com](https://social.nozbe.com/@michael)
+* Także na [Mastodon: @michael@nozbe.com](https://social.nozbe.com/@michael)
 * Byłem kiedyś aktywny na [Twitterze](https://twitter.com/MSliwinski) ale [Elon go zepsuł](/pl/elon/).
 * Nie jestem aktywny na [Fejsie](https://www.facebook.com/michael.sliwinski) ani [Instagramie](https://www.instagram.com/michaelsliwinski/) bo nie zgadzam się z podejściem do prywatności i polityki Marka Zuckerberga.
 

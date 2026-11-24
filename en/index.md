@@ -1,12 +1,12 @@
 ---
 permalink: /
-cover: michael.team.2022.jpg
+cover: top2026.jpg
 title: Michael Sliwinski
 ---
 
-> **I've been helping small business owners and their teams maintain a work-life balance since 2007. [I work from home](/nooffice-best/), [I don't email](/emailban/) my team, [we have few meetings](/mobiconfvideo/) and [I don't work on Fridays](/tgif/)!**\\
-> My projects: ✅**[Nozbe to-do app](/nozbe/)** and 📖**[#NoOffice book](/nooffice/)**\\
-> Side projects: 🖋[Journal](/journal/), 🎲[Dice](/dice/), ▶️[YouTube watcher](/yt/) and 🇺🇦[FCKPTN](/fckptn/)
+> **I've been helping small business owners and their teams get organized since 2007. I [write](/featured) and [podcast](/noofficefm) from my [home office](/office/) and [I don't work on Fridays](/tgif/)!**\\
+> Main projects: ✅**[Nozbe to-do app](/nozbe/)** and 📖**[#NoOffice book](/nooffice/)**\\
+> Side projects: 🖋[Journal](/journal/), 🎲[Dice](/dice/) and ▶️[YouTube watcher](/yt/)
 
 ### ⭐️ [Featured](/featured/) article:
 
