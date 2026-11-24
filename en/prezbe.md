@@ -1,7 +1,7 @@
 ---
 permalink: /prezbe/
-cover: prezbe.jpg
-domain: Prezbe.com
+img: prezbe.jpg
+domain: prezbe.com
 ---
 
 # Prezbe - Markdown text in - beautiful slides out!

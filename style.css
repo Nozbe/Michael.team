@@ -1,0 +1,1103 @@
+/* ============================================================================
+   michael.team — stylesheet
+   ----------------------------------------------------------------------------
+   Drop-in replacement for style.css. Every selector from the previous sheet is
+   still here, so no template changes are required.
+
+   Design constraints kept deliberately: one stylesheet, no web fonts, no
+   JavaScript, system font stack, automatic light/dark via prefers-color-scheme.
+
+   Comments marked CHANGED explain anything that behaves differently from the
+   old sheet. Comments marked FIX mark actual bugs that were in the old sheet.
+   ========================================================================== */
+
+
+/* ----------------------------------------------------------------------------
+   1. TOKENS
+   All colour, spacing and size decisions live here. The old sheet repeated
+   @media (prefers-color-scheme: dark) twelve times; now the dark theme is one
+   block that redefines ten values.
+   -------------------------------------------------------------------------- */
+
+:root {
+  /* FIX: tells the browser to theme scrollbars, form controls and the search
+     input. Without it those stay light on a dark page. */
+  color-scheme: light dark;
+
+  /* Surfaces and text. Neutrals carry a slight blue bias so they sit with the
+     accent instead of looking like untinted grey. */
+  --bg:           #fcfcfd;
+  --surface:      #f2f4fa;   /* header band, footer, featured card, callouts   */
+  --fg:           #15171d;
+  --muted:        #5b6072;   /* dates, captions, secondary nav                 */
+  --line:         #e0e4ef;   /* hairlines and chip borders                     */
+
+  /* CHANGED: one identity colour instead of four. The old sheet ran blue
+     #073cd6, purple #A71FCF, orange and yellow #ffff99 at the same time.
+     Blue is the identity; --mark is reserved for "featured" only. */
+  --accent:       #0b3ccd;
+  --accent-soft:  #e9eefc;
+  --on-accent:    #ffffff;   /* text drawn on top of --accent                  */
+  --mark:         #b26a00;   /* featured / starred, nothing else               */
+  --mark-soft:    #fdf3e3;
+
+  /* The hexagon button. --hex-h drives everything: the two triangular caps are
+     always 0.375 x the body height, which is the proportion the original
+     32pt/12pt pair had, so the shape stays true at any size.
+     To go back to the original purple, set these two and nothing else:
+       --hex: #A71FCF;  --hex-fg: #fff;  (and the same pair in the dark block) */
+  --hex-h:        2.5rem;   /* 40px: halves cleanly, so the caps leave no seam */
+  --hex-cap:      calc(var(--hex-h) * .375);
+  --hex:          var(--accent);
+  --hex-fg:       #ffffff;
+
+  /* Measure. --shell is the page column, --measure caps running text.
+     700px at 19px type ran to ~75 characters; 66ch is easier to track. */
+  --shell:        44rem;
+  --measure:      66ch;
+
+  /* Spacing scale. Replaces the old ad-hoc 5px / 10px / 20px / 0.8em / 0.3em. */
+  --s1: .375rem;
+  --s2: .75rem;
+  --s3: 1.25rem;
+  --s4: 2rem;
+  --s5: 3.25rem;
+
+  --radius:       12px;
+  --radius-sm:    8px;
+
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
+          Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Verdana,
+          sans-serif, color-emoji;
+  --serif: ui-serif, Georgia, Cambria, "Palatino Linotype", "Book Antiqua",
+           Palatino, "Times New Roman", Times, serif, color-emoji;
+  --mono: ui-monospace, SFMono-Regular, "SF Mono", "Lucida Console",
+          "Bitstream Vera Sans Mono", Menlo, Consolas, monospace, color-emoji;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+
+    /* Pure black ground, kept deliberately: true black on OLED, and it is the
+       site's signature. The surfaces below are tuned to read against #000
+       rather than against a lifted near-black — the header band, footer and
+       featured card separate more cleanly here than they would on #0c0e14.
+       If the 18:1 text ever halates for you, --fg is the one knob: #d8d9e0
+       takes it to about 14:1 without touching anything else. */
+    --bg:          #000000;
+    --surface:     #151a26;
+    --fg:          #eeeeee;
+    --muted:       #9aa1b4;
+    --line:        #262d3e;
+
+    --accent:      #8ab0ff;
+    --accent-soft: #141c30;
+    --on-accent:   #000000;
+    --mark:        #e0a458;
+    --mark-soft:   #241d11;
+
+    --hex-fg:      #000000;   /* --hex follows --accent, which is light here */
+  }
+}
+
+/* ---- PURPLE ACCENT (optional) --------------------------------------------
+   Uncomment both blocks to swap the identity colour from blue to purple.
+   --accent is a deeper purple than the hexagon's: #A71FCF measures 5.5:1 as
+   body-link text on the light ground, where #7d1fa8 measures 7.8:1 — the same
+   strength the blue had. The hexagon itself keeps #A71FCF exactly as it is,
+   because there the purple is a fill with white text on it, not text.
+
+:root {
+  --accent:      #7d1fa8;
+  --accent-soft: #f6ebfb;
+  --hex:         #A71FCF;
+  --hex-fg:      #ffffff;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --accent:      #cf8df5;
+    --accent-soft: #1d1226;
+    --hex:         #A71FCF;
+    --hex-fg:      #ffffff;
+  }
+}
+--------------------------------------------------------------------------- */
+
+@font-face {
+  font-family: "color-emoji";
+  src: local("Apple Color Emoji"), local("Segoe UI Emoji"),
+       local("Segoe UI Symbol"), local("Noto Color Emoji");
+}
+
+
+/* ----------------------------------------------------------------------------
+   2. RESET
+   CHANGED: the 2011 Meyer reset (about 60 lines, and it set `font: inherit` on
+   everything) is replaced by the fifteen lines that actually earn their place.
+   -------------------------------------------------------------------------- */
+
+*, *::before, *::after { box-sizing: border-box; }
+
+body, h1, h2, h3, h4, h5, h6, p, blockquote, figure, pre, dl, dd, ul, ol {
+  margin: 0;
+}
+
+/* FIX: height:auto stops images distorting when the markup carries width/height
+   attributes, and display:block removes the inline-baseline gap under them. */
+img, video, iframe, svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+input, button, textarea, select { font: inherit; color: inherit; }
+
+/* Carried over from _reset.scss, which the Meyer reset had and nothing else
+   replaces. Only matters if a post contains a table, but it is two lines. */
+table { border-collapse: collapse; border-spacing: 0; }
+
+html {
+  font-size: 100%;
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .01ms !important;
+  }
+}
+
+
+/* ----------------------------------------------------------------------------
+   3. BASE
+   -------------------------------------------------------------------------- */
+
+body {
+  font-family: var(--sans);
+
+  /* CHANGED: fluid body size, ~17px on a phone to ~19px on a wide screen.
+     The old sheet set 16px on body and 1.2em on .entry p, so phones got the
+     same 19.2px as desktops. */
+  font-size: clamp(1.0625rem, 1rem + .28vw, 1.1875rem);
+
+  /* FIX — the important one. The old sheet had `line-height: 1.5em` on body.
+     A line-height with a unit computes once (16 x 1.5 = 24px) and inherits as
+     a frozen 24px, so 19.2px body copy was rendering at a ratio of 1.25.
+     Unitless inherits as a ratio, which is what was intended. */
+  line-height: 1.65;
+
+  background: var(--bg);
+  color: var(--fg);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: var(--accent);
+  /* CHANGED: underlines sit clear of descenders instead of striking through
+     them, and fade in on hover rather than changing the link colour. */
+  text-decoration-thickness: 1px;
+  text-underline-offset: .16em;
+  text-decoration-color: color-mix(in oklab, var(--accent) 35%, transparent);
+  transition: text-decoration-color .15s ease, color .15s ease;
+}
+a:hover, a:active { text-decoration-color: var(--accent); }
+
+/* FIX: the old reset stripped outlines and nothing put them back, so the site
+   could not be navigated by keyboard. :focus-visible shows the ring only for
+   keyboard users, never on mouse click. */
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 3px;
+}
+
+/* FIX: the old rule painted #eee on white, so selected text was invisible in
+   light mode. Now it follows the theme. */
+::selection { background: var(--accent); color: var(--on-accent); }
+
+/* Anchored headings stop landing flush against the top of the viewport. */
+[id] { scroll-margin-top: var(--s4); }
+
+/* ---- SKIP LINK -------------------------------------------------------------
+   Inert until the layout emits the markup below — harmless if you never add it.
+
+       <body>
+       <a class="skip" href="#content">Skip to content</a>      <- first element
+       ...the two .begend bands...
+       <main id="content" tabindex="-1">                        <- wraps the articles
+       ...
+       </main>
+       <div class="begend" id="footer">
+
+   Off-screen until it takes focus, then it slides in as the first thing a
+   keyboard user meets. tabindex="-1" on <main> is what makes following the link
+   move focus rather than only scroll. */
+
+.skip {
+  position: absolute;
+  top: 0;
+  left: var(--s3);
+  z-index: 100;
+  transform: translateY(-120%);
+  padding: .6rem 1rem;
+  background: var(--accent);
+  color: var(--on-accent);
+  font-weight: 620;
+  text-decoration: none;
+  border-radius: 0 0 var(--radius-sm) var(--radius-sm);
+  transition: transform .15s ease;
+}
+.skip:focus { transform: translateY(0); }
+
+/* the skip target should not draw a focus ring around the whole page */
+main:focus { outline: none; }
+
+
+/* ----------------------------------------------------------------------------
+   4. TYPOGRAPHY
+   CHANGED: one fluid scale instead of fixed 3em / 2.5em / 1.5em, which jumped
+   in big steps and gave phones desktop-sized headlines. Weight and negative
+   tracking are what make a system font look deliberate rather than default.
+   -------------------------------------------------------------------------- */
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 640;
+  line-height: 1.15;
+  letter-spacing: -.022em;
+  text-wrap: balance;          /* no orphaned last word in a headline */
+  color: var(--fg);
+}
+
+h1 { font-size: clamp(2rem,    1.35rem + 2.9vw, 3.25rem);  }
+h2 { font-size: clamp(1.5rem,  1.18rem + 1.5vw, 2.125rem); }
+h3 { font-size: clamp(1.15rem, 1.03rem +  .55vw, 1.4rem); letter-spacing: -.012em; }
+
+/* CHANGED: h4 was 1.3em grey. As a small tracked label it reads as structure
+   rather than as a heading that lost a fight with h3. */
+h4 {
+  font-size: .82rem;
+  font-weight: 600;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+h5, h6 { font-size: 1rem; }
+
+p  { text-wrap: pretty; }      /* avoids single-word last lines */
+em, i { font-style: italic; }
+strong, b, .bold { font-weight: 660; }
+sup { vertical-align: super; font-size: smaller; }
+.small { font-size: .82em; }
+.center { text-align: center; }
+
+
+/* ----------------------------------------------------------------------------
+   5. PAGE SHELL
+   -------------------------------------------------------------------------- */
+
+.begender,
+.entry,
+article > nav,
+article > footer {
+  max-width: var(--shell);
+  margin-inline: auto;
+}
+
+article > footer { padding: 0 var(--s3) var(--s4); }
+
+#ajax { border-top: 1px solid var(--line); }
+
+
+/* ----------------------------------------------------------------------------
+   6. TOP AND FOOTER BANDS
+   -------------------------------------------------------------------------- */
+
+.begend {
+  background: var(--surface);
+  /* CHANGED: a saturated blue hairline under the header read as a rule you were
+     meant to notice. A neutral line lets the surface change do the separating. */
+  border-bottom: 1px solid var(--line);
+}
+
+.begend#footer {
+  border-top: 1px solid var(--line);
+  border-bottom: 0;
+}
+
+/* CHANGED: .avatar and .topright used to float, held together by the browser's
+   goodwill. Three grid cells do it properly and reflow on their own. */
+#top .begender {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: var(--s2) var(--s3);
+  align-items: start;
+  padding: var(--s3);
+}
+
+.begender p {
+  grid-column: 2;
+  margin: 0;
+  /* CHANGED: the intro paragraph was set entirely in accent blue at 1.2 leading.
+     Body colour with blue only on the links makes the links mean something. */
+  color: var(--fg);
+  font-size: .97rem;
+  line-height: 1.55;
+}
+
+.begender a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 550;
+}
+.begender a:hover { text-decoration: underline; text-underline-offset: .16em; }
+
+.avatar {
+  grid-column: 1;
+  grid-row: 1 / span 2;
+  float: none;                 /* was float:left */
+  width: 52px;
+  margin: 0;
+}
+.avatar img { width: 52px; height: 52px; border-radius: 13px; }
+
+.topright {
+  grid-column: 2;
+  grid-row: 1;
+  float: none;                 /* was float:right */
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s2);
+  justify-content: flex-end;
+  font-size: .87rem;
+}
+.topright a { text-decoration: none; color: var(--muted); }
+.topright a:hover, .topright a.bold { color: var(--accent); }
+
+@media (max-width: 560px) {
+  .topright { justify-content: flex-start; }
+}
+
+#footer .begender { padding: var(--s4) var(--s3); }
+#footer p { color: var(--muted); font-size: .88rem; }
+#footer .hx { justify-content: center; }
+
+
+/* ----------------------------------------------------------------------------
+   7. NAVIGATION AND SEARCH
+   The `|` separators are bare text nodes, so CSS cannot reach them. They are
+   kept and toned down instead. Removing them in the template would allow a
+   proper flex row with 44px tap targets.
+   -------------------------------------------------------------------------- */
+
+#searchfield .begender { padding: var(--s2) var(--s3); }
+
+#search-container {
+  padding: 0;
+  font-size: .95rem;
+  color: color-mix(in oklab, var(--muted) 40%, transparent);   /* the pipes */
+}
+
+#searchfield a {
+  display: inline-block;
+  text-decoration: none;
+  color: var(--muted);
+  padding: .3rem .4rem;
+  border-radius: 7px;
+}
+#searchfield a:hover { color: var(--accent); background: var(--accent-soft); }
+#searchfield a.bold  { color: var(--fg); font-weight: 620; }
+
+#search-menu { display: inline; margin-left: 10px; }
+@media (max-width: 640px) {
+  #search-menu { display: block !important; margin-left: 0; }
+}
+
+input { width: 100%; }
+
+/* NEW: /yt/ has a real <form> with a text input, and the only input either
+   stylesheet has ever styled is #search-input. Everywhere else the control fell
+   back to UA chrome — a white box with an inset border, which in dark mode is a
+   white slab on a black page. */
+input[type="text"],
+input[type="search"],
+input[type="email"],
+input[type="url"],
+textarea {
+  width: 100%;
+  padding: .5rem .7rem;
+  font-size: 1rem;
+  color: var(--fg);
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+}
+input[type="text"]:focus,
+input[type="search"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+textarea:focus { border-color: var(--accent); outline: none; }
+
+#search-input {
+  width: inherit;
+  margin: 0;
+  padding: .4rem .6rem;
+  font-size: 1rem;
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  color: var(--fg);
+}
+#search-input:focus { border-color: var(--accent); outline: none; }
+
+::placeholder { color: var(--muted); opacity: 1; }
+
+#search-results {
+  position: absolute;
+  top: auto;
+  z-index: 100;
+  margin: 0;
+  padding: var(--s1);
+  list-style: none;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  box-shadow: 0 12px 30px -12px rgba(0, 0, 0, .35);
+}
+#search-results li {
+  padding: .4rem .6rem;
+  border-radius: 6px;
+  background: transparent;
+  text-align: left;
+}
+#search-results li:hover { background: var(--accent-soft); }
+
+
+/* ----------------------------------------------------------------------------
+   8. PAGE HEADERS
+   Two variants, and they need opposite treatments:
+     .header       always sits on a photo (the template emits an inline
+                   background-image on <header>) - homepage, posts, /about/.
+     .headerblack  never has one - /archive/, /random/.
+
+   CHANGED (.header): the flat rgba(0,0,0,.6) slab cut the photograph in half.
+   A gradient that fades to transparent keeps the image whole, and the title
+   still clears contrast against the dark end of the scrim.
+   -------------------------------------------------------------------------- */
+
+header { display: flex; align-items: flex-end; }
+
+/* FIX: tag pages (/office/, /iphone/, /nooffice/) wrap the photo in an extra
+   div — <header><div style="background:url(…); width:700px"><div class="header">
+   — so `align-items: flex-end` lands on that wrapper instead of on .header, and
+   the title renders at the TOP of the photograph with ~340px of empty image
+   below it. Every other page puts it at the bottom. Making the wrapper a flex
+   container too restores the alignment, and max-width protects the hard-coded
+   width: 700px at phone sizes (flex-shrink already handles it today, but only
+   for as long as <header> stays a flex container). */
+header > div:not(.header):not(.headerblack) {
+  display: flex;
+  align-items: flex-end;
+  max-width: 100%;
+}
+
+.header {
+  width: 100%;
+  margin: 0;
+  text-align: left;            /* was centered */
+  color: #fff;
+  background: linear-gradient(
+    to top,
+    rgba(5, 7, 12, .88)   0%,
+    rgba(5, 7, 12, .58)  42%,
+    rgba(5, 7, 12, 0)   100%
+  );
+  padding: var(--s5) var(--s3) var(--s3);
+}
+
+.header h1, .header h2, .header h3 {
+  max-width: var(--shell);
+  margin: 0 auto;
+  /* Must be restated: the h1-h6 rule above sets color: var(--fg), which would
+     otherwise paint the hero titles dark on the dark scrim. */
+  color: #fff;
+  /* CHANGED: a soft glow instead of a hard 2px offset drop shadow. */
+  text-shadow: 0 1px 24px rgba(0, 0, 0, .5);
+}
+
+.header a { color: #fff; text-decoration: none; }
+
+/* FIX: .headerblack was rgba(0, 0, 0, .4) with #fff text on a <header> that
+   carries no image, so it composited to white on #999 - 2.85:1, which fails AA
+   even at the 48px the title renders. On a page with no photograph the right
+   answer is not a scrim at all but a title block: surface tint, normal text
+   colour, hairline underneath. 14:1 in light, 13:1 in dark. */
+.headerblack {
+  width: 100%;
+  margin: 0;
+  text-align: left;
+  color: var(--fg);
+  background: var(--surface);
+  border-bottom: 1px solid var(--line);
+  padding: var(--s5) var(--s3) var(--s4);
+}
+
+.headerblack h1, .headerblack h2, .headerblack h3 {
+  max-width: var(--shell);
+  margin: 0 auto;
+  color: var(--fg);
+  text-shadow: none;
+}
+
+.headerblack a { color: var(--accent); text-decoration: none; }
+.headerblack a:hover { text-decoration: underline; }
+
+/* On a post, the hero h3 carries the category links (iPhone, Featured).
+   It reads as a subtitle, so it is sized as one rather than as a heading. */
+.header h3, .headerblack h3 {
+  font-size: 1rem;
+  font-weight: 560;
+  letter-spacing: .01em;
+  margin-top: var(--s2);
+  opacity: .92;
+}
+
+
+/* ----------------------------------------------------------------------------
+   9. ARTICLE BODY
+   -------------------------------------------------------------------------- */
+
+.entry { padding: var(--s4) var(--s3) var(--s5); }
+
+/* CHANGED: one flow rule replaces per-element padding, so spacing cannot drift
+   or collapse unpredictably between different kinds of block. */
+.entry > * + * { margin-top: var(--s3); }
+.entry > h2 { margin-top: var(--s5); }
+.entry > h3 { margin-top: var(--s4); }
+
+/* h3 means two different things depending on the page, and the only thing that
+   tells them apart is what follows:
+     homepage  - a section label ("Topics on my blog:"), followed by content
+     /archive/ - a post title, followed immediately by its .date
+   Muting and widely spacing every h3 turned the archive into a grey list with
+   3.25rem between entries. :has() separates them; if a browser lacks it both
+   selectors drop and the plain .entry > h3 rule above still applies. */
+.entry > h3:not(:has(+ .date)) { margin-top: var(--s5); color: var(--muted); }
+.entry > h3:has(+ .date) { margin-top: var(--s3); color: var(--fg); }
+.entry > h3:has(+ .date) + .date { margin-top: .15rem; }
+
+/* HIERARCHY NOTE for /archive/: the month headings carry an inline
+   style="font-size: 2em" from the template, so they render at 38px while the
+   year <h2> above them tops out at 34px — the month ends up louder than the
+   year it belongs to. The clean fix is to delete that inline style from the
+   archive template, after which the rule above handles them. Until then, this
+   beats it — the only place !important is justified, since nothing but
+   !important outranks an inline style:
+
+.entry > h3[style] { font-size: clamp(1.15rem, 1.03rem + .55vw, 1.4rem) !important; }
+*/
+
+.entry p {
+  padding: 0;
+  font-size: 1em;              /* was 1.2em on top of a 16px body */
+  max-width: var(--measure);
+}
+
+.entry ul, .entry ol { margin: 0; padding-left: 1.3rem; }
+.entry li { font-size: 1em; margin-top: .3em; max-width: var(--measure); }
+
+.entry a {
+  /* CHANGED: body links were text-decoration:none, which left colour as the
+     only signal. Underlined in running text, undecorated in headings. */
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: .16em;
+}
+
+.entry h1 a, .entry h2 a, .entry h3 a {
+  color: inherit;
+  text-decoration: none;
+}
+.entry h1 a:hover, .entry h2 a:hover, .entry h3 a:hover { color: var(--accent); }
+
+.entry img { border-radius: var(--radius-sm); }
+
+.entry img + em {
+  display: block;
+  text-align: center;
+  color: var(--muted);
+  font-size: .85rem;
+  margin-top: var(--s1);
+}
+
+.entry blockquote p:first-child { padding-top: 0; }
+
+/* CHANGED: small grey italic reads like an apology. Tracked uppercase with
+   tabular figures reads like a byline, and the digits line up between posts. */
+.date {
+  color: var(--muted);
+  font-style: normal;
+  font-size: .78rem;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+  font-variant-numeric: tabular-nums;
+  margin-top: var(--s1);
+}
+.date a { color: var(--muted); }
+.date .small { text-transform: none; letter-spacing: 0; opacity: .65; }
+
+.footnotes { border-top: 1px solid var(--line); padding-top: var(--s3); }
+.footnotes p, .footnotes li { font-size: .88rem; color: var(--muted); }
+/* On a post the affiliate note is a <p class="date">, which would otherwise be
+   uppercased and tracked by the .date rule. */
+.footnotes .date { text-transform: none; letter-spacing: 0; font-size: .88rem; }
+
+/* The in-post table of contents that Jekyll emits as <ul id="markdown-toc">.
+   It had no styling at all, so it rendered as a plain bulleted list
+   indistinguishable from the article's own lists. */
+#markdown-toc {
+  list-style: none;
+  margin: 0;
+  padding: var(--s3);
+  max-width: var(--measure);
+  background: var(--surface);
+  border-left: 2px solid var(--line);
+  border-radius: var(--radius-sm);
+}
+#markdown-toc li { font-size: .92rem; margin-top: .35em; }
+#markdown-toc li:first-child { margin-top: 0; }
+#markdown-toc a { text-decoration: none; color: var(--muted); }
+#markdown-toc a:hover { color: var(--accent); text-decoration: underline; }
+
+ul, ol { margin: var(--s3) 0; padding-left: 1.6rem; }
+ul { list-style-type: disc; }
+ol { list-style-type: decimal; }
+ol ul, ul ol, ul ul, ol ol { margin: 0; }
+ul ul, ol ul { list-style-type: circle; }
+
+/* The old reset set list-style:none globally and the base rules then turned it
+   back on. Navigation lists still want it off. */
+nav ul { list-style: none; padding-left: 0; }
+
+
+/* ----------------------------------------------------------------------------
+   10. BLOCKQUOTE
+   CHANGED: the rotate(-1deg) sticky-note effect, alternating direction on even
+   children, was the most dated rule in the old sheet, and the transform made
+   the text render slightly soft on non-retina screens. A serif on an accent
+   rule says "quote" without the costume.
+   -------------------------------------------------------------------------- */
+
+blockquote {
+  transform: none;
+  background: none;
+  border-radius: 0;
+  border-left: 3px solid var(--accent);
+  color: var(--fg);
+  font-family: var(--serif);
+  font-style: normal;
+  font-size: 1.02em;
+  line-height: 1.55;
+  padding: .15rem 0 .15rem var(--s3);
+  margin: var(--s4) 0;
+  max-width: var(--measure);
+}
+blockquote:nth-child(even) { transform: none; color: var(--fg); }
+blockquote p + p { margin-top: var(--s2); }
+
+
+/* ----------------------------------------------------------------------------
+   11. FEATURED
+   CHANGED: orange rules top and bottom, on a page where every other container
+   was a 1px blue box. One card treatment, with the warm edge used only here.
+   -------------------------------------------------------------------------- */
+
+.featured {
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--mark);
+  border-radius: var(--radius);
+  background: var(--surface);
+  padding: var(--s3);
+  margin-bottom: var(--s4);
+}
+.featured > * + * { margin-top: var(--s3); }
+.featured h2 { font-size: clamp(1.35rem, 1.12rem + 1.05vw, 1.8rem); }
+.featured .date { margin-top: var(--s1); }
+
+
+/* ----------------------------------------------------------------------------
+   12. TOPIC TAGS
+   CHANGED: fifty-five emoji links in one centred run-on paragraph was the
+   densest thing on the site and impossible to tap accurately. Same markup,
+   wrapped flex, chip borders.
+   -------------------------------------------------------------------------- */
+
+/* padding-inline, not the `padding: 0 x` shorthand: the shorthand would zero
+   the vertical padding that the tag-page rule below needs to add. */
+article > nav { padding-inline: var(--s3); }
+article > nav a { text-decoration: none; }
+
+/* NOTE on the selector: the homepage and /archive/ emit <nav class="tags">
+   INSIDE .entry, while tag pages (/office/, /iphone/) emit it as a direct child
+   of <article>. Both shapes are real, so the base rules must not be scoped to a
+   parent — `article > nav.tags` silently matches nothing on the homepage. They
+   also have to beat `.entry a`, which is why text-decoration is reset
+   explicitly rather than left to the `article > nav a` rule above. */
+
+nav.tags {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: .4rem;
+  text-align: center;
+  /* On the homepage and /archive/ the nav sits inside .entry and inherits its
+     column. On tag pages it is a direct child of <article> and would otherwise
+     run the full window width, so constrain it here too. */
+  max-width: var(--shell);
+  margin-inline: auto;
+}
+
+/* Inside .entry the flow rule (.entry > * + *) supplies the vertical rhythm.
+   As a direct child of <article> there is nothing above or below it, so the
+   chips sat flush against the nav band and the hero photo. */
+article > nav.tags { padding-block: var(--s4); }
+
+/* ---- tag-page masthead ----------------------------------------------------
+   A tag page opens with the chip cloud and then the hero. Banding the two
+   together on the surface tint makes them read as one masthead rather than two
+   loose elements, and gives the white chips something to sit on.
+
+   :has() scopes this to that shape alone: on a tag page the first element child
+   of <article> is nav.tags, whereas the homepage, /archive/ and posts all open
+   with <header>, so they are untouched. No template change required.
+
+   The tint goes on the two elements themselves, NOT on the <article> — .entry
+   is a centred 44rem column, so an article-wide background shows down both
+   sides of the intro copy, which reads as the band never ending. */
+article:has(> nav.tags:first-child) > nav.tags,
+article:has(> nav.tags:first-child) > header {
+  background: var(--surface);
+}
+
+/* <header> is already full width. nav.tags is not, so instead of max-width it
+   gets full-bleed width with the column held by padding — the tint runs edge to
+   edge while the chips stay in the same 44rem column as everything else.
+   max() keeps a 20px gutter once the viewport is narrower than the column. */
+article:has(> nav.tags:first-child) > nav.tags {
+  max-width: none;
+  padding-inline: max(var(--s3), calc((100% - var(--shell)) / 2));
+}
+
+/* the band's bottom edge; the intro copy below sits on the page ground */
+article:has(> nav.tags:first-child) > header {
+  border-bottom: 1px solid var(--line);
+}
+
+nav.tags a {
+  text-decoration: none;
+  color: var(--muted);
+  font-size: .85rem;
+  line-height: 1.1;
+  padding: .42rem .7rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--bg);
+  transition: color .15s ease, border-color .15s ease, background .15s ease;
+}
+nav.tags a:hover {
+  text-decoration: none;
+  color: var(--accent);
+  border-color: color-mix(in oklab, var(--accent) 45%, var(--line));
+  background: var(--accent-soft);
+}
+
+
+/* ----------------------------------------------------------------------------
+   13. THE HEXAGON BUTTON (.hx)
+   Kept as a hexagon. .hx1 and .hx3 are CSS border triangles capping the middle
+   block, and that construction still earns its place: no extra markup, no image,
+   no clip-path, and it costs four rules.
+
+   CHANGED: the three divs floated and depended on <br clear="all"> after them.
+   The container is a flex row now, so the caps align to the body on their own
+   and the whole badge can be centred. Both caps and the body derive their size
+   from --hex-h, so resizing the button is one value instead of three.
+   -------------------------------------------------------------------------- */
+
+.hx {
+  display: flex;
+  align-items: center;
+  clear: none;
+  padding: var(--s3) 0;
+}
+
+.hx1, .hx3 {
+  float: none;
+  flex: none;
+  width: 0;
+  height: 0;
+  border-top:    calc(var(--hex-h) / 2) solid transparent;
+  border-bottom: calc(var(--hex-h) / 2) solid transparent;
+}
+.hx1 { border-right: var(--hex-cap) solid var(--hex); }
+.hx3 { border-left:  var(--hex-cap) solid var(--hex); }
+
+.hx2 {
+  float: none;
+  flex: none;
+  height: var(--hex-h);
+  line-height: var(--hex-h);     /* equals the caps exactly, so no seam */
+  background: var(--hex);
+  color: var(--hex-fg);
+  text-align: center;
+  font-family: inherit;          /* was its own -apple-system stack */
+  font-size: 1rem;
+  font-weight: 620;
+  padding: 0 .2rem;
+  transition: filter .15s ease;
+}
+.hx2:hover { filter: brightness(1.1); }
+.hx2 a { color: var(--hex-fg); text-decoration: none; }
+.hx2 a:hover { text-decoration: underline; text-underline-offset: .2em; }
+
+.hx2text {
+  float: none;
+  font-size: .95rem;
+  line-height: var(--hex-h);
+  color: var(--muted);
+  padding-left: var(--s2);
+}
+
+/* Grey variant. These sit alongside .hx1 / .hx2 / .hx3 and only recolour. */
+.hx1grey { border-right-color: var(--muted); }
+.hx3grey { border-left-color:  var(--muted); }
+.hx2grey { background: var(--muted); color: var(--bg); }
+.hx2grey a { color: var(--bg); }
+
+
+/* ----------------------------------------------------------------------------
+   14. BOXES, COLUMNS, MISC CONTAINERS
+   -------------------------------------------------------------------------- */
+
+.box {
+  margin: var(--s4) 0;
+  padding: var(--s3);
+  border: 1px solid var(--line);   /* was a 1px accent-blue box */
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+.box > * + * { margin-top: var(--s2); }
+
+.flex-box { display: flex; flex-wrap: wrap; gap: var(--s3); }
+.flex-left, .flex-right { padding: 0; flex: 1 1 45%; }
+@media (max-width: 640px) {
+  .flex-left, .flex-right { flex: 1 1 100%; }
+}
+
+/* CHANGED: .column floated right at 50%. Kept for older posts, but it now
+   collapses to full width on a phone instead of squeezing to half. */
+.column { float: right; width: 50%; padding: 0 var(--s2); }
+@media (max-width: 640px) { .column { float: none; width: 100%; padding: 0; } }
+
+/* .domain does double duty: an inline highlight in running text, and — on /yt/
+   — a full-width notice band as `class="begend domain"`. The radius and inline
+   padding only make sense in the first case. */
+.domain {
+  background: var(--mark-soft);
+  color: var(--fg);
+  padding: 0 .18em;
+  border-radius: 3px;
+}
+.begend.domain {
+  padding: 0;
+  border-radius: 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.book_nav { padding: var(--s3) 0; }
+
+#social { max-width: 100%; }     /* was 50%, which cropped the buttons */
+
+#sharelinks { margin: var(--s4) 0; }
+#sharelinks a { text-decoration: none; }
+#sharelinks h3 { font-size: 1rem; font-weight: 600; margin-bottom: var(--s2); }
+#sharelinks h4 { margin-top: var(--s2); }
+#sharelinks h4 a, #sharelinks p a { color: var(--accent); }
+#social img { border-radius: var(--radius-sm); margin-bottom: var(--s3); }
+
+#prevnext {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s2);
+  margin: var(--s4) 0;
+  overflow: visible;             /* the float clearfix is no longer needed */
+}
+#prevnext a {
+  display: block;
+  float: none;
+  flex: 1 1 45%;
+  width: auto;
+  margin: 0;
+  padding: var(--s2) var(--s3);
+  text-decoration: none;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+}
+#prevnext a:hover { border-color: var(--accent); }
+#prevnext .next { text-align: right; }
+@media (max-width: 640px) {
+  #prevnext a, #prevnext .next { flex: 1 1 100%; text-align: center; }
+}
+
+#related { margin: 0 0 var(--s4) 0; display: flex; flex-direction: column; gap: .15rem; }
+#related h3 {
+  font-size: .82rem; font-weight: 600; letter-spacing: .08em;
+  text-transform: uppercase; color: var(--muted); margin-bottom: var(--s2);
+}
+#related a {
+  display: block; padding: .35rem var(--s3);
+  text-decoration: none; border-radius: 7px; font-size: .95rem;
+}
+#related a:hover { background: var(--accent-soft); }
+
+
+/* ----------------------------------------------------------------------------
+   15. IMAGES AND EMBEDS
+   FIX: the old sheet dimmed every image to 75% opacity in dark mode and only
+   restored it on hover — which never fires on a touch screen, so on a phone
+   the photographs were permanently washed out. Removed.
+   -------------------------------------------------------------------------- */
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  border-radius: var(--radius-sm);
+  margin: var(--s3) 0;
+  /* a ground for the moment before the player paints */
+  background: var(--surface);
+}
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* NEW: podcast posts (/noofficefm-97/) embed a native <audio controls>, which
+   neither stylesheet has ever targeted — so it rendered at the UA default of
+   ~300px, floating in a 700px column. Note that `audio` is deliberately NOT in
+   the img/video/iframe reset above: height:auto collapses the control strip. */
+audio {
+  display: block;
+  width: 100%;
+  margin: var(--s3) 0;
+}
+
+
+/* ----------------------------------------------------------------------------
+   16. SPINNER
+   -------------------------------------------------------------------------- */
+
+@keyframes spinner { to { transform: rotate(360deg); } }
+
+#spinner { width: 200px; padding: 30px; position: absolute; margin: 0 auto; }
+
+.spinner::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 20px;
+  height: 20px;
+  margin: -10px 0 0 -10px;
+  border-radius: 50%;
+  border-top: 2px solid var(--accent);
+  border-right: 2px solid transparent;
+  animation: spinner .6s linear infinite;
+}
+
+
+/* ----------------------------------------------------------------------------
+   17. CODE
+   The Solarized token colours are unchanged — they read on both grounds. Only
+   the container was restyled.
+   -------------------------------------------------------------------------- */
+
+code {
+  font-family: var(--mono);
+  font-size: .88em;
+  background: var(--accent-soft);
+  color: var(--accent);
+  padding: .1em .35em;
+  border-radius: 4px;
+}
+
+.highlight {
+  background: var(--surface);
+  color: var(--fg);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  box-shadow: none;              /* was a 3px hard offset shadow */
+  padding: var(--s3);
+  margin: var(--s4) 0;
+  overflow-x: auto;              /* was overflow:scroll, which showed both bars */
+}
+.highlight code { background: none; color: inherit; padding: 0; }
+/* Jekyll emits <figure class="highlight"><pre><code>; pre's UA margin would
+   otherwise add a gap inside the padded block. */
+.highlight pre { margin: 0; }
+
+.highlight .c,  .highlight .cm, .highlight .c1 { color: #586E75; }
+.highlight .err, .highlight .g, .highlight .l, .highlight .n,
+.highlight .p,  .highlight .ld, .highlight .na, .highlight .nl,
+.highlight .nn, .highlight .py, .highlight .w,
+.highlight .go, .highlight .gp, .highlight .gt, .highlight .sd,
+.highlight .sh { color: #93A1A1; }
+.highlight .k,  .highlight .o,  .highlight .cp, .highlight .cs,
+.highlight .gi, .highlight .kn, .highlight .kp, .highlight .ow { color: #859900; }
+.highlight .x,  .highlight .kc, .highlight .no, .highlight .ni,
+.highlight .ne, .highlight .gh, .highlight .gu, .highlight .se { color: #CB4B16; }
+.highlight .gd, .highlight .m,  .highlight .s,  .highlight .mf,
+.highlight .mh, .highlight .mi, .highlight .mo, .highlight .sc,
+.highlight .s2, .highlight .si, .highlight .sx, .highlight .s1,
+.highlight .ss, .highlight .il { color: #2AA198; }
+.highlight .kd, .highlight .kr, .highlight .nc, .highlight .nd,
+.highlight .nf, .highlight .nt, .highlight .nv, .highlight .bp,
+.highlight .vc, .highlight .vg, .highlight .vi { color: #268BD2; }
+.highlight .gr, .highlight .kt, .highlight .sr { color: #DC322F; }
+.highlight .nb { color: #B58900; }
+.highlight .nx { color: #555; }
+.highlight .ge { color: #93A1A1; font-style: italic; }
+.highlight .gs { color: #93A1A1; font-weight: bold; }
+.highlight .sb { color: #586E75; }
+
+
+/* ----------------------------------------------------------------------------
+   18. PRINT
+   New. Costs nothing and makes a saved essay legible on paper.
+   -------------------------------------------------------------------------- */
+
+@media print {
+  .begend, #searchfield, nav.tags, #prevnext, #related,
+  #sharelinks, .hx, #spinner { display: none !important; }
+
+  body { background: #fff; color: #000; font-size: 11pt; }
+  .entry { max-width: none; padding: 0; }
+  a { color: #000; text-decoration: underline; }
+  .entry a[href^="http"]::after { content: " (" attr(href) ")"; font-size: .8em; }
+  blockquote { border-left: 2px solid #999; }
+  h1, h2, h3 { break-after: avoid; }
+  img { break-inside: avoid; }
+}
