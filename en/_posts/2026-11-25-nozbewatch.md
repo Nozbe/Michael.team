@@ -55,6 +55,7 @@ You have options you've never had before!
 Back in the day, an Apple Watch app was a gimmick. Now these watches are much more powerful and such an app makes a difference. We've added a complication so that you can launch your [Nozbe][n] app directly from your watch face.
 
 ![{{ page.title }} face](/img/nozbewatch-face.jpg)
+*Nozbe app next to my unpublished yet [Prezbe](/prezbe) and [Clipzbe](/clipzbe) apps*
 
 Many thanks to Tom - Nozbe's CTO - for working together with Claude Code and making this app happen. Once he got the basic version ready, I didn't want to take this app off my wrist.
 
