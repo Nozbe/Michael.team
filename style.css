@@ -41,6 +41,15 @@
   --mark:         #b26a00;   /* featured / starred, nothing else               */
   --mark-soft:    #fdf3e3;
 
+  /* Promo band (_includes/ad.html). A third hue is justified here: it is a
+     time-limited sale notice, semantically unlike anything else on the site,
+     and it is removed by flipping `ad` back to false.
+     With no frame, the fill alone has to define the card, so it is pitched
+     harder than a normal surface: 1.60:1 against the page rather than the
+     1.08:1 it had when a border was doing that job. */
+  --promo:        #8f1810;   /* the link — 5.6:1 on the fill below             */
+  --promo-soft:   #f5bdb1;   /* the fill — 1.60:1 against the page             */
+
   /* The hexagon button. --hex-h drives everything: the two triangular caps are
      always 0.375 x the body height, which is the proportion the original
      32pt/12pt pair had, so the shape stays true at any size.
@@ -96,6 +105,9 @@
     --on-accent:   #000000;
     --mark:        #e0a458;
     --mark-soft:   #241d11;
+
+    --promo:       #ffb3a7;   /* 6.6:1 on the fill below */
+    --promo-soft:  #5e2b23;   /* 1.85:1 against the page */
 
     --hex-fg:      #000000;   /* --hex follows --accent, which is light here */
   }
@@ -331,6 +343,7 @@ article > footer { padding: 0 var(--s3) var(--s4); }
   border-bottom: 0;
 }
 
+
 /* CHANGED: .avatar and .topright used to float, held together by the browser's
    goodwill. Three grid cells do it properly and reflow on their own. */
 #top .begender {
@@ -343,7 +356,12 @@ article > footer { padding: 0 var(--s3) var(--s4); }
   grid-template-columns: auto 1fr auto;
   gap: var(--s3);
   align-items: start;
-  padding: var(--s3);
+  /* CHANGED: was var(--s3) (20px) all round. The row height is set by the
+     intro paragraph (96px at four lines), not by the 52px avatar, so 40px of
+     vertical padding was the second-largest thing in a 137px band. 12px takes
+     it to 121px and still leaves the avatar clear of the edges. The paragraph's
+     own 1.55 leading is left alone — it is reading text, not a label. */
+  padding: var(--s2) var(--s3);
 }
 
 #top .begender > p {
@@ -481,7 +499,9 @@ article > footer { padding: 0 var(--s3) var(--s4); }
    nothing but their own padding between them — hence the roomier pills below.
    -------------------------------------------------------------------------- */
 
-#searchfield .begender { padding: var(--s2) var(--s3); }
+/* CHANGED: was var(--s2) (12px) top and bottom. The pills carry their own
+   padding, so that was mostly dead space — 24px of a 63px band. */
+#searchfield .begender { padding: var(--s1) var(--s3); }
 
 #search-container {
   padding: 0;
@@ -498,6 +518,11 @@ article > footer { padding: 0 var(--s3) var(--s4); }
   text-decoration: none;
   color: var(--muted);
   padding: .4rem .75rem;
+  /* CHANGED: the pill inherited body's 1.65 leading, which is right for prose
+     and far too loose for a one-word nav item — 25px of line box around 15px
+     of text. 1.3 takes the pill from 38px to 33px without touching its
+     padding, so it still clears the 24px WCAG minimum comfortably. */
+  line-height: 1.3;
   border-radius: 999px;
 }
 #searchfield a:hover { color: var(--accent); background: var(--accent-soft); }
@@ -546,6 +571,11 @@ textarea:focus { border-color: var(--accent); outline: none; }
 #search-input:focus { border-color: var(--accent); outline: none; }
 
 ::placeholder { color: var(--muted); opacity: 1; }
+
+/* FIX: this <ul> is always in the DOM and empty until SimpleJekyllSearch fills
+   it. The dropdown chrome below (padding + border + background) turned an empty
+   one into a visible 14x14px rounded dot under the nav on every page. */
+#search-results:empty { display: none; }
 
 #search-results {
   position: absolute;
@@ -1034,6 +1064,38 @@ nav.tags a:hover {
   border-radius: 0;
   border-bottom: 1px solid var(--line);
 }
+
+/* NOTE: .begend.promo sits AFTER .begend.domain deliberately. They have equal
+   specificity (two classes each), so if a band ever carries both classes the
+   later rule wins — and promo should. Cleanest is to use only `promo` on the
+   ad; this just makes the overlap harmless. */
+
+/* ---- PROMO BAND ------------------------------------------------------------
+   _includes/ad.html emits a plain .begend, so it renders identically to the nav
+   strip above it — three grey bands in a row, and the one that is supposed to
+   sell something is the least visible. Add `promo` to that div and it becomes a
+   framed card in the content column instead of another full-bleed band.
+
+   No card, no frame: the band itself takes the fill, edge to edge, like the
+   other .begend strips — it is just the only one that is not grey. The grey
+   hairline is dropped too; a neutral line under a coloured band reads as a
+   leftover. Contrast on the fill: link 5.6:1 light / 6.6:1 dark, body text
+   10.9:1 and 9.8:1. */
+
+.begend.promo {
+  background: var(--promo-soft);
+  border-bottom: 0;
+  padding: var(--s3);
+}
+.begend.promo p { color: var(--fg); font-size: 1rem; }
+.begend.promo a {
+  color: var(--promo);
+  font-weight: 680;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: .2em;
+}
+.begend.promo a:hover { text-decoration-thickness: 3px; }
 
 .book_nav { padding: var(--s3) 0; }
 
