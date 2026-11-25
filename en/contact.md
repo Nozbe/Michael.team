@@ -28,6 +28,8 @@ I'm sometimes posting a story on:
 
 I **no longer** post on [Twitter](/twitter).
 
+![{{ page.title }}](/img/{{ page.cover }})
+
 ## [Nozbe][n] questions?
 
 If you have any questions regarding [Nozbe][n] the best way is to either [follow Nozbe on Twitter][tn] and tweet your question or [simply contact our 24/7 email support][support] for a quick answer.

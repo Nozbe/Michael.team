@@ -1,5 +1,6 @@
 ---
 cover: michael.ewelina.18.jpg
+c: 1
 redirect_from:
  - /ja/
  - /kontakt/
@@ -29,6 +30,7 @@ Krótka biografia od wykorzystania:
 
 [Zobacz wywiady ze mną](/pl/gosc)
 
+![{{ page.title }}](/img/{{ page.cover }})
 *Na zdjęciu powyżej wraz z moją żoną Eweliną obchodzimy we Florencji 18 lat naszego małżeństwa*
 
 ## Fotki
@@ -36,6 +38,11 @@ Krótka biografia od wykorzystania:
 Jeśli potrzebujesz moje zdjęcia, wystarczy "zapisać jako" poniższe zdjęcia a ściągną się w wysokiej rozdzielczości:
 
 {% include photos.html %}
+
+## Podcasty
+
+* Co tydzień, przeważnie w piątek o 9:00 rano nagrywam z Wojtkiem i Tomkiem [Nadgryzionych](/pl/nadgryzieni) - jeden z najpopularniejszych podcastów technologicznych w Polsce
+* Co miesiąc nagrywam podcast dla [Nozbe][n] - [Nie Ma Biura](/pl/niemabiura) oraz po angielsku [No Office FM](/noofficefm) o produktywności i pracy zdalnej.
 
 ## Media społecznościowe
 

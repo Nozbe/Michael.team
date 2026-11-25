@@ -14,11 +14,11 @@ redirect_from:
 
 ## Your host - founder and CEO of Nozbe
 
-Hi, I'm [Michael Sliwinski](/){:target='_blank'} and I'm the [founder and CEO](https://michael.gratis/nozbemichael){:target='_blank'} of [Nozbe and Nozbe Teams](https://michael.gratis/nozbe){:target='_blank'} - to-do apps for busy professionals and teams. I'm leading a team of [20+ people who work completely remotely from their "home offices"](https://nozbe.com/about?a=mike){:target='_blank'} and we've been doing this for the last 13+ years now. Nozbe and Nozbe Teams have more than 700K users from all over the world.
+Hi, I'm [Michael Sliwinski](/){:target='_blank'} and I'm the [founder and CEO](https://michael.gratis/nozbemichael){:target='_blank'} of [Nozbe](https://michael.gratis/nozbe){:target='_blank'} - a business to-do app for busy professionals and teams. I'm leading a team of [15 people who work completely remotely from their "home offices"](https://nozbe.com/about?a=mike){:target='_blank'} and we've been doing this for almost two decades now. Nozbe's been serving customers from over 165 countries in the world.
 
 ## I'm on a mission to help small teams do great things!
 
-I'm all about "team productivity" and what it means for me is helping teams work better, in a calmer way, leveraging trust, flexible hours and work from anywhere (remote for life!) and all that with the modern tools and technology of 2020.
+I'm all about "team productivity" and what it means for me is helping teams work better, in a calmer way, leveraging trust, flexible hours and work from anywhere (remote for life!) and all that with the modern tools and technology of the 21st century.
 
 ## Short bio
 
@@ -27,6 +27,9 @@ Here's my short bio:
 > Michael Sliwinski is a productivity enthusiast and entrepreneur. He's the founder of [Nozbe](https://michael.gratis/nozbe){:target='_blank'}, app that since 2007 helps small business owners (and their teams) manage their business and private life. Nozbe is available on any platform (web-based with native apps for the Mac, Windows, Android, iPad and the iPhone + Apple Watch). Michael is passionate about working from anywhere in the world (#NoOffice) and in a mobile way (#iPadOnly). Privately he is a husband and a father of 3 girls.
 
 [Here's my full story](https://michael.team/about/#my-story)
+
+![{{ page.title }}](/img/{{ page.cover }})
+*Me and my wife on our family trip to Japan…*
 
 ## Selfies
 

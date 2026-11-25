@@ -1,10 +1,11 @@
 ---
 cover: michael.team.pl.3k.jpg
+c: 1
 ---
 
 # Michał Śliwiński
 
-> **Pomagam nowoczesnym zespołom i ich liderom osiągać wielkie rzeczy, dzięki pracy w prawdziwie nowatorski sposób. Mniej spotkań, więcej pracy w skupieniu i lepsza organizacja spraw. Niezależnie czy w biurze, w terenie czy zdalnie.**
+> **Dzięki aplikacji [Nozbe](https://michael.gratis/nozbe) pomagam nowoczesnym zespołom i ich liderom się skutecznie zorganizować. Promuję [pracę zdalną](/pl/niemabiura), piszę co miesiąc felieton o produktywności do [iMagazine](/pl/imagazine) a co piątek o 9:00 rano możesz mnie posłuchać na żywo w podkaście technologicznym: [Nadgryzieni](/pl/nadgryzieni)**
 
 ## Moje najnowsze wpisy:
 
