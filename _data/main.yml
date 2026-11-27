@@ -128,6 +128,10 @@ tagsall_es: "Elige un tema"
 tagsallemoji: "⬆️"
 
 tags:
+- name: ai
+  emoj: "🤖"
+  titl: "AI and Agents"
+  tit2: "Stories of me embracing AI technology. My experiments with [AI agents in Nozbe](/agent) and just staying relevant in the Artificial Intelligence era."
 - name: apple
   emoj: "🍎"
   titl: "Apple"
@@ -197,7 +201,7 @@ tags:
   titl: "Journal App"
   tit2: "I've been journaling daily since 2016 in a digital way using Siri Shortcuts (previously Workflows). There are countless benefits to daily journaling - it clears your thoughts, gives you perspective and helps you find focus. In these posts I share my journey as I'm fine-tunning my journaling app based on Apple's Siri Shortcuts. [Start journaling today with the latest Journal 4](/journal4/)."
 - name: lego
-  emoj: "🤖"
+  emoj: "🧩"
   titl: "Lego"
   tit2: "Why as an adult, LEGO blocks are impotrant to me and keep helping me unleash my creativity. Also which LEGO sets I'm getting myself for Christmas every year."
 - name: life
